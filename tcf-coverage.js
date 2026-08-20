@@ -2,5595 +2,2739 @@
 var TCF_COVERAGE = {
  "EE_T1": {
   "set": "EE_T1",
-  "blurb": "EE Task 1 asks you for a 60-120 word message: an invitation, a reply, an opinion, or a short personal report. This pool ranks 265 historical prompts by how much of the exam's likely language each drill covers. The top 30 hit the biggest scenarios repeatedly: introducing yourself for a city magazine, surprise-party invitations, transport info for a friend, replies about a new job or new premises, and opinion pieces on cars, food, advertising, schools, and holidays. Work top-down and you rehearse the exam's most-repeated territory first.",
+  "blurb": "EE T1 is the short personal message, 60 to 120 words, almost always written to a named friend. The top-10 lives in a small world: replying when a friend asks for practical info (gym, transport, hotel, house-sitting), describing a place in your town (favourite spots, market, film festival, roommate ad), or answering a small classified (language-practice partner, city-newspaper self-presentation). Almost every prompt names an ami(e), expects tutoiement, a warm opener, three or four concrete facts, and a friendly sign-off, all inside 120 words.",
   "caps": [
-   "**Hors-sujet = disqualification.** Misreading the situation or writing about the wrong topic scores A1 non atteint regardless of language quality.",
-   "**60-120 words is the hard band.** Dropping below 60 words triggers a mechanical A1-non-atteint. Count as you write, then verify before you submit.",
-   "**Attempt every task fully.** A skipped or half-finished task drags the whole écrite score toward the floor, whatever your language level.",
-   "**Never copy sentences from a source-text verbatim.** Lifting whole phrases from any supplied document triggers A1-non-atteint. Paraphrase everything.",
-   "**Write on the copie, not the brouillon.** On paper sittings, anything left on draft paper is not graded. Transfer to the answer sheet before time is called."
+   "**Off-topic = A1 non atteint.** Read the situation, the audience, and the goal before the first word. Miss any of the three and the grille never applies.",
+   "**Task not completed = A1 non atteint.** Every bullet the prompt names (lieu / prix / horaires / etc.) must land in the message. A missing bullet reads as an unfinished task, not weak language.",
+   "**Word count: 60-120 mots, hard.** Under 60 is a mechanical disqualifier; over 120 wastes time and often breaks coherence. Aim for 90-110 and count.",
+   "**Register control is sociolinguistique-family scoring.** Tutoiement when the prompt names an ami(e); vouvoiement for a service client, an agence immobilière, a journal, or an open témoignage. Wrong register costs points even with clean grammar.",
+   "**Opener + sign-off, always.** A personal email without 'Salut X' and a closing formula reads as an incomplete message act, not a B2 mail.",
+   "**Recycled prompt sentences are dead weight.** T1 does not disqualify for copying the way T3 does, but reused wording lifts no linguistic score and pushes real language out of your 120-word window."
   ],
   "milestones": [
    {
-    "after_rank": 5,
-    "headline": "Templates locked for the biggest scenario",
-    "band": "S_w ≈ 8-10 → NCLC 6",
-    "body": "You've drilled the single most-repeated prompt in the pool (rank 1, city self-introduction, 42 occurrences) plus the surprise-birthday invitation and three argumentative openers on cars, low-cost airlines, and meat. Linguistique credit is banked for vocabulary on lieux, voyage, and nutrition. Pragmatique credit lands for the certes… mais en contrepartie connector move. Language coverage stands at 9.1 percent, so you are built for one exam scenario and a handful of opinion turns, not yet the full exam. But you own the highest-leverage one."
+    "after_rank": 3,
+    "headline": "Reply-to-friend template locked",
+    "band": "S_w ≈ 7-9 → NCLC 6",
+    "body": "Three prompts drilled and you already own roughly 12 percent of the language surface this pool draws from. More importantly, the flagship reply-to-friend template (gym for Laura at rank 2, bike sale at rank 3) plus the self-intro ad (rank 1) are yours. A clean on-topic draft with every bullet covered, opener and sign-off, 90 to 110 words, reads as solid B1 to an examiner. That lands you around 7 to 9 out of 20 on the linguistique family, which maps to NCLC 6. Below target, but the disqualifier zone is behind you."
    },
    {
-    "after_rank": 12,
-    "headline": "Reply-template goes cold",
-    "band": "S_w ≈ 9-11 → NCLC 6-7",
-    "body": "One in five of the exam's likely language is now inside your rehearsal. You own the informational-friendly-reply template in two variants (Lucas on new premises, Mehdi on transport options), plus argumentative moves on vending machines, advertising, colocation, and school inequality. Linguistique lexicon has widened across health, transport, education, and media. Pragmatique credit lands for the greeting / info-blocks / close structure. You are now crossing into the score band that touches NCLC 7 for the first time, with invitations and replies as your safest B2 hits."
+    "after_rank": 8,
+    "headline": "Half the top scenarios covered",
+    "band": "S_w ≈ 10 → NCLC 7 (target floor)",
+    "body": "Eight items in, you have crossed 26 percent of the language coverage curve. You now hold four distinct sub-templates: reply-with-practical-info (Laura, bike, hotel), place-description for a public read (Bienvenue newspaper), classified ad (roommate), and enumerated-list reply (transport for Anna). Combined with the imperative-mode drill coming at rank 9 (house-sitting for Cédric), you can walk into most T1 prompts and produce a B2-legible message. Score around 10, which is exactly the NCLC 7 floor. The target is reachable from here."
    },
    {
-    "after_rank": 25,
-    "headline": "Almost two in five prompts rehearsed",
-    "band": "S_w ≈ 10-12 → NCLC 7-8",
-    "body": "Cumulative language coverage is at 38 percent. The full argumentative debate template is drilled on advertising, video games, low-cost airlines, uniforms, private schools, and work-life balance. Informational replies cover picnic invitations, new-job news, new premises, and city transport. Pragmatique now includes the classic d'une part… d'autre part… enfin tri-argument shape. If your grammar and connector control are steady, you are inside the NCLC 7 corridor. Marginal return per new drill is starting to compress from here."
+    "after_rank": 15,
+    "headline": "Register variety in place",
+    "band": "S_w ≈ 11 → NCLC 7 (mid)",
+    "body": "Fifteen prompts covers 41 percent of the language you might face. Beyond template work, you now have invitation-and-celebration range (surprise-birthday twins at 13 and 15, amusement-park sortie at 14, film festival at 10) and the classified-ad register (Montreal rental at 12, roommate at 7). The pragmatique family (structuration, cohérence) is holding B2 across draws. Score around 11 lands you mid-NCLC-7. From here the marginal coverage per additional drill starts to shrink but does not stop."
    },
    {
-    "after_rank": 60,
-    "headline": "Two in three prompts rehearsed",
-    "band": "S_w ≈ 11-13 → NCLC 7-8",
-    "body": "You have covered roughly 68 percent of the exam's likely language. Every recurring template (invitation, informational reply, opinion piece, personal-decision narrative, testimonial) is rehearsed, and vocabulary banks for youth, environment, transport, education, work, health, and media all overlap. Sociolinguistique benefits from register practice across amical, neutre, and argumentatif tones. This is the point where the marginal return of one more drill turns small. Beyond 60, prioritize output quality (mock timing, grammar review, connector fluency) over adding more prompts."
+    "after_rank": 30,
+    "headline": "Two-thirds coverage, B2 comfortably",
+    "band": "S_w ≈ 12 → NCLC 8 in reach",
+    "body": "Thirty items covers 67 percent of the language surface, meaning two prompts out of three on exam day are near-verbatim variants of something you have drilled. The formal-register outliers (broken-order complaint at 17, Nice agency inquiry at 28, France Télévisions témoignage at 21) close the vous-form gap pure friend-messages leave open. Score around 12, mapping to NCLC 8, is a realistic ceiling from Coverage-Order drilling alone. Past rank 30, the marginal payoff per additional prompt drops sharply."
    }
   ],
   "order": [
    {
     "rank": 1,
     "badge": 1,
-    "why": "The single highest-leverage prompt in this entire 265-item pool. 42 occurrences across 26 different months, from January 2022 through August 2025 — you should walk into the exam expecting to see either this exact prompt or a close variant. The template is a two-move: briefly present yourself, then describe your favorite spots in the city (quartier, marché, café, parc, cinéma as your vocabulary bank). Rehearsing it locks in Linguistique credit for lieu and ambiance lexicon, and Sociolinguistique for a friendly register calibrated to a local paper. The B2 anchor 'clear, detailed descriptions on a wide range of subjects' is directly what the examiners are looking for. Rank 22 asks the same descriptive move for a visitor, so this drill covers two prompts at once.",
-    "cum_pool": 0.8,
-    "cum_lang": 1.0,
+    "why": "A self-intro reply to a language-practice ad, seen across 13 different exam months. Language-practice motivation gives you every functional block T1 asks for: identity, level, why-French, availability. Drill this and you own the 'je m appelle / j habite / je travaille dans / je souhaite pratiquer parce que' chain, which drops almost verbatim into the Bienvenue newspaper self-presentation (rank 6), the country-and-culture reply to Marc (rank 23), and the France Télévisions témoignage (rank 21). The self-presentation register is also the safest place to display connectives (parce que, en effet, c est pourquoi) and controlled subordination that the linguistique family rewards.",
+    "cum_pool": 1.1,
+    "cum_lang": 4.4,
     "floor": ""
    },
    {
     "rank": 2,
     "badge": 2,
-    "why": "Argumentative writing on urban car bans. Four occurrences over 2024-2025 inside a 5-month window, which suggests a topical cluster the examiners kept circling. The source paragraph gives you both sides of the argument fully articulated: less pollution, stress, and bouchons on the one hand, and needed parkings, transport en commun, and autorisations for urgentistes and livreurs on the other. This is Pragmatique gold: the certes… mais en contrepartie connector is exactly the concession work that lifts B1 into B2 ('argued viewpoint giving advantages and disadvantages'). Drilling this also feeds ranks 9 and 26 (Oslo car ban, Toulouse free transport). Same domain, overlapping vocabulary.",
-    "cum_pool": 1.1,
-    "cum_lang": 3.5,
+    "why": "The most-repeated stimulus in the pool: twenty appearances across sixteen different exam months. Examiners keep coming back to 'describe a place with practical info for a friend'. Nail this and you own the four-slot template (lieu, cours et services, prix, horaires) that also fires on the market description (rank 25), the new restaurant (rank 29), your new office premises (rank 24), the wedding venue for Cédric (rank 22), and the film festival (rank 10). Tutoiement, 'Salut Laura', concrete price and address, one personal recommendation. This scenario alone can move you from B1 to B2 on the pragmatique family: coherent structure, clear communicative goal, useful information density.",
+    "cum_pool": 2.3,
+    "cum_lang": 8.2,
     "floor": ""
    },
    {
     "rank": 3,
     "badge": 3,
-    "why": "A personal-decision narrative: 'I've decided to stop flying low-cost.' Four occurrences across six months in 2024. Reasons listed: sièges inconfortables, conditions de travail pénibles, avions vétustes remettant en cause la sécurité. The move is état des lieux plus décision plus alternatives (voiture, train, compagnie régulière pour longs trajets). Highly reusable pattern — the same shape works for any 'I've decided to stop X' prompt. Vocabulary earns Linguistique credit: vétuste, remettre en cause, dès lors, quant à. Pairs directly with rank 23 (the pro-low-cost counter-view), so one content prep session buys you both angles of the airline debate.",
-    "cum_pool": 1.5,
-    "cum_lang": 5.8,
+    "why": "The transactional variant: describe an object, name a price, propose a meeting. Drilling this locks in product-description vocabulary (état, couleur, taille, marque, année) and appointment-fixing constructions (on pourrait se voir, je suis disponible, ça vous convient). Also trains the tricky register question, since the seller does not know the buyer: you decide between tu and vous based on the message tone. The same slot pattern reappears in the Montreal rental ad (rank 12), the roommate ad (rank 7), the Nice real-estate inquiry (rank 28), and the broken-order complaint (rank 17). The polite proposal-to-meet grammar is transferable to any T2 professional message.",
+    "cum_pool": 3.4,
+    "cum_lang": 11.8,
     "floor": ""
    },
    {
     "rank": 4,
     "badge": 4,
-    "why": "Argumentative pro-meat piece: viande as a source of protéines, vitamines B, fer, et zinc. Two occurrences in June-July 2023. The shape is claim plus biological reasoning plus cultural angle plus nuance (élevage éthique et durable). That final concession move is exactly what separates B1 ('brief reasons') from B2 ('argued viewpoint giving advantages and disadvantages'). Only two occurrences so less predictive than the top three, but the argumentative template it teaches transfers to any food-and-health prompt — which recur in the pool at ranks 6, 15, and 27. Treat it as a template drill first, topic drill second.",
-    "cum_pool": 1.9,
-    "cum_lang": 8.4,
+    "why": "Lower month-count but the coverage engine still puts it at rank 4 because it adds three new items in one hit. The 'propose interesting places' prompt trains the recommendation grammar (je te conseille de, tu devrais absolument, il faut que tu visites) and the tourism-vocabulary bundle (site historique, quartier animé, spécialité locale, vue panoramique) you will re-use on Marc s country prompt (rank 23), the new-city update to Léo (rank 30), and the picnic-spot reply to Léa (rank 18). The concise brief also forces 90-plus words without a scripted four-bullet crutch, which is exactly where under-word-count disqualifiers claim victims.",
+    "cum_pool": 6.8,
+    "cum_lang": 13.1,
     "floor": ""
    },
    {
     "rank": 5,
     "badge": 5,
-    "why": "An invitation template with a hard 60-word floor: convier vos amis à une fête d'anniversaire surprise, with lieu, date, heure, and toute information importante required. Seven occurrences across seven months, including four inside the 2025-2026 window — this is a prompt the examiners are actively rotating in right now. The Pragmatique demand is explicit: hit all four required details or lose task-completion credit. Linguistique moves are polite invitation formulas (j'ai le plaisir de…, je compte sur ta présence). Because it's a template task rather than an opinion, you can memorize a scaffold and swap specifics on the day. Fastest B2 hit in the pool.",
-    "cum_pool": 2.6,
-    "cum_lang": 9.1,
+    "why": "Hotel description under the pretext of a service to a friend. Locks in accommodation lexis (chambre, petit-déjeuner inclus, wifi gratuit, à cinq minutes à pied de) and orientation phrases (situé au cœur de, à proximité de). Same four-slot layout as rank 2 (lieu, prix, services, emplacement). Preps you for the Nice agency prompt (rank 28), the wedding venue for Cédric (rank 22), the Montreal rental (rank 12), and the office description (rank 24). The named-friend framing means tutoiement, warm opener, and closing, all sociolinguistique markers examiners check first when they open your paper.",
+    "cum_pool": 8.0,
+    "cum_lang": 17.3,
     "floor": ""
    },
    {
     "rank": 6,
     "badge": 6,
-    "why": "Contra-argument: against installing distributeurs de boissons in lycées, framed by health (obésité infantile, diabète, sucre caché même dans les jus). Four occurrences across 2023 and 2024. The construction is classic B2 Pragmatique: main claim plus specific health mechanism plus counter-anticipation ('même les jus, qui peuvent sembler sains') plus conclusion. That même… peuvent sembler concession move is a high-value grammar structure. Content pairs with rank 27 (fast food) and rank 4 (meat) as your health-debate cluster. Drill this once and you own one health-argument template you can flex to any similar prompt.",
-    "cum_pool": 3.0,
-    "cum_lang": 11.1,
+    "why": "Adds the semi-public register: writing to a local newspaper as a new resident, so a step up from tutoiement. Combines self-intro (who I am, where from) with place-description (favourite spots in town). Trains the exact structure the language-practice ad (rank 1) prepared, plus a places-bundle transferable to the region tour (rank 4), the country reply to Marc (rank 23), and the new-city update to Léo (rank 30). The vous / on register choice here is also a good rehearsal for the France Télévisions témoignage (rank 21) and the Nice agency inquiry at rank 28. Nine appearances across eight months.",
+    "cum_pool": 9.1,
+    "cum_lang": 20.6,
     "floor": ""
    },
    {
     "rank": 7,
     "badge": 7,
-    "why": "Living with parents during studies, advantages framing: économiser le loyer, vêtements propres, plats faits maison, stabilité psychique. One occurrence in 2024-09, so lower predictive weight than the items above, but the youth-independence topic is exam bread and butter and the content feeds into any 'jeunes / logement / famille' prompt. Source text here is grammatically messy — rewrite it into clean French as your drill, and the rewrite itself becomes a Linguistique upgrade exercise (correct the ces vs. ses, chers vs. chère, argents agreement issues). Treat it as a content mine, not a template to memorize verbatim.",
-    "cum_pool": 3.4,
-    "cum_lang": 14.0,
+    "why": "Classified-ad register. Two clearly separate blocks (le logement, then la personne recherchée), each with an explicit bullet list from the prompt. Drilling this locks the housing lexis (superficie, loyer, charges comprises, meublé, lumineux) and the character-adjective set (calme, ordonné, non-fumeur, respectueux). Preps directly the Montreal rental email (rank 12) and the Nice agency inquiry (rank 28). Also useful because the ad addresses an unknown reader, forcing neutral register and third-person self-description, which stretches the linguistique family beyond your comfortable je-plus-ami first-person default. Eleven appearances across eight months.",
+    "cum_pool": 10.2,
+    "cum_lang": 23.5,
     "floor": ""
    },
    {
     "rank": 8,
     "badge": 8,
-    "why": "Informational reply to a colleague: describe the new company locaux, with lieu, disposition des pièces, and équipements as required content blocks. Six occurrences across five months in 2023-2024. This is a professional-register template and earns Sociolinguistique credit for a courrier amical yet informative. Required moves: greeting, three information blocks, closing. Vocabulary bank: locaux, bureau, salle de réunion, espace détente, imprimante, lumineux, spacieux. The same descriptive spatial vocabulary transfers directly to ranks 12, 22, and 29. One drill session, four prompts covered.",
-    "cum_pool": 4.5,
-    "cum_lang": 14.5,
+    "why": "Enumeration prompt: list several transport modes with details for each. Drills list-connective control (d abord, ensuite, sinon, en revanche, par contre) and comparative structures (plus rapide que, moins cher que, le plus pratique). Also trains the 'bus, métro, vélo, trottinette' transport lexis that also lands on the wedding-venue directions for Cédric (rank 22) and the region tour prompt (rank 4). Fourteen appearances across thirteen months means this template must be locked and clean. A four-bullet paragraph plan gets you to 100 words without dead weight, so the discipline it builds transfers to every enumeration-style T1 draw.",
+    "cum_pool": 11.4,
+    "cum_lang": 26.1,
     "floor": ""
    },
    {
     "rank": 9,
     "badge": 9,
-    "why": "The pro side of the urban car-ban debate: Oslo cited as a success story (pollution baisse, accidents diminuent, dépendance au pétrole en baisse, qualité de l'air meilleure). Four occurrences in a 5-month cluster with rank 2, which suggests the examiners were pairing them into full debate prompts. The content is short and highly reusable: name a concrete city, then give three or four benefits in the future tense (diminueront, baissera, sera meilleure). That future-tense argumentative move is a B2 marker. Content-pair with rank 2 for the full pro-contra vocabulary set on this exact topic.",
-    "cum_pool": 4.9,
-    "cum_lang": 16.1,
+    "why": "The imperative-mode drill. This one specifically asks for instructions to a house-sitter (arroser les plantes, sortir les poubelles, nourrir le chat, fermer les volets). Locks the impératif présent (tu-form, no -s on -er verbs), il faut que plus subjonctif, and time markers (tous les deux jours, le soir, avant le week-end). Instruction-giving is a discrete grammatical skill that shows up nowhere else in the top-10, so it moves the linguistique family upward on its own. Also useful preparation for the collective moving-day message at rank 16, which is heavy on tu- or vous-form instructions.",
+    "cum_pool": 12.5,
+    "cum_lang": 28.9,
     "floor": ""
    },
    {
     "rank": 10,
     "badge": 10,
-    "why": "Pro-publicité: 'elle est indispensable pour le commerce.' Two occurrences in June-July 2024. Reasoning cluster: informative function, entertainment value, comparison shopping, free-app funding model. Sociolinguistique detail: the source is signed by Quentin, 28 ans — the register is spoken-informal-but-clean, exactly what you should model for a forum-message reply. Content-pair with rank 17 (Estelle, contra) for the complete debate. Together they cover all typical pro-contra move types you need for any consumption-and-media prompt (TV, streaming, phones). Swap the noun and reuse the moves.",
-    "cum_pool": 5.3,
-    "cum_lang": 18.1,
+    "why": "Invitation plus info bundle. Trains the propositional grammar (est-ce que ça te dit de, ça te tenterait de, on pourrait y aller ensemble) plus the event-info template (films projetés, dates et horaires, tarifs d entrée). Sister template to the surprise-birthday invitations at ranks 13 and 15, the amusement-park sortie at rank 14, the new-restaurant suggestion at rank 29, and the picnic reply at rank 18. Once you can generate the invitation shell in two minutes flat, five prompts in this pool collapse to one workflow. Ten appearances across eight months.",
+    "cum_pool": 13.6,
+    "cum_lang": 31.7,
     "floor": ""
    },
    {
     "rank": 11,
     "badge": 11,
-    "why": "Colocation drawbacks: personality clashes, gestion of tâches ménagères, intimité limited. Four occurrences over spring 2024. The lexical bank is worth memorizing cold: colocataires, mode de vie, tensions, tâches ménagères, espace personnel, cohabitation harmonieuse. The cependant… peut également plus solution frame (communication ouverte plus règles de vie commune) is a strong Pragmatique template. Content pairs with rank 7 (living with parents) for a youth-and-housing cluster. Also transfers to any 'sharing X' prompt (car-sharing, workspace, tools). One drill, wide vocabulary payoff.",
-    "cum_pool": 5.7,
-    "cum_lang": 19.7,
+    "why": "Description-focused prompt: name the clothes you would like as birthday gifts. Drills the clothing-and-colour lexis (taille, couleur, matière, motif, style), the conditional preference (j aimerais recevoir, ça me ferait plaisir de, si possible), and comparative sizing (plutôt cintré, un peu plus large). Narrower topic than earlier ranks, but the conditional-preference structure moves straight into the wedding-invite reply, the picnic-place suggestion at rank 18, the Nice apartment criteria at rank 28, and every prompt where you have to state what you want. Seven appearances across seven months makes it a solid drill despite the tight topic.",
+    "cum_pool": 15.9,
+    "cum_lang": 33.0,
     "floor": ""
    },
    {
     "rank": 12,
     "badge": 12,
-    "why": "Info message to a friend arriving in your city: transport options, tarifs, and abonnements. Two occurrences inside a 2-month window in early 2025. Structural sibling of rank 8 (Lucas / new premises) and rank 22 (places to visit for a friend) — same greeting-blocks-closing shape, different content. Vocabulary bank to fill: métro, bus, tramway, vélo en libre-service, abonnement mensuel, tarif étudiant, ticket unitaire. Every one of these words scores Linguistique credit for 'étendue et maîtrise du lexique.' Pair-drill with rank 8 to lock the informational-reply template once, then swap contents into whichever prompt lands.",
-    "cum_pool": 6.8,
-    "cum_lang": 20.2,
+    "why": "Semi-formal reply to a potential locataire in Montreal. Combines the rank-7 ad vocabulary (superficie, loyer, quartier) with rank-5 transactional politeness (je vous propose, n hésitez pas à me contacter). Register step: vous by default, because the reader is a candidate you do not know. Also feeds forward into the service-client complaint (rank 17), the Nice agency inquiry (rank 28), and any T2 message that opens formal. Locks Montreal-specific district lexis (Plateau, quartier étudiant, Vieux-Port) that examiners quietly reward on the sociolinguistique family for Canada-context prompts.",
+    "cum_pool": 17.0,
+    "cum_lang": 35.8,
     "floor": ""
    },
    {
     "rank": 13,
     "badge": 13,
-    "why": "Argumentative source-doc paragraph on écoles privées and the loss of mixité sociale. Two occurrences in the first half of 2024. Vocabulary hits are dense: milieux sociaux défavorisés, mixité sociale, catégories de population, reproduire les inégalités, renforcer le sentiment d'exclusion. That is B2-plus register lexicon on a topic (education and inequality) that recurs. Content pairs directly with rank 21 (the reputation angle) — same theme, opposite framing. Together they buy you a full education-debate template. Drill the vocabulary; the Sociolinguistique credit for using 'mixité sociale' correctly is real.",
-    "cum_pool": 7.2,
-    "cum_lang": 22.1,
+    "why": "Group invitation with a 'cadeau commun' proposal. Trains the collective-address opener (Chers amis, Salut la bande), the shared-gift proposal grammar (on pourrait tous ensemble, chacun met dix euros), and the event-info bundle (lieu, date, cadeau). Direct precursor to rank 15, which is the near-identical prompt with slightly different bullets, and to rank 16, the group moving-day email. Once you own one collective-address template, three prompts in the top-30 fall together. Five appearances across five months, but the transfer value is where the real payoff sits.",
+    "cum_pool": 19.3,
+    "cum_lang": 37.1,
     "floor": ""
    },
    {
     "rank": 14,
     "badge": 14,
-    "why": "Reply-accept-and-suggest template: accept Léa's picnic invitation, propose a location suited to both children and adults, describe the place, list possible activities. One occurrence in 2025-02. The move sequence is explicit: acceptance, suggestion, description, activities. Same shape as ranks 8, 12, 22, and 29 (informational friendly reply), so drilling one template reduces the cost of all the others. Vocabulary bank: parc, aire de jeux, coin ombragé, jeux de plein air, tables de pique-nique. Sociolinguistique note: informal amical register, tutoiement throughout. Solid template drill for reply-style prompts on exam day.",
-    "cum_pool": 7.9,
-    "cum_lang": 23.2,
+    "why": "Response to a friend s excited question, so an emotional-warmth opener earns sociolinguistique points ('Moi aussi j ai hâte'). Then a tight four-slot description: horaires, transport, billet, activités. Same slot logic as rank 2. Transferable to the film festival (rank 10), the new-restaurant suggestion (rank 29), and the picnic reply (rank 18). Eleven months of occurrence means the pattern sits on the examiners menu regularly. Drilling this cements the ability to open warm, then pivot to informative bullets without a jarring register shift, which is exactly what the pragmatique family looks for on invitation replies.",
+    "cum_pool": 20.5,
+    "cum_lang": 39.2,
     "floor": ""
    },
    {
     "rank": 15,
     "badge": 15,
-    "why": "Support-local-shops article: défi 'Février sans supermarché,' boycott supermarkets for one month, favor épiceries de quartier. Two occurrences in 2024. Vocabulary bank: superpuissance, chiffres d'affaires, produits frais, papoter avec les voisins. The 'non seulement… mais également' construction is a Pragmatique gain, the kind of connector that lifts B1 into B2. Content pairs with rank 27 (fast food) as consumption-and-lifestyle debates. The petit commerce vs. grand commerce template also flexes to Amazon vs. local shops, ebooks vs. bookstores, streaming vs. cinéma. One drill, wide reuse potential.",
-    "cum_pool": 8.3,
-    "cum_lang": 25.0,
+    "why": "Near-duplicate of rank 13 with slightly different bullet phrasing (lieu, date, heure). Ten additional appearances across nine months, so the drill is not wasted redundancy: the two versions bracket what an examiner might send. Same template, one word-count discipline: rank 13 also asks for a gift proposal, this one does not, so you strip that block and expand event-info. Practicing both trains the more important skill, which is reading the prompt bullets before you start writing and covering exactly those bullets, not the ones you memorised. Cheap drill, high insurance against a live bullet swap.",
+    "cum_pool": 21.6,
+    "cum_lang": 41.2,
     "floor": ""
    },
    {
     "rank": 16,
     "badge": 16,
-    "why": "Contra video games: playing violent games raises comportement agressif. Two occurrences in mid-2024. Content pairs directly with rank 24 (positive cognitive effects) — write one, argue the other. Vocabulary bank: comportement agressif, pensées négatives, étude récente, jeux de violence, degré de vigilance des parents. The 'selon [Nom]… ce phénomène est inévitable' quotation move is a B2 Pragmatique gain: citing a source strengthens argumentation. Content template also flexes to smartphones-and-teens, screens-and-attention, and social-media-and-mental-health prompts. One drill, multiple future prompt families covered.",
-    "cum_pool": 8.7,
-    "cum_lang": 26.7,
+    "why": "Rare in the seen-in count but adds two new items to coverage in one prompt, which is why it sits this high. Group instructions in tu-form (arrive à 9h, apporte des cartons, gare-toi devant l immeuble). Combines the imperative drill from rank 9 with the collective-opener from rank 13. Trains logistics vocabulary (déménagement, camionnette, cartons, meubles lourds, ascenseur) not covered elsewhere in the top-30. Even at only two exam appearances, drilling this closes a coverage gap the flagship prompts leave open and buys real insurance against a low-frequency draw on exam day.",
+    "cum_pool": 23.9,
+    "cum_lang": 42.6,
     "floor": ""
    },
    {
     "rank": 17,
     "badge": 17,
-    "why": "Contra-publicité: présente partout, in journaux, radios, télévision, téléphone, and Internet. Two occurrences in 2024. Reasoning cluster: intrusion (émissions coupées), waste (kilos de papier), proposed law-based solution, and a closing conditional wish ('si la publicité était plus discrète, elle serait plus appréciée'). That final imparfait plus conditionnel présent is a B2 grammar marker. Content-pair with rank 10 (Quentin, pro) for the complete advertising debate. Together they teach you both sides of any consumption-and-media argument. Walk in with a memorized both-angle template ready.",
-    "cum_pool": 9.1,
-    "cum_lang": 28.3,
+    "why": "The register outlier. Vous-form to a service clientèle, formal opener (Madame, Monsieur), three-part structure (signaler, décrire, demander), and the polite-demand grammar (je souhaite obtenir, je vous prie de bien vouloir). This is one of only two top-30 prompts requiring full formal register, so it single-handedly trains the sociolinguistique dimension for any formal T1 draw. Also builds the 'product problem' lexis (endommagé, rayé, manquant, remboursement, retour) that overlaps zero with the friend-message majority. High leverage per drill despite only four appearances across four months.",
+    "cum_pool": 25.0,
+    "cum_lang": 45.2,
     "floor": ""
    },
    {
     "rank": 18,
     "badge": 18,
-    "why": "Contra youth summer jobs: 'les adolescents sont déjà sous une énorme pression pendant l'année scolaire.' Two occurrences in June-July 2023. Reasoning: pressure and stress, need for repos, créativité, amis and famille, temps non structuré. That closing move ('être des enfants… le travail peut attendre') is Sociolinguistique credit for a register-appropriate emotional close. Content pairs with rank 25 (work has negative aspects) — both hit the burnout-and-balance vocabulary. Also transfers to any teen-autonomy prompt (studies vs. hobbies, sports pressure, screen time). Solid template for any 'trop de pression sur les jeunes' argument.",
-    "cum_pool": 9.4,
-    "cum_lang": 29.8,
+    "why": "Accept-then-suggest structure. Trains a compact two-move template: acceptance (avec grand plaisir, c est une excellente idée), then place-recommendation with an activities bundle. Combines the invitation-response logic from rank 14 with the place-description slots from rank 2. Only two exam appearances, but slots into the same workflow as ranks 10, 14, 26, and 29. Not a top-priority standalone drill, but a fast confirmation that your invitation-reply template still holds up when the prompt front-loads a suggestion request rather than a bare invitation. Cheap five-minute rehearsal.",
+    "cum_pool": 26.1,
+    "cum_lang": 48.5,
     "floor": ""
    },
    {
     "rank": 19,
     "badge": 19,
-    "why": "First-person volunteer testimony: 'je suis bénévole dans une association qui aide les sans-abris.' Three occurrences in early 2024. This template gives you an entire social-action argument shape: goal plus personal action plus long-term benefit (autonomie). Vocabulary bank: précarité, sans-abris, association caritative, s'investir, bénévole, autonome. That is high-value B2 lexicon on a topic (social solidarity) the examiners keep circling. The 'plus bénéfique à long terme' framing is exactly the argued-viewpoint move B2 rewards. Content flexes to any 'how do we help X' prompt (elderly, refugees, disabled). Compact, versatile drill.",
-    "cum_pool": 9.8,
-    "cum_lang": 31.1,
+    "why": "Second-highest occurrence count in the entire pool, appearing across eighteen exam months. But it sits at rank 19 because it repeats the flagship reply-to-friend register you have already drilled ten prompts earlier. What it uniquely adds: passé composé narration (j ai gagné, j ai marqué, on s est entraînés pendant des mois). This is the only clear narrative prompt in the top-30 and it forces the past-tense concordance examiners target under linguistique. Drill it for the tenses alone, and the personal impact climbs even if the coverage curve says otherwise. High-value tense drill hiding behind a familiar register.",
+    "cum_pool": 27.3,
+    "cum_lang": 49.9,
     "floor": ""
    },
    {
     "rank": 20,
     "badge": 20,
-    "why": "Contra school uniforms: 'étouffe et écrase la personnalité des garçons.' One occurrence in 2024-07, but the topic recurs annually in youth-education pools. Reasoning: identity and expression, clothes as self-presentation, being 'emprisonnés dans l'uniforme.' That personality-and-freedom framing is highly reusable — same shape for any 'restriction on youth' prompt (dress codes, phone bans, screen-time laws). Vocabulary bank: étouffer, écraser la personnalité, s'exprimer à travers l'habillement, se démarquer de la foule. The metaphorical étouffer / écraser verbs are a Linguistique upgrade over the plain empêcher.",
-    "cum_pool": 10.2,
-    "cum_lang": 32.9,
+    "why": "Reply to a 'how is the new job going' message. Four description slots (poste, environnement de travail, collègues, ressentis) plus a light opinion layer (ce que j aime, ce qui est difficile). Trains a work-vocabulary bundle (poste, équipe, responsabilités, ambiance, patron) and personal-opinion grammar (je trouve que, ce que j apprécie le plus, je suis plutôt content). Pairs directly with the university description to Martin (rank 27) and feeds the offices prompt at rank 24. Also introduces the 'feelings' beat many candidates skip and which examiners reward under pragmatique for genuine thematic development.",
+    "cum_pool": 28.4,
+    "cum_lang": 51.8,
     "floor": ""
    },
    {
     "rank": 21,
     "badge": 21,
-    "why": "Neutral-descriptive on private-school success: 'la réputation de ces lieux explique un tel enthousiasme.' Two occurrences in the first half of 2024. Direct content-pair with rank 13 (the inequality angle) — same topic, different frame. Together they buy you a full education-debate template. Vocabulary bank: encadrés, surveillés, classes homogènes, milieux sociaux favorisés, établissements payants. The 'les parents sont aussi rassurés parce que' construction is Pragmatique — connectors that build argumentative flow. Drill it once with rank 13 in the same session and you own the private-school-mixité topic in both directions.",
-    "cum_pool": 10.6,
-    "cum_lang": 34.3,
+    "why": "The semi-public témoignage register. You are writing to a broadcaster, not a friend, so vous-form and a slightly more measured opener. The prompt is open-ended (quelle place occupe le sport dans votre vie), so no bullet crutch: you build your own three-block plan (pratique actuelle, motivations, bénéfices). Trains the abstract-opinion register the friend-messages never touch and provides the 'témoignage' formula transferable to any semi-public T1 draw. Also useful preparation for the Bienvenue newspaper prompt (rank 6) with an inverted subject (sport instead of self-presentation). Eight appearances across eight months, all sociolinguistique work.",
+    "cum_pool": 29.5,
+    "cum_lang": 53.6,
     "floor": ""
    },
    {
     "rank": 22,
     "badge": 22,
-    "why": "Informational-friendly-reply template: propose 'quelques lieux intéressants à découvrir' in your region for a visiting friend. Four occurrences across 2025-2026, a fresh cluster the examiners are actively rotating in. Structural sibling of rank 1 (city self-intro plus favorite places), rank 8 (new premises), and rank 12 (transport info) — same greeting-blocks-closing shape. Vocabulary bank: région, patrimoine, ville historique, plage, sentier de randonnée, restaurant traditionnel, marché local. Every rank 1 vocabulary word transfers here. If you've drilled rank 1 cold, this one costs you almost nothing extra. Content-pair them for a double-hit.",
-    "cum_pool": 11.7,
-    "cum_lang": 34.6,
+    "why": "High occurrence count (fifteen appearances across fourteen months) but sits at rank 22 because the template overlaps heavily with earlier place-description drills. What it adds: a formal-event context (mariage) with a specific venue name, plus explicit 'moyens de transport pour s y rendre', a directions bundle you may not have drilled in ranks 2 or 5. Locks the 'en voiture depuis Paris, en train jusqu à Nemours, puis Uber' sequence and the 'compte environ 20 minutes' duration grammar. Reinforcement more than new territory, but fifteen exam months worth of reinforcement is not negligible for a candidate cramming under time pressure.",
+    "cum_pool": 30.7,
+    "cum_lang": 55.1,
     "floor": ""
    },
    {
     "rank": 23,
     "badge": 23,
-    "why": "Pro low-cost airlines view: 'les compagnies Low-cost mettent à disposition des prix inférieurs.' Five occurrences across 2024, one of the more-repeated opinion pieces in the pool. Direct content-pair with rank 3 (contra) — write one, argue the other. Reasoning cluster: prix plus comparaison avec voiture et train plus nuance (pas de service à bord, pas fait pour long courrier). That 'je dirais donc que… n'est surtout pas fait pour…' conclusion is a B2 concession-based finish. Vocabulary bank: bas prix, tarifs, hic, vols long courrier, compagnies régulières. One session with rank 3 covers the full airline debate.",
-    "cum_pool": 12.1,
-    "cum_lang": 35.6,
+    "why": "Culture-and-country prompt: monuments, lieux touristiques, gastronomie, festivals. Trains the country-scale place lexis (au nord du pays, la capitale, la région de) and the cultural-marker vocabulary (traditions, plats typiques, fêtes nationales, langue officielle) not touched by city-scale prompts. Also asks for one clear pride-of-place beat transferable to the Bienvenue prompt (rank 6), the France Télévisions témoignage (rank 21), and the new-city Léo update (rank 30). A good stretch drill for candidates whose city-vocabulary is fluent but whose national-culture register still runs thin. Five appearances across five months.",
+    "cum_pool": 31.8,
+    "cum_lang": 57.2,
     "floor": ""
    },
    {
     "rank": 24,
     "badge": 24,
-    "why": "Pro-jeux-vidéo: cognitive benefits, 'améliorer plusieurs fonctions cognitives.' Two occurrences in mid-2024. Direct content-pair with rank 16 (contra) — both sides of the video-games debate covered in one prep session. Vocabulary bank: fonctions cognitives, concentration, réaction, capacité d'analyser, jeux de stratégie. The 'ceci peut paraître évident, dans la mesure où' construction is a B2 Pragmatique gain, a sophisticated argument-development connector. Content flexes to any 'X n'est pas que négatif' prompt (social media, screens, urban living). Drill it with rank 16 for the complete video-games debate template.",
-    "cum_pool": 12.5,
-    "cum_lang": 36.9,
+    "why": "Semi-professional register: describing your company s new locaux to a friend. Combines rank-2 s place-description slots (emplacement, aménagement, équipements) with a mild work-context register. Trains office-and-workspace lexis (open space, salles de réunion, cuisine commune, parking, accès handicapé) and orientation-grammar (au dernier étage, en face de, à proximité de). Feeds directly into the new-job reply to Ali (rank 20) and any T2 professional message. Fourteen exam months means examiners reach for this pattern regularly, so the drill is not optional even at rank 24. Solid vocabulary payoff, low template novelty.",
+    "cum_pool": 33.0,
+    "cum_lang": 58.6,
     "floor": ""
    },
    {
     "rank": 25,
     "badge": 25,
-    "why": "Contra current work-forms: stress, horaires rigides, déséquilibre between vie professionnelle and vie privée, épuisement professionnel, formes aliénantes. One occurrence in 2023-06, but the burnout-and-balance topic is exam-perennial. Vocabulary bank runs B2-heavy: déséquilibre, épuisement, aliénantes, impliqués, valorisés, expérience équilibrée. The 'il est donc essentiel de repenser' closing is a B2 rhetorical move: problem statement plus call to reflection. Content-pair with rank 18 for the stress-and-rest cluster. Also flexes to télétravail, semaine de 4 jours, or retraite anticipée prompts.",
-    "cum_pool": 12.8,
-    "cum_lang": 38.5,
+    "why": "Neighbourhood-market reply to Bernard. Same four-slot template as rank 2 (lieu, horaires, produits, ambiance). Adds a specific vocabulary bundle (marché couvert, primeur, poissonnier, produits locaux, bio, à petit prix). Value at this rank sits in the vocabulary layer, not template novelty. If ranks 2 and 25 both feel automatic, examiners have nowhere left to trip you on the 'friend asks about a place' pattern that dominates the top of this pool. Eleven appearances across eight months. Cheap consolidation drill that lets you focus purely on lexical range rather than structure planning.",
+    "cum_pool": 34.1,
+    "cum_lang": 60.1,
     "floor": ""
    },
    {
     "rank": 26,
     "badge": 26,
-    "why": "Contra free public transport in Toulouse: cost, competing priority (réaménager les espaces verts first), reorganize rather than free-ify, and respect-if-paid framing. One occurrence in 2024-09. Argumentative structure is textbook B2: 'd'une part… d'autre part… enfin' — three ordered arguments with proper connectors, exactly the Pragmatique tri-argument shape examiners reward. Vocabulary bank: réaménager, espaces verts, transports publics, titre de transport, quartiers éloignés. Content overlaps ranks 2 and 9 (urban transport debates). Drill for the d'une part… shape alone — Pragmatique gold-standard structure.",
-    "cum_pool": 13.2,
-    "cum_lang": 40.1,
+    "why": "Suggest a park or terrace to Barbara for an outdoor lunch. Combines the invitation-response opener from rank 14 with the place-description slots from rank 2, and adds an ambiance layer (calme, ensoleillé, familial, animé) that pushes the descriptive-adjective range examiners reward under linguistique. Slots into the same workflow as ranks 10, 14, 18, and 29. Drilling any one of these five prompts trains the others; drilling this specific one adds outdoor-atmosphere vocabulary the indoor-venue prompts do not touch. Ten appearances across eight months.",
+    "cum_pool": 35.2,
+    "cum_lang": 61.5,
     "floor": ""
    },
    {
     "rank": 27,
     "badge": 27,
-    "why": "Contra fast food: santé (calories, hamburgers, boissons sucrées) plus environnement (déchets plastiques). One occurrence in 2024-07. Content pairs with ranks 6 (vending machines), 4 (meat), and 15 (supermarché) as the food-and-health cluster. Vocabulary bank: restauration rapide, calories, emballés dans du plastique, déchets plastiques, nuisible pour l'environnement. The 'les spécialistes affirment que' opening is a B2 Pragmatique move — citing authority strengthens claims. The 'par conséquent' connector is a clean B2 marker. Drill it in one session with rank 6 for a food-and-health double-hit.",
-    "cum_pool": 13.6,
-    "cum_lang": 41.6,
+    "why": "Reply to 'comment est ta nouvelle université' with three slots (professeurs, étudiants, activités) plus a ressentis beat. Structural twin of rank 20 (new job for Ali). Trains university-and-student lexis (campus, amphi, cours magistraux, TD, associations étudiantes, bibliothèque, cafétéria) not covered elsewhere. Also drills the same personal-opinion grammar as rank 20, so the two prompts co-reinforce. If you have drilled rank 20 clean, this one becomes a short delta drill on vocabulary rather than a fresh template. Six appearances across six months, comfortable payoff for low effort.",
+    "cum_pool": 36.4,
+    "cum_lang": 63.1,
     "floor": ""
    },
    {
     "rank": 28,
     "badge": 28,
-    "why": "Reply to a friend about your new job: décrire poste, environnement de travail, personnes avec qui vous travaillez, ressentis. 11 occurrences across 7 months, from 2023-11 through 2025-12 — one of the most persistent recurring prompts in the entire pool, the examiners return to it repeatedly. Structural sibling of ranks 8, 12, 14, 22, and 29 (informational-friendly-reply template). Vocabulary bank: poste, entreprise, ambiance, collègues, chef, ressentis, épanouissant, m'adapter, formations. Sociolinguistique: tutoiement, register amical. Rehearse the four-block outline once cold and this prompt becomes a fill-in-the-blanks task on the day.",
-    "cum_pool": 14.0,
-    "cum_lang": 42.3,
+    "why": "Semi-formal request to a real-estate agency in Nice. Vous-form, structured criteria list (superficie, prix, localisation, nombre de chambres, extras). Combines the formal-register drill from rank 17 (service client) with the housing lexis from rank 7 (roommate) and rank 12 (Montreal rental). Rare in exam months (only three), but locks the 'inquiry to a professional service' template transferable to any T2 professional message. Low-frequency, high-transfer. Worth the twenty minutes if only to lock the 'je vous serais reconnaissant de bien vouloir m envoyer' polite-request formula.",
+    "cum_pool": 37.5,
+    "cum_lang": 64.9,
     "floor": ""
    },
    {
     "rank": 29,
     "badge": 29,
-    "why": "Organize a weekend with proches next month: expliquer plan, décrire lieu, moyen de transport, activités prévues. Four occurrences in 2026, a fresh recent cluster. Structural sibling of rank 14 (picnic invitation) and rank 5 (surprise birthday) — event-planning message template. Vocabulary bank: week-end, gîte, chalet, camping, covoiturage, randonnée, baignade, barbecue, jeux de société. The lieu / transport / activités checklist is Pragmatique — hit all three or lose task-completion credit. Sociolinguistique: informal, enthusiastic, tutoiement. Drill it with ranks 5 and 14 for the full event-planning template set.",
-    "cum_pool": 14.7,
-    "cum_lang": 42.7,
+    "why": "Suggest going to a new neighbourhood restaurant with a friend. Four-slot description (cuisine proposée, tarifs, ambiance, décoration) plus the invitation opener from rank 14. Sister prompt to ranks 10, 14, 18, and 26. Adds restaurant-and-food lexis (carte, plat du jour, formule, terrasse, cadre, service) that overlaps only partially with the market vocabulary at rank 25. Comfortable drill once the invitation template is automatic; low friction, decent vocabulary payoff. Six appearances across six months. At this depth the payoff is defensive: covering variants of what you already own.",
+    "cum_pool": 38.6,
+    "cum_lang": 66.3,
     "floor": ""
    },
    {
     "rank": 30,
     "badge": 30,
-    "why": "Reply to a bike-buying classified ad: présenter votre vélo, proposer votre prix, fixer un moment pour l'essai. Six occurrences across three years (2023-12 through 2026-05), a steady recurring template. Vocabulary bank: vélo, VTT, vélo de ville, état, cadre, freins, prix ferme, à débattre, essai, rendez-vous. Sociolinguistique: transactional message register — polite, direct, closing with contact modalities. Structural cousin to rank 8 (describe plus propose). You are leaving the top-priority cluster with this one, and marginal return per drill is smaller from here, but a recurring transactional template still buys you specific-context Linguistique that generic reply templates don't.",
-    "cum_pool": 15.1,
-    "cum_lang": 43.4,
+    "why": "Send news to a friend after moving to a new city. Four blocks (appartement, quartier, ville, activités découvertes). High occurrence count for its rank (thirteen appearances across ten months) but the coverage engine puts it at 30 because it recycles the description templates already drilled at ranks 2, 5, 7, 12, 20, 24, and 27. What it uniquely adds: the 'news update' register combining self-report with place description, plus the 'activités découvertes' beat asking for concrete recent discoveries. Solid consolidation drill at the end of the top-30, past which the marginal coverage payoff per additional item flattens noticeably.",
+    "cum_pool": 39.8,
+    "cum_lang": 67.2,
     "floor": ""
    },
    {
     "rank": 31,
     "badge": 31,
     "why": "Rank 31 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 15.5,
-    "cum_lang": 44.7,
+    "cum_pool": 40.9,
+    "cum_lang": 68.6,
     "floor": ""
    },
    {
     "rank": 32,
     "badge": 32,
     "why": "Rank 32 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 15.8,
-    "cum_lang": 46.0,
+    "cum_pool": 42.0,
+    "cum_lang": 70.0,
     "floor": ""
    },
    {
     "rank": 33,
     "badge": 33,
     "why": "Rank 33 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 16.2,
-    "cum_lang": 47.0,
+    "cum_pool": 43.2,
+    "cum_lang": 70.9,
     "floor": ""
    },
    {
     "rank": 34,
     "badge": 34,
     "why": "Rank 34 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 16.6,
-    "cum_lang": 48.3,
+    "cum_pool": 44.3,
+    "cum_lang": 71.6,
     "floor": ""
    },
    {
     "rank": 35,
     "badge": 35,
     "why": "Rank 35 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 17.0,
-    "cum_lang": 49.5,
+    "cum_pool": 45.5,
+    "cum_lang": 73.6,
     "floor": ""
    },
    {
     "rank": 36,
     "badge": 36,
     "why": "Rank 36 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 17.4,
-    "cum_lang": 50.3,
+    "cum_pool": 46.6,
+    "cum_lang": 75.6,
     "floor": ""
    },
    {
     "rank": 37,
     "badge": 37,
     "why": "Rank 37 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 17.7,
-    "cum_lang": 50.9,
+    "cum_pool": 47.7,
+    "cum_lang": 76.3,
     "floor": ""
    },
    {
     "rank": 38,
     "badge": 38,
     "why": "Rank 38 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 18.1,
-    "cum_lang": 52.0,
+    "cum_pool": 48.9,
+    "cum_lang": 77.4,
     "floor": ""
    },
    {
     "rank": 39,
     "badge": 39,
     "why": "Rank 39 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 18.5,
-    "cum_lang": 53.2,
+    "cum_pool": 50.0,
+    "cum_lang": 78.5,
     "floor": ""
    },
    {
     "rank": 40,
     "badge": 40,
     "why": "Rank 40 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 18.9,
-    "cum_lang": 54.4,
+    "cum_pool": 51.1,
+    "cum_lang": 79.2,
     "floor": ""
    },
    {
     "rank": 41,
     "badge": 41,
-    "why": "Rank 41 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 19.6,
-    "cum_lang": 54.8,
+    "why": "Rank 41 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 52.3,
+    "cum_lang": 80.3,
     "floor": ""
    },
    {
     "rank": 42,
     "badge": 42,
-    "why": "Rank 42 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 20.4,
-    "cum_lang": 55.1,
+    "why": "Rank 42 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 53.4,
+    "cum_lang": 81.6,
     "floor": ""
    },
    {
     "rank": 43,
     "badge": 43,
     "why": "Rank 43 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 20.8,
-    "cum_lang": 56.2,
+    "cum_pool": 54.5,
+    "cum_lang": 82.2,
     "floor": ""
    },
    {
     "rank": 44,
     "badge": 44,
     "why": "Rank 44 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 21.1,
-    "cum_lang": 56.7,
+    "cum_pool": 55.7,
+    "cum_lang": 82.9,
     "floor": ""
    },
    {
     "rank": 45,
     "badge": 45,
     "why": "Rank 45 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 21.5,
-    "cum_lang": 57.3,
+    "cum_pool": 56.8,
+    "cum_lang": 84.4,
     "floor": ""
    },
    {
     "rank": 46,
     "badge": 46,
     "why": "Rank 46 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 21.9,
-    "cum_lang": 58.4,
+    "cum_pool": 58.0,
+    "cum_lang": 85.0,
     "floor": ""
    },
    {
     "rank": 47,
     "badge": 47,
     "why": "Rank 47 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 22.3,
-    "cum_lang": 59.0,
+    "cum_pool": 59.1,
+    "cum_lang": 85.6,
     "floor": ""
    },
    {
     "rank": 48,
     "badge": 48,
     "why": "Rank 48 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 22.6,
-    "cum_lang": 59.7,
+    "cum_pool": 60.2,
+    "cum_lang": 86.0,
     "floor": ""
    },
    {
     "rank": 49,
     "badge": 49,
     "why": "Rank 49 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 23.0,
-    "cum_lang": 60.2,
+    "cum_pool": 61.4,
+    "cum_lang": 86.9,
     "floor": ""
    },
    {
     "rank": 50,
     "badge": 50,
     "why": "Rank 50 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 23.4,
-    "cum_lang": 61.1,
+    "cum_pool": 62.5,
+    "cum_lang": 87.3,
     "floor": ""
    },
    {
     "rank": 51,
     "badge": 51,
     "why": "Rank 51 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 23.8,
-    "cum_lang": 62.1,
+    "cum_pool": 63.6,
+    "cum_lang": 87.8,
     "floor": ""
    },
    {
     "rank": 52,
     "badge": 52,
-    "why": "Rank 52 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 24.5,
-    "cum_lang": 62.4,
+    "why": "Rank 52 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 64.8,
+    "cum_lang": 88.4,
     "floor": ""
    },
    {
     "rank": 53,
     "badge": 53,
     "why": "Rank 53 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 24.9,
-    "cum_lang": 63.1,
+    "cum_pool": 65.9,
+    "cum_lang": 88.7,
     "floor": ""
    },
    {
     "rank": 54,
     "badge": 54,
     "why": "Rank 54 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.3,
-    "cum_lang": 63.5,
+    "cum_pool": 67.0,
+    "cum_lang": 89.4,
     "floor": ""
    },
    {
     "rank": 55,
     "badge": 55,
     "why": "Rank 55 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.7,
-    "cum_lang": 64.4,
+    "cum_pool": 68.2,
+    "cum_lang": 90.0,
     "floor": ""
    },
    {
     "rank": 56,
     "badge": 56,
     "why": "Rank 56 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.0,
-    "cum_lang": 65.0,
+    "cum_pool": 69.3,
+    "cum_lang": 90.4,
     "floor": ""
    },
    {
     "rank": 57,
     "badge": 57,
     "why": "Rank 57 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.4,
-    "cum_lang": 65.9,
+    "cum_pool": 70.5,
+    "cum_lang": 90.5,
     "floor": ""
    },
    {
     "rank": 58,
     "badge": 58,
     "why": "Rank 58 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.8,
-    "cum_lang": 66.4,
+    "cum_pool": 71.6,
+    "cum_lang": 91.1,
     "floor": ""
    },
    {
     "rank": 59,
     "badge": 59,
     "why": "Rank 59 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.2,
-    "cum_lang": 67.2,
+    "cum_pool": 72.7,
+    "cum_lang": 91.5,
     "floor": ""
    },
    {
     "rank": 60,
     "badge": 60,
     "why": "Rank 60 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.5,
-    "cum_lang": 67.7,
+    "cum_pool": 73.9,
+    "cum_lang": 91.7,
     "floor": ""
    },
    {
     "rank": 61,
     "badge": 61,
     "why": "Rank 61 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.9,
-    "cum_lang": 68.5,
+    "cum_pool": 75.0,
+    "cum_lang": 92.4,
     "floor": ""
    },
    {
     "rank": 62,
     "badge": 62,
     "why": "Rank 62 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.3,
-    "cum_lang": 68.7,
+    "cum_pool": 76.1,
+    "cum_lang": 93.2,
     "floor": ""
    },
    {
     "rank": 63,
     "badge": 63,
     "why": "Rank 63 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.7,
-    "cum_lang": 69.2,
+    "cum_pool": 77.3,
+    "cum_lang": 93.3,
     "floor": ""
    },
    {
     "rank": 64,
     "badge": 64,
     "why": "Rank 64 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 29.1,
-    "cum_lang": 69.8,
+    "cum_pool": 78.4,
+    "cum_lang": 93.5,
     "floor": ""
    },
    {
     "rank": 65,
     "badge": 65,
     "why": "Rank 65 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 29.4,
-    "cum_lang": 70.6,
+    "cum_pool": 79.5,
+    "cum_lang": 94.1,
     "floor": ""
    },
    {
     "rank": 66,
     "badge": 66,
     "why": "Rank 66 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 29.8,
-    "cum_lang": 71.3,
+    "cum_pool": 80.7,
+    "cum_lang": 94.6,
     "floor": ""
    },
    {
     "rank": 67,
     "badge": 67,
     "why": "Rank 67 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.2,
-    "cum_lang": 71.7,
+    "cum_pool": 81.8,
+    "cum_lang": 95.2,
     "floor": ""
    },
    {
     "rank": 68,
     "badge": 68,
     "why": "Rank 68 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.6,
-    "cum_lang": 72.1,
+    "cum_pool": 83.0,
+    "cum_lang": 95.6,
     "floor": ""
    },
    {
     "rank": 69,
     "badge": 69,
     "why": "Rank 69 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.9,
-    "cum_lang": 72.5,
+    "cum_pool": 84.1,
+    "cum_lang": 95.8,
     "floor": ""
    },
    {
     "rank": 70,
     "badge": 70,
     "why": "Rank 70 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.3,
-    "cum_lang": 72.9,
+    "cum_pool": 85.2,
+    "cum_lang": 95.9,
     "floor": ""
    },
    {
     "rank": 71,
     "badge": 71,
     "why": "Rank 71 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.7,
-    "cum_lang": 73.5,
+    "cum_pool": 86.4,
+    "cum_lang": 96.3,
     "floor": ""
    },
    {
     "rank": 72,
     "badge": 72,
     "why": "Rank 72 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.1,
-    "cum_lang": 73.9,
+    "cum_pool": 87.5,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 73,
     "badge": 73,
     "why": "Rank 73 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.5,
-    "cum_lang": 74.5,
+    "cum_pool": 88.6,
+    "cum_lang": 97.0,
     "floor": ""
    },
    {
     "rank": 74,
     "badge": 74,
-    "why": "Rank 74 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 33.2,
-    "cum_lang": 74.8,
+    "why": "Rank 74 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 89.8,
+    "cum_lang": 97.4,
     "floor": ""
    },
    {
     "rank": 75,
     "badge": 75,
     "why": "Rank 75 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.6,
-    "cum_lang": 75.4,
+    "cum_pool": 90.9,
+    "cum_lang": 97.8,
     "floor": ""
    },
    {
     "rank": 76,
     "badge": 76,
-    "why": "Rank 76 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 34.3,
-    "cum_lang": 75.5,
+    "why": "Rank 76 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 92.0,
+    "cum_lang": 98.0,
     "floor": ""
    },
    {
     "rank": 77,
     "badge": 77,
     "why": "Rank 77 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 34.7,
-    "cum_lang": 76.0,
+    "cum_pool": 93.2,
+    "cum_lang": 98.2,
     "floor": ""
    },
    {
     "rank": 78,
     "badge": 78,
     "why": "Rank 78 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 35.1,
-    "cum_lang": 76.5,
+    "cum_pool": 94.3,
+    "cum_lang": 98.2,
     "floor": ""
    },
    {
     "rank": 79,
     "badge": 79,
-    "why": "Rank 79 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 35.8,
-    "cum_lang": 76.7,
+    "why": "Rank 79 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 95.5,
+    "cum_lang": 98.3,
     "floor": ""
    },
    {
     "rank": 80,
     "badge": 80,
     "why": "Rank 80 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.2,
-    "cum_lang": 77.1,
+    "cum_pool": 96.6,
+    "cum_lang": 98.5,
     "floor": ""
    },
    {
     "rank": 81,
     "badge": 81,
     "why": "Rank 81 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.6,
-    "cum_lang": 77.4,
+    "cum_pool": 97.7,
+    "cum_lang": 98.7,
     "floor": ""
    },
    {
     "rank": 82,
     "badge": 82,
     "why": "Rank 82 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.0,
-    "cum_lang": 77.7,
+    "cum_pool": 98.9,
+    "cum_lang": 98.7,
     "floor": ""
    },
    {
     "rank": 83,
     "badge": 83,
     "why": "Rank 83 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.4,
-    "cum_lang": 78.2,
+    "cum_pool": 100.0,
+    "cum_lang": 98.7,
     "floor": ""
    },
    {
     "rank": 84,
     "badge": 84,
-    "why": "Rank 84 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.7,
-    "cum_lang": 78.5,
+    "why": "Rank 84 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 98.7,
     "floor": ""
    },
    {
     "rank": 85,
     "badge": 85,
-    "why": "Rank 85 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.1,
-    "cum_lang": 79.0,
+    "why": "Rank 85 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 98.9,
     "floor": ""
    },
    {
     "rank": 86,
     "badge": 86,
-    "why": "Rank 86 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.5,
-    "cum_lang": 79.4,
+    "why": "Rank 86 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.1,
     "floor": ""
    },
    {
     "rank": 87,
     "badge": 87,
-    "why": "Rank 87 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.9,
-    "cum_lang": 79.8,
+    "why": "Rank 87 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.3,
     "floor": ""
    },
    {
     "rank": 88,
     "badge": 88,
-    "why": "Rank 88 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.2,
-    "cum_lang": 80.2,
-    "floor": ""
-   },
-   {
-    "rank": 89,
-    "badge": 89,
-    "why": "Rank 89 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.6,
-    "cum_lang": 80.7,
-    "floor": ""
-   },
-   {
-    "rank": 90,
-    "badge": 90,
-    "why": "Rank 90 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.0,
-    "cum_lang": 81.0,
-    "floor": ""
-   },
-   {
-    "rank": 91,
-    "badge": 91,
-    "why": "Rank 91 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.4,
-    "cum_lang": 81.5,
-    "floor": ""
-   },
-   {
-    "rank": 92,
-    "badge": 92,
-    "why": "Rank 92 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.8,
-    "cum_lang": 81.7,
-    "floor": ""
-   },
-   {
-    "rank": 93,
-    "badge": 93,
-    "why": "Rank 93 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.1,
-    "cum_lang": 82.1,
-    "floor": ""
-   },
-   {
-    "rank": 94,
-    "badge": 94,
-    "why": "Rank 94 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.5,
-    "cum_lang": 82.6,
-    "floor": ""
-   },
-   {
-    "rank": 95,
-    "badge": 95,
-    "why": "Rank 95 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.9,
-    "cum_lang": 83.0,
-    "floor": ""
-   },
-   {
-    "rank": 96,
-    "badge": 96,
-    "why": "Rank 96 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.3,
-    "cum_lang": 83.4,
-    "floor": ""
-   },
-   {
-    "rank": 97,
-    "badge": 97,
-    "why": "Rank 97 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.6,
-    "cum_lang": 83.8,
-    "floor": ""
-   },
-   {
-    "rank": 98,
-    "badge": 98,
-    "why": "Rank 98 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.0,
-    "cum_lang": 84.0,
-    "floor": ""
-   },
-   {
-    "rank": 99,
-    "badge": 99,
-    "why": "Rank 99 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.4,
-    "cum_lang": 84.3,
-    "floor": ""
-   },
-   {
-    "rank": 100,
-    "badge": 100,
-    "why": "Rank 100 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.8,
-    "cum_lang": 84.5,
-    "floor": ""
-   },
-   {
-    "rank": 101,
-    "badge": 101,
-    "why": "Rank 101 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.2,
-    "cum_lang": 84.8,
-    "floor": ""
-   },
-   {
-    "rank": 102,
-    "badge": 102,
-    "why": "Rank 102 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.5,
-    "cum_lang": 85.1,
-    "floor": ""
-   },
-   {
-    "rank": 103,
-    "badge": 103,
-    "why": "Rank 103 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.9,
-    "cum_lang": 85.3,
-    "floor": ""
-   },
-   {
-    "rank": 104,
-    "badge": 104,
-    "why": "Rank 104 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.3,
-    "cum_lang": 85.6,
-    "floor": ""
-   },
-   {
-    "rank": 105,
-    "badge": 105,
-    "why": "Rank 105 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.7,
-    "cum_lang": 85.8,
-    "floor": ""
-   },
-   {
-    "rank": 106,
-    "badge": 106,
-    "why": "Rank 106 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.0,
-    "cum_lang": 86.1,
-    "floor": ""
-   },
-   {
-    "rank": 107,
-    "badge": 107,
-    "why": "Rank 107 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.4,
-    "cum_lang": 86.5,
-    "floor": ""
-   },
-   {
-    "rank": 108,
-    "badge": 108,
-    "why": "Rank 108 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.8,
-    "cum_lang": 86.8,
-    "floor": ""
-   },
-   {
-    "rank": 109,
-    "badge": 109,
-    "why": "Rank 109 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.2,
-    "cum_lang": 87.1,
-    "floor": ""
-   },
-   {
-    "rank": 110,
-    "badge": 110,
-    "why": "Rank 110 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.5,
-    "cum_lang": 87.4,
-    "floor": ""
-   },
-   {
-    "rank": 111,
-    "badge": 111,
-    "why": "Rank 111 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.9,
-    "cum_lang": 87.6,
-    "floor": ""
-   },
-   {
-    "rank": 112,
-    "badge": 112,
-    "why": "Rank 112 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.3,
-    "cum_lang": 87.8,
-    "floor": ""
-   },
-   {
-    "rank": 113,
-    "badge": 113,
-    "why": "Rank 113 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.7,
-    "cum_lang": 88.1,
-    "floor": ""
-   },
-   {
-    "rank": 114,
-    "badge": 114,
-    "why": "Rank 114 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.1,
-    "cum_lang": 88.4,
-    "floor": ""
-   },
-   {
-    "rank": 115,
-    "badge": 115,
-    "why": "Rank 115 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.4,
-    "cum_lang": 88.5,
-    "floor": ""
-   },
-   {
-    "rank": 116,
-    "badge": 116,
-    "why": "Rank 116 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.8,
-    "cum_lang": 88.8,
-    "floor": ""
-   },
-   {
-    "rank": 117,
-    "badge": 117,
-    "why": "Rank 117 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.2,
-    "cum_lang": 89.0,
-    "floor": ""
-   },
-   {
-    "rank": 118,
-    "badge": 118,
-    "why": "Rank 118 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.6,
-    "cum_lang": 89.2,
-    "floor": ""
-   },
-   {
-    "rank": 119,
-    "badge": 119,
-    "why": "Rank 119 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.9,
-    "cum_lang": 89.3,
-    "floor": ""
-   },
-   {
-    "rank": 120,
-    "badge": 120,
-    "why": "Rank 120 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.3,
-    "cum_lang": 89.5,
-    "floor": ""
-   },
-   {
-    "rank": 121,
-    "badge": 121,
-    "why": "Rank 121 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.7,
-    "cum_lang": 89.6,
-    "floor": ""
-   },
-   {
-    "rank": 122,
-    "badge": 122,
-    "why": "Rank 122 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.1,
-    "cum_lang": 89.8,
-    "floor": ""
-   },
-   {
-    "rank": 123,
-    "badge": 123,
-    "why": "Rank 123 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.5,
-    "cum_lang": 90.0,
-    "floor": ""
-   },
-   {
-    "rank": 124,
-    "badge": 124,
-    "why": "Rank 124 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.8,
-    "cum_lang": 90.2,
-    "floor": ""
-   },
-   {
-    "rank": 125,
-    "badge": 125,
-    "why": "Rank 125 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.2,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 126,
-    "badge": 126,
-    "why": "Rank 126 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.6,
-    "cum_lang": 90.6,
-    "floor": ""
-   },
-   {
-    "rank": 127,
-    "badge": 127,
-    "why": "Rank 127 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.0,
-    "cum_lang": 90.8,
-    "floor": ""
-   },
-   {
-    "rank": 128,
-    "badge": 128,
-    "why": "Rank 128 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.3,
-    "cum_lang": 91.0,
-    "floor": ""
-   },
-   {
-    "rank": 129,
-    "badge": 129,
-    "why": "Rank 129 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.7,
-    "cum_lang": 91.2,
-    "floor": ""
-   },
-   {
-    "rank": 130,
-    "badge": 130,
-    "why": "Rank 130 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.1,
-    "cum_lang": 91.4,
-    "floor": ""
-   },
-   {
-    "rank": 131,
-    "badge": 131,
-    "why": "Rank 131 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.5,
-    "cum_lang": 91.5,
-    "floor": ""
-   },
-   {
-    "rank": 132,
-    "badge": 132,
-    "why": "Rank 132 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.8,
-    "cum_lang": 91.7,
-    "floor": ""
-   },
-   {
-    "rank": 133,
-    "badge": 133,
-    "why": "Rank 133 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.2,
-    "cum_lang": 91.9,
-    "floor": ""
-   },
-   {
-    "rank": 134,
-    "badge": 134,
-    "why": "Rank 134 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.6,
-    "cum_lang": 92.0,
-    "floor": ""
-   },
-   {
-    "rank": 135,
-    "badge": 135,
-    "why": "Rank 135 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.0,
-    "cum_lang": 92.1,
-    "floor": ""
-   },
-   {
-    "rank": 136,
-    "badge": 136,
-    "why": "Rank 136 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.4,
-    "cum_lang": 92.2,
-    "floor": ""
-   },
-   {
-    "rank": 137,
-    "badge": 137,
-    "why": "Rank 137 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.7,
-    "cum_lang": 92.3,
-    "floor": ""
-   },
-   {
-    "rank": 138,
-    "badge": 138,
-    "why": "Rank 138 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.1,
-    "cum_lang": 92.5,
-    "floor": ""
-   },
-   {
-    "rank": 139,
-    "badge": 139,
-    "why": "Rank 139 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.5,
-    "cum_lang": 92.6,
-    "floor": ""
-   },
-   {
-    "rank": 140,
-    "badge": 140,
-    "why": "Rank 140 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.9,
-    "cum_lang": 92.8,
-    "floor": ""
-   },
-   {
-    "rank": 141,
-    "badge": 141,
-    "why": "Rank 141 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.2,
-    "cum_lang": 93.0,
-    "floor": ""
-   },
-   {
-    "rank": 142,
-    "badge": 142,
-    "why": "Rank 142 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.6,
-    "cum_lang": 93.2,
-    "floor": ""
-   },
-   {
-    "rank": 143,
-    "badge": 143,
-    "why": "Rank 143 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.0,
-    "cum_lang": 93.3,
-    "floor": ""
-   },
-   {
-    "rank": 144,
-    "badge": 144,
-    "why": "Rank 144 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.4,
-    "cum_lang": 93.5,
-    "floor": ""
-   },
-   {
-    "rank": 145,
-    "badge": 145,
-    "why": "Rank 145 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.8,
-    "cum_lang": 93.7,
-    "floor": ""
-   },
-   {
-    "rank": 146,
-    "badge": 146,
-    "why": "Rank 146 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.1,
-    "cum_lang": 93.9,
-    "floor": ""
-   },
-   {
-    "rank": 147,
-    "badge": 147,
-    "why": "Rank 147 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.5,
-    "cum_lang": 93.9,
-    "floor": ""
-   },
-   {
-    "rank": 148,
-    "badge": 148,
-    "why": "Rank 148 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.9,
-    "cum_lang": 94.1,
-    "floor": ""
-   },
-   {
-    "rank": 149,
-    "badge": 149,
-    "why": "Rank 149 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.3,
-    "cum_lang": 94.2,
-    "floor": ""
-   },
-   {
-    "rank": 150,
-    "badge": 150,
-    "why": "Rank 150 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.6,
-    "cum_lang": 94.3,
-    "floor": ""
-   },
-   {
-    "rank": 151,
-    "badge": 151,
-    "why": "Rank 151 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.0,
-    "cum_lang": 94.4,
-    "floor": ""
-   },
-   {
-    "rank": 152,
-    "badge": 152,
-    "why": "Rank 152 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.4,
-    "cum_lang": 94.6,
-    "floor": ""
-   },
-   {
-    "rank": 153,
-    "badge": 153,
-    "why": "Rank 153 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.8,
-    "cum_lang": 94.6,
-    "floor": ""
-   },
-   {
-    "rank": 154,
-    "badge": 154,
-    "why": "Rank 154 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.2,
-    "cum_lang": 94.7,
-    "floor": ""
-   },
-   {
-    "rank": 155,
-    "badge": 155,
-    "why": "Rank 155 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.5,
-    "cum_lang": 94.7,
-    "floor": ""
-   },
-   {
-    "rank": 156,
-    "badge": 156,
-    "why": "Rank 156 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.9,
-    "cum_lang": 94.9,
-    "floor": ""
-   },
-   {
-    "rank": 157,
-    "badge": 157,
-    "why": "Rank 157 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.3,
-    "cum_lang": 95.0,
-    "floor": ""
-   },
-   {
-    "rank": 158,
-    "badge": 158,
-    "why": "Rank 158 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.7,
-    "cum_lang": 95.0,
-    "floor": ""
-   },
-   {
-    "rank": 159,
-    "badge": 159,
-    "why": "Rank 159 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.0,
-    "cum_lang": 95.1,
-    "floor": ""
-   },
-   {
-    "rank": 160,
-    "badge": 160,
-    "why": "Rank 160 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.4,
-    "cum_lang": 95.2,
-    "floor": ""
-   },
-   {
-    "rank": 161,
-    "badge": 161,
-    "why": "Rank 161 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.8,
-    "cum_lang": 95.2,
-    "floor": ""
-   },
-   {
-    "rank": 162,
-    "badge": 162,
-    "why": "Rank 162 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.2,
-    "cum_lang": 95.3,
-    "floor": ""
-   },
-   {
-    "rank": 163,
-    "badge": 163,
-    "why": "Rank 163 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.5,
-    "cum_lang": 95.3,
-    "floor": ""
-   },
-   {
-    "rank": 164,
-    "badge": 164,
-    "why": "Rank 164 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.9,
-    "cum_lang": 95.4,
-    "floor": ""
-   },
-   {
-    "rank": 165,
-    "badge": 165,
-    "why": "Rank 165 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.3,
-    "cum_lang": 95.4,
-    "floor": ""
-   },
-   {
-    "rank": 166,
-    "badge": 166,
-    "why": "Rank 166 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.7,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 167,
-    "badge": 167,
-    "why": "Rank 167 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.1,
-    "cum_lang": 95.6,
-    "floor": ""
-   },
-   {
-    "rank": 168,
-    "badge": 168,
-    "why": "Rank 168 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.4,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 169,
-    "badge": 169,
-    "why": "Rank 169 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.8,
-    "cum_lang": 95.8,
-    "floor": ""
-   },
-   {
-    "rank": 170,
-    "badge": 170,
-    "why": "Rank 170 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.2,
-    "cum_lang": 96.0,
-    "floor": ""
-   },
-   {
-    "rank": 171,
-    "badge": 171,
-    "why": "Rank 171 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.6,
-    "cum_lang": 96.1,
-    "floor": ""
-   },
-   {
-    "rank": 172,
-    "badge": 172,
-    "why": "Rank 172 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.9,
-    "cum_lang": 96.2,
-    "floor": ""
-   },
-   {
-    "rank": 173,
-    "badge": 173,
-    "why": "Rank 173 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.3,
-    "cum_lang": 96.3,
-    "floor": ""
-   },
-   {
-    "rank": 174,
-    "badge": 174,
-    "why": "Rank 174 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.7,
-    "cum_lang": 96.4,
-    "floor": ""
-   },
-   {
-    "rank": 175,
-    "badge": 175,
-    "why": "Rank 175 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.1,
-    "cum_lang": 96.5,
-    "floor": ""
-   },
-   {
-    "rank": 176,
-    "badge": 176,
-    "why": "Rank 176 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.5,
-    "cum_lang": 96.7,
-    "floor": ""
-   },
-   {
-    "rank": 177,
-    "badge": 177,
-    "why": "Rank 177 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.8,
-    "cum_lang": 96.8,
-    "floor": ""
-   },
-   {
-    "rank": 178,
-    "badge": 178,
-    "why": "Rank 178 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.2,
-    "cum_lang": 96.9,
-    "floor": ""
-   },
-   {
-    "rank": 179,
-    "badge": 179,
-    "why": "Rank 179 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.6,
-    "cum_lang": 97.0,
-    "floor": ""
-   },
-   {
-    "rank": 180,
-    "badge": 180,
-    "why": "Rank 180 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 74.3,
-    "cum_lang": 97.0,
-    "floor": ""
-   },
-   {
-    "rank": 181,
-    "badge": 181,
-    "why": "Rank 181 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.7,
-    "cum_lang": 97.1,
-    "floor": ""
-   },
-   {
-    "rank": 182,
-    "badge": 182,
-    "why": "Rank 182 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.1,
-    "cum_lang": 97.1,
-    "floor": ""
-   },
-   {
-    "rank": 183,
-    "badge": 183,
-    "why": "Rank 183 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.5,
-    "cum_lang": 97.2,
-    "floor": ""
-   },
-   {
-    "rank": 184,
-    "badge": 184,
-    "why": "Rank 184 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.8,
-    "cum_lang": 97.2,
-    "floor": ""
-   },
-   {
-    "rank": 185,
-    "badge": 185,
-    "why": "Rank 185 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.2,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 186,
-    "badge": 186,
-    "why": "Rank 186 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.6,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 187,
-    "badge": 187,
-    "why": "Rank 187 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 188,
-    "badge": 188,
-    "why": "Rank 188 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.4,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 189,
-    "badge": 189,
-    "why": "Rank 189 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.7,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 190,
-    "badge": 190,
-    "why": "Rank 190 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.1,
-    "cum_lang": 97.6,
-    "floor": ""
-   },
-   {
-    "rank": 191,
-    "badge": 191,
-    "why": "Rank 191 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.5,
-    "cum_lang": 97.6,
-    "floor": ""
-   },
-   {
-    "rank": 192,
-    "badge": 192,
-    "why": "Rank 192 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.9,
-    "cum_lang": 97.7,
-    "floor": ""
-   },
-   {
-    "rank": 193,
-    "badge": 193,
-    "why": "Rank 193 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.2,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 194,
-    "badge": 194,
-    "why": "Rank 194 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.6,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 195,
-    "badge": 195,
-    "why": "Rank 195 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.0,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 196,
-    "badge": 196,
-    "why": "Rank 196 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.4,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 197,
-    "badge": 197,
-    "why": "Rank 197 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.8,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 198,
-    "badge": 198,
-    "why": "Rank 198 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.1,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 199,
-    "badge": 199,
-    "why": "Rank 199 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.5,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 200,
-    "badge": 200,
-    "why": "Rank 200 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.9,
-    "cum_lang": 98.0,
-    "floor": ""
-   },
-   {
-    "rank": 201,
-    "badge": 201,
-    "why": "Rank 201 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.3,
-    "cum_lang": 98.0,
-    "floor": ""
-   },
-   {
-    "rank": 202,
-    "badge": 202,
-    "why": "Rank 202 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.6,
-    "cum_lang": 98.1,
-    "floor": ""
-   },
-   {
-    "rank": 203,
-    "badge": 203,
-    "why": "Rank 203 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.0,
-    "cum_lang": 98.2,
-    "floor": ""
-   },
-   {
-    "rank": 204,
-    "badge": 204,
-    "why": "Rank 204 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.4,
-    "cum_lang": 98.2,
-    "floor": ""
-   },
-   {
-    "rank": 205,
-    "badge": 205,
-    "why": "Rank 205 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.8,
-    "cum_lang": 98.3,
-    "floor": ""
-   },
-   {
-    "rank": 206,
-    "badge": 206,
-    "why": "Rank 206 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.2,
-    "cum_lang": 98.3,
-    "floor": ""
-   },
-   {
-    "rank": 207,
-    "badge": 207,
-    "why": "Rank 207 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.5,
-    "cum_lang": 98.4,
-    "floor": ""
-   },
-   {
-    "rank": 208,
-    "badge": 208,
-    "why": "Rank 208 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.9,
-    "cum_lang": 98.4,
-    "floor": ""
-   },
-   {
-    "rank": 209,
-    "badge": 209,
-    "why": "Rank 209 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.3,
-    "cum_lang": 98.5,
-    "floor": ""
-   },
-   {
-    "rank": 210,
-    "badge": 210,
-    "why": "Rank 210 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.7,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 211,
-    "badge": 211,
-    "why": "Rank 211 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 212,
-    "badge": 212,
-    "why": "Rank 212 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.4,
-    "cum_lang": 98.7,
-    "floor": ""
-   },
-   {
-    "rank": 213,
-    "badge": 213,
-    "why": "Rank 213 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.8,
-    "cum_lang": 98.7,
-    "floor": ""
-   },
-   {
-    "rank": 214,
-    "badge": 214,
-    "why": "Rank 214 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.2,
-    "cum_lang": 98.8,
-    "floor": ""
-   },
-   {
-    "rank": 215,
-    "badge": 215,
-    "why": "Rank 215 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.5,
-    "cum_lang": 98.9,
-    "floor": ""
-   },
-   {
-    "rank": 216,
-    "badge": 216,
-    "why": "Rank 216 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.9,
-    "cum_lang": 98.9,
-    "floor": ""
-   },
-   {
-    "rank": 217,
-    "badge": 217,
-    "why": "Rank 217 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.3,
-    "cum_lang": 99.0,
-    "floor": ""
-   },
-   {
-    "rank": 218,
-    "badge": 218,
-    "why": "Rank 218 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.7,
-    "cum_lang": 99.0,
-    "floor": ""
-   },
-   {
-    "rank": 219,
-    "badge": 219,
-    "why": "Rank 219 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.1,
-    "cum_lang": 99.1,
-    "floor": ""
-   },
-   {
-    "rank": 220,
-    "badge": 220,
-    "why": "Rank 220 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.4,
-    "cum_lang": 99.1,
-    "floor": ""
-   },
-   {
-    "rank": 221,
-    "badge": 221,
-    "why": "Rank 221 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.8,
-    "cum_lang": 99.2,
-    "floor": ""
-   },
-   {
-    "rank": 222,
-    "badge": 222,
-    "why": "Rank 222 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.2,
-    "cum_lang": 99.3,
-    "floor": ""
-   },
-   {
-    "rank": 223,
-    "badge": 223,
-    "why": "Rank 223 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.6,
-    "cum_lang": 99.3,
-    "floor": ""
-   },
-   {
-    "rank": 224,
-    "badge": 224,
-    "why": "Rank 224 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.9,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 225,
-    "badge": 225,
-    "why": "Rank 225 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.3,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 226,
-    "badge": 226,
-    "why": "Rank 226 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.7,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 227,
-    "badge": 227,
-    "why": "Rank 227 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.1,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 228,
-    "badge": 228,
-    "why": "Rank 228 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.5,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 229,
-    "badge": 229,
-    "why": "Rank 229 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.8,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 230,
-    "badge": 230,
-    "why": "Rank 230 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.2,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 231,
-    "badge": 231,
-    "why": "Rank 231 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.6,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 232,
-    "badge": 232,
-    "why": "Rank 232 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.0,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 233,
-    "badge": 233,
-    "why": "Rank 233 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.3,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 234,
-    "badge": 234,
-    "why": "Rank 234 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.7,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 235,
-    "badge": 235,
-    "why": "Rank 235 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.1,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 236,
-    "badge": 236,
-    "why": "Rank 236 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.5,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 237,
-    "badge": 237,
-    "why": "Rank 237 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.8,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 238,
-    "badge": 238,
-    "why": "Rank 238 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.2,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 239,
-    "badge": 239,
-    "why": "Rank 239 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.6,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 240,
-    "badge": 240,
-    "why": "Rank 240 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.0,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 241,
-    "badge": 241,
-    "why": "Rank 241 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.4,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 242,
-    "badge": 242,
-    "why": "Rank 242 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.7,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 243,
-    "badge": 243,
-    "why": "Rank 243 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.1,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 244,
-    "badge": 244,
-    "why": "Rank 244 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.5,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 245,
-    "badge": 245,
-    "why": "Rank 245 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.9,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 246,
-    "badge": 246,
-    "why": "Rank 246 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.2,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 247,
-    "badge": 247,
-    "why": "Rank 247 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.6,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 248,
-    "badge": 248,
-    "why": "Rank 248 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 249,
-    "badge": 249,
-    "why": "Rank 249 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 250,
-    "badge": 250,
-    "why": "Rank 250 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 251,
-    "badge": 251,
-    "why": "Rank 251 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 252,
-    "badge": 252,
-    "why": "Rank 252 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.5,
-    "floor": ""
-   },
-   {
-    "rank": 253,
-    "badge": 253,
-    "why": "Rank 253 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.5,
-    "floor": ""
-   },
-   {
-    "rank": 254,
-    "badge": 254,
-    "why": "Rank 254 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.5,
-    "floor": ""
-   },
-   {
-    "rank": 255,
-    "badge": 255,
-    "why": "Rank 255 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.5,
-    "floor": ""
-   },
-   {
-    "rank": 256,
-    "badge": 256,
-    "why": "Rank 256 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.5,
-    "floor": ""
-   },
-   {
-    "rank": 257,
-    "badge": 257,
-    "why": "Rank 257 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "why": "Rank 88 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.6,
-    "floor": ""
-   },
-   {
-    "rank": 258,
-    "badge": 258,
-    "why": "Rank 258 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.7,
-    "floor": ""
-   },
-   {
-    "rank": 259,
-    "badge": 259,
-    "why": "Rank 259 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.7,
-    "floor": ""
-   },
-   {
-    "rank": 260,
-    "badge": 260,
-    "why": "Rank 260 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 261,
-    "badge": 261,
-    "why": "Rank 261 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 262,
-    "badge": 262,
-    "why": "Rank 262 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 263,
-    "badge": 263,
-    "why": "Rank 263 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 264,
-    "badge": 264,
-    "why": "Rank 264 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 265,
-    "badge": 265,
-    "why": "Rank 265 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
     "floor": ""
    }
   ]
  },
  "EE_T2": {
   "set": "EE_T2",
-  "blurb": "This pool is TCF Canada Écrite Tâche 2: a 120–150 word blog post, forum reply, or short opinion piece in semi-formal register. Prompts cluster into three families that recycle relentlessly — forum-reply on a life-change or study-abroad post, event-narrative with opinion (open day, festival, environmental action, vacation, cuisine contest), and argued opinion (youth work, social-media detox, tout quitter pour voyager). Drilling top-down covers the most-recycled families first, so each rank cleared buys measurably more of what the exam has actually asked.",
+  "blurb": "Écrite Task 2 in ee_t2 is your 120-150 word blog, forum, or public-site post. The pool clusters around personal-experience narratives with an evaluative hinge: you attended a fitness class, a culinary competition, a book fair, a car-free week. You reply to Alice on studying abroad, to Paul and Naïma on quitting Paris for a Calgary bakery, to Aaron and Perla on visiting your country. You react to community initiatives, life-change proposals, travel memories, and cultural habits. Register is semi-formal, warm, argued.",
   "caps": [
-   "**Stay inside 120–150 words** — under 120 or over 150 triggers the mechanical word-count disqualifier and voids every linguistic rating you would have earned.",
-   "**Address the consigne as written** — a beautifully argued off-topic response scores A1 non atteint. Read every clause of the prompt (audience, format, sub-questions) before you draft.",
-   "**Do not copy sentences from the stimulus text** — reformulate any quoted opinion or forum post in your own words; verbatim borrowing from a supplied source is an automatic disqualifier.",
-   "**Write your final version on the answer sheet, not the brouillon** — anything left on the draft sheet is not evaluated. Reserve five minutes at the end to copy cleanly.",
-   "**Handwriting must be legible to a stranger** — illegible answers are treated as not-produced. Slow your pen enough that each letter reads on the first pass."
+   "**Off-topic** responses are marked A1 non atteint regardless of language quality. Re-read the prompt and confirm the exact task and audience before you start.",
+   "**Task not attempted or not completed** is A1 non atteint. Always finish the piece, even if the closing feels rushed.",
+   "**Word count 120-150.** Under 120 triggers the mechanical shortfall disqualifier. Over 150 wastes time and risks an unfinished sentence.",
+   "**No verbatim copying** from any source snippet the prompt supplies (forum post, ad, letter). Paraphrase every element you re-use.",
+   "**Register control matters.** Match tu/vous to the addressee named in the prompt; a friend forum is not a formal complaint. Mismatch costs sociolinguistique marks."
   ],
   "milestones": [
    {
-    "after_rank": 5,
-    "headline": "Forum-reply spine locked",
-    "band": "Écrite score ≈ 8 → NCLC 6",
-    "body": "Five prompts drilled, 13.6% of the pool's language-month history covered. Together they train one structural spine: personal-experience narrative or opinion in reply to a forum stimulus. With that spine in hand you can produce a coherent 120–150 word response on any adjacent prompt without freezing. Linguistique is still leaning on rehearsed phrases and cohesion breaks outside the memorized skeletons. Expect an examiner to read a solid B1 with occasional B2 flashes — enough to hold NCLC 6 across all three écrite tasks."
+    "after_rank": 3,
+    "headline": "Three templates, three registers under control",
+    "band": "Score ≈ 8 → NCLC 6",
+    "body": "With ranks 1-3 in muscle memory, you have three distinct registers under control: formal proposal (music-school venue), peer forum reply (Alice's study-abroad thread), and public-site cultural article (eating habits). That's roughly 14% of examiner-month appearances covered from three prompts. You are not at NCLC 7 yet, but you own the skeletons that carry the next twelve ranks. Grammatical range is still narrow; focus your next drills on past-tense narration and connector diversity."
    },
    {
-    "after_rank": 12,
-    "headline": "Three sub-formats live: opinion, event, info-message",
-    "band": "Écrite score ≈ 10–11 → NCLC 7 (floor)",
-    "body": "A quarter of the pool's past-month language history is covered. You now hold templates for all three T2 sub-formats: argued opinion (ranks 3+7 debate pair, rank 8), event-narrative-plus-evaluation (ranks 4, 6, 11), and informational message (rank 9). Register adéquation is starting to settle — blog, forum, and courriel each have a rehearsed skeleton. On any prompt you recognize, Tâche 2 alone should now clear B2. If Tâches 1 and 3 hold at B1+, the overall écrite lands at the NCLC 7 floor."
+    "after_rank": 8,
+    "headline": "Core task families locked in",
+    "band": "Score ≈ 9 → NCLC 6",
+    "body": "Eight templates now cover roughly 31% of examiner-month appearances. You own the transactional email, the peer-forum lived-experience reply, the cultural-description article, the event-review, the friend-recommendation, the opinion-on-life-change, the memorable-trip narrative, and the community-initiative testimonial. Grammatical range should include the conditional (si + imparfait) and evaluative connectors. If your output reads as clear plus detailed plus argued per the B2 written descriptor, you are one push from NCLC 7."
    },
    {
-    "after_rank": 25,
-    "headline": "Two-fifths of past prompt-months explicitly drilled",
-    "band": "Écrite score ≈ 11 → NCLC 7 (comfortable)",
-    "body": "Two out of every five past-session prompts are structures you have rehearsed. The remaining prompts are adjacent variants; swap the lexical field and your template holds. Linguistique widens: working vocabulary for lifestyle, travel, environment, culture, work, and community life. Pragmatique consolidates: connective phrases, three-part structuration, argued-opinion closing move. Your Tâche 2 should now sit inside the B2 band on most exam days, and the écrite total moves off the NCLC 7 floor into the middle of the band."
+    "after_rank": 15,
+    "headline": "NCLC 7 floor reached on breadth alone",
+    "band": "Score ≈ 10-11 → NCLC 7",
+    "body": "Fifteen prompts cover roughly 46% of examiner-month appearances. Templates fan out across all four major subclusters in this pool: transactional email, peer testimonial, cultural narrative, and event review. Linguistique credit comes from vocabulary breadth accumulated across food, sport, environment, migration, culture, and admiration. Pragmatique credit comes from the reusable thesis-support-reflection scaffold you have drilled six or seven times. Guard against A1 disqualifiers on every mock and this band is realistic."
    },
    {
-    "after_rank": 60,
-    "headline": "Deep cache: 70% of past prompt-months anticipated",
-    "band": "Écrite score ≈ 12–13 → NCLC 8",
-    "body": "Seventy percent of the pool's language history is covered. On exam day the prompt is very likely a variant of something already drilled. Cognitive budget shifts from planning to execution: you spend the fifteen minutes lifting lexical precision, connecteurs, and register nuance rather than searching for structure. This is where linguistique and pragmatique both saturate at B2, and C1 flashes start landing on the page. That is NCLC 8 territory — upper B2, one full step above your September floor target."
+    "after_rank": 30,
+    "headline": "Comfortable NCLC 7 with margin toward NCLC 8",
+    "band": "Score ≈ 11-12 → NCLC 7-8",
+    "body": "Thirty prompts cover roughly 67% of examiner-month appearances, comfortable NCLC 7 territory with real margin toward NCLC 8. At this point your remaining risk is not template gaps but execution: register misalignment on the semi-formal blog voice, word-count overshoot, or a rushed A1 disqualifier moment. Marginal returns past rank 30 shrink because every remaining item covers only about 1% of pool weight. Lock in what you own before chasing the long tail."
    }
   ],
   "order": [
    {
     "rank": 1,
     "badge": 1,
-    "why": "Ranked first because this single appearance covers two language-history variants outright and primes the closely related Niema-and-Pau variant at rank 26. Together they anchor the highest-yield template of the whole pool: read a life-change forum post, respond with opinion plus how you would react in a similar situation. You practise the changement-de-vie lexical field (repartir à zéro, abandonner, se lancer, ouvrir une, quitter la ville), the hypothetical si-plus-conditional structure, and the semi-formal salut / personnellement / à votre place register. Own this template and rank 26 falls with almost no extra work, plus every future variant that dresses the same premise in new names or a new city.",
-    "cum_pool": 1.0,
-    "cum_lang": 3.8,
+    "why": "The Louviers music-school venue proposal is the single highest-leverage prompt in this pool. Fourteen distinct months of examiner returns and sixteen total appearances mean this scenario is not going away. Drilling it teaches you the semi-formal reply that names concrete criteria (tarif, capacité, services, ambiance) with justification connectors: puisque, étant donné que, c'est pourquoi. That gives direct pragmatique-family credit for structuration and thematic development. It also builds your template for every 'you found X, now write back to the person who asked' prompt in the pool: school outings, venue searches, commissioned recommendations. Nail this one and half the pool's transactional-email variants stop feeling unfamiliar.",
+    "cum_pool": 1.2,
+    "cum_lang": 5.2,
     "floor": ""
    },
    {
     "rank": 2,
     "badge": 2,
-    "why": "Two appearances (2025-09, 2026-03), and it is the master template of the whole 'describe an inspiring person' family — which includes rank 19 (n=14, votre artiste préféré) and several tail variants. Semi-formal blog register, third-person portrait, présent + passé composé narrative of achievements, argumentative link (parce que, grâce à, c'est pourquoi) between actions and inspiration. The lexical range you build here — personality traits, professional achievements, moral qualities, verbs of admiration and influence — is exactly what linguistique rewards at B2. Cover it once and roughly one blog-portrait prompt in every seven becomes template-ready before you even see it.",
-    "cum_pool": 3.1,
-    "cum_lang": 5.1,
+    "why": "Alice's study-abroad forum request is second because it appears in thirteen distinct months and cues you toward the pool's most repeated register: peer forum reply on lived experience. Drilling it earns you fluid past-tense narration (passé composé and imparfait alternation), evaluative vocabulary like enrichissant, dépaysant, exigeant, and the personal-opinion connectors that carry pragmatique marks. It sets up rank 12 (moving abroad, first impressions) and rank 25 (discovering a new city) because they share the same describe-plus-evaluate-plus-justify spine. Master the shape here and you write those two in the same session with only surface swaps of theme and detail.",
+    "cum_pool": 2.4,
+    "cum_lang": 9.8,
     "floor": ""
    },
    {
     "rank": 3,
     "badge": 3,
-    "why": "The pool's most-repeated argued-opinion stimulus with three appearances in 2024. The single language item it covers accounts for a 4.9pp jump in past-month coverage, which is why it sits so high with only n=3. Structurally this is a 'contre' position on youth summer work, quoted as a stimulus for you to react to, and it pairs directly with rank 7 (the 'pour' position on the same topic). Drilling it teaches you to build a semi-formal argumentative response: thesis, two developed reasons, brief concession, restated stance. That structuration is exactly what pragmatique rewards at B2. Rehearse both sides and any 'youth / school / free-time' opinion prompt has a rehearsed skeleton waiting.",
-    "cum_pool": 3.6,
-    "cum_lang": 10.0,
+    "why": "Eating habits in your country is a cultural-description prompt with eight examiner returns across eight distinct months. It rewards concrete lexical range on food (ingrédients, plats typiques, horaires de repas, convivialité) and the aimer-plus-déplaire evaluation axis the prompt names explicitly. Drilling it gives you a compact model for any 'tell foreign readers about your country' task, which is a whole subcluster in this pool: rank 5 (recommending sites and dishes to visitors) reuses the same lexicon. Sociolinguistique credit comes from picking the right register for a public readership you do not know.",
+    "cum_pool": 3.5,
+    "cum_lang": 14.2,
     "floor": ""
    },
    {
     "rank": 4,
     "badge": 4,
-    "why": "Three appearances (2025-02, 2025-04, 2025-08). This is the model hybrid prompt for T2: personal-experience narrative on a themed event with explicit sub-questions (organisation, dates, lieu, activités) plus an opinion. The consigne hands you the paragraph structure, which is a gift under exam pressure. You practise the vocabulaire of urbanism, environment, and community initiatives, plus the passé composé + imparfait alternation every T2 narrative needs. The evaluative wrap-up trains the argued-opinion closing move examiners reward at B2 (à mon avis, cette initiative est... parce que...). Rehearse it and every 'événement / initiative locale' prompt in the tail becomes plug-and-play.",
-    "cum_pool": 5.1,
-    "cum_lang": 11.4,
+    "why": "The fitness-class review only appears in one month, but it clears five paraphrase-adjacent items in the coverage algorithm — that is why it sits this high. It is a clean template for the 'you attended X, describe plus evaluate ambiance plus equipment' pattern that recurs at rank 11 (culinary competition), rank 15 (evening show), rank 26 (music school open day) and rank 29 (book fair). Practicing it once gives you a reusable frame: setting, activities, atmosphere, verdict. That frame is worth more than the single occurrence suggests, because it unlocks a whole review subcluster of the pool.",
+    "cum_pool": 9.4,
+    "cum_lang": 15.6,
     "floor": ""
    },
    {
     "rank": 5,
     "badge": 5,
-    "why": "The single most-recurrent forum-reply prompt in the top ten: seventeen appearances spread across 2022 to 2026. After clearing this one your covered pool is only 5.6%, but your covered language-history is already 13.6%. It is the study-abroad reply template: acknowledge the poster's question, share your séjour, evaluate whether you enjoyed it, justify. You practise personal-experience narrative in the passé composé, expressions of subjective judgment (j'ai adoré, ce qui m'a surpris, avec le recul), and the empathic forum register. Sibling of rank 12 (same theme, framed from the concerned internaute's angle). Skip this and you leave one of the most likely exam prompts on the table.",
-    "cum_pool": 5.6,
-    "cum_lang": 13.6,
-    "floor": ""
-   },
-   {
-    "rank": 6,
-    "badge": 6,
-    "why": "The single most-recycled prompt of the entire pool: sixty-seven appearances since 2022, still showing up in 2026-05. It is the archetypal event-narrative-plus-opinion for T2: you attended an open day at a music school, message your friends, describe what happened, share your view. Structurally it is the cleanest possible template — narrative in passé composé + imparfait, sensory and evaluative vocabulary, closing opinion. Its sibling at rank 13 lets you reuse the entire école-de-musique lexical set at higher register (formal courriel to the school direction). Every hour on this one is high-yield: it is more likely to appear on your exam than any other prompt in the corpus.",
-    "cum_pool": 6.2,
-    "cum_lang": 15.2,
-    "floor": ""
-   },
-   {
-    "rank": 7,
-    "badge": 7,
-    "why": "The mirror of rank 3: the 'pour' position on youth summer work, three appearances in 2024, structurally paired. Drilling both sides of this debate is what earns the pragmatique B2 marker — you can construct an argued position AND anticipate the opposing view. The lexical field here is different from the 'contre' side: you rehearse verbs of professional gain (acquérir des compétences, gagner en autonomie, financer ses loisirs, découvrir différentes industries) and pro-work argumentation. Together, rank 3 and rank 7 give you a full for-and-against toolkit that redeploys on any 'devrait-on / est-ce une bonne idée' prompt anywhere in the tail. Do not drill one and skip the other.",
-    "cum_pool": 6.7,
-    "cum_lang": 18.9,
-    "floor": ""
-   },
-   {
-    "rank": 8,
-    "badge": 8,
-    "why": "Three appearances (2025-03, 2025-06, 2025-08), and thematically topical — social-media detox is now a recurring blog category. Structurally this is a first-person narrative of a lifestyle decision addressed to friends or readers. You practise the passé composé + imparfait sequence for describing a before/after, plus opinion vocabulary about digital habits, santé mentale, temps libre, distractions. It also trains the confessional-blog register (au début c'était difficile, aujourd'hui je me sens..., je vous recommande de...) — exactly the sociolinguistique dimension examiners weigh on 'personal experience' T2 prompts. A short investment that unlocks any lifestyle-change variant in the tail.",
-    "cum_pool": 7.7,
+    "why": "Aaron and Perla's visit request is the recommendation-to-a-friend prompt, seen across six months. It differs from formal proposals because the register slides to tu-form and warmer connectors. Drilling it earns sociolinguistique credit for register control, one of the three official criterion families. It also builds a bridge to rank 20 (organizing a welcome day for francophone students) where the audience shifts back to institutional but the task logic — practical info plus personal justification — stays constant. Practicing both back-to-back cements the register split between friend-informal and institution-neutral without confusion in the exam room.",
+    "cum_pool": 10.6,
     "cum_lang": 20.2,
     "floor": ""
    },
    {
-    "rank": 9,
-    "badge": 9,
-    "why": "Two appearances (2023-06, 2023-07), and it is your dedicated 'informational message' template — the T2 sub-format where you provide practical information rather than argue an opinion. Message to a friend visiting, listing transport options with type, circuit, tarif. You practise organized enumeration (d'abord, ensuite, enfin), practical vocabulary (métro, tramway, bus, vélo en libre-service, tarif, abonnement, ligne), and the friendly-informative register. Many test-takers underprepare this sub-format because they focus on argued-opinion prompts. Cover it here and you have a ready structure for any 'écrire pour informer / renseigner un ami' variant, of which there are several in the tail.",
-    "cum_pool": 8.7,
-    "cum_lang": 21.6,
-    "floor": ""
-   },
-   {
-    "rank": 10,
-    "badge": 10,
-    "why": "Five appearances between 2023 and 2024. This is a testimonial-style descriptive-cultural prompt hosted on a food website: tell us how people in your country eat, best entries get published. You practise cultural-comparison lexicon, meal vocabulary (petit-déjeuner, plat principal, dessert, épices, produits locaux), and time-marker structures (le matin, au déjeuner, pour les grandes occasions, en semaine, le week-end). Register is public-facing testimonial, semi-formal. Structurally you can lean on a triptych (breakfast / lunch / dinner, or weekday / weekend / celebration). The linguistique gain is a wide food-and-culture vocabulary that redeploys on any 'habitudes / traditions / mode de vie de votre pays' variant in the tail.",
-    "cum_pool": 9.2,
-    "cum_lang": 23.5,
-    "floor": ""
-   },
-   {
-    "rank": 11,
-    "badge": 11,
-    "why": "One appearance (2025-01), but new_items_covered = 4 — this single prompt unlocks four structural twins in the language-history. Personal experience at a fitness class, blog format, with focused evaluation of équipements and ambiance. You practise sensory description (l'ambiance, la musique, l'énergie du coach), review-style evaluation (les équipements étaient récents, propres, bien entretenus), and first-person impression narrative. This is the 'activity review' sub-format of T2, distinct from event-narrative because the focus is on evaluating something rather than telling what happened. Cover it once and any 'raconter une expérience dans un lieu / cours / atelier' variant becomes template-ready.",
-    "cum_pool": 11.3,
-    "cum_lang": 24.1,
-    "floor": ""
-   },
-   {
-    "rank": 12,
-    "badge": 12,
-    "why": "Twin of rank 5 from the reverse angle: instead of replying to Alice, you now reply to an anxious poster with your own study-abroad experience, framed around défis / solutions / bénéfices — a three-part structure the consigne hands you. Drilling this after rank 5 completes the study-abroad map: forum register, first-person retrospective, structured advice, empathic tone. The three-part sub-question structure is a gift for pragmatique because cohesion is built in. Between rank 5, rank 12, and their tail variants, roughly one exam prompt in every fifteen involves study-abroad. Two well-drilled templates cover the whole family.",
-    "cum_pool": 12.3,
-    "cum_lang": 25.3,
-    "floor": ""
-   },
-   {
-    "rank": 13,
-    "badge": 13,
-    "why": "Twin of rank 6 at higher register: same école-de-musique universe, now written as a formal courriel to the school direction, justifying your venue proposal with tarifs, services, lieu. It teaches the professional-correspondence register that many T2 prompts require and that most test-takers rehearse least (Cher / Chère, je me permets de vous écrire, veuillez trouver ci-joint, cordialement). Sociolinguistique lives here — matching register to the prompt is what separates B1 from B2. Drilling this after rank 6 doubles your yield on the entire école-de-musique family and gives you a courriel-formel template that redeploys on rank 15 and other formal-message tail prompts.",
-    "cum_pool": 12.8,
-    "cum_lang": 27.6,
-    "floor": ""
-   },
-   {
-    "rank": 14,
-    "badge": 14,
-    "why": "Three appearances, all in 2026 (06, 07, 08), so it is trending upward heading into your exam window. Classic vacation-narrative in blog register: you spent time in a beautiful region of your country, tell your friends about it, explain why it was memorable. You practise place description (paysages, patrimoine, gastronomie, activités), narrative past tenses, and the enthusiastic-recommendation register (je vous conseille vivement, c'est un endroit à découvrir). The same skeleton fits ranks 24, 27, 29 and most tail vacation variants. Given the 2026-only recency pattern, a September 2026 examiner is disproportionately likely to serve you something in this family.",
-    "cum_pool": 13.8,
-    "cum_lang": 28.5,
-    "floor": ""
-   },
-   {
-    "rank": 15,
-    "badge": 15,
-    "why": "Two appearances (2025-02, 2025-08). Functional-informational rather than opinion-argued: you have listed your flat for rent and now email inquiries with details about the logement and the quartier. You practise practical vocabulary (superficie, meublé, charges, arrêt de métro, commerces de proximité, calme, lumineux), organized enumeration, and the neutral-informational courriel register — same register as rank 13. It complements the argued-opinion and event-narrative templates by adding a third sub-format (informational courriel) that recurs across the tail as 'décrivez votre logement / présentez votre quartier / renseignez sur un service' variants. Small investment, wide reach.",
-    "cum_pool": 14.9,
-    "cum_lang": 29.5,
-    "floor": ""
-   },
-   {
-    "rank": 16,
-    "badge": 16,
-    "why": "Six appearances between 2023 and 2024, and a totally different register from every prompt above it: formal complaint to a travel agency about a badly organized trip. This is the argued-negative-evaluation sub-format — very demanding sociolinguistically because you must sound firm without sounding aggressive. You practise the réclamation register (je me permets d'attirer votre attention, contrairement à ce qui était annoncé, je vous demande de bien vouloir), specific-grievance vocabulary (retards, prestations médiocres, personnel inattentif, remboursement), and structured argument (fact + impact + demand). Cover it once and you own the whole complaint / mécontentement family that many test-takers dread.",
-    "cum_pool": 15.4,
-    "cum_lang": 31.0,
-    "floor": ""
-   },
-   {
-    "rank": 17,
-    "badge": 17,
-    "why": "One appearance (2025-02), but structurally distinctive: friends are visiting your country in January and want historical sites plus typical dishes, so you reply with tailored suggestions justified by your own experience. This is the 'personalized recommendation' sub-format — practical + narrative + argued in one. You practise tu-register suggestion structures (je te conseille de..., tu devrais absolument..., n'oublie pas de...), justified with j'y suis allé l'année dernière + evaluation. Cover it and any 'un ami visite ton pays / ta ville, conseille-le' variant becomes plug-and-play. Also balances your semi-formal and formal templates with dedicated informal-register practice.",
-    "cum_pool": 15.9,
-    "cum_lang": 33.5,
-    "floor": ""
-   },
-   {
-    "rank": 18,
-    "badge": 18,
-    "why": "One appearance (2024-11), but the format is worth rehearsing: react to a quoted personal testimony (someone content with their 4-day work week) with your own opinion, drawing on your own experience. It trains the 'réagir à un témoignage' move that recurs in the tail as 'un internaute témoigne / partagez votre avis' variants. You practise agreement / disagreement structures (je partage entièrement son avis, cependant / de mon côté / au contraire), work-life vocabulary (rythme de travail, temps libre, tâches ménagères, équilibre pro-perso), and the opinion-plus-personal-experience double move that scores well on argumentation. Short, focused, high transfer.",
-    "cum_pool": 16.4,
-    "cum_lang": 35.9,
-    "floor": ""
-   },
-   {
-    "rank": 19,
-    "badge": 19,
-    "why": "Fourteen appearances across 2023 to 2026, one of the most-recurrent argumentative-descriptive prompts in the corpus. Contest entry on your favourite artist, in blog format. You practise the presentation-plus-justification move (voici l'artiste que j'admire le plus + pourquoi), rich descriptive lexicon (style, œuvre, parcours, engagement, influence), and the enthusiastic-personal register. Sibling of rank 2 — after covering both you own the entire 'describe an inspiring person / artist' family. Given the high recurrence, this is one of the top ten prompts most likely to appear in September 2026. Prepare one artist you know deeply so you are never scrambling for content on exam day.",
-    "cum_pool": 16.9,
-    "cum_lang": 36.9,
-    "floor": ""
-   },
-   {
-    "rank": 20,
-    "badge": 20,
-    "why": "One appearance (2025-12), no long history yet. Structurally it is the 'film festival attendance' variant of the review sub-format (rank 11): present the film you liked most, justify. You practise film vocabulary (scénario, mise en scène, jeu d'acteurs, dénouement, réalisateur), personal-preference structures (ce qui m'a le plus marqué, contrairement aux autres films...), and the site-personnel register (a hybrid of blog and short essay). Cover this template and any 'présentez / justifiez votre choix culturel' variant becomes reachable. Also a useful fallback when a prompt asks for cultural commentary and you have a film ready to talk about.",
-    "cum_pool": 17.9,
-    "cum_lang": 37.8,
-    "floor": ""
-   },
-   {
-    "rank": 21,
-    "badge": 21,
-    "why": "Four appearances between 2022 and 2023. Cooking-contest memoir in blog format, focused on sensory detail and souvenirs. You practise cuisine vocabulary (ingrédients, saveurs, présentation, jury, remporter), competitive-narrative structures (finaliste, participer, présenter mon plat), and the evocative descriptive language that scores well for linguistique range. This prompt trains the memory-narrative register that also serves 'concours / atelier / événement personnel' variants. Preparing one signature dish — real or invented and then rehearsed — gives you a ready anecdote you can slot in whenever a contest prompt appears. Solid mid-band coverage for a modest investment.",
-    "cum_pool": 19.0,
-    "cum_lang": 38.3,
-    "floor": ""
-   },
-   {
-    "rank": 22,
-    "badge": 22,
-    "why": "Four appearances between 2022 and 2023. Blog article on hosting an étudiant étranger for a week, focused on what interested and most impressed you. You practise hospitality lexicon (accueillir, partager, découvrir, échange culturel), impression-evaluation structures (ce qui m'a le plus marqué, j'ai été frappé par, à ma grande surprise), and the reflective-experience register that is very common in T2. Sibling of rank 17 (friends visiting). Cover it once and any 'hosting / cultural exchange / experience with a foreign visitor' variant becomes template-ready. Good practice for the culture-contrast vocabulary that shows up across the wider blog-narrative tail.",
-    "cum_pool": 20.0,
-    "cum_lang": 38.7,
-    "floor": ""
-   },
-   {
-    "rank": 23,
-    "badge": 23,
-    "why": "Six appearances between 2022 and 2024, one of the more-recurrent event-narrative-with-opinion prompts. You attended an ecological evening at your university, blog it, explain why you liked it. You practise environmental vocabulary (protéger la planète, tri, recyclage, sensibilisation, empreinte carbone), event-narrative structures, and the enthusiastic first-person register. Structurally it blends rank 6's event-narrative skeleton with the environmental theme of rank 4 and rank 28. If rank 6 is already drilled, this one takes almost no additional structural work — just add the environmental lexical field. High ROI given the recurrence.",
-    "cum_pool": 20.5,
-    "cum_lang": 39.7,
-    "floor": ""
-   },
-   {
-    "rank": 24,
-    "badge": 24,
-    "why": "Four appearances between 2023 and 2024. Commentary on a package-tour vacation in Canada. You practise vacation-narrative in a slightly more formal 'commentaire' register (like a review site), including trip-evaluation vocabulary (organisé, encadré, décevant, à recommander, personnel attentif), Canada-specific place-lexicon (paysages, saisons, culture, hospitalité, chutes du Niagara, Rocheuses), and past-tense storytelling. It is structurally close to rank 14 but adds the angle of evaluating an agency's service. Given the exam is TCF Canada, Canada-themed prompts carry real recurrence risk. Prepare one Canadian destination you can talk about with specificity.",
-    "cum_pool": 21.5,
-    "cum_lang": 40.2,
-    "floor": ""
-   },
-   {
-    "rank": 25,
-    "badge": 25,
-    "why": "Eight appearances between 2023 and 2026, one of the most-recurrent 'personal experience' forum prompts. Share your language-learning experience: difficulties, methods that helped, benefits gained. The consigne hands you the three-part structure explicitly, which is a pragmatique gift. You practise language-learning vocabulary (grammaire, prononciation, immersion, application mobile, tandem, échange), difficulty and progress structures (j'avais du mal à..., j'ai fini par..., grâce à... j'ai réussi à...), and the reflective-forum register. Meta-relevant: you are living this exact experience right now, so the content writes itself. Once cleared you have covered 41% of past-month language history — a major milestone.",
-    "cum_pool": 22.1,
-    "cum_lang": 41.0,
-    "floor": ""
-   },
-   {
-    "rank": 26,
-    "badge": 26,
-    "why": "The Niema-and-Pau variant of rank 1: same 'quit-your-job-and-open-a-bakery' premise, different names, one appearance in 2023-09. It appears separately in the language coverage because the consigne frames the reply slightly differently — here you are also asked what you would have chosen in a similar situation, which is a conditionnel-passé move (j'aurais fait, j'aurais choisi de, j'aurais préféré). If rank 1 is already drilled, this one is ninety percent free: same template, same lexical field, same forum register. Add the conditionnel-passé variant and rank 26 costs you five minutes of additional prep.",
-    "cum_pool": 22.6,
-    "cum_lang": 42.8,
-    "floor": ""
-   },
-   {
-    "rank": 27,
-    "badge": 27,
-    "why": "Four appearances between 2026-01 and 2026-07, so this prompt is trending in the last year heading into your exam window. Contest entry: tell the story of your most beautiful celebration (anniversaire, fête culturelle, etc.) and what you take away from it. You practise celebration vocabulary (invités, décorations, ambiance, souvenirs, traditions), retrospective narrative in the passé composé + imparfait mix, and the reflective-plus-argued closing (ce que je retiens de cette fête, cela m'a appris que...). The recency pattern is decisive: a September 2026 exam has an elevated chance of hitting a variant of this family. Prepare one specific real celebration in detail — reusable across ranks 21, 22, 27, 29.",
-    "cum_pool": 23.1,
-    "cum_lang": 43.9,
-    "floor": ""
-   },
-   {
-    "rank": 28,
-    "badge": 28,
-    "why": "Two appearances (2023-07, 2025-12), environmental-action narrative: you took part in a World Cleanup Day, picked up déchets with others in a public space, tell friends about it and explain why participating matters. Structurally it is event-narrative + civic-argument, distinct from pure event-narrative because you must justify the importance of the action rather than just describe it. You practise environmental-civic vocabulary (déchets, pollution, geste citoyen, sensibiliser, agir collectivement), participation lexicon (bénévole, groupe, organisation), and the persuasive closing move. Sibling of rank 23 (soirée écologique). Two environmental prompts drilled means you own the thematic field.",
-    "cum_pool": 23.6,
-    "cum_lang": 45.1,
-    "floor": ""
-   },
-   {
-    "rank": 29,
-    "badge": 29,
-    "why": "Eight appearances between 2023 and 2026-08, one of the most-recurrent 'small community event' prompts. Blog narrative of a fête de quartier between voisins, explain why you enjoyed it. You practise community-life vocabulary (voisins, quartier, convivialité, générations, échanges, entraide), event-narrative structures already familiar from rank 6, and the warm-blog register. Given the recurrence and the very recent hit (2026-08, one month ago), it is highly plausible on the September 2026 exam. If rank 6 is already drilled, swap the school-open-day skeleton for a neighbourhood-party skeleton and change the lexical field. The templates are structurally identical.",
-    "cum_pool": 24.6,
-    "cum_lang": 45.3,
-    "floor": ""
-   },
-   {
-    "rank": 30,
-    "badge": 30,
-    "why": "Two appearances in 2025 (05, 08). Argued opinion in forum register: is it a good or bad idea to drop everything and travel for a year? Structurally a debate prompt like rank 3 and rank 7, but on a more contemporary theme (career break, gap year, quitting your job to travel). You practise position-taking (à mon avis, je suis convaincu que), justification with personal examples (j'ai un ami qui..., dans mon cas...), and concession-and-return (certes... mais / il est vrai que... néanmoins). Thematic sibling of rank 1 and rank 26 — all three concern quitter la routine pour changer de vie. Drilled together, they form a rehearsed argumentative bank for any 'changement radical' prompt.",
-    "cum_pool": 25.1,
-    "cum_lang": 46.5,
-    "floor": ""
-   },
-   {
-    "rank": 31,
-    "badge": 31,
-    "why": "Rank 31 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.6,
-    "cum_lang": 47.6,
-    "floor": ""
-   },
-   {
-    "rank": 32,
-    "badge": 32,
-    "why": "Rank 32 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.2,
-    "cum_lang": 48.4,
-    "floor": ""
-   },
-   {
-    "rank": 33,
-    "badge": 33,
-    "why": "Rank 33 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.7,
-    "cum_lang": 49.1,
-    "floor": ""
-   },
-   {
-    "rank": 34,
-    "badge": 34,
-    "why": "Rank 34 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.2,
-    "cum_lang": 49.7,
-    "floor": ""
-   },
-   {
-    "rank": 35,
-    "badge": 35,
-    "why": "Rank 35 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 28.2,
-    "cum_lang": 50.3,
-    "floor": ""
-   },
-   {
-    "rank": 36,
-    "badge": 36,
-    "why": "Rank 36 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.7,
-    "cum_lang": 51.1,
-    "floor": ""
-   },
-   {
-    "rank": 37,
-    "badge": 37,
-    "why": "Rank 37 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 29.2,
-    "cum_lang": 52.6,
-    "floor": ""
-   },
-   {
-    "rank": 38,
-    "badge": 38,
-    "why": "Rank 38 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 29.7,
-    "cum_lang": 53.5,
-    "floor": ""
-   },
-   {
-    "rank": 39,
-    "badge": 39,
-    "why": "Rank 39 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 30.8,
-    "cum_lang": 54.1,
-    "floor": ""
-   },
-   {
-    "rank": 40,
-    "badge": 40,
-    "why": "Rank 40 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.3,
-    "cum_lang": 55.5,
-    "floor": ""
-   },
-   {
-    "rank": 41,
-    "badge": 41,
-    "why": "Rank 41 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.8,
-    "cum_lang": 56.8,
-    "floor": ""
-   },
-   {
-    "rank": 42,
-    "badge": 42,
-    "why": "Rank 42 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.3,
-    "cum_lang": 58.0,
-    "floor": ""
-   },
-   {
-    "rank": 43,
-    "badge": 43,
-    "why": "Rank 43 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.8,
-    "cum_lang": 58.8,
-    "floor": ""
-   },
-   {
-    "rank": 44,
-    "badge": 44,
-    "why": "Rank 44 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.3,
-    "cum_lang": 59.3,
-    "floor": ""
-   },
-   {
-    "rank": 45,
-    "badge": 45,
-    "why": "Rank 45 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.8,
-    "cum_lang": 60.1,
-    "floor": ""
-   },
-   {
-    "rank": 46,
-    "badge": 46,
-    "why": "Rank 46 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 34.4,
-    "cum_lang": 61.2,
-    "floor": ""
-   },
-   {
-    "rank": 47,
-    "badge": 47,
-    "why": "Rank 47 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 34.9,
-    "cum_lang": 61.9,
-    "floor": ""
-   },
-   {
-    "rank": 48,
-    "badge": 48,
-    "why": "Rank 48 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 35.4,
-    "cum_lang": 62.8,
-    "floor": ""
-   },
-   {
-    "rank": 49,
-    "badge": 49,
-    "why": "Rank 49 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 35.9,
-    "cum_lang": 63.4,
-    "floor": ""
-   },
-   {
-    "rank": 50,
-    "badge": 50,
-    "why": "Rank 50 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.4,
-    "cum_lang": 64.0,
-    "floor": ""
-   },
-   {
-    "rank": 51,
-    "badge": 51,
-    "why": "Rank 51 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.9,
-    "cum_lang": 64.8,
-    "floor": ""
-   },
-   {
-    "rank": 52,
-    "badge": 52,
-    "why": "Rank 52 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.4,
-    "cum_lang": 65.8,
-    "floor": ""
-   },
-   {
-    "rank": 53,
-    "badge": 53,
-    "why": "Rank 53 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.9,
-    "cum_lang": 66.1,
-    "floor": ""
-   },
-   {
-    "rank": 54,
-    "badge": 54,
-    "why": "Rank 54 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.5,
-    "cum_lang": 66.8,
-    "floor": ""
-   },
-   {
-    "rank": 55,
-    "badge": 55,
-    "why": "Rank 55 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.0,
-    "cum_lang": 67.6,
-    "floor": ""
-   },
-   {
-    "rank": 56,
-    "badge": 56,
-    "why": "Rank 56 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.5,
-    "cum_lang": 68.2,
-    "floor": ""
-   },
-   {
-    "rank": 57,
-    "badge": 57,
-    "why": "Rank 57 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.0,
-    "cum_lang": 69.0,
-    "floor": ""
-   },
-   {
-    "rank": 58,
-    "badge": 58,
-    "why": "Rank 58 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.5,
-    "cum_lang": 69.4,
-    "floor": ""
-   },
-   {
-    "rank": 59,
-    "badge": 59,
-    "why": "Rank 59 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.0,
-    "cum_lang": 70.2,
-    "floor": ""
-   },
-   {
-    "rank": 60,
-    "badge": 60,
-    "why": "Rank 60 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 42.1,
-    "cum_lang": 70.3,
-    "floor": ""
-   },
-   {
-    "rank": 61,
-    "badge": 61,
-    "why": "Rank 61 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.6,
-    "cum_lang": 70.6,
-    "floor": ""
-   },
-   {
-    "rank": 62,
-    "badge": 62,
-    "why": "Rank 62 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.1,
-    "cum_lang": 71.4,
-    "floor": ""
-   },
-   {
-    "rank": 63,
-    "badge": 63,
-    "why": "Rank 63 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.6,
-    "cum_lang": 72.1,
-    "floor": ""
-   },
-   {
-    "rank": 64,
-    "badge": 64,
-    "why": "Rank 64 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.1,
-    "cum_lang": 72.5,
-    "floor": ""
-   },
-   {
-    "rank": 65,
-    "badge": 65,
-    "why": "Rank 65 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.6,
-    "cum_lang": 73.0,
-    "floor": ""
-   },
-   {
-    "rank": 66,
-    "badge": 66,
-    "why": "Rank 66 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.1,
-    "cum_lang": 73.4,
-    "floor": ""
-   },
-   {
-    "rank": 67,
-    "badge": 67,
-    "why": "Rank 67 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.6,
-    "cum_lang": 73.9,
-    "floor": ""
-   },
-   {
-    "rank": 68,
-    "badge": 68,
-    "why": "Rank 68 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.2,
-    "cum_lang": 74.4,
-    "floor": ""
-   },
-   {
-    "rank": 69,
-    "badge": 69,
-    "why": "Rank 69 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.7,
-    "cum_lang": 75.1,
-    "floor": ""
-   },
-   {
-    "rank": 70,
-    "badge": 70,
-    "why": "Rank 70 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.2,
-    "cum_lang": 75.4,
-    "floor": ""
-   },
-   {
-    "rank": 71,
-    "badge": 71,
-    "why": "Rank 71 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.7,
-    "cum_lang": 76.1,
-    "floor": ""
-   },
-   {
-    "rank": 72,
-    "badge": 72,
-    "why": "Rank 72 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.2,
-    "cum_lang": 76.4,
-    "floor": ""
-   },
-   {
-    "rank": 73,
-    "badge": 73,
-    "why": "Rank 73 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.7,
-    "cum_lang": 77.0,
-    "floor": ""
-   },
-   {
-    "rank": 74,
-    "badge": 74,
-    "why": "Rank 74 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.2,
-    "cum_lang": 77.6,
-    "floor": ""
-   },
-   {
-    "rank": 75,
-    "badge": 75,
-    "why": "Rank 75 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.7,
-    "cum_lang": 78.0,
-    "floor": ""
-   },
-   {
-    "rank": 76,
-    "badge": 76,
-    "why": "Rank 76 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.3,
-    "cum_lang": 78.4,
-    "floor": ""
-   },
-   {
-    "rank": 77,
-    "badge": 77,
-    "why": "Rank 77 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.8,
-    "cum_lang": 78.7,
-    "floor": ""
-   },
-   {
-    "rank": 78,
-    "badge": 78,
-    "why": "Rank 78 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.3,
-    "cum_lang": 79.3,
-    "floor": ""
-   },
-   {
-    "rank": 79,
-    "badge": 79,
-    "why": "Rank 79 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.8,
-    "cum_lang": 79.8,
-    "floor": ""
-   },
-   {
-    "rank": 80,
-    "badge": 80,
-    "why": "Rank 80 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.3,
-    "cum_lang": 80.3,
-    "floor": ""
-   },
-   {
-    "rank": 81,
-    "badge": 81,
-    "why": "Rank 81 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.8,
-    "cum_lang": 80.7,
-    "floor": ""
-   },
-   {
-    "rank": 82,
-    "badge": 82,
-    "why": "Rank 82 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.3,
-    "cum_lang": 80.9,
-    "floor": ""
-   },
-   {
-    "rank": 83,
-    "badge": 83,
-    "why": "Rank 83 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.8,
-    "cum_lang": 81.4,
-    "floor": ""
-   },
-   {
-    "rank": 84,
-    "badge": 84,
-    "why": "Rank 84 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.4,
-    "cum_lang": 82.0,
-    "floor": ""
-   },
-   {
-    "rank": 85,
-    "badge": 85,
-    "why": "Rank 85 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.9,
-    "cum_lang": 82.3,
-    "floor": ""
-   },
-   {
-    "rank": 86,
-    "badge": 86,
-    "why": "Rank 86 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.4,
-    "cum_lang": 82.6,
-    "floor": ""
-   },
-   {
-    "rank": 87,
-    "badge": 87,
-    "why": "Rank 87 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.9,
-    "cum_lang": 83.1,
-    "floor": ""
-   },
-   {
-    "rank": 88,
-    "badge": 88,
-    "why": "Rank 88 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.4,
-    "cum_lang": 83.6,
-    "floor": ""
-   },
-   {
-    "rank": 89,
-    "badge": 89,
-    "why": "Rank 89 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.9,
-    "cum_lang": 84.0,
-    "floor": ""
-   },
-   {
-    "rank": 90,
-    "badge": 90,
-    "why": "Rank 90 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.4,
-    "cum_lang": 84.4,
-    "floor": ""
-   },
-   {
-    "rank": 91,
-    "badge": 91,
-    "why": "Rank 91 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.9,
-    "cum_lang": 84.8,
-    "floor": ""
-   },
-   {
-    "rank": 92,
-    "badge": 92,
-    "why": "Rank 92 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.5,
-    "cum_lang": 85.2,
-    "floor": ""
-   },
-   {
-    "rank": 93,
-    "badge": 93,
-    "why": "Rank 93 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.0,
-    "cum_lang": 85.6,
-    "floor": ""
-   },
-   {
-    "rank": 94,
-    "badge": 94,
-    "why": "Rank 94 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.5,
-    "cum_lang": 85.7,
-    "floor": ""
-   },
-   {
-    "rank": 95,
-    "badge": 95,
-    "why": "Rank 95 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.0,
-    "cum_lang": 86.1,
-    "floor": ""
-   },
-   {
-    "rank": 96,
-    "badge": 96,
-    "why": "Rank 96 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.5,
-    "cum_lang": 86.5,
-    "floor": ""
-   },
-   {
-    "rank": 97,
-    "badge": 97,
-    "why": "Rank 97 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.0,
-    "cum_lang": 86.9,
-    "floor": ""
-   },
-   {
-    "rank": 98,
-    "badge": 98,
-    "why": "Rank 98 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.5,
-    "cum_lang": 87.3,
-    "floor": ""
-   },
-   {
-    "rank": 99,
-    "badge": 99,
-    "why": "Rank 99 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.1,
-    "cum_lang": 87.6,
-    "floor": ""
-   },
-   {
-    "rank": 100,
-    "badge": 100,
-    "why": "Rank 100 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.6,
-    "cum_lang": 88.0,
-    "floor": ""
-   },
-   {
-    "rank": 101,
-    "badge": 101,
-    "why": "Rank 101 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.1,
-    "cum_lang": 88.4,
-    "floor": ""
-   },
-   {
-    "rank": 102,
-    "badge": 102,
-    "why": "Rank 102 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.6,
-    "cum_lang": 88.7,
-    "floor": ""
-   },
-   {
-    "rank": 103,
-    "badge": 103,
-    "why": "Rank 103 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.1,
-    "cum_lang": 88.9,
-    "floor": ""
-   },
-   {
-    "rank": 104,
-    "badge": 104,
-    "why": "Rank 104 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.6,
-    "cum_lang": 89.2,
-    "floor": ""
-   },
-   {
-    "rank": 105,
-    "badge": 105,
-    "why": "Rank 105 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.1,
-    "cum_lang": 89.4,
-    "floor": ""
-   },
-   {
-    "rank": 106,
-    "badge": 106,
-    "why": "Rank 106 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.6,
-    "cum_lang": 89.8,
-    "floor": ""
-   },
-   {
-    "rank": 107,
-    "badge": 107,
-    "why": "Rank 107 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.2,
-    "cum_lang": 90.1,
-    "floor": ""
-   },
-   {
-    "rank": 108,
-    "badge": 108,
-    "why": "Rank 108 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.7,
-    "cum_lang": 90.2,
-    "floor": ""
-   },
-   {
-    "rank": 109,
-    "badge": 109,
-    "why": "Rank 109 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.2,
-    "cum_lang": 90.3,
-    "floor": ""
-   },
-   {
-    "rank": 110,
-    "badge": 110,
-    "why": "Rank 110 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.7,
-    "cum_lang": 90.4,
-    "floor": ""
-   },
-   {
-    "rank": 111,
-    "badge": 111,
-    "why": "Rank 111 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.2,
-    "cum_lang": 90.6,
-    "floor": ""
-   },
-   {
-    "rank": 112,
-    "badge": 112,
-    "why": "Rank 112 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.7,
-    "cum_lang": 90.7,
-    "floor": ""
-   },
-   {
-    "rank": 113,
-    "badge": 113,
-    "why": "Rank 113 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.2,
-    "cum_lang": 90.9,
-    "floor": ""
-   },
-   {
-    "rank": 114,
-    "badge": 114,
-    "why": "Rank 114 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.7,
-    "cum_lang": 91.2,
-    "floor": ""
-   },
-   {
-    "rank": 115,
-    "badge": 115,
-    "why": "Rank 115 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.3,
-    "cum_lang": 91.5,
-    "floor": ""
-   },
-   {
-    "rank": 116,
-    "badge": 116,
-    "why": "Rank 116 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.8,
-    "cum_lang": 91.7,
-    "floor": ""
-   },
-   {
-    "rank": 117,
-    "badge": 117,
-    "why": "Rank 117 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.3,
-    "cum_lang": 92.0,
-    "floor": ""
-   },
-   {
-    "rank": 118,
-    "badge": 118,
-    "why": "Rank 118 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.8,
-    "cum_lang": 92.2,
-    "floor": ""
-   },
-   {
-    "rank": 119,
-    "badge": 119,
-    "why": "Rank 119 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.3,
-    "cum_lang": 92.5,
-    "floor": ""
-   },
-   {
-    "rank": 120,
-    "badge": 120,
-    "why": "Rank 120 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.8,
-    "cum_lang": 92.8,
-    "floor": ""
-   },
-   {
-    "rank": 121,
-    "badge": 121,
-    "why": "Rank 121 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.3,
-    "cum_lang": 93.0,
-    "floor": ""
-   },
-   {
-    "rank": 122,
-    "badge": 122,
-    "why": "Rank 122 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.8,
-    "cum_lang": 93.3,
-    "floor": ""
-   },
-   {
-    "rank": 123,
-    "badge": 123,
-    "why": "Rank 123 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.4,
-    "cum_lang": 93.5,
-    "floor": ""
-   },
-   {
-    "rank": 124,
-    "badge": 124,
-    "why": "Rank 124 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.9,
-    "cum_lang": 93.8,
-    "floor": ""
-   },
-   {
-    "rank": 125,
-    "badge": 125,
-    "why": "Rank 125 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.4,
-    "cum_lang": 94.1,
-    "floor": ""
-   },
-   {
-    "rank": 126,
-    "badge": 126,
-    "why": "Rank 126 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.9,
-    "cum_lang": 94.3,
-    "floor": ""
-   },
-   {
-    "rank": 127,
-    "badge": 127,
-    "why": "Rank 127 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.4,
-    "cum_lang": 94.6,
-    "floor": ""
-   },
-   {
-    "rank": 128,
-    "badge": 128,
-    "why": "Rank 128 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.9,
-    "cum_lang": 94.7,
-    "floor": ""
-   },
-   {
-    "rank": 129,
-    "badge": 129,
-    "why": "Rank 129 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.4,
-    "cum_lang": 94.8,
-    "floor": ""
-   },
-   {
-    "rank": 130,
-    "badge": 130,
-    "why": "Rank 130 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.9,
-    "cum_lang": 94.9,
-    "floor": ""
-   },
-   {
-    "rank": 131,
-    "badge": 131,
-    "why": "Rank 131 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.5,
-    "cum_lang": 95.1,
-    "floor": ""
-   },
-   {
-    "rank": 132,
-    "badge": 132,
-    "why": "Rank 132 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.0,
-    "cum_lang": 95.2,
-    "floor": ""
-   },
-   {
-    "rank": 133,
-    "badge": 133,
-    "why": "Rank 133 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.5,
-    "cum_lang": 95.3,
-    "floor": ""
-   },
-   {
-    "rank": 134,
-    "badge": 134,
-    "why": "Rank 134 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.0,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 135,
-    "badge": 135,
-    "why": "Rank 135 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.5,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 136,
-    "badge": 136,
-    "why": "Rank 136 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.0,
-    "cum_lang": 95.6,
-    "floor": ""
-   },
-   {
-    "rank": 137,
-    "badge": 137,
-    "why": "Rank 137 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.5,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 138,
-    "badge": 138,
-    "why": "Rank 138 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.1,
-    "cum_lang": 95.9,
-    "floor": ""
-   },
-   {
-    "rank": 139,
-    "badge": 139,
-    "why": "Rank 139 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.6,
-    "cum_lang": 96.0,
-    "floor": ""
-   },
-   {
-    "rank": 140,
-    "badge": 140,
-    "why": "Rank 140 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.1,
-    "cum_lang": 96.1,
-    "floor": ""
-   },
-   {
-    "rank": 141,
-    "badge": 141,
-    "why": "Rank 141 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.6,
-    "cum_lang": 96.3,
-    "floor": ""
-   },
-   {
-    "rank": 142,
-    "badge": 142,
-    "why": "Rank 142 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.1,
-    "cum_lang": 96.4,
-    "floor": ""
-   },
-   {
-    "rank": 143,
-    "badge": 143,
-    "why": "Rank 143 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.6,
-    "cum_lang": 96.5,
-    "floor": ""
-   },
-   {
-    "rank": 144,
-    "badge": 144,
-    "why": "Rank 144 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.1,
-    "cum_lang": 96.6,
-    "floor": ""
-   },
-   {
-    "rank": 145,
-    "badge": 145,
-    "why": "Rank 145 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.6,
-    "cum_lang": 96.8,
-    "floor": ""
-   },
-   {
-    "rank": 146,
-    "badge": 146,
-    "why": "Rank 146 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.2,
-    "cum_lang": 96.9,
-    "floor": ""
-   },
-   {
-    "rank": 147,
-    "badge": 147,
-    "why": "Rank 147 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.7,
-    "cum_lang": 97.0,
-    "floor": ""
-   },
-   {
-    "rank": 148,
-    "badge": 148,
-    "why": "Rank 148 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.2,
-    "cum_lang": 97.2,
-    "floor": ""
-   },
-   {
-    "rank": 149,
-    "badge": 149,
-    "why": "Rank 149 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.7,
-    "cum_lang": 97.2,
-    "floor": ""
-   },
-   {
-    "rank": 150,
-    "badge": 150,
-    "why": "Rank 150 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.2,
-    "cum_lang": 97.2,
-    "floor": ""
-   },
-   {
-    "rank": 151,
-    "badge": 151,
-    "why": "Rank 151 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.7,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 152,
-    "badge": 152,
-    "why": "Rank 152 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.2,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 153,
-    "badge": 153,
-    "why": "Rank 153 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.7,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 154,
-    "badge": 154,
-    "why": "Rank 154 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.3,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 155,
-    "badge": 155,
-    "why": "Rank 155 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.8,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 156,
-    "badge": 156,
-    "why": "Rank 156 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.3,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 157,
-    "badge": 157,
-    "why": "Rank 157 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.8,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 158,
-    "badge": 158,
-    "why": "Rank 158 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.3,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 159,
-    "badge": 159,
-    "why": "Rank 159 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.8,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 160,
-    "badge": 160,
-    "why": "Rank 160 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.3,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 161,
-    "badge": 161,
-    "why": "Rank 161 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.8,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 162,
-    "badge": 162,
-    "why": "Rank 162 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.4,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 163,
-    "badge": 163,
-    "why": "Rank 163 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.9,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 164,
-    "badge": 164,
-    "why": "Rank 164 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.4,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 165,
-    "badge": 165,
-    "why": "Rank 165 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.9,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 166,
-    "badge": 166,
-    "why": "Rank 166 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.4,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 167,
-    "badge": 167,
-    "why": "Rank 167 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.9,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 168,
-    "badge": 168,
-    "why": "Rank 168 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.4,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 169,
-    "badge": 169,
-    "why": "Rank 169 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.9,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 170,
-    "badge": 170,
-    "why": "Rank 170 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.5,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 171,
-    "badge": 171,
-    "why": "Rank 171 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.0,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 172,
-    "badge": 172,
-    "why": "Rank 172 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.5,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 173,
-    "badge": 173,
-    "why": "Rank 173 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 174,
-    "badge": 174,
-    "why": "Rank 174 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 175,
-    "badge": 175,
-    "why": "Rank 175 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 176,
-    "badge": 176,
-    "why": "Rank 176 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 177,
-    "badge": 177,
-    "why": "Rank 177 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 178,
-    "badge": 178,
-    "why": "Rank 178 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 179,
-    "badge": 179,
-    "why": "Rank 179 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.7,
-    "floor": ""
-   },
-   {
-    "rank": 180,
-    "badge": 180,
-    "why": "Rank 180 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 181,
-    "badge": 181,
-    "why": "Rank 181 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 182,
-    "badge": 182,
-    "why": "Rank 182 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.1,
-    "floor": ""
-   },
-   {
-    "rank": 183,
-    "badge": 183,
-    "why": "Rank 183 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.3,
-    "floor": ""
-   },
-   {
-    "rank": 184,
-    "badge": 184,
-    "why": "Rank 184 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.7,
-    "floor": ""
-   },
-   {
-    "rank": 185,
-    "badge": 185,
-    "why": "Rank 185 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.7,
-    "floor": ""
-   },
-   {
-    "rank": 186,
-    "badge": 186,
-    "why": "Rank 186 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.7,
-    "floor": ""
-   },
-   {
-    "rank": 187,
-    "badge": 187,
-    "why": "Rank 187 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.7,
-    "floor": ""
-   },
-   {
-    "rank": 188,
-    "badge": 188,
-    "why": "Rank 188 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.0,
-    "floor": ""
-   },
-   {
-    "rank": 189,
-    "badge": 189,
-    "why": "Rank 189 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.0,
-    "floor": ""
-   },
-   {
-    "rank": 190,
-    "badge": 190,
-    "why": "Rank 190 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.2,
-    "floor": ""
-   },
-   {
-    "rank": 191,
-    "badge": 191,
-    "why": "Rank 191 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.7,
-    "floor": ""
-   },
-   {
-    "rank": 192,
-    "badge": 192,
-    "why": "Rank 192 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 100.0,
-    "floor": ""
-   },
-   {
-    "rank": 193,
-    "badge": 193,
-    "why": "Rank 193 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 100.0,
-    "floor": ""
-   },
-   {
-    "rank": 194,
-    "badge": 194,
-    "why": "Rank 194 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 100.0,
-    "floor": ""
-   },
-   {
-    "rank": 195,
-    "badge": 195,
-    "why": "Rank 195 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 100.0,
-    "floor": ""
-   }
-  ]
- },
- "EE_T3": {
-  "set": "EE_T3",
-  "blurb": "Tâche 3 lands the biggest points for structure. You have two contrasting positions to reformulate, never copy verbatim, then take a stand and defend it with two or three arguments before a conclusion. This pool of 165 debates concentrates fast: the top 12 debates already carry the reformulation moves, concession patterns, and thesis-anchoring transitions the exam rewards. Drill this stack until reformulating a source document, marshaling counter-points, and landing a clean conclusion feel automatic.",
-  "caps": [
-   "**No copying from source documents.** Reproducing any sentence from document_1 or document_2 marks the whole essay A1-non-atteint regardless of language quality. Paraphrase every borrowed idea into your own French.",
-   "**Reformulate BOTH positions in your own words.** The Pragmatique score demands you rewrite Position A and Position B before defending a stance. Silence on one position drops you below B2 on structure.",
-   "**Take a clear stand.** A summary essay that presents both sides without picking one caps at B1 no matter how clean the French. The examiner is looking for a defended thesis, not a balanced report.",
-   "**Four structural moves: reformulation, thesis, 2–3 arguments, conclusion.** The spine T3 examiners are trained to spot. Miss any of the four moves and the essay reads below B2 regardless of vocabulary or grammar.",
-   "**200–250 words, legible handwriting.** Falling short of the word count or writing illegibly triggers A1-non-atteint automatically. Padding to reach length is not the fix; drilling to write 200 clean words under 60 minutes is.",
-   "**Stay on topic and complete the essay.** Hors-sujet or an unfinished essay both trigger A1-non-atteint. Anchor every paragraph explicitly to the debate title."
-  ],
-  "milestones": [
-   {
-    "after_rank": 5,
-    "headline": "First reformulation loop locked",
-    "band": "A2 → B1",
-    "body": "Five debates in, you have the four dominant T3 argument frames: cost-benefit (Colocation), science-anchored concession (Jeux vidéo), environmental trade-off (Voitures en ville), personal-anecdote (Restauration rapide), and short-term-benefit vs long-term-responsibility (Animaux de compagnie). That is the reformulation vocabulary and structural spine the examiner scans for on Pragmatique. Rehearse each of these five under 60-minute timing, hand-writing 200–250 words with zero source lifting. If the four moves come out clean on all five, you have proto-B1 argumentation ready to lift toward B2."
-   },
-   {
-    "after_rank": 12,
-    "headline": "Structural spine tested across 12 debates",
-    "band": "B1 → B2 lower",
-    "body": "Twelve debates covers roughly 12% of the pool but 18% of the language surface. The reformulation moves, discourse markers, and concession patterns are now familiar across lifestyle, health, education, and workplace topics. Named-speaker debates (Adam vs Inès at rank 6, Catherine vs Bernard at rank 4) rehearse the indirect-speech reformulation examiners score high under Pragmatique. If your essays land a clear thesis, two or three arguments, and a defended conclusion under exam timing, you are approaching the NCLC 7 floor. Keep going: the next block lifts you into B2-lower territory with real headroom."
-   },
-   {
-    "after_rank": 25,
-    "headline": "NCLC 7 territory reached",
-    "band": "B2 lower — NCLC 7",
-    "body": "Twenty-five debates cover a full third of the pool language and almost every dominant argument structure T3 rewards. At this stage your essays should read as clear, detailed, argued, and fluent, matching the B2 anchor descriptors. If most practice essays hit 200–250 clean words, reformulate both sources without lifting, and land a defended stance, you are at the NCLC 7 floor with a small buffer. From here, the remaining 35 debates lock in edge topics and second-variant framings. Every additional drill adds robustness against surprise prompts on exam day in September."
-   },
-   {
-    "after_rank": 60,
-    "headline": "Full pool coverage, NCLC 7–8 secured",
-    "band": "B2 upper — NCLC 7–8",
-    "body": "Sixty debates cover about 45% of the pool and 65% of the language surface. You have seen every dominant argument structure, discourse marker, and vocabulary domain the exam tests. Your reformulation move is automatic, your concession-then-refutation transitions are habitual, and unfamiliar prompts read as variations on structures you have drilled. This is NCLC 7 with headroom into NCLC 8. Do not add more debates; drill the sixty you know under exam timing until essays land clean without hesitation, and re-check the no-copying-from-source guardrail on every mock."
-   }
-  ],
-  "order": [
-   {
-    "rank": 1,
-    "badge": 1,
-    "why": "Rank 1 · Vie en colocation — Cost-benefit split (financial savings and social exchange versus privacy loss and chore conflict) is the argument frame T3 rewards most. The two documents offer three symmetrical points each, giving you a template for reformulating balanced sources: \"L'auteur du premier document insiste sur X, tandis que le second met en avant Y.\" Every lifestyle debate in this pool, from location courte durée to relations amicales au travail to produits faits maison, inherits this exact scaffold. Nail the reformulation move here and you transpose it to twenty other prompts without rebuilding the opening from scratch. Ranked first because it seeds the widest range of downstream debates.",
-    "cum_pool": 1.8,
-    "cum_lang": 1.6,
-    "floor": ""
-   },
-   {
-    "rank": 2,
-    "badge": 2,
-    "why": "Rank 2 · Les jeux vidéo (bienfaits cognitifs vs dépendance) — A 57-occurrence workhorse: this debate recurs almost every month in the archive. Value beyond frequency: the two positions are science-anchored (cognitive-benefits studies versus addiction pathology), so you rehearse the \"certes... mais\" concession-refutation move on technical material. That concession pivot works for nouvelles technologies écoles, objets connectés, and social-media debates. The scientific lexicon (mémoire, concentration, capacités cognitives, addiction, adolescence) crosses over to health, education, and youth prompts. Reformulate without lifting: turn \"les jeux vidéo peuvent avoir des effets positifs\" into your own phrasing. Nail this one and half your future openings write themselves.",
-    "cum_pool": 2.4,
-    "cum_lang": 3.5,
-    "floor": ""
-   },
-   {
-    "rank": 3,
-    "badge": 3,
-    "why": "Rank 3 · L'interdiction des voitures dans les centres-villes — Environmental cost-benefit with an infrastructure caveat, the exact argument shape T3 rewards. Document 1 gives you Oslo as a case study (bénéfique, air meilleur, accidents diminués); document 2 forces you to weigh transition costs (parkings, transports en commun, autorisations spéciales). Practice reformulating both without lifting verbatim, then defend a nuanced stance: pure ban or staged rollout. The vocabulary (pollution, embouteillages, transport en commun, transition écologique) redeploys directly to plastique, végétarisme, and grossissement des villes prompts. High recurrence in the archive plus a transferable case-study structure makes this one of the top three drills in the pool.",
-    "cum_pool": 3.0,
-    "cum_lang": 5.3,
-    "floor": ""
-   },
-   {
-    "rank": 4,
-    "badge": 4,
-    "why": "Rank 4 · La restauration rapide — Named-speaker debates (Catherine vs Bernard) dominate this pool. Practicing the reformulation move here teaches you the discourse markers examiners specifically listen for under Pragmatique: \"Catherine estime que… alors que Bernard soutient au contraire que…\" This debate also rewards the personal-anecdote-to-general-claim structure: both speakers argue from lived experience, and you can too. Food and health vocabulary (équilibré, ingrédients, malbouffe, pratique, propre) transfers to menus sans viande, végétarisme, and produits faits maison. Never lift \"je suis complètement contre\" or \"je soutiens la restauration rapide\" verbatim; paraphrase in the third person.",
-    "cum_pool": 3.6,
-    "cum_lang": 7.2,
-    "floor": ""
-   },
-   {
-    "rank": 5,
-    "badge": 5,
-    "why": "Rank 5 · Les animaux de compagnie — Clean short-term-benefit vs long-term-responsibility split. Document 1 loads emotional and developmental gains (compagnon, respect, confiance, autonomie); document 2 forces the cost frame (engagement financier et émotionnel, bien-être, années). This is the template for parenting, education, and lifestyle debates: identify the immediate upside, weigh the durable obligation, land a stance. Reformulate both positions using nominalization (\"Les partisans avancent que…\", \"Les détracteurs soulignent que…\"), then commit to one side with a clear why. Transfers directly to sévérité parents, vêtements de marque, and other family-decision prompts. Locks in Milestone 1: you now hold the four dominant T3 frames.",
-    "cum_pool": 4.2,
-    "cum_lang": 9.1,
-    "floor": ""
-   },
-   {
     "rank": 6,
     "badge": 6,
-    "why": "Rank 6 · Nouvelles technologies dans les écoles (Adam vs Inès) — Named-speaker education debate on a modernization-vs-tradition axis. This is the framing that dominates T3. Teach yourself to reformulate one paragraph as \"Adam défend l'idée que…\" and the other as \"Inès reste sceptique face à…\" and you own a repeatable opening. The vocabulary (autonomie, créativité, ressources, dépendance aux écrans, méthodes traditionnelles) redeploys to livre papier vs numérique, objets connectés, and jeux vidéo. The debate rewards a middle-ground thesis: acknowledge both, then argue for balanced integration. Do not lift Adam's \"je suis persuadé\" or Inès's \"je reste dubitative\"; paraphrase both.",
-    "cum_pool": 5.5,
-    "cum_lang": 10.3,
+    "why": "The Paul-and-Naïma 'we quit Paris for a Calgary bakery' prompt is the canonical opinion-plus-hypothetical response. Only three appearances, but very high pedagogical value: it forces the conditional (si j'étais à leur place, je ferais…) which is a B2 grammatical anchor examiners look for under linguistique. It also pairs directly with rank 9 (leaving for a year-long trip), rank 21 (city-to-countryside move), and rank 23 (quitting a social network) — all life-change opinions that share the reasoning scaffold. Learn the conditional pattern once here and reuse it four times across the pool.",
+    "cum_pool": 11.8,
+    "cum_lang": 25.0,
     "floor": ""
    },
    {
     "rank": 7,
     "badge": 7,
-    "why": "Rank 7 · La sévérité des parents envers les enfants — Personal-testimony opening (I am 22, still live at home, mother calls until I return) paired with a generalizable second document on the risks of over- or under-authority. That anecdote-to-general-claim pivot is a high-value argument structure: essays that generalize from a specific lived example score higher on Pragmatique than pure abstraction. Vocabulary (autoritaires, épanouir, règles, vie en communauté) transfers to caméras à l'école, uniforme scolaire, and other authority-vs-liberty debates. Reformulate carefully; do not lift the \"22 ans\" narrator's line. This debate reappears as ranks 22 and 29 in near-duplicate form, so the drill compounds.",
-    "cum_pool": 6.7,
-    "cum_lang": 11.9,
+    "why": "The Air Tropiques contest ('share your most memorable trip') is the pool's clearest narrative-with-specific-details prompt: dates, destination, activities, what made it special. Five examiner returns. It drills your ability to anchor a story in concrete detail rather than abstractions, which is exactly the 'clear and detailed description' that separates B2 from B1 in the CEFR grid. Direct linguistique credit for lexical precision. Sets up rank 25 (new city discovery) and rank 29 (book fair) — both live-event narratives that reward the same specificity move. High transferability from a compact template.",
+    "cum_pool": 12.9,
+    "cum_lang": 28.7,
     "floor": ""
    },
    {
     "rank": 8,
     "badge": 8,
-    "why": "Rank 8 · Les vols low-cost — First-person practical debate (I fly low-cost / I stopped flying low-cost) that models price-vs-comfort cost-benefit reasoning. The vocabulary (billets, tarifs, sièges inconfortables, sécurité, longs trajets) is a stable travel-lexicon block that also plugs into location courte durée and restauration rapide. Practice reformulating in the third person: \"L'auteur préfère les compagnies low-cost pour leurs prix, malgré l'absence de services.\" That grammatical shift from first to third person is exactly what examiners watch for under Linguistique. Take a stand: low-cost for short-haul, classique for long-haul is a safe nuanced position.",
-    "cum_pool": 7.3,
-    "cum_lang": 13.5,
+    "why": "The neighborhood association prompt returns in eight distinct months with eleven total appearances. It is a hybrid: describe the initiative plus argue why it benefits the community. That combination — narrative plus persuasion — is the exact B2 written-production descriptor, and hitting it earns pragmatique credit for thematic development. Drilling it prepares you for rank 13 (world cleanup day), rank 18 (car-free week), and rank 28 (living with the elderly), all of which fuse personal experience with 'here is why this matters' argumentation. That is a whole family unlocked from one focused session.",
+    "cum_pool": 14.1,
+    "cum_lang": 31.1,
     "floor": ""
    },
    {
     "rank": 9,
     "badge": 9,
-    "why": "Rank 9 · Les relations amicales au travail — Rewards the \"équilibre\" thesis: neither side is pure, so the essay must argue for a balance. That is the most transferable stance-taking pattern in T3: whenever a debate has strong points on both sides, \"il est essentiel de trouver un équilibre entre X et Y, en veillant à ce que…\" is a safe, high-scoring closing. Vocabulary (climat de travail, camaraderie, cohésion, professionnalisme, hiérarchie, productivité) transfers to livraison au bureau, sévérité parents, and other social-professional debates. Reformulate each side symmetrically; the examiner counts moves, not passion. Master this closing and you have a spare pattern for every remaining debate.",
-    "cum_pool": 8.5,
-    "cum_lang": 14.6,
+    "why": "'Should you quit everything for a year of travel?' is the single most examiner-repeated prompt in the pool: nineteen distinct months of appearances, twenty-one total occurrences. When something recurs this hard, it is telling you the task family is core rubric material. It is an opinion piece anchored in personal examples — no research, no external framing. Drilling it earns fluent argumentation connectors (d'une part, d'autre part, en revanche, cela dit) which are pure pragmatique markers. Pairs with rank 6, rank 21, and rank 23. Skip this and you leave free points on the table.",
+    "cum_pool": 15.3,
+    "cum_lang": 33.1,
     "floor": ""
    },
    {
     "rank": 10,
     "badge": 10,
-    "why": "Rank 10 · Les produits faits maison — Autonomy-vs-risk structure. Document 1 sells DIY control (ingrédients, durabilité, économies); document 2 warns of erreurs, contamination, coût initial. The reformulation move here is nominalization: \"La fabrication maison présente l'avantage de…\" beats \"On peut faire ses produits parce que…\" on Linguistique. Personal creativity and durability vocabulary redeploys to livre papier, cuisinier amateur, and produits bio debates. Take a stand and back it with two clear arguments. The essay's job is not to survey but to defend one side while acknowledging the other. Practice the concession: \"Bien que la fabrication maison présente des risques, elle reste…\"",
-    "cum_pool": 9.7,
-    "cum_lang": 15.8,
+    "why": "The travel-agency complaint recurs across twelve months. It is the pool's clean angry-but-polite template, a distinct sociolinguistique register: firm, factual, action-requesting. Drilling it teaches specific complaint vocabulary (retard, prestations défectueuses, insatisfait, exiger un dédommagement) and formal closing formulas (dans l'attente de votre réponse, veuillez agréer). This template also transfers to any réclamation prompt in the pool's long tail. High occurrence, high transferability, low risk of drifting off-topic because the task is so tightly framed by the source scenario.",
+    "cum_pool": 16.5,
+    "cum_lang": 35.2,
     "floor": ""
    },
    {
     "rank": 11,
     "badge": 11,
-    "why": "Rank 11 · La gratuité des musées — Public-good-vs-institutional-viability structure. Document 1 flips the intuitive framing (gratuité = sur-fréquentation, moins de ressources, tarif réduit meilleure solution); document 2 defends free access from an equity angle. Practice the counter-intuitive concession: \"certes la gratuité démocratise la culture, mais elle risque de compromettre l'entretien…\" That structure marks B2 argumentation. Lexicon (accessible, patrimoine, préservation, financement, éducation) crosses to art urbain and cultural-access debates. Reformulate; do not lift \"excellente initiative\" verbatim. This drill teaches you to defend a position that contradicts reader expectations, a powerful Pragmatique lever.",
-    "cum_pool": 10.9,
-    "cum_lang": 16.8,
+    "why": "Culinary competition day is seen across seven months, and it slots directly into the event-review template you built at rank 4. Drilling it lets you re-use that scaffold with fresh vocabulary (jury, épreuves, ingrédients, ambiance conviviale). It is how you convert one template into two prompts of practice with almost no extra cognitive load. Pragmatique credit comes from the 'raisons pour lesquelles' hinge the prompt names explicitly — that is a signposted argumentation move examiners score under structuration and thematic development. Also builds bridge to rank 17 (flea market).",
+    "cum_pool": 17.6,
+    "cum_lang": 37.7,
     "floor": ""
    },
    {
     "rank": 12,
     "badge": 12,
-    "why": "Rank 12 · Faut-il se faire livrer les repas au travail? — Productivity-vs-well-being frame that echoes across workplace debates. This is a variant of rank 26 (Livraison des repas au bureau); expect the pool to test both. Practice the reformulation once and both variants become one-template essays. Vocabulary (gain de temps, productivité, fatigue, pauses régulières, stress, activité intense) transfers to télétravail, relations professionnelles, and long-hours debates. Land the essay on the \"il est essentiel de préserver…\" pivot; that is the Pragmatique move examiners score. Milestone 2 lands here: twelve debates give you the reformulation moves and discourse markers across lifestyle, health, education, and workplace topics.",
-    "cum_pool": 12.1,
-    "cum_lang": 18.2,
+    "why": "'You moved abroad, write about your first impressions' recurs across ten months. It shares the diaspora-narrative shape with rank 2 (study abroad) but shifts to describing cultural adaptation and the challenges of daily life. Drilling it earns you cultural-comparison lexicon (mode de vie, coutumes, quotidien, s'adapter, décalage) that examiners cluster under lexical range in the linguistique family. It also opens the entire expatriate-experience subcluster of the pool, where multiple long-tail prompts vary the same core narrative with only surface changes to country, timeframe, or specific challenge.",
+    "cum_pool": 18.8,
+    "cum_lang": 39.7,
     "floor": ""
    },
    {
     "rank": 13,
     "badge": 13,
-    "why": "Rank 13 · Les vêtements de marque — Identity-and-belonging vs cost-and-wear structure. Document 1 sells expression sociale (personnalité, groupe social, dessins animés); document 2 gives you the practical rebuttal (croissance, usure rapide, salissures). Lexicon (marque, s'exprimer, appartenance, économiser, discrimination) transfers to uniforme scolaire, produits faits maison, and consumption debates. Practice reformulating the first-person-adjacent voice into neutral third person; that grammatical distance is a Linguistique lever. Stance-wise, the \"trouver un juste équilibre\" thesis works safely for parenting decisions like this one. High recurrence means this debate almost certainly appears on your September exam or one very close to it.",
-    "cum_pool": 12.7,
-    "cum_lang": 19.5,
+    "why": "World cleanup day fuses personal narrative with civic argumentation — the same shape as rank 8. Five appearances across five months. Drilling it earns you an environmental-lexicon boost (déchets, préserver, sensibiliser, geste citoyen) plus a reusable 'here is why it matters' paragraph you will deploy in any civic or community prompt. It preps you for rank 18 (car-free week) and much of the community-action long tail. Modest raw occurrence, but very high thematic yield because the vocabulary carries into the pool's environmental subcluster without needing new drills.",
+    "cum_pool": 20.0,
+    "cum_lang": 42.2,
     "floor": ""
    },
    {
     "rank": 14,
     "badge": 14,
-    "why": "Rank 14 · L'uniforme scolaire — Freedom-of-expression vs sense-of-belonging is one of the most common T3 debate shapes. Document 1 argues uniforms crush personality; document 2 argues they build community and reduce class-based discrimination. High-value drill because the two sides map perfectly onto liberté vs égalité, a French political axis. Practice reformulating both without lifting \"s'exprimer à travers la mode\" or \"sentiment d'appartenance.\" Vocabulary (discrimination, classe sociale, communauté, individualité, appartenir) transfers to vêtements de marque, caméras à l'école, and règles collectives debates. Take a stand and defend it; examiners score clarity of position, not agreement with any side.",
-    "cum_pool": 13.3,
-    "cum_lang": 20.8,
+    "why": "'Express admiration for a personality' appears in eleven months. It is the pool's stable biographical-description prompt: describe someone's actions in detail, explain why you admire them. Drilling it forces past-tense narrative on a third party (a shift from your own experience) and precise action vocabulary. That expands your grammatical range, a direct linguistique boost. It also pairs with rank 19 (contest article on a favorite artist), which is essentially the same task in different clothing. Two prompts of practice from one template, plus a genuine grammatical stretch.",
+    "cum_pool": 21.2,
+    "cum_lang": 44.0,
     "floor": ""
    },
    {
     "rank": 15,
     "badge": 15,
-    "why": "Rank 15 · Femmes et hommes: vers l'égalité — Progress-and-remaining-gap structure: one document lists achievements, the other lists persistent problems. This is the template for social-change essays. The stance move here is not for-or-against (nobody argues against equality). Instead, the thesis becomes \"quelles mesures encore nécessaires?\" That kind of purpose-oriented thesis is high-value on Pragmatique. Vocabulary (égalité, discrimination, stéréotypes, mesures, avancées, salaires, carrière) transfers to droits sociaux, éducation, and workplace-fairness debates. Reformulate without lifting \"l'égalité entre les hommes et les femmes est indispensable.\" This debate teaches you to argue a nuanced position on a consensus topic.",
-    "cum_pool": 13.9,
-    "cum_lang": 22.1,
+    "why": "An evening at a show you loved is the personal-taste review template. Five appearances across five months. Drilling it earns you the aesthetic-reaction lexicon (émouvant, marquant, m'a bouleversé, mise en scène, interprétation) and the 'what particularly struck me' articulation the prompt calls for. It transfers directly to rank 29 (book fair) and rank 26 (music school open day), all cultural-event reactions with the same evaluative spine. Sociolinguistique credit comes from the personal-blog register: warm, subjective, opinionated without being sloppy.",
+    "cum_pool": 22.4,
+    "cum_lang": 46.3,
     "floor": ""
    },
    {
     "rank": 16,
     "badge": 16,
-    "why": "Rank 16 · Le grossissement des villes — Environmental impact vs urban efficiency structure. Document 1 loads the destructive frame (déforestation, carbone); document 2 counter-intuitively defends cities (consommation d'énergie d'un citadin moins importante que celle d'un habitant de la campagne). The counter-intuitive angle is the drill: practice defending a position that flips reader expectations. Vocabulary (urbanisation, écologique, consommation, environnement, citadin, campagne) transfers to interdiction voitures, plastique, and végétarisme debates. Reformulate the second position carefully; the source French is a little rough, so paraphrase into clean prose without copying. This debate rewards essays that acknowledge complexity rather than adopting a one-sided position.",
-    "cum_pool": 14.5,
-    "cum_lang": 23.5,
+    "why": "The online-training forum debate has twenty-seven total occurrences — the highest raw count in the top 30. It sits at rank 16 only because earlier items already covered its template shape. Drilling it earns you modern-technology and learning-modality lexicon (autonomie, plateforme, interactivité, à distance, contrainte de temps) plus a compact aimer-plus-pas-aimer argumentation. Sociolinguistique credit for forum-register control. Given the raw recurrence, drilling this is nearly certain to pay off in the exam room; the marginal cost is low because the template overlaps with rank 12 and rank 22.",
+    "cum_pool": 23.5,
+    "cum_lang": 47.6,
     "floor": ""
    },
    {
     "rank": 17,
     "badge": 17,
-    "why": "Rank 17 · Les menus sans viande dans les cantines scolaires — Public-health-vs-family-access frame. Document 1 defends the change (protéines animales excessives, alternatives saines, économique); document 2 objects on equity grounds (viande = only viande access for poor families, producteurs locaux affectés). The equity counter-argument is a high-value move: turn a health debate into a social-justice question. Vocabulary (alimentation, croissance, protéines, alternatives, familles en difficulté, producteurs) transfers to végétarisme, restauration rapide, and produits maison. Land the essay on a proposal (\"des menus variés qui respectent…\"), not a pure position. This structure recurs across menu, service, and public-policy debates.",
-    "cum_pool": 15.2,
-    "cum_lang": 24.8,
+    "why": "The flea-market blog article has eighteen appearances and returns across eighteen distinct months. Drilling it earns you sensory-narrative writing (objets uniques, ambiance conviviale, échanges chaleureux) — a specific register that transfers to any outdoor community event prompt. It shares its shape with rank 4 (fitness class), rank 11 (culinary competition), and rank 26 (music school open day). Hits the 'clear plus detailed description' B2 anchor squarely. High recurrence means your practice minutes have a strong probability of landing an exam-day match with only cosmetic swaps.",
+    "cum_pool": 24.7,
+    "cum_lang": 48.9,
     "floor": ""
    },
    {
     "rank": 18,
     "badge": 18,
-    "why": "Rank 18 · Cuisinier amateur ou cuisinier professionnel — Training-vs-viral-talent structure with a modern-media twist. The source documents are short and a little rough, which is good practice for reformulating skeletal material into full French prose. Practice the \"certes… mais\" move: acknowledge amateurs' successes, then argue for the necessity of formal training, or vice versa. Vocabulary (formation, expérience, compétences, réseaux sociaux, buzz, métier) transfers to éducation, digital-era, and professional-qualification debates. Lower recurrence, but drills the amateur-vs-expert axis that recurs implicitly across many pool debates. The sparseness of the source is your practice for tricky exam-day prompts.",
-    "cum_pool": 16.4,
-    "cum_lang": 25.5,
+    "why": "Car-free week is a fourteen-month recurring event-plus-opinion prompt. Drilling it earns you a compact civic-argumentation frame (pollution, mobilité douce, prise de conscience, initiative citoyenne) and reinforces the 'describe the event, then evaluate its message' shape you learned at rank 8 and rank 13. Three prompts of practice from one template. Together they cover a broad slice of the civic-and-environmental subcluster in the pool tail. Linguistique credit for topical vocabulary, pragmatique credit for the built-in evaluation move the prompt asks for.",
+    "cum_pool": 25.9,
+    "cum_lang": 50.3,
     "floor": ""
    },
    {
     "rank": 19,
     "badge": 19,
-    "why": "Rank 19 · Le travail: favorable ou défavorable? — Work-as-identity vs work-as-burden. Document 1 argues we spend too much time working and should reclaim life; document 2 argues work defines us socially (\"Que fais-tu dans la vie?\"). Reformulating an identity-based argument in the third person is a Linguistique drill: \"Selon les partisans du repositionnement du travail…\" Vocabulary (satisfaction, contraintes, identité, entreprise, épanouissement, définir) transfers to livraison au travail, relations amicales, and lifestyle-choice debates. Take a stand: is work self-defining or self-limiting? This debate rewards essays that link personal experience to broader social claims, another anecdote-to-general drill.",
-    "cum_pool": 17.6,
-    "cum_lang": 26.5,
+    "why": "The favorite-artist contest is a nineteen-month recurring biographical prompt with nineteen total occurrences. It doubles down on what you drilled at rank 14 but adds contest framing: justify why you chose this person for a broad audience. Drilling it earns you biographical vocabulary (parcours, œuvre marquante, engagement, influence) and the concours register (persuasive but personal). Pragmatique credit for the 'why this person' thesis followed by supporting evidence. Very high raw occurrence — the pool keeps returning to biographical contests, so this template pays off across variants.",
+    "cum_pool": 27.1,
+    "cum_lang": 51.5,
     "floor": ""
    },
    {
     "rank": 20,
     "badge": 20,
-    "why": "Rank 20 · Les caméras de surveillance à l'école — Security-vs-privacy structure, one of the most common axes in T3. Document 1 defends cameras (dissuader, rassurer, bonnes conditions); document 2 opposes them (contournables, mieux vaut communication, respecter les règles). Practice reformulating using indirect speech: \"Le premier auteur, enseignant à Montréal, soutient que…\" That discourse framing is high-value on Pragmatique. Vocabulary (sécurité, dissuader, vie privée, règles, discipline, communication) transfers to objets connectés, uniforme scolaire, and règles collectives debates. Take a stand and defend it: the debate rewards a clean position more than a hedged one, because both sides have merit.",
-    "cum_pool": 18.2,
-    "cum_lang": 27.5,
+    "why": "Only two appearances, but the 'organize a welcome day for francophone students' prompt is a distinct email-with-practical-info type: dates, location, program, contact. Drilling it earns sociolinguistique credit for institutional register and a checklist-writing skill (avoiding vague answers when the prompt asks for concrete logistics). It transfers to any 'you were tasked with X, write to inform participants' prompt in the pool tail. Low raw occurrence, but a clean template that reduces panic if an institutional-logistics variant shows up on exam day.",
+    "cum_pool": 28.2,
+    "cum_lang": 54.0,
     "floor": ""
    },
    {
     "rank": 21,
     "badge": 21,
-    "why": "Rank 21 · L'utilisation du plastique — Named-speaker debate (Franck vs Amicha) on utility-vs-pollution axis. Classic environmental debate with a nuanced middle position: even Franck acknowledges limits. Practice reformulating the \"utilisation limitée\" stance carefully; that is a nuanced middle position, not a pure pro-plastique stance. Vocabulary (recyclage, environnement, alternatives, écologiques, pollution, déchets, océans) transfers to interdiction voitures, produits faits maison, and grossissement des villes debates. Land the essay on staged reduction, not total ban. Reformulate both positions without lifting \"il prône une utilisation responsable\" or \"elle soutient que les déchets plastiques polluent.\"",
-    "cum_pool": 18.8,
-    "cum_lang": 28.8,
+    "why": "The city-to-countryside move is a twelve-month recurring life-change opinion. Drilling it reinforces the reasoning scaffold from rank 6 and rank 9 with different vocabulary (rythme de vie, verdure, calme, tranquillité versus densité, stress, pollution) and adds a comparison structure examiners like. Linguistique credit for lexical range, pragmatique credit for structured argumentation with an implicit before-after axis. It is the third prompt in the life-change family, and after this one you own the whole subcluster: any variant reduces to a template swap.",
+    "cum_pool": 29.4,
+    "cum_lang": 55.3,
     "floor": ""
    },
    {
     "rank": 22,
     "badge": 22,
-    "why": "Rank 22 · La sévérité des parents (étude Toronto vs témoignages) — Study-versus-testimony structure. One document cites a formal research finding, the other presents anecdotal parent testimonies. Practice the citation move: \"Selon une étude de l'Université de Toronto…\" is a high-value Pragmatique opener. Vocabulary (parentalité, autoritaire, discipline, punitions, responsabilité, coopératives) overlaps heavily with ranks 7 and 29. Reformulate both without lifting the \"juin dernier\" study details verbatim. The stance move here is meta: which evidence type do you trust more, and why? That reflective framing is a B2 argumentation move examiners score high on Pragmatique.",
-    "cum_pool": 19.4,
-    "cum_lang": 30.1,
+    "why": "Colocation testimonial appears in nine months. It is a describe-and-evaluate personal-experience prompt in the peer-forum register. Drilling it earns you the housing-share lexicon (colocataires, partage des tâches, espace commun, compromis, indépendance) and forces you to articulate both benefits and frictions — an examiner-friendly balanced-opinion structure that carries direct pragmatique credit. It slots into the same shape as rank 2 and rank 12 — the shared-living or shared-experience family. One more template variant in your reusable stack of forum testimonials.",
+    "cum_pool": 30.6,
+    "cum_lang": 56.6,
     "floor": ""
    },
    {
     "rank": 23,
     "badge": 23,
-    "why": "Rank 23 · La chasse aux animaux — Named-speaker debate (Sophie vs Bernard). Ethical-objection vs utility-management axis. Both speakers argue from short direct quotes, so your reformulation must expand them into full French prose. Practice: \"Sophie ne comprend pas comment on peut prendre plaisir à…, tandis que Bernard rappelle que la chasse répond à des besoins divers…\" Vocabulary (nature, destruction, faune, gestion, prestige, se nourrir) transfers to environmental debates and rural-vs-urban lifestyle prompts. Take a stand: pure pro- or pure anti-hunting essays both score well if defended cleanly and with a real counter-argument concession baked in.",
-    "cum_pool": 20.0,
-    "cum_lang": 31.1,
+    "why": "'You quit your favorite social network' appears in six months. It is a life-change plus reasoning prompt aimed at your friends. Drilling it earns you contemporary-life vocabulary (dépendance, temps d'écran, se recentrer, bien-être) and the friendly-tu register you also use at rank 5. Pragmatique credit for a clear thesis and supporting reasons. Pairs naturally with the life-change subcluster (rank 6, rank 9, rank 21). Modest occurrence, but topical vocabulary that transfers into any modern-lifestyle prompt in the pool tail.",
+    "cum_pool": 31.8,
+    "cum_lang": 58.1,
     "floor": ""
    },
    {
     "rank": 24,
     "badge": 24,
-    "why": "Rank 24 · Location courte durée — Convenience-vs-cost frame. Short documents, which makes this excellent practice for expanding thin source material into full French prose without copying. Vocabulary (flexibilité, hébergement, engagement, tourisme, disponibilité, planifier) transfers to vols low-cost, colocation, and voyage debates. Lower-frequency debate, but drills the \"brief document to developed essay\" skill, which is exactly what surprises weaker candidates on exam day. Stance move: is short-term rental worth its price and disruption? Take one side and defend it with two arguments plus one concession to the other side. The essay's spine is what scores, not vocabulary gymnastics.",
-    "cum_pool": 21.2,
-    "cum_lang": 31.9,
+    "why": "The 'most beautiful party' contest returns in eleven distinct months. Drilling it earns you festive-event narrative (ambiance, décoration, invités, moment fort) and forces you to close with a 'what I take away' reflection — a pragmatique closing move examiners reward under thematic development. Transfers to rank 15 and rank 29, both cultural-event narratives that reward the same shape. Solid recurrence, warm register, no traps: a low-risk template to add to your reusable stack for personal-celebration variants in the pool.",
+    "cum_pool": 32.9,
+    "cum_lang": 59.3,
     "floor": ""
    },
    {
     "rank": 25,
     "badge": 25,
-    "why": "Rank 25 · Végétarisme — Health-and-environment vs nutrition-and-tradition frame. Document 1 loads the case (santé, environnement, respect des animaux); document 2 counter-argues (nutriments essentiels, habitudes traditionnelles, complexité). Practice the concession move: \"Bien que le végétarisme présente des bénéfices santé et écologiques…\" Vocabulary (régime alimentaire, nutriments, protéines, environnement, traditions, équilibrer) transfers to menus sans viande, restauration rapide, and animaux debates. Middle-ground topic that rewards a nuanced stance. Milestone 3 lands here: twenty-five debates covers a full third of the pool language and almost every dominant argument structure T3 rewards. NCLC 7 floor is within reach.",
-    "cum_pool": 21.8,
-    "cum_lang": 32.8,
+    "why": "Discovering a new city is a six-month recurring travel-narrative prompt. Drilling it earns you place-description vocabulary (patrimoine, ruelles, quartier animé, spécialités locales) and the aimé-versus-moins-apprécié evaluative structure the prompt names explicitly. Pairs with rank 7 (memorable trip) and rank 12 (moving abroad) — the travel-narrative subcluster is locked in once you have this one plus those two. Pragmatique credit comes from the built-in comparative move; linguistique credit from place-lexicon breadth.",
+    "cum_pool": 34.1,
+    "cum_lang": 60.7,
     "floor": ""
    },
    {
     "rank": 26,
     "badge": 26,
-    "why": "Rank 26 · Livraison des repas au bureau — Direct variant of rank 12 with slightly different wording. Same productivity-vs-well-being frame. Drill this after rank 12; the reformulation move you practice on 12 transfers wholesale. Vocabulary (gain de temps, efficacité, fatigue, pauses, activité intense, notoriété) transfers to télétravail and work-organization debates. The redundancy is deliberate: the exam pool contains near-duplicates, so practicing one covers both. Focus your effort on comparing your rank 12 essay side-by-side with rank 26 to spot which reformulations you can reuse verbatim and which need adjustment. That transfer test is the exact skill needed on exam day.",
-    "cum_pool": 22.4,
-    "cum_lang": 33.9,
+    "why": "Music school open-day invitation returns in six months. Drilling it earns you a compact event-narrative template with concrete detail (cours d'essai, concerts, atmosphère). Sociolinguistique credit for the friend-audience register you shared at rank 5 and rank 23. Modest raw occurrence, but the template is reusable across the invitation-response subcluster in the pool tail. Also thematically overlaps with rank 1 (music-school context), which means vocabulary you built at rank 1 transfers directly here at almost no extra cost.",
+    "cum_pool": 35.3,
+    "cum_lang": 62.0,
     "floor": ""
    },
    {
     "rank": 27,
     "badge": 27,
-    "why": "Rank 27 · L'art urbain — Cultural-enrichment vs vandalism-and-degradation frame. Document 1 celebrates the interaction between artistes and public hétéroclite; document 2 flags dégradation and pollution visuelle. Practice reformulating aesthetic vocabulary into evaluative French: \"Le street art enrichit l'espace urbain, mais…\" Vocabulary (patrimoine, dégradation, communauté, expression artistique, vandalisme, éphémère) transfers to musées, uniforme, and public-space debates. This debate rewards nuance; pure celebration or pure rejection both underscore weaker essays. The reformulation move here practices turning descriptive prose into argumentative prose, a specific Pragmatique skill T3 examiners weigh.",
-    "cum_pool": 23.0,
-    "cum_lang": 35.2,
+    "why": "The 'present your profession to schoolchildren' prompt appears only once in the archive, but the task shape — describe your job, explain why it is interesting to a specific young audience — is distinct and worth one focused session. Sociolinguistique credit for adjusting register to schoolchildren via their teachers: not too technical, not too casual. Vocabulary gain: professional-life lexicon (collègues, quotidien, missions, satisfaction). Low recurrence, but the audience-adjustment skill you build here transfers to any 'write to a specific group about your experience' prompt.",
+    "cum_pool": 36.5,
+    "cum_lang": 64.5,
     "floor": ""
    },
    {
     "rank": 28,
     "badge": 28,
-    "why": "Rank 28 · Le livre papier ou le livre numérique? — Practical-benefits vs emotional-attachment frame. Document 1 sells numérique (économique, accessible aux personnes malvoyantes); document 2 defends papier (odeur, offrir, transmet des émotions). Practice reformulating sensory vocabulary into argumentative prose: the \"odeur du neuf\" line is emotive, so paraphrase into \"la dimension sensorielle et personnelle du livre papier…\" Vocabulary (lecture, économique, accessibilité, sensoriel, technologie, malvoyants) transfers to nouvelles technologies écoles, objets connectés, and cultural debates. Take a stand and back it: purity of position matters more than which side you pick.",
-    "cum_pool": 23.6,
-    "cum_lang": 36.2,
+    "why": "'Living with the elderly' has eight appearances across seven months. It is a testimonial prompt that fuses experience with reflection on a social relationship. Drilling it earns you inter-generational vocabulary (patience, écoute, transmission, complicité) and the 'how did you manage' articulation the prompt requests. Pairs shape-wise with rank 22 (colocation) — both are cohabitation-testimonial prompts with slightly different registers. Solid recurrence, warm and reflective tone, another template variant for the personal-experience-plus-reflection family that anchors this pool.",
+    "cum_pool": 37.6,
+    "cum_lang": 65.7,
     "floor": ""
    },
    {
     "rank": 29,
     "badge": 29,
-    "why": "Rank 29 · Sévérité parentale (variant, single narrator) — Direct variant of rank 7 with condensed narrator. Practice the same anecdote-to-general move; the redundancy locks in the transferable structure. Vocabulary (autorité, épanouissement, confiance, règles, société, stricts) is nearly identical to ranks 7 and 22. This debate has n_occurrences = 1 in the archive, a rare form, but the argument structure recycles high-frequency parental-authority frames. Drill it as a five-minute rewrite of your rank 7 essay: how many sentences can you reuse or lightly adjust? That transfer test is the exact skill needed for surprise exam prompts on your September test.",
-    "cum_pool": 24.8,
-    "cum_lang": 37.1,
+    "why": "The book fair event returns in ten distinct months. Drilling it earns you cultural-event narrative with a literary bent (auteurs, dédicaces, échanges, découvertes) and cements the review-and-recommend shape you started at rank 4 and refined at rank 15. Sociolinguistique credit for the friend-message register. Solid, reliable, low-risk practice: no unusual vocabulary demands, no register traps. A comfortable template that rounds out your cultural-event review family alongside rank 15 and rank 24.",
+    "cum_pool": 38.8,
+    "cum_lang": 66.7,
     "floor": ""
    },
    {
     "rank": 30,
     "badge": 30,
-    "why": "Rank 30 · Les objets connectés — Convenience-vs-security frame. Document 1 loads utility (chauffage, portes, montre connectée, santé); document 2 flips to threat (50 milliards, piratage, cambrioleur). The counter-frame flip is the drill: practice moving from a positive tech opening to a security-based concern in the same essay. Vocabulary (connectés, sécurité, pirater, à distance, contrôle, cambrioleur) transfers to caméras à l'école, nouvelles technologies écoles, and privacy debates. Land the essay on measured adoption, not banning. Rounds out your top-30: from here, drill these thirty until they read fluent under 60-minute timing, then move to the tail.",
-    "cum_pool": 25.5,
-    "cum_lang": 38.3,
+    "why": "Learning a foreign language returns in fifteen distinct months. Drilling it earns you learning-experience vocabulary (progression, difficultés, immersion, motivation) and reinforces the narrative-plus-reflection template you own by now. Marginal return past here shrinks: the template shape is already yours from earlier ranks (rank 2, rank 12, rank 22, rank 28), so this is mostly a vocabulary refresh. Still solid, still exam-realistic, still safer than dropping into unpracticed pool tail. If you have time, drill it; if not, the transfer from earlier work carries you.",
+    "cum_pool": 40.0,
+    "cum_lang": 67.4,
     "floor": ""
    },
    {
     "rank": 31,
     "badge": 31,
     "why": "Rank 31 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.1,
-    "cum_lang": 39.1,
+    "cum_pool": 41.2,
+    "cum_lang": 68.4,
     "floor": ""
    },
    {
     "rank": 32,
     "badge": 32,
     "why": "Rank 32 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.7,
-    "cum_lang": 40.2,
+    "cum_pool": 42.4,
+    "cum_lang": 69.4,
     "floor": ""
    },
    {
     "rank": 33,
     "badge": 33,
     "why": "Rank 33 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.3,
-    "cum_lang": 41.3,
+    "cum_pool": 43.5,
+    "cum_lang": 70.9,
     "floor": ""
    },
    {
     "rank": 34,
     "badge": 34,
     "why": "Rank 34 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.9,
-    "cum_lang": 42.3,
+    "cum_pool": 44.7,
+    "cum_lang": 72.1,
     "floor": ""
    },
    {
     "rank": 35,
     "badge": 35,
     "why": "Rank 35 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.5,
-    "cum_lang": 43.4,
+    "cum_pool": 45.9,
+    "cum_lang": 73.0,
     "floor": ""
    },
    {
     "rank": 36,
     "badge": 36,
-    "why": "Rank 36 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 29.7,
-    "cum_lang": 44.1,
+    "why": "Rank 36 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 47.1,
+    "cum_lang": 73.8,
     "floor": ""
    },
    {
     "rank": 37,
     "badge": 37,
     "why": "Rank 37 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.3,
-    "cum_lang": 44.8,
+    "cum_pool": 48.2,
+    "cum_lang": 74.6,
     "floor": ""
    },
    {
     "rank": 38,
     "badge": 38,
     "why": "Rank 38 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.9,
-    "cum_lang": 45.7,
+    "cum_pool": 49.4,
+    "cum_lang": 75.4,
     "floor": ""
    },
    {
     "rank": 39,
     "badge": 39,
     "why": "Rank 39 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.5,
-    "cum_lang": 46.8,
+    "cum_pool": 50.6,
+    "cum_lang": 76.2,
     "floor": ""
    },
    {
     "rank": 40,
     "badge": 40,
     "why": "Rank 40 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.1,
-    "cum_lang": 47.6,
+    "cum_pool": 51.8,
+    "cum_lang": 76.8,
     "floor": ""
    },
    {
     "rank": 41,
     "badge": 41,
     "why": "Rank 41 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.7,
-    "cum_lang": 48.3,
+    "cum_pool": 52.9,
+    "cum_lang": 77.5,
     "floor": ""
    },
    {
     "rank": 42,
     "badge": 42,
     "why": "Rank 42 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.3,
-    "cum_lang": 49.0,
+    "cum_pool": 54.1,
+    "cum_lang": 78.1,
     "floor": ""
    },
    {
     "rank": 43,
     "badge": 43,
     "why": "Rank 43 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.9,
-    "cum_lang": 49.7,
+    "cum_pool": 55.3,
+    "cum_lang": 79.5,
     "floor": ""
    },
    {
     "rank": 44,
     "badge": 44,
     "why": "Rank 44 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 34.5,
-    "cum_lang": 50.5,
+    "cum_pool": 56.5,
+    "cum_lang": 79.9,
     "floor": ""
    },
    {
     "rank": 45,
     "badge": 45,
     "why": "Rank 45 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 35.2,
-    "cum_lang": 51.6,
+    "cum_pool": 57.6,
+    "cum_lang": 80.4,
     "floor": ""
    },
    {
     "rank": 46,
     "badge": 46,
-    "why": "Rank 46 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 36.4,
-    "cum_lang": 51.9,
+    "why": "Rank 46 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 58.8,
+    "cum_lang": 81.6,
     "floor": ""
    },
    {
     "rank": 47,
     "badge": 47,
     "why": "Rank 47 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.0,
-    "cum_lang": 53.0,
+    "cum_pool": 60.0,
+    "cum_lang": 82.8,
     "floor": ""
    },
    {
     "rank": 48,
     "badge": 48,
     "why": "Rank 48 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.6,
-    "cum_lang": 54.0,
+    "cum_pool": 61.2,
+    "cum_lang": 83.2,
     "floor": ""
    },
    {
     "rank": 49,
     "badge": 49,
     "why": "Rank 49 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.2,
-    "cum_lang": 55.1,
+    "cum_pool": 62.4,
+    "cum_lang": 83.6,
     "floor": ""
    },
    {
     "rank": 50,
     "badge": 50,
     "why": "Rank 50 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.8,
-    "cum_lang": 55.8,
+    "cum_pool": 63.5,
+    "cum_lang": 84.0,
     "floor": ""
    },
    {
     "rank": 51,
     "badge": 51,
     "why": "Rank 51 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.4,
-    "cum_lang": 56.7,
+    "cum_pool": 64.7,
+    "cum_lang": 84.8,
     "floor": ""
    },
    {
     "rank": 52,
     "badge": 52,
     "why": "Rank 52 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.0,
-    "cum_lang": 57.7,
+    "cum_pool": 65.9,
+    "cum_lang": 85.6,
     "floor": ""
    },
    {
     "rank": 53,
     "badge": 53,
     "why": "Rank 53 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.6,
-    "cum_lang": 58.7,
+    "cum_pool": 67.1,
+    "cum_lang": 86.0,
     "floor": ""
    },
    {
     "rank": 54,
     "badge": 54,
     "why": "Rank 54 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.2,
-    "cum_lang": 59.4,
+    "cum_pool": 68.2,
+    "cum_lang": 86.8,
     "floor": ""
    },
    {
     "rank": 55,
     "badge": 55,
     "why": "Rank 55 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.8,
-    "cum_lang": 60.4,
+    "cum_pool": 69.4,
+    "cum_lang": 87.6,
     "floor": ""
    },
    {
     "rank": 56,
     "badge": 56,
     "why": "Rank 56 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.4,
-    "cum_lang": 61.1,
+    "cum_pool": 70.6,
+    "cum_lang": 88.3,
     "floor": ""
    },
    {
     "rank": 57,
     "badge": 57,
     "why": "Rank 57 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.0,
-    "cum_lang": 62.0,
+    "cum_pool": 71.8,
+    "cum_lang": 88.7,
     "floor": ""
    },
    {
     "rank": 58,
     "badge": 58,
     "why": "Rank 58 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.6,
-    "cum_lang": 62.9,
+    "cum_pool": 72.9,
+    "cum_lang": 89.7,
     "floor": ""
    },
    {
     "rank": 59,
     "badge": 59,
     "why": "Rank 59 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.2,
-    "cum_lang": 63.7,
+    "cum_pool": 74.1,
+    "cum_lang": 90.7,
     "floor": ""
    },
    {
     "rank": 60,
     "badge": 60,
     "why": "Rank 60 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.8,
-    "cum_lang": 64.6,
+    "cum_pool": 75.3,
+    "cum_lang": 90.9,
     "floor": ""
    },
    {
     "rank": 61,
     "badge": 61,
     "why": "Rank 61 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.5,
-    "cum_lang": 65.5,
+    "cum_pool": 76.5,
+    "cum_lang": 91.5,
     "floor": ""
    },
    {
     "rank": 62,
     "badge": 62,
     "why": "Rank 62 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.1,
-    "cum_lang": 66.0,
+    "cum_pool": 77.6,
+    "cum_lang": 92.1,
     "floor": ""
    },
    {
     "rank": 63,
     "badge": 63,
     "why": "Rank 63 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.7,
-    "cum_lang": 66.9,
+    "cum_pool": 78.8,
+    "cum_lang": 92.7,
     "floor": ""
    },
    {
     "rank": 64,
     "badge": 64,
     "why": "Rank 64 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.3,
-    "cum_lang": 67.4,
+    "cum_pool": 80.0,
+    "cum_lang": 93.3,
     "floor": ""
    },
    {
     "rank": 65,
     "badge": 65,
     "why": "Rank 65 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.9,
-    "cum_lang": 67.9,
+    "cum_pool": 81.2,
+    "cum_lang": 93.7,
     "floor": ""
    },
    {
     "rank": 66,
     "badge": 66,
     "why": "Rank 66 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.5,
-    "cum_lang": 68.5,
+    "cum_pool": 82.4,
+    "cum_lang": 94.2,
     "floor": ""
    },
    {
     "rank": 67,
     "badge": 67,
     "why": "Rank 67 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.1,
-    "cum_lang": 69.3,
+    "cum_pool": 83.5,
+    "cum_lang": 95.0,
     "floor": ""
    },
    {
     "rank": 68,
     "badge": 68,
     "why": "Rank 68 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.7,
-    "cum_lang": 69.9,
+    "cum_pool": 84.7,
+    "cum_lang": 95.2,
     "floor": ""
    },
    {
     "rank": 69,
     "badge": 69,
     "why": "Rank 69 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.3,
-    "cum_lang": 70.5,
+    "cum_pool": 85.9,
+    "cum_lang": 95.6,
     "floor": ""
    },
    {
     "rank": 70,
     "badge": 70,
-    "why": "Rank 70 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 51.5,
-    "cum_lang": 70.8,
+    "why": "Rank 70 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 87.1,
+    "cum_lang": 95.8,
     "floor": ""
    },
    {
     "rank": 71,
     "badge": 71,
     "why": "Rank 71 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.1,
-    "cum_lang": 71.5,
+    "cum_pool": 88.2,
+    "cum_lang": 96.2,
     "floor": ""
    },
    {
     "rank": 72,
     "badge": 72,
     "why": "Rank 72 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.7,
-    "cum_lang": 71.9,
+    "cum_pool": 89.4,
+    "cum_lang": 96.4,
     "floor": ""
    },
    {
     "rank": 73,
     "badge": 73,
     "why": "Rank 73 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.3,
-    "cum_lang": 72.6,
+    "cum_pool": 90.6,
+    "cum_lang": 96.4,
     "floor": ""
    },
    {
     "rank": 74,
     "badge": 74,
     "why": "Rank 74 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.9,
-    "cum_lang": 73.3,
+    "cum_pool": 91.8,
+    "cum_lang": 96.8,
     "floor": ""
    },
    {
     "rank": 75,
     "badge": 75,
     "why": "Rank 75 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.5,
-    "cum_lang": 73.8,
+    "cum_pool": 92.9,
+    "cum_lang": 97.2,
     "floor": ""
    },
    {
     "rank": 76,
     "badge": 76,
     "why": "Rank 76 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.2,
-    "cum_lang": 74.4,
+    "cum_pool": 94.1,
+    "cum_lang": 97.6,
     "floor": ""
    },
    {
     "rank": 77,
     "badge": 77,
     "why": "Rank 77 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.8,
-    "cum_lang": 75.1,
+    "cum_pool": 95.3,
+    "cum_lang": 98.0,
     "floor": ""
    },
    {
     "rank": 78,
     "badge": 78,
     "why": "Rank 78 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.4,
-    "cum_lang": 75.7,
+    "cum_pool": 96.5,
+    "cum_lang": 98.2,
     "floor": ""
    },
    {
     "rank": 79,
     "badge": 79,
     "why": "Rank 79 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.0,
-    "cum_lang": 76.1,
+    "cum_pool": 97.6,
+    "cum_lang": 98.4,
     "floor": ""
    },
    {
     "rank": 80,
     "badge": 80,
     "why": "Rank 80 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.6,
-    "cum_lang": 76.7,
+    "cum_pool": 98.8,
+    "cum_lang": 98.6,
     "floor": ""
    },
    {
     "rank": 81,
     "badge": 81,
     "why": "Rank 81 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.2,
-    "cum_lang": 77.2,
+    "cum_pool": 100.0,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 82,
     "badge": 82,
-    "why": "Rank 82 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.8,
-    "cum_lang": 77.7,
+    "why": "Rank 82 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 83,
     "badge": 83,
-    "why": "Rank 83 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.4,
-    "cum_lang": 78.2,
+    "why": "Rank 83 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.0,
     "floor": ""
    },
    {
     "rank": 84,
     "badge": 84,
-    "why": "Rank 84 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.0,
-    "cum_lang": 78.7,
+    "why": "Rank 84 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.4,
     "floor": ""
    },
    {
     "rank": 85,
     "badge": 85,
-    "why": "Rank 85 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.6,
-    "cum_lang": 79.3,
-    "floor": ""
-   },
-   {
-    "rank": 86,
-    "badge": 86,
-    "why": "Rank 86 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.2,
-    "cum_lang": 79.8,
-    "floor": ""
-   },
-   {
-    "rank": 87,
-    "badge": 87,
-    "why": "Rank 87 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.8,
-    "cum_lang": 80.3,
-    "floor": ""
-   },
-   {
-    "rank": 88,
-    "badge": 88,
-    "why": "Rank 88 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.4,
-    "cum_lang": 80.9,
-    "floor": ""
-   },
-   {
-    "rank": 89,
-    "badge": 89,
-    "why": "Rank 89 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.0,
-    "cum_lang": 81.4,
-    "floor": ""
-   },
-   {
-    "rank": 90,
-    "badge": 90,
-    "why": "Rank 90 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.6,
-    "cum_lang": 81.9,
-    "floor": ""
-   },
-   {
-    "rank": 91,
-    "badge": 91,
-    "why": "Rank 91 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.2,
-    "cum_lang": 82.3,
-    "floor": ""
-   },
-   {
-    "rank": 92,
-    "badge": 92,
-    "why": "Rank 92 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.8,
-    "cum_lang": 82.8,
-    "floor": ""
-   },
-   {
-    "rank": 93,
-    "badge": 93,
-    "why": "Rank 93 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.5,
-    "cum_lang": 83.3,
-    "floor": ""
-   },
-   {
-    "rank": 94,
-    "badge": 94,
-    "why": "Rank 94 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.1,
-    "cum_lang": 83.8,
-    "floor": ""
-   },
-   {
-    "rank": 95,
-    "badge": 95,
-    "why": "Rank 95 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.7,
-    "cum_lang": 84.2,
-    "floor": ""
-   },
-   {
-    "rank": 96,
-    "badge": 96,
-    "why": "Rank 96 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.3,
-    "cum_lang": 84.6,
-    "floor": ""
-   },
-   {
-    "rank": 97,
-    "badge": 97,
-    "why": "Rank 97 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.9,
-    "cum_lang": 84.9,
-    "floor": ""
-   },
-   {
-    "rank": 98,
-    "badge": 98,
-    "why": "Rank 98 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.5,
-    "cum_lang": 85.2,
-    "floor": ""
-   },
-   {
-    "rank": 99,
-    "badge": 99,
-    "why": "Rank 99 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.1,
-    "cum_lang": 85.5,
-    "floor": ""
-   },
-   {
-    "rank": 100,
-    "badge": 100,
-    "why": "Rank 100 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.7,
-    "cum_lang": 85.9,
-    "floor": ""
-   },
-   {
-    "rank": 101,
-    "badge": 101,
-    "why": "Rank 101 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.3,
-    "cum_lang": 86.2,
-    "floor": ""
-   },
-   {
-    "rank": 102,
-    "badge": 102,
-    "why": "Rank 102 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.9,
-    "cum_lang": 86.6,
-    "floor": ""
-   },
-   {
-    "rank": 103,
-    "badge": 103,
-    "why": "Rank 103 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.5,
-    "cum_lang": 87.0,
-    "floor": ""
-   },
-   {
-    "rank": 104,
-    "badge": 104,
-    "why": "Rank 104 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.1,
-    "cum_lang": 87.4,
-    "floor": ""
-   },
-   {
-    "rank": 105,
-    "badge": 105,
-    "why": "Rank 105 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.7,
-    "cum_lang": 87.7,
-    "floor": ""
-   },
-   {
-    "rank": 106,
-    "badge": 106,
-    "why": "Rank 106 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.3,
-    "cum_lang": 88.0,
-    "floor": ""
-   },
-   {
-    "rank": 107,
-    "badge": 107,
-    "why": "Rank 107 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.9,
-    "cum_lang": 88.4,
-    "floor": ""
-   },
-   {
-    "rank": 108,
-    "badge": 108,
-    "why": "Rank 108 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.5,
-    "cum_lang": 88.8,
-    "floor": ""
-   },
-   {
-    "rank": 109,
-    "badge": 109,
-    "why": "Rank 109 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.2,
-    "cum_lang": 89.1,
-    "floor": ""
-   },
-   {
-    "rank": 110,
-    "badge": 110,
-    "why": "Rank 110 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.8,
-    "cum_lang": 89.5,
-    "floor": ""
-   },
-   {
-    "rank": 111,
-    "badge": 111,
-    "why": "Rank 111 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.4,
-    "cum_lang": 89.9,
-    "floor": ""
-   },
-   {
-    "rank": 112,
-    "badge": 112,
-    "why": "Rank 112 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.0,
-    "cum_lang": 90.2,
-    "floor": ""
-   },
-   {
-    "rank": 113,
-    "badge": 113,
-    "why": "Rank 113 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.6,
-    "cum_lang": 90.6,
-    "floor": ""
-   },
-   {
-    "rank": 114,
-    "badge": 114,
-    "why": "Rank 114 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.2,
-    "cum_lang": 90.9,
-    "floor": ""
-   },
-   {
-    "rank": 115,
-    "badge": 115,
-    "why": "Rank 115 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.8,
-    "cum_lang": 91.2,
-    "floor": ""
-   },
-   {
-    "rank": 116,
-    "badge": 116,
-    "why": "Rank 116 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.4,
-    "cum_lang": 91.6,
-    "floor": ""
-   },
-   {
-    "rank": 117,
-    "badge": 117,
-    "why": "Rank 117 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.0,
-    "cum_lang": 91.9,
-    "floor": ""
-   },
-   {
-    "rank": 118,
-    "badge": 118,
-    "why": "Rank 118 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.6,
-    "cum_lang": 92.2,
-    "floor": ""
-   },
-   {
-    "rank": 119,
-    "badge": 119,
-    "why": "Rank 119 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.2,
-    "cum_lang": 92.5,
-    "floor": ""
-   },
-   {
-    "rank": 120,
-    "badge": 120,
-    "why": "Rank 120 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.8,
-    "cum_lang": 92.7,
-    "floor": ""
-   },
-   {
-    "rank": 121,
-    "badge": 121,
-    "why": "Rank 121 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.4,
-    "cum_lang": 93.0,
-    "floor": ""
-   },
-   {
-    "rank": 122,
-    "badge": 122,
-    "why": "Rank 122 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.0,
-    "cum_lang": 93.2,
-    "floor": ""
-   },
-   {
-    "rank": 123,
-    "badge": 123,
-    "why": "Rank 123 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.6,
-    "cum_lang": 93.5,
-    "floor": ""
-   },
-   {
-    "rank": 124,
-    "badge": 124,
-    "why": "Rank 124 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.2,
-    "cum_lang": 93.7,
-    "floor": ""
-   },
-   {
-    "rank": 125,
-    "badge": 125,
-    "why": "Rank 125 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.8,
-    "cum_lang": 94.0,
-    "floor": ""
-   },
-   {
-    "rank": 126,
-    "badge": 126,
-    "why": "Rank 126 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.5,
-    "cum_lang": 94.3,
-    "floor": ""
-   },
-   {
-    "rank": 127,
-    "badge": 127,
-    "why": "Rank 127 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.1,
-    "cum_lang": 94.5,
-    "floor": ""
-   },
-   {
-    "rank": 128,
-    "badge": 128,
-    "why": "Rank 128 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.7,
-    "cum_lang": 94.8,
-    "floor": ""
-   },
-   {
-    "rank": 129,
-    "badge": 129,
-    "why": "Rank 129 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.3,
-    "cum_lang": 95.0,
-    "floor": ""
-   },
-   {
-    "rank": 130,
-    "badge": 130,
-    "why": "Rank 130 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.9,
-    "cum_lang": 95.3,
-    "floor": ""
-   },
-   {
-    "rank": 131,
-    "badge": 131,
-    "why": "Rank 131 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.5,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 132,
-    "badge": 132,
-    "why": "Rank 132 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 133,
-    "badge": 133,
-    "why": "Rank 133 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.7,
-    "cum_lang": 95.9,
-    "floor": ""
-   },
-   {
-    "rank": 134,
-    "badge": 134,
-    "why": "Rank 134 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.3,
-    "cum_lang": 96.2,
-    "floor": ""
-   },
-   {
-    "rank": 135,
-    "badge": 135,
-    "why": "Rank 135 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.9,
-    "cum_lang": 96.4,
-    "floor": ""
-   },
-   {
-    "rank": 136,
-    "badge": 136,
-    "why": "Rank 136 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.5,
-    "cum_lang": 96.6,
-    "floor": ""
-   },
-   {
-    "rank": 137,
-    "badge": 137,
-    "why": "Rank 137 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.1,
-    "cum_lang": 96.7,
-    "floor": ""
-   },
-   {
-    "rank": 138,
-    "badge": 138,
-    "why": "Rank 138 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.7,
-    "cum_lang": 96.8,
-    "floor": ""
-   },
-   {
-    "rank": 139,
-    "badge": 139,
-    "why": "Rank 139 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.3,
-    "cum_lang": 97.0,
-    "floor": ""
-   },
-   {
-    "rank": 140,
-    "badge": 140,
-    "why": "Rank 140 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.9,
-    "cum_lang": 97.1,
-    "floor": ""
-   },
-   {
-    "rank": 141,
-    "badge": 141,
-    "why": "Rank 141 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.5,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 142,
-    "badge": 142,
-    "why": "Rank 142 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 143,
-    "badge": 143,
-    "why": "Rank 143 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.8,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 144,
-    "badge": 144,
-    "why": "Rank 144 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.4,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 145,
-    "badge": 145,
-    "why": "Rank 145 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.0,
-    "cum_lang": 97.6,
-    "floor": ""
-   },
-   {
-    "rank": 146,
-    "badge": 146,
-    "why": "Rank 146 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.6,
-    "cum_lang": 97.7,
-    "floor": ""
-   },
-   {
-    "rank": 147,
-    "badge": 147,
-    "why": "Rank 147 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.2,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 148,
-    "badge": 148,
-    "why": "Rank 148 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.8,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 149,
-    "badge": 149,
-    "why": "Rank 149 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.4,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 150,
-    "badge": 150,
-    "why": "Rank 150 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "why": "Rank 85 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 151,
-    "badge": 151,
-    "why": "Rank 151 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 152,
-    "badge": 152,
-    "why": "Rank 152 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 153,
-    "badge": 153,
-    "why": "Rank 153 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.2,
-    "floor": ""
-   },
-   {
-    "rank": 154,
-    "badge": 154,
-    "why": "Rank 154 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.4,
-    "floor": ""
-   },
-   {
-    "rank": 155,
-    "badge": 155,
-    "why": "Rank 155 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.5,
-    "floor": ""
-   },
-   {
-    "rank": 156,
-    "badge": 156,
-    "why": "Rank 156 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 157,
-    "badge": 157,
-    "why": "Rank 157 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.7,
-    "floor": ""
-   },
-   {
-    "rank": 158,
-    "badge": 158,
-    "why": "Rank 158 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.8,
-    "floor": ""
-   },
-   {
-    "rank": 159,
-    "badge": 159,
-    "why": "Rank 159 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.8,
-    "floor": ""
-   },
-   {
-    "rank": 160,
-    "badge": 160,
-    "why": "Rank 160 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.9,
-    "floor": ""
-   },
-   {
-    "rank": 161,
-    "badge": 161,
-    "why": "Rank 161 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.2,
-    "floor": ""
-   },
-   {
-    "rank": 162,
-    "badge": 162,
-    "why": "Rank 162 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.3,
-    "floor": ""
-   },
-   {
-    "rank": 163,
-    "badge": 163,
-    "why": "Rank 163 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.5,
-    "floor": ""
-   },
-   {
-    "rank": 164,
-    "badge": 164,
-    "why": "Rank 164 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.7,
-    "floor": ""
-   },
-   {
-    "rank": 165,
-    "badge": 165,
-    "why": "Rank 165 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.9,
+    "cum_lang": 99.4,
     "floor": ""
    }
   ]
  },
- "EO_T2": {
-  "set": "EO_T2",
-  "blurb": "Orale Tâche 2 flips the script. The examiner plays a role (friend, neighbour, agency staff, colleague) and you drive the conversation with questions. Pragmatique dominates: asking well-shaped, information-gathering questions IS the criterion. This ranked plan orders 614 prompts so each drill session unlocks the widest slice of the role bank you haven't yet touched. Master the top rungs to own recurrent civic and social dialogues; work the tail to lock register control across every context the September pool can put in front of you.",
+ "EE_T3": {
+  "set": "EE_T3",
+  "blurb": "EE T3 is the argumentative essay that answers two contrasting source documents in roughly 200 to 250 words. The pool is a civic-life debate loop: cars banned from city centres, low-cost airlines, fast food, school uniforms, vending machines in schools, meat-free canteens, brand-name clothes, video games, urban cycling, pet ownership, city versus countryside, private versus public schools, e-books versus paper, homemade products, online language classes, connected objects, and helping the homeless. Prompts arrive as two named opinion holders or two short expository paragraphs staking opposite positions, and you must react without copying.",
   "caps": [
-   "**Hors-sujet.** Asking about anything other than the topic the examiner set is an instant A1 non atteint, no matter how fluent your French sounds.",
-   "**Task not completed.** Freezing, giving up, or running the clock down before you've actually gathered information triggers the same disqualifier. Even a partial attempt beats a stopped one.",
-   "**Ask, don't answer.** T2 asks YOU to interrogate. Spending most of your air time describing yourself, explaining your situation, or narrating is the single biggest exposure at the A1 to A2 floor. Roughly two-thirds of your minutes should be questions.",
-   "**Systematic tutoiement of a vous-role.** Calling the mairie clerk, hotel receptionist, university secretary, or agency employee *tu* is an adéquation (sociolinguistique) flag that ceilings you at B1. Read the setup and lock the pronoun before you open your mouth.",
-   "**One-shot yes/no questions on repeat.** Stringing 'Est-ce que...?' seven times in a row caps you at B1. Vary the question types: information questions, embedded questions, reformulations, and follow-ups on the examiner's last answer."
+   "**Off-topic answer = A1 non-atteint, no matter how clean your French is.** Name the debate in your opening sentence so the examiner sees you have understood the two documents.",
+   "**Task not attempted or not completed = A1 non-atteint.** T3 sits at the end of the timed block; if T1 or T2 ran long, still deliver a full T3 essay with an intro, a body, and a conclusion.",
+   "**Copying phrases from Document 1 or 2 = A1 non-atteint.** T3 explicitly forbids reusing the source wording. Read the docs, then paraphrase every idea in your own vocabulary and syntax.",
+   "**Respect the word band (roughly 200 to 250 words).** Falling well short of the required count is a mechanical disqualifier; padding past 250 with filler eats time you needed for the next task.",
+   "**Writing on the brouillon instead of the answer sheet is scored as no production.** Draft in the margin if you must, but the essay itself must land on the graded page."
   ],
   "milestones": [
    {
-    "after_rank": 5,
-    "headline": "Foundation set. Info-gathering muscle awake.",
-    "band": "A2 to early B1",
-    "body": "Five prompts drilled, roughly 2% of the pool covered. You now hold the highest-frequency role blocks: an expat colleague back from Québec, a friend enrolled in a class, a welcoming neighbour, a friend asking you to babysit, and a neighbour selling furniture. That's enough to lock the basic frame: greeting, opening question, three fact-questions (prix, horaires, conditions), and a courteous close. Right now your ceiling is B1 spoken interaction, meaning simple connected questions on one topic. Next rungs push you into embedded and reformulated questions where B2 lives."
+    "after_rank": 3,
+    "headline": "Three prompts, six percent pool, eight percent language reach",
+    "band": "S_w around 7 to 9, NCLC 6 (B1 upper)",
+    "body": "You have drilled the three most-repeated debate frames in the pool: urban car bans, homemade products, and low-cost airlines. That is already 6.3 percent of the exam-hit language mass. At this stage your essays should show a clean pour-contre plan, connect phrases with mais, cependant, en revanche, and give one concrete example per side. Linguistique is still bumpy and pragmatique holds together only on familiar topics. An examiner reads this as solid B1 with brief B2 flashes, which puts you around NCLC 6."
    },
    {
-    "after_rank": 12,
-    "headline": "B1 confirmed. Range starting to widen.",
-    "band": "solid B1 (NCLC 5 to 6)",
-    "body": "Twelve prompts, close to 5% of the pool covered. Crucially, you've now spanned three examiner-role families: friend and family (tu), civic staff (vous), and workplace peers (usually vous). That range is what nudges an examiner from 'simple + connected' toward 'clear + argued'. From here every new prompt is a double gain: fresh vocabulary domain plus a new chance to hit a new question form. Watch the tu and vous switch when you jump between prompts: the mairie clerk in item 7 does not get the same register as the friend in item 2."
+    "after_rank": 8,
+    "headline": "Eight prompts, sixteen percent language reach",
+    "band": "S_w around 10 to 11, NCLC 7 (B2 lower, target floor)",
+    "body": "Adding fast food, TV and children, urban sprawl, school uniforms, and children's reading gives you eight recurring scenarios and covers 15.9 percent of the language-frequency mass. The overlap between prompts is high, so the same connective repertoire (par ailleurs, en outre, il convient de nuancer, à l'inverse) travels from one to the next. If your syntax is stable and you deliver a clear four-paragraph structure without copying the docs, most examiners will call it B2. This is the NCLC 7 floor: the goal is to lock it in, not just visit it."
    },
    {
-    "after_rank": 25,
-    "headline": "B2 traction. Four of six task-ratings within reach.",
-    "band": "B1 upper to B2 lower (NCLC 6 to 7)",
-    "body": "Twenty-five prompts drilled, over 10% of the pool. This is the operational sweet spot for NCLC 7. With this many role scenarios in your muscle memory, whatever the examiner rolls on test day, you already have a scaffold: opener, five well-formed questions, a follow-up on their answer, a polite close. The B2 spoken-interaction descriptor calls for 'fluency and spontaneity that makes regular interaction with native speakers quite possible', and that fluency lives in the follow-up question. Practice asking one embedded or reformulated question in every mock ('Pourriez-vous me dire si...?', 'Vous voulez dire que...?')."
+    "after_rank": 15,
+    "headline": "Fifteen prompts, twenty-seven percent language reach",
+    "band": "S_w around 12 to 13, NCLC 8 (B2 upper)",
+    "body": "By rank 15 you have added meal delivery, online language classes, museum access, vending machines, brand clothes, technology in schools, and video games. That is 27.3 percent of the language mass and covers most school, food, city-life, and screen-time debates the examiner is likely to draw. Pragmatique should feel automatic: intro that names the debate, two argued paragraphs each opening with an explicit stance marker, conclusion that takes a side. Vocabulary spreads beyond generic evaluative adjectives. This range plus consistent linkers reads as upper B2 and lands NCLC 8."
    },
    {
-    "after_rank": 60,
-    "headline": "B2 consolidated. NCLC 7 in the pocket if disqualifiers stay at zero.",
-    "band": "B2 (NCLC 7 to 8)",
-    "body": "Sixty prompts drilled, over one fifth of the pool. At this depth you've faced every recurrent civic role (mairie, tourism office, hotel, university, sport club, car rental, real-estate agent) and every social pattern (invitation, favor, advice, prospecting someone's experience). The examiner cannot easily surprise you. Your remaining risk is not language: it is the two A1 non atteint traps (off-topic, task not completed) plus the register slip. Make the 30-second silent pre-scan non-negotiable on every mock: who plays what role, tu or vous, what information am I hunting for."
-   },
-   {
-    "after_rank": 120,
-    "headline": "Near-C1 breadth. September prep already over-covered.",
-    "band": "B2 upper to C1 edge (NCLC 8 to 9)",
-    "body": "One hundred twenty prompts, roughly a third of the pool. From here every extra drill has diminishing marginal return on breadth and increasing return on precision. If you land here before September, shift your remaining sessions from new prompts to two disciplines: first, record yourself on prompts 1 through 30 and mark hesitations, register slips, and yes/no over-reliance; second, drill conditionnel de politesse ('Pourriez-vous me préciser...?', 'J'aimerais savoir si...') on every civic-role prompt. Breadth is banked; sharpness is what nudges you from B2 lower (NCLC 7) into B2 upper (NCLC 8)."
+    "after_rank": 30,
+    "headline": "Thirty prompts, forty-nine percent language reach",
+    "band": "S_w around 14 to 15, NCLC 9 (C1 lower)",
+    "body": "Thirty items is a third of the pool and half the language-frequency mass. You now have templates for urban cycling, colocation, connected objects, pets, plastic, meat-free canteens, gender at work, street art, gaming addiction, private schools, print vs digital books, homelessness, zoos, city vs countryside, and amateur vs professional cooking. Any exam-day prompt should trigger a fully mapped plan within thirty seconds. If your linguistic control has kept up (subjonctif after bien que, conditionnel for hypothèses, precise lexique per domain), examiners read multiple tasks as C1 and you clear NCLC 9. Beyond here the marginal item adds less than 1 percent to language reach; drill quality over quantity."
    }
   ],
   "order": [
    {
     "rank": 1,
     "badge": 1,
-    "why": "Rank 1 by pure frequency: this prompt landed in nearly every mock session from 2022-05 straight through 2026-07. The examiner plays a returning-expat colleague and you ask about their itinéraire professionnel (formation, first job, expat difficulties, interests). Register reads as professional-friendly (tu or vous, watch the setup). Question types you must exercise here: sequenced fact questions ('Quelle formation avez-vous suivie?'), reformulation ('Vous voulez dire que...?'), and one open follow-up on their expat difficulty. Nail this one and a significant slice of your test-day exposure risk vanishes in a single drill session.",
-    "cum_pool": 0.3,
-    "cum_lang": 1.2,
+    "why": "Cars banned from city centres is the single highest-leverage prompt in the pool: 26 recorded occurrences across 23 different exam months, showing up every quarter from 2022 to 2026. Drilling it earns you the full ville / environnement / mobilité urbaine lexical field (pollution, embouteillages, transports en commun, piétonnisation, infrastructures) plus the standard modernity-vs-tradition argumentative structure. This template transfers directly to urban sprawl, cycling, meat-free canteens, and homelessness. If you can only prepare one T3 essay in the pool, this is it: a clean 250-word response here demonstrates the exact B2 spoken-production descriptor of arguing a viewpoint with advantages and disadvantages.",
+    "cum_pool": 1.1,
+    "cum_lang": 2.4,
     "floor": ""
    },
    {
     "rank": 2,
     "badge": 2,
-    "why": "Friend register (tu). The examiner is enrolled in drawing lessons and you gather logistical facts. This prompt exercises the four basic information-question stems you will reuse across half the pool: prix, horaires, lieu, professeur. Start with a location question, then move to cost, then to level. Push into B2 territory by asking one qualitative question the examiner has to develop ('Comment tu trouves les profs?') and one follow-up on their answer. Six sessions since 2023-11 means it is still hot. Drill it as a template you can slot any 'cours' vocabulary into (cuisine, yoga, langue, danse, dessin).",
-    "cum_pool": 1.3,
-    "cum_lang": 1.7,
+    "why": "Homemade organic products has only 3 recorded occurrences but reaches rank 2 in the coverage algorithm because it unlocks a lexical zone the top-ranked car prompt does not touch: fabrication, ingrédients, emballages, contamination, coût initial, mode de vie durable. It teaches you the pattern of arguing a lifestyle choice on two axes at once (health and economics). This scaffolding transfers to fast food, meal delivery, homemade cooking, and the amateur-vs-professional-cook debate later in the pool. Even a low-occurrence prompt is worth full effort when it introduces vocabulary you cannot get elsewhere.",
+    "cum_pool": 3.2,
+    "cum_lang": 4.2,
     "floor": ""
    },
    {
     "rank": 3,
     "badge": 3,
-    "why": "Neighbour role, first meeting, vous by default (the examiner just invited you over; do not switch to tu unless they explicitly offer). Twenty-eight sessions covered, making this one of the most durable prompts in the pool. Domains to interrogate: commerces, services (Y a-t-il un cabinet médical dans le quartier?), activités locales, and life pace (Le quartier est calme ou animé?). Push a B2 follow-up on any answer they give ('Vous m'avez dit ..., est-ce que ...?'). This is also the prompt that most rewards conditionnel de politesse. 'Pourriez-vous me recommander...?' is the natural key here.",
-    "cum_pool": 1.6,
-    "cum_lang": 2.5,
+    "why": "Low-cost airlines has 19 occurrences across 18 months, second only to the car ban prompt in raw frequency. It gives you the whole travel and consumer-choice lexical field (compagnies aériennes, tarifs, confort, sécurité, long courrier, prestations à bord) plus the recurrent structure of arguing a service model by comparing price against comfort and safety. Because the source documents come signed by two named characters (Martin, Robert), you also practise reacting to first-person testimony without quoting it. That paraphrase-a-personal-opinion skill returns in the pet, homelessness, video-games and homemade-cooking prompts.",
+    "cum_pool": 4.2,
+    "cum_lang": 6.3,
     "floor": ""
    },
    {
     "rank": 4,
     "badge": 4,
-    "why": "Friend register (tu). The scenario forces precision: you will be responsible for a three-year-old for two full days, so vague answers help nobody. Question buckets are pre-supplied: habitudes alimentaires ('Elle a des allergies?'), loisirs ('Qu'est-ce qu'elle aime faire?'), rythme de sommeil ('Elle fait la sieste?'). Add safety questions the examiner will reward ('Qui appeler en cas d'urgence?'). This is a rare prompt where negative-question forms ('Il y a quelque chose qu'elle ne mange pas?') land naturally. Squeeze one in. Thirty sessions across four years makes this a very likely September appearance.",
-    "cum_pool": 1.8,
-    "cum_lang": 4.2,
+    "why": "Fast food has 16 occurrences across 13 months and anchors the health-and-environment debate cluster. Drilling it earns the food-industry lexicon (nutrition, hygiène, calories, emballages plastique, déchets, obésité) plus the structural move of pitting personal choice against public health impact. That structure recurs in vending machines at school, meat-free canteens, meal delivery to offices, and plastic use. Fast food also trains you to defend both sides plausibly, which is exactly the pour-contre balance TCF T3 rewards. High occurrence, cross-transferable vocabulary, canonical structure: this is a top-shelf drilling target.",
+    "cum_pool": 5.3,
+    "cum_lang": 8.2,
     "floor": ""
    },
    {
     "rank": 5,
     "badge": 5,
-    "why": "Neighbour role, likely vous. Transactional prompt: you are a prospective buyer for the neighbour's furniture. This one tests concrete-noun vocabulary and negotiating politesse. Question loops per item: quel prix, quel état, quelles dimensions, depuis combien de temps. Warm up with 'Est-ce que je pourrais voir la table?' then move to comparison ('Le canapé est en meilleur état que les chaises?'). The B2 lift here is negotiation register: 'Est-ce qu'il y aurait moyen de baisser le prix?' or 'Ce serait possible de le livrer?'. Watch: vous throughout, no 'ta table' slips even if the setup feels informal.",
-    "cum_pool": 2.1,
-    "cum_lang": 5.4,
+    "why": "TV and children's education has 14 occurrences across 12 months and unlocks the education-and-media cluster. You practise the vocabulary of transmission des connaissances, sensibilisation, stéréotypes, discernement, régulation, and the analytical move of granting a role to a medium while flagging its side effects. That granting-then-nuancing rhythm is one of the clearest B2 markers: it shows you can develop a nuanced position rather than picking a binary side. The template transfers to video games, connected objects, technology in schools, digital vs paper books, and online language classes.",
+    "cum_pool": 6.3,
+    "cum_lang": 10.1,
     "floor": ""
    },
    {
     "rank": 6,
     "badge": 6,
-    "why": "Friend role (tu). You are the newcomer asking a local for transit intel. Twenty-one sessions across three years, a lock-in prompt. The setup hands you four topic buckets: types de transport, destinations desservies, horaires, tarifs. Push past yes/no questions by asking for recommendations ('Qu'est-ce que tu me conseilles?', 'Quel est le plus rapide pour aller au centre?'). Add a purpose question that shows planning ('Si je veux visiter le musée, qu'est-ce que je prends?'). This template also transfers to the tourism-office and hotel-reception prompts later in the ranking. Build it once, reuse it four times.",
-    "cum_pool": 2.4,
-    "cum_lang": 6.1,
+    "why": "Urban sprawl has 9 occurrences across 9 months and gives you the environmental-vs-demographic argument at scale. You pick up déforestation, absorption du carbone, zone urbaine, consommation d'énergie, réchauffement climatique, and the counter-intuitive move of arguing that dense cities can actually be more efficient than rural living. That counter-intuitive move is worth practising because it lets you sound analytical rather than moralistic, which shifts examiner perception from B1 to B2. The lexicon reappears in car-ban, cycling, and meat-free-canteen prompts.",
+    "cum_pool": 7.4,
+    "cum_lang": 12.2,
     "floor": ""
    },
    {
     "rank": 7,
     "badge": 7,
-    "why": "Civic-staff role: mairie cultural service employee. Register is strictly vous. This is the first prompt in the top 10 that will penalise tutoiement immediately. You are gathering info on ateliers, spectacles, musées, activités sportives. Question stems the examiner expects: 'Quelles activités proposez-vous?', 'Est-ce qu'il faut s'inscrire à l'avance?', 'Quels sont les tarifs?'. Add a targeting question ('J'ai deux enfants, avez-vous quelque chose pour eux?') to show adaptation. Conditionnel de politesse earns extra marks in a civic-role frame. 'Pourriez-vous me dire...?' is not optional here. It is expected.",
-    "cum_pool": 2.8,
-    "cum_lang": 7.2,
+    "why": "School uniforms has 9 occurrences and returned in 2023 to 2025 windows. It trains the identity-and-belonging argument: personnalité, expression individuelle, sentiment d'appartenance, discrimination sociale, code vestimentaire, marques. This is a school-life debate that examiners love because both sides have real weight (freedom vs equality). Practising it here means you can transpose the frame to brand-name clothes for children, private vs public schools, and vending machines at school. It also trains you to argue from the child's, the parent's, and the institution's perspective in a single essay, which the TCF explicitly rewards.",
+    "cum_pool": 8.4,
+    "cum_lang": 14.1,
     "floor": ""
    },
    {
     "rank": 8,
     "badge": 8,
-    "why": "Neighbour role, likely vous. The examiner asks YOU a favor, and your task is to decide whether to accept, meaning you hold veto power and your questions can probe without being rude. Question territory: dates ('Vous partez quand exactement?'), habitudes de l'animal, règles ('Est-ce qu'il peut sortir seul?'), backup ('Qui appeler s'il y a un problème?'). The pragmatic lift: end with a conditional acceptance ('Si mes horaires le permettent, ce sera avec plaisir'). That kind of hedged, negotiated close reads as B2 spontaneously and separates you from A2 candidates who either accept flat or refuse flat.",
-    "cum_pool": 3.1,
-    "cum_lang": 7.8,
+    "why": "Reading for children has 13 occurrences across 9 months and sits at the intersection of the education and screens debates. You get vocabulary around lecture, langage, concentration, complicité parent-enfant, réseaux sociaux, gaming, and the argumentative move of contrasting a traditional activity with digital displacement. This pairs directly with the print-vs-digital-books debate at rank 26 and the TV-and-education debate at rank 5. Hitting this prompt after ranks 5 and 7 means you now cover most school-and-family topics an examiner can pull from the current rotation.",
+    "cum_pool": 9.5,
+    "cum_lang": 15.9,
     "floor": ""
    },
    {
     "rank": 9,
     "badge": 9,
-    "why": "Friend role (tu). You are mining the examiner for film recommendations for a cultural article. That purpose unlocks purposeful phrasing ('Pour mon article, tu me conseillerais quoi?'). Buckets pre-supplied: endroit, genre, prix, réaction. The differentiator here is opinion-eliciting questions: 'Qu'est-ce qui rend ce film différent?' pushes the examiner to develop, giving you material to react to. React actively between questions ('Ah, ça m'intéresse'). Active listening reads as B2 spoken interaction and lifts you out of the interview-form drone that keeps many candidates parked at B1. Close with a decision ('Je pense que je vais le regarder').",
-    "cum_pool": 3.4,
-    "cum_lang": 8.6,
+    "why": "Meal delivery to offices has 10 occurrences and gives you workplace-and-productivity vocabulary (employés, gain de temps, session de travail, conférence, réunion, temps de pause, stress) that no other top-10 prompt covers. It also teaches you to argue a professional service from both the user's and the provider's angle. That two-actor perspective transfers to low-cost airlines, museum access, homemade products, and connected objects. Ten occurrences over three years means the scenario is a stable recurring examiner favourite.",
+    "cum_pool": 10.5,
+    "cum_lang": 17.7,
     "floor": ""
    },
    {
     "rank": 10,
     "badge": 10,
-    "why": "Friend role (tu), third-party inquiry: you are asking about a cooking teacher your friend knows, not about the friend directly. This pronoun shift matters. You need 'il/elle' and reported-speech patterns throughout. Buckets: compétences ('Qu'est-ce qu'il enseigne exactement?'), expérience, horaires, prix. Test out 'Tu penses qu'elle accepterait un débutant?'. The conditionnel plus subordinate clause is a clean B2 marker. Close with a decision-oriented question ('Comment le contacter?'). This template rescues you on any 'friend recommends a professional' prompt scattered through the mid-ranking of the pool.",
-    "cum_pool": 4.1,
-    "cum_lang": 9.1,
-    "floor": ""
-   },
-   {
-    "rank": 11,
-    "badge": 11,
-    "why": "Friend role (tu), Ottawa-specific. The city cue is not decoration, use it. Question territory: pistes cyclables ('Il y en a beaucoup dans le centre?'), agences de location ('Tu me conseilles laquelle?'), matériel ('Il faut louer le casque en plus?'), sécurité en hiver. The setup asks you to decide, so end with a comparative question: 'Le vélo ou le bus, tu prendrais quoi?'. That comparative construction is a low-cost B2 lift you can drop into every 'weigh options' prompt across the pool. Adding one local-flavour question ('C'est plat, Ottawa?') signals cultural awareness that adéquation rewards.",
-    "cum_pool": 4.4,
-    "cum_lang": 9.9,
-    "floor": ""
-   },
-   {
-    "rank": 12,
-    "badge": 12,
-    "why": "Colleague role (vous by default in professional French; no tu until the examiner offers it). Same domain as rank 9 (cinema) but reframed: the colleague has already seen the film and you are deciding whether to go. Question types: thème ('De quoi ça parle?'), acteurs, horaires, avis ('Vous avez aimé?'). The deciding function gives you natural room for a conditional close: 'Si les horaires me conviennent, j'irai le voir'. Also: reformulate one answer to demonstrate comprehension ('Donc c'est plutôt un film sérieux?'). Reformulation is one of the fastest paths from B1 to B2 on the pragmatique family.",
-    "cum_pool": 4.7,
-    "cum_lang": 10.6,
-    "floor": ""
-   },
-   {
-    "rank": 13,
-    "badge": 13,
-    "why": "Reception-staff role, strict vous. You are prospecting a sport, undecided, so the examiner expects you to ASK for a recommendation, not just log facts. Buckets pre-supplied: sports disponibles, horaires, tarifs, équipement. Opening ('Bonjour, j'aimerais me renseigner sur ...') matters more here than in tu-prompts because sociolinguistique lives in the first ten seconds. Push to B2 with a preference question ('Je cherche quelque chose de calme, qu'est-ce que vous me conseillez?') and a trial question ('Est-ce qu'il y a une séance d'essai gratuite?'). Both recycle across gym, language school, and dance-class prompts later in the pool.",
-    "cum_pool": 5.2,
-    "cum_lang": 11.3,
-    "floor": ""
-   },
-   {
-    "rank": 14,
-    "badge": 14,
-    "why": "Colleague role (vous). Reverse-favor structure: the examiner asks YOU if you know a baby-sitter, and your job is to interview the parent before you commit. Buckets pre-supplied: exigences, salaire, horaires, tâches. Add ages ('Ils ont quel âge, les enfants?') and duration ('C'est pour combien de temps?'). B2 lift: reformulate their expectations back to them ('Donc vous cherchez quelqu'un pour trois soirs par semaine?'). Close with a conditional commitment ('Je vais réfléchir et je vous dirai si je pense à quelqu'un'). Never promise a name on the spot; the hedged close is what reads as pragmatique competence.",
-    "cum_pool": 5.5,
-    "cum_lang": 12.0,
-    "floor": ""
-   },
-   {
-    "rank": 15,
-    "badge": 15,
-    "why": "Hotel-reception role, tourist context, vous locked in. Buckets pre-supplied: petit-déjeuner, accès internet, transports publics, activités. Add practical ones the setup does not name: horaires de check-out, laverie, coffre-fort, restaurant sur place. B2 marker: chain two related questions with 'et' ('Le petit-déjeuner est à quelle heure, et c'est où exactement?'). Also: 'Auriez-vous une carte du quartier?'. That is textbook conditionnel plus service politesse, an adéquation goldmine. Register is very close to the tourism-office prompt (rank 20) and the university-secretariat prompt (rank 19). Build one clean receptionist template, deploy across all three.",
-    "cum_pool": 5.9,
-    "cum_lang": 12.8,
-    "floor": ""
-   },
-   {
-    "rank": 16,
-    "badge": 16,
-    "why": "Agency-employee role, vous. Transactional, contract-heavy. Buckets: prix (à la journée ou à la semaine?), conditions (kilométrage illimité?), documents (permis international?), assurances, âge minimum. Québec context asks: manuelle ou automatique? pneus d'hiver? The examiner will reward you for asking about conditional clauses ('Si je ramène la voiture en retard, il y a des frais?'). This is one of the strongest B2 prompts in the pool because contract vocabulary forces precision. Vague answers will not do. Practice numeric follow-ups too ('Ça fait combien au total pour trois jours?'). Seventeen sessions across four years, a probable September appearance.",
-    "cum_pool": 6.2,
-    "cum_lang": 13.3,
-    "floor": ""
-   },
-   {
-    "rank": 17,
-    "badge": 17,
-    "why": "Friend role (tu). Recreational-inquiry template: you are prospecting membership in a hiking club. Buckets pre-supplied: participants, lieux, niveaux, fréquence, prix. Add a self-positioning question ('Tu penses que c'est adapté pour moi?'). This prompt is the twin of the sport-club prompt (rank 13) but tu-framed. Practice the pronoun switch by running them back-to-back in one session. The pragmatic move that lifts you: express interest actively between questions ('Ça a l'air super, et...?'). That reads as B2 spoken-interaction turn-taking and stops the interrogation-form drone that caps candidates at B1.",
-    "cum_pool": 6.8,
-    "cum_lang": 13.7,
-    "floor": ""
-   },
-   {
-    "rank": 18,
-    "badge": 18,
-    "why": "Friend role (tu). Trip-planning prompt: you are going to Canada in December and you want intel from the resident friend. Buckets pre-supplied: climat, températures, habits, activités possibles. Purpose gives you natural planning phrases ('Pour bien préparer ma valise, je dois savoir ...'). The December cue is important. Ask about specifics of that month, not generic weather ('Il neige à quel point en décembre?'). B2 lift: hypothetical questions ('S'il neige beaucoup, qu'est-ce qu'on fait?'). This template recycles to the 'colleague spent ten years in Canada' prompt at rank 24 with a register switch back to vous.",
-    "cum_pool": 7.2,
-    "cum_lang": 14.6,
-    "floor": ""
-   },
-   {
-    "rank": 19,
-    "badge": 19,
-    "why": "University-secretariat role, vous, adult-education inquiry. Buckets pre-supplied: langues, prix, horaires. Add: niveau requis ('Il y a un test de placement?'), durée ('C'est sur combien de semaines?'), certificat ('On reçoit une attestation à la fin?'). This is a formal service context. 'J'aimerais avoir des renseignements sur ...' beats 'Je voudrais savoir ...' for opening. B2 marker: an information-seeking question in indirect form ('Pourriez-vous me préciser à quelle date commence la session?') is the exact register FEI trains for adéquation. Close with a commitment-hedging move: 'Je vais y réfléchir et je vous rappellerai.'",
-    "cum_pool": 7.7,
-    "cum_lang": 15.0,
-    "floor": ""
-   },
-   {
-    "rank": 20,
-    "badge": 20,
-    "why": "Tourism-office role, vous. Museum inquiry, so vocabulary is cultural: types de musées (d'art, d'histoire, de sciences), tarifs, horaires, jours de fermeture. Ask for a recommendation ('Qu'est-ce que vous recommanderiez à un touriste pour une première visite?') and follow up with a practical constraint ('J'ai deux heures cet après-midi, c'est possible?'). Vancouver cue: ask about a specific proper-noun museum if you know one. Named entities in your questions read as engagement. The receptionist (rank 15) and this prompt share about 80% of your template. Build one, deploy three across the civic-service cluster.",
-    "cum_pool": 8.1,
-    "cum_lang": 15.4,
-    "floor": ""
-   },
-   {
-    "rank": 21,
-    "badge": 21,
-    "why": "Colleague role (vous). You have been invited, so your task is to decide by asking. Buckets pre-supplied: type de spectacle, lieu, horaire, organisation (transport, autres participants). Add: dress code ('Comment doit-on s'habiller?'), durée, prix ('C'est payant ou vous invitez?'). Because it is an invitation, warmth matters. Start with a genuine 'Merci pour l'invitation, c'est très gentil'. B2 lift: conditional acceptance ('Si je peux me libérer, avec plaisir'). Close with a service offer ('Voulez-vous que j'apporte quelque chose?'). This prompt tests sociolinguistique (acceptance politesse) more than vocabulary. Practice the warm-cold gradient.",
-    "cum_pool": 8.6,
-    "cum_lang": 15.9,
-    "floor": ""
-   },
-   {
-    "rank": 22,
-    "badge": 22,
-    "why": "Friend role (tu), party invitation, Québec cultural angle. Buckets pre-supplied: horaires ('À quelle heure ça commence?'), cadeaux à apporter, tenue vestimentaire. The Québec cue matters. Ask a culturally-specific question ('Au Québec, on offre quoi comme cadeau d'hôte?'). This prompt lets you exercise curiosity register ('Je ne connais pas encore les habitudes ici ...'), which reads as socially aware. B2 lift: chain a cultural question to a personal one ('Et toi, qu'est-ce que tu apportes d'habitude?'). Close with confirmation of attendance ('Compte sur moi, j'y serai avec plaisir').",
-    "cum_pool": 9.0,
-    "cum_lang": 16.4,
-    "floor": ""
-   },
-   {
-    "rank": 23,
-    "badge": 23,
-    "why": "Colleague role (vous). Reverse-transaction: you volunteer to pick up their parents from the airport and gather logistics. Buckets pre-supplied: dates, vol, description physique. Add: heure d'arrivée, terminal, bagages ('Ils ont beaucoup de bagages?'), langue ('Ils parlent français?'). Purpose gives you a natural opener ('Si vous voulez, je peux y aller à votre place'). B2 lift: preventive questions the examiner will reward ('Et s'il y a du retard sur le vol, comment je fais?'). Close with reassurance ('Ne vous inquiétez pas, ça va bien se passer'). Warm register throughout. This is a favor, not a service transaction.",
-    "cum_pool": 9.3,
-    "cum_lang": 17.0,
-    "floor": ""
-   },
-   {
-    "rank": 24,
-    "badge": 24,
-    "why": "Colleague role (vous). Immigration-inquiry prompt: you are mining a Canada veteran for advice before moving to Ottawa. Buckets pre-supplied: se loger, travailler, s'adapter à la culture. Add: coût de la vie, système de santé, écoles si enfants, hivers. This is a high-B2 topic because it invites reflective, comparative answers. Feed the examiner with questions that trigger comparison ('C'est très différent d'ici?', 'Qu'est-ce qui vous a le plus surpris?'). Push into conditional territory ('Si vous étiez à ma place, vous partiriez maintenant ou plus tard?'). This is one of the strongest rehearsals for your real-life move context.",
-    "cum_pool": 9.6,
-    "cum_lang": 17.8,
-    "floor": ""
-   },
-   {
-    "rank": 25,
-    "badge": 25,
-    "why": "Friend role (tu). Cousin of rank 10 (cooking teacher inquiry) but this time the friend TOOK the class, not knows the teacher. Pronouns shift back to 'tu' throughout. Buckets pre-supplied: prix, horaires, programme. Add: niveau ('C'est pour débutants?'), lieu, matériel ('Il faut apporter quoi?'), taille du groupe. B2 lift: reactive-opinion questions ('Tu as aimé? Qu'est-ce qui t'a le plus plu?'). Close with a decision ('Ça me tente, je vais m'inscrire'). Running ranks 10 and 25 back-to-back in one session locks the third-party versus first-person question pattern that trips up many candidates on test day.",
-    "cum_pool": 10.3,
-    "cum_lang": 18.0,
-    "floor": ""
-   },
-   {
-    "rank": 26,
-    "badge": 26,
-    "why": "Friend role (tu). Journalistic-inquiry prompt: you are writing a magazine article and the friend is your source. That role gives you licence to ask more open, developed questions than usual. Buckets pre-supplied: activités, architecture, infrastructures de transport. Add: gastronomie, ambiance, monuments incontournables. B2 marker: opinion plus justification questions ('Pourquoi tu recommanderais cette ville plutôt qu'une autre?'). Because you are writing an article, close with quote-hunting ('Comment tu la décrirais en une phrase?'). This prompt rewards developing your own follow-ups. A mock where you ask fewer than eight questions here is a mock you can drop.",
-    "cum_pool": 10.7,
-    "cum_lang": 18.6,
-    "floor": ""
-   },
-   {
-    "rank": 27,
-    "badge": 27,
-    "why": "Friend role (tu). Volunteering-inquiry prompt: you are considering joining an association that helps elderly people. Buckets pre-supplied: activités, participants, inscription. Add: engagement horaire ('Combien d'heures par semaine?'), formation ('Il faut une formation avant?'), profil des personnes aidées. This is one of the pool's rare social-purpose prompts. The examiner rewards questions that show emotional awareness ('C'est difficile émotionnellement?', 'Qu'est-ce que ça t'apporte?'). Push into B2 with reflective openers ('Ce qui m'intéresse le plus, c'est ...'). Register stays tu but tone should be a shade more thoughtful. Close with a next step: 'Je vais me renseigner.'",
-    "cum_pool": 11.2,
-    "cum_lang": 18.9,
-    "floor": ""
-   },
-   {
-    "rank": 28,
-    "badge": 28,
-    "why": "Colleague role (vous). Travel-inquiry prompt tightly matched to your Canada context: a real tour touristique au Canada. Buckets pre-supplied: coût, étapes, temps. Add: transport ('En train ou en voiture?'), logement, réservations à l'avance, meilleure période. B2 lift: comparative questions ('Vous referiez la même chose ou vous changeriez quelque chose?') and hypothetical planning ('Si je n'ai que deux semaines, qu'est-ce que vous couperiez?'). This prompt has landed in four sessions since 2025-09 and is still rising in frequency. Treat it as a probable September appearance. Close with intent ('Merci, ça me donne vraiment envie de le faire').",
+    "why": "Online language courses has 11 occurrences and closes the top ten. It cements the technology-and-education cluster started at rank 5 and adds the specifics of autonomie, motivation, connexion, appareils, présentiel vs distanciel. Because it appeared in 2025-09, 2025-10, 2025-12, 2026-03, and 2026-08, it is unusually hot right now, which raises September 2026 relevance. Drilling this earns transferable arguments about self-directed learning that apply to reading, television, video games, and technology in schools.",
     "cum_pool": 11.6,
     "cum_lang": 19.4,
     "floor": ""
    },
    {
+    "rank": 11,
+    "badge": 11,
+    "why": "Free museum access has 8 occurrences and unlocks the culture-and-heritage lexical zone (affluence, revenus, entretien, conservation, patrimoine culturel, éducation du public). You practise arguing about pricing policy as a public-good question, which is a distinct rhetorical move from the personal-choice debates above. This scaffolds the pricing side of homelessness aid, private vs public schooling, and low-cost airlines. Eight occurrences with three appearances in a single year make it likely enough to justify a full template.",
+    "cum_pool": 12.6,
+    "cum_lang": 21.2,
+    "floor": ""
+   },
+   {
+    "rank": 12,
+    "badge": 12,
+    "why": "Vending machines in schools has 17 occurrences across 16 months, one of the highest counts in the pool. It arrives at rank 12 only because the vocabulary overlaps heavily with fast food and school uniforms already drilled above. That said, do not skimp: the specific formulation with two named opinions and the health-vs-convenience-vs-revenue triangle recurs frequently. The exact prompt returned as recently as 2026-08, so it is still hot. Drilling it also trains the multi-argument structuring that helps every school-related topic downstream.",
+    "cum_pool": 13.7,
+    "cum_lang": 22.7,
+    "floor": ""
+   },
+   {
+    "rank": 13,
+    "badge": 13,
+    "why": "Brand-name clothes has 14 occurrences and complements the school-uniform prompt at rank 7. You add vocabulary around identité sociale, dessins animés, logos, usure, coût, and the child-growth argument. Because it appears in 13 different months from 2023 through 2025, examiners clearly rotate it in regularly. The critical skill here is arguing from a parent's economic pressure without moralising, which is exactly what separates a B2 argumentative essay from a B1 emotional one.",
+    "cum_pool": 14.7,
+    "cum_lang": 24.2,
+    "floor": ""
+   },
+   {
+    "rank": 14,
+    "badge": 14,
+    "why": "Technology in schools has 9 occurrences and it just reappeared in 2026-04, 06, 07, and 08, making it one of the hottest current prompts. The Jean-vs-Sara opinion format trains you to react to two named characters directly. Vocabulary includes intégration, avenir numérique, tablettes, engagement, dépendance aux écrans, méthodes traditionnelles. Drilling this closes the tech-in-education loop with online language classes (rank 10) and connected objects (rank 18). If you show up on exam day and get this prompt, a full-throated B2 response is a very achievable outcome.",
+    "cum_pool": 15.8,
+    "cum_lang": 25.9,
+    "floor": ""
+   },
+   {
+    "rank": 15,
+    "badge": 15,
+    "why": "Video games (violence angle) has 13 occurrences across 12 months and marks the halfway point of the coverage-order milestones. It gives you the psychology-of-media vocabulary (comportement agressif, fonctions cognitives, concentration, capacité d'analyser, jeux de stratégie) and the study-citation move (une étude récente a révélé que). That study-citation move is a documented C1 marker in the CEFR grid. Drilling it pairs cleanly with the second video-games prompt at rank 24 which foregrounds cognitive benefits and addiction.",
+    "cum_pool": 16.8,
+    "cum_lang": 27.3,
+    "floor": ""
+   },
+   {
+    "rank": 16,
+    "badge": 16,
+    "why": "Urban cycling has 5 occurrences but reaches rank 16 because it unlocks the safety-and-health angle for the urban-mobility cluster (accidents routiers, infrastructures cyclables, polluants atmosphériques, monoxyde de carbone). It complements the car-ban prompt at rank 1 with the alternative-transport perspective. Even at 5 occurrences it is worth full drilling because the vocabulary field is dense and returns nowhere else. On exam day this feels like a fresh prompt to most candidates, so preparation is a rare edge.",
+    "cum_pool": 17.9,
+    "cum_lang": 29.1,
+    "floor": ""
+   },
+   {
+    "rank": 17,
+    "badge": 17,
+    "why": "Adult shared housing has 8 occurrences and unlocks the daily-life negotiation cluster (règles de vie en communauté, colocataires, loyer, charges, espaces partagés). It trains a very different argumentative texture: the balance of practical benefits against interpersonal friction. That texture transfers to office meal delivery, connected objects, and pet ownership. Because two of its recent hits are 2025-12 and 2026-02, it is still in rotation. Prepare one template and it covers the entire cohabitation-and-lifestyle zone.",
+    "cum_pool": 18.9,
+    "cum_lang": 30.7,
+    "floor": ""
+   },
+   {
+    "rank": 18,
+    "badge": 18,
+    "why": "Connected objects has 7 occurrences with recent 2025-11, 2026-01 appearances. Vocabulary includes objets pilotés à distance, montre connectée, surveillance de la santé, sécurité, piratage informatique, cambriolage. This is the security-and-privacy angle of the technology cluster, which none of the other tech prompts (ranks 5, 10, 14) covers. Drilling it fills a genuine hole and gives you a plausible essay on any smart-home or smart-city adjacency the examiner might spring.",
+    "cum_pool": 20.0,
+    "cum_lang": 32.3,
+    "floor": ""
+   },
+   {
+    "rank": 19,
+    "badge": 19,
+    "why": "Pets for children has 14 occurrences across 13 months, remarkable staying power. The Charlotte-Arthur-style contrast trains you to argue about long-term responsibility versus short-term joy, using vocabulary around confiance en soi, autonomie, engagement, responsabilité, coût. That responsibility-vs-desire structure transfers to school uniforms (7), meat-free canteens (21), and homelessness aid (27). Even at rank 19 the prompt is high-yield because 14 occurrences means examiners return to it constantly.",
+    "cum_pool": 21.1,
+    "cum_lang": 33.5,
+    "floor": ""
+   },
+   {
+    "rank": 20,
+    "badge": 20,
+    "why": "Plastic use has 7 occurrences with the Franck-vs-Amicha opinion format. Vocabulary: secteurs médical et alimentaire, conservation, stérilisation, recyclage, impact environnemental, écosystèmes, alternatives écologiques. This is the environmental-cluster capstone: with car ban (1), urban sprawl (6), cycling (16), and this, you now cover every angle of the écologie debate an examiner is likely to raise. That coverage matters because environnement is a stable examiner favourite regardless of exam window.",
+    "cum_pool": 22.1,
+    "cum_lang": 35.1,
+    "floor": ""
+   },
+   {
+    "rank": 21,
+    "badge": 21,
+    "why": "Meat-free canteen menus has 9 occurrences across 9 months. Vocabulary combines nutrition (protéines animales, soja, céréales, croissance) with economics (producteurs locaux, coût aux familles) and children's preference. This is another prompt where two examiner-favourite dimensions (health and economics) collide, which forces you to structure a multi-argument response. It pairs with fast food (4), vending machines (12), and meal delivery (9) to close the food-in-institution cluster.",
+    "cum_pool": 23.2,
+    "cum_lang": 36.4,
+    "floor": ""
+   },
+   {
+    "rank": 22,
+    "badge": 22,
+    "why": "Women and men at work has 6 occurrences with a recent 2026-01, 05, 06, 07 hot streak, making it a September 2026 target. Vocabulary: égalité, postes à responsabilité, domaines traditionnellement masculins, discrimination, parité, mentalités. This is the sociological-debate cluster, which is rhetorically distinct from the tech, environment, and school clusters. Drilling it teaches you to argue about societal norms without slipping into cliché, a skill the TCF rewards under the sociolinguistique family.",
+    "cum_pool": 24.2,
+    "cum_lang": 38.0,
+    "floor": ""
+   },
+   {
+    "rank": 23,
+    "badge": 23,
+    "why": "Urban street art has 5 occurrences and opens the culture-in-public-space debate (curiosité, atmosphère éphémère, artistes peu connus, dégradation, pollution visuelle, vandalisme). Because it argues from artist, resident, and legislator perspectives simultaneously, it trains the multi-actor framing the TCF rewards. It pairs with free museum access (11) to complete the culture cluster and gives you a strong essay if street art or urban aesthetics appears in any adjacent form.",
+    "cum_pool": 25.3,
+    "cum_lang": 39.6,
+    "floor": ""
+   },
+   {
+    "rank": 24,
+    "badge": 24,
+    "why": "Video games from the cognitive-vs-addiction angle has 7 occurrences and completes the video-games pair started at rank 15. Vocabulary: sens de l'orientation, mémoire, vivacité d'esprit, personnes âgées, addiction, adolescence, performances scolaires. Having both prompts drilled means you can argue video games from either the violence angle or the cognitive-benefits angle, which is a real advantage on exam day where you cannot pre-guess the framing. Recent hits in 2025-05 and 2025-08 keep it live.",
+    "cum_pool": 26.3,
+    "cum_lang": 41.0,
+    "floor": ""
+   },
+   {
+    "rank": 25,
+    "badge": 25,
+    "why": "Private vs public schools has 8 occurrences with three appearances in the last three months of the dataset (2026-06, 07, 08), making it currently red-hot for September 2026. Vocabulary: encadrement, mixité sociale, milieux favorisés, inégalités sociales, exclusion. This is one of the more socially charged debates and trains you to argue from a systemic rather than personal angle, which is a C1 marker. Given its temperature right now, drilling this is arguably worth pulling ahead of some earlier ranks.",
+    "cum_pool": 27.4,
+    "cum_lang": 42.3,
+    "floor": ""
+   },
+   {
+    "rank": 26,
+    "badge": 26,
+    "why": "Print vs digital books has 11 occurrences across 8 months. Vocabulary: bibliothèque traditionnelle, économique, personnes en situation de handicap, taille des lettres, plaisir, émotions, connaissances en informatique. This is the technology-nostalgia debate and it pairs cleanly with the TV (5), online courses (10), and connected objects (18) prompts. Eleven occurrences means it is stable in rotation. Drilling gives you a template for arguing a traditional medium against a digital replacement, which the pool loves.",
+    "cum_pool": 28.4,
+    "cum_lang": 43.5,
+    "floor": ""
+   },
+   {
+    "rank": 27,
+    "badge": 27,
+    "why": "Helping the homeless (donation vs volunteering) has 9 occurrences with a recent surge in 2025-06, 08, and 2026-01. Vocabulary: sans-abri, solidarité, dons, bénévolat, logement, emploi, indépendance, associations, apaiser la conscience. This is the civic-engagement debate, one of the more socially serious topics in the pool. It trains you to argue from an ethical rather than practical stance without moralising. Recent hot months make it worth locking down before September.",
+    "cum_pool": 29.5,
+    "cum_lang": 44.7,
+    "floor": ""
+   },
+   {
+    "rank": 28,
+    "badge": 28,
+    "why": "Zoos has 7 occurrences with a recent 2025-05 and 08 appearance. Vocabulary: espèces en voie de disparition, taux de reproduction, programmes, habitat naturel, prisons pour animaux, ours polaires, liberté. It gives you the animal-welfare-vs-conservation debate, a stable examiner favourite that pairs with pets (19). At rank 28 the marginal coverage gain is smaller (about 1.4 percent of language mass) but the topic itself is easy to memorise and gives you one more high-confidence essay you can ship.",
+    "cum_pool": 30.5,
+    "cum_lang": 46.1,
+    "floor": ""
+   },
+   {
     "rank": 29,
     "badge": 29,
-    "why": "Colleague role (vous). Social-recap prompt: the examiner already went to a wedding, you gather the story. Buckets pre-supplied: lieu, menu, activités. Add: nombre d'invités, tenue, ambiance, moments marquants. This is a spoken-interaction prompt more than an information one. The examiner narrates, you react and probe. B2 marker: reactive fillers between questions ('Ah c'est original!', 'Ça a dû être magnifique'). Push with an opinion-eliciting question ('Vous vous êtes bien amusé(e)?'). Close warmly ('Je suis content(e) pour vous, ça a l'air d'avoir été un beau moment'). Register is warm-professional, tu only if offered.",
-    "cum_pool": 11.9,
-    "cum_lang": 19.8,
+    "why": "City vs countryside has 5 occurrences but returned in 2025-08 and 2026-01. Vocabulary: divertir, cinéma, restaurants, shopping, événements culturels, calme, nature, terrasse, jardin, budget, logements. It sits at the intersection of the urban and lifestyle clusters and gives you a template that transfers to urban sprawl (6), cycling (16), and shared housing (17). At this depth the returns are smaller, but this is a canonical debate that shows up in every French-exam pool, so a light template is cheap insurance.",
+    "cum_pool": 31.6,
+    "cum_lang": 47.5,
     "floor": ""
    },
    {
     "rank": 30,
     "badge": 30,
-    "why": "Friend role (tu). Advice-seeking prompt: you have a job interview next week and the friend gives counsel. Buckets pre-supplied: comportement, vêtements, préparatifs. Add: questions à poser à l'employeur, questions difficiles à anticiper, salaire ('Il faut en parler dès le premier entretien?'). This prompt puts you in a rare receptive posture. The examiner will develop advice, so your follow-ups matter more than your opening questions ('Qu'est-ce que tu veux dire par là?', 'Concrètement, ça donne quoi?'). B2 marker: express doubt or ask for clarification ('Je ne suis pas sûr(e) de bien comprendre'). Close with commitment: 'Merci, je vais suivre tes conseils.'",
-    "cum_pool": 12.2,
-    "cum_lang": 20.3,
+    "why": "Amateur vs professional cook has 12 occurrences across 11 months, respectable count. Vocabulary: passionnés de cuisine, expertise, techniques, chefs, formation, autodidactes, réseaux sociaux, livres de cuisine, art culinaire. It closes the food cluster (fast food, meal delivery, meat-free canteens, homemade products) with the how-do-you-learn angle. At rank 30 you are at 48.6 percent of language-frequency mass with a third of the pool drilled. Still solid, but the marginal return on ranks 31 and beyond starts to shrink toward one percent per item. Consolidate what you have before pushing deeper.",
+    "cum_pool": 32.6,
+    "cum_lang": 48.6,
     "floor": ""
    },
    {
     "rank": 31,
     "badge": 31,
-    "why": "Rank 31 · +3 new. Adds a distinct vocabulary lane on top of the top-ranked stems.",
-    "cum_pool": 12.7,
-    "cum_lang": 20.8,
+    "why": "Rank 31 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 33.7,
+    "cum_lang": 50.0,
     "floor": ""
    },
    {
     "rank": 32,
     "badge": 32,
-    "why": "Rank 32 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 13.0,
-    "cum_lang": 21.2,
+    "why": "Rank 32 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 34.7,
+    "cum_lang": 51.0,
     "floor": ""
    },
    {
     "rank": 33,
     "badge": 33,
-    "why": "Rank 33 · +3 new. Adds a distinct vocabulary lane on top of the top-ranked stems.",
-    "cum_pool": 13.5,
-    "cum_lang": 21.7,
+    "why": "Rank 33 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 35.8,
+    "cum_lang": 52.0,
     "floor": ""
    },
    {
     "rank": 34,
     "badge": 34,
-    "why": "Rank 34 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 13.8,
-    "cum_lang": 22.1,
+    "why": "Rank 34 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 36.8,
+    "cum_lang": 53.4,
     "floor": ""
    },
    {
     "rank": 35,
     "badge": 35,
-    "why": "Rank 35 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 14.2,
-    "cum_lang": 22.6,
+    "why": "Rank 35 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 37.9,
+    "cum_lang": 54.8,
     "floor": ""
    },
    {
     "rank": 36,
     "badge": 36,
-    "why": "Rank 36 · +3 new. Adds a distinct vocabulary lane on top of the top-ranked stems.",
-    "cum_pool": 14.7,
-    "cum_lang": 23.1,
+    "why": "Rank 36 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 38.9,
+    "cum_lang": 56.2,
     "floor": ""
    },
    {
     "rank": 37,
     "badge": 37,
-    "why": "Rank 37 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 15.0,
-    "cum_lang": 23.4,
+    "why": "Rank 37 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 40.0,
+    "cum_lang": 57.4,
     "floor": ""
    },
    {
     "rank": 38,
     "badge": 38,
-    "why": "Rank 38 · +3 new. Adds a distinct vocabulary lane on top of the top-ranked stems.",
-    "cum_pool": 15.5,
-    "cum_lang": 23.7,
+    "why": "Rank 38 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 41.1,
+    "cum_lang": 58.9,
     "floor": ""
    },
    {
     "rank": 39,
     "badge": 39,
     "why": "Rank 39 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 15.6,
-    "cum_lang": 24.3,
+    "cum_pool": 42.1,
+    "cum_lang": 59.7,
     "floor": ""
    },
    {
     "rank": 40,
     "badge": 40,
-    "why": "Rank 40 · +3 new. Adds a distinct vocabulary lane on top of the top-ranked stems.",
-    "cum_pool": 16.1,
-    "cum_lang": 24.7,
+    "why": "Rank 40 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 43.2,
+    "cum_lang": 60.8,
     "floor": ""
    },
    {
     "rank": 41,
     "badge": 41,
-    "why": "Rank 41 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 16.4,
-    "cum_lang": 25.2,
+    "why": "Rank 41 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 44.2,
+    "cum_lang": 62.2,
     "floor": ""
    },
    {
     "rank": 42,
     "badge": 42,
-    "why": "Rank 42 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 16.8,
-    "cum_lang": 25.5,
+    "why": "Rank 42 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 45.3,
+    "cum_lang": 63.2,
     "floor": ""
    },
    {
     "rank": 43,
     "badge": 43,
     "why": "Rank 43 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 16.9,
-    "cum_lang": 26.4,
+    "cum_pool": 46.3,
+    "cum_lang": 64.1,
     "floor": ""
    },
    {
     "rank": 44,
     "badge": 44,
     "why": "Rank 44 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 17.1,
-    "cum_lang": 26.9,
+    "cum_pool": 47.4,
+    "cum_lang": 65.3,
     "floor": ""
    },
    {
     "rank": 45,
     "badge": 45,
-    "why": "Rank 45 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 17.4,
-    "cum_lang": 27.2,
+    "why": "Rank 45 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 48.4,
+    "cum_lang": 66.5,
     "floor": ""
    },
    {
     "rank": 46,
     "badge": 46,
-    "why": "Rank 46 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 17.8,
-    "cum_lang": 27.8,
+    "why": "Rank 46 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 49.5,
+    "cum_lang": 67.2,
     "floor": ""
    },
    {
     "rank": 47,
     "badge": 47,
-    "why": "Rank 47 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 18.1,
-    "cum_lang": 28.0,
+    "why": "Rank 47 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 50.5,
+    "cum_lang": 68.2,
     "floor": ""
    },
    {
     "rank": 48,
     "badge": 48,
     "why": "Rank 48 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 18.2,
-    "cum_lang": 28.9,
+    "cum_pool": 51.6,
+    "cum_lang": 69.0,
     "floor": ""
    },
    {
     "rank": 49,
     "badge": 49,
     "why": "Rank 49 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 18.4,
-    "cum_lang": 29.4,
+    "cum_pool": 52.6,
+    "cum_lang": 70.3,
     "floor": ""
    },
    {
     "rank": 50,
     "badge": 50,
-    "why": "Rank 50 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 18.7,
-    "cum_lang": 29.7,
+    "why": "Rank 50 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 53.7,
+    "cum_lang": 70.9,
     "floor": ""
    },
    {
     "rank": 51,
     "badge": 51,
     "why": "Rank 51 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 18.9,
-    "cum_lang": 30.3,
+    "cum_pool": 54.7,
+    "cum_lang": 71.6,
     "floor": ""
    },
    {
     "rank": 52,
     "badge": 52,
     "why": "Rank 52 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 19.1,
-    "cum_lang": 30.8,
+    "cum_pool": 55.8,
+    "cum_lang": 72.4,
     "floor": ""
    },
    {
     "rank": 53,
     "badge": 53,
-    "why": "Rank 53 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 19.4,
-    "cum_lang": 31.1,
+    "why": "Rank 53 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 56.8,
+    "cum_lang": 73.4,
     "floor": ""
    },
    {
     "rank": 54,
     "badge": 54,
     "why": "Rank 54 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 19.5,
-    "cum_lang": 31.5,
+    "cum_pool": 57.9,
+    "cum_lang": 74.1,
+    "floor": ""
+   },
+   {
+    "rank": 55,
+    "badge": 55,
+    "why": "Rank 55 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 58.9,
+    "cum_lang": 74.9,
+    "floor": ""
+   },
+   {
+    "rank": 56,
+    "badge": 56,
+    "why": "Rank 56 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 60.0,
+    "cum_lang": 75.6,
+    "floor": ""
+   },
+   {
+    "rank": 57,
+    "badge": 57,
+    "why": "Rank 57 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 61.1,
+    "cum_lang": 76.3,
+    "floor": ""
+   },
+   {
+    "rank": 58,
+    "badge": 58,
+    "why": "Rank 58 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 62.1,
+    "cum_lang": 77.3,
+    "floor": ""
+   },
+   {
+    "rank": 59,
+    "badge": 59,
+    "why": "Rank 59 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 63.2,
+    "cum_lang": 78.1,
+    "floor": ""
+   },
+   {
+    "rank": 60,
+    "badge": 60,
+    "why": "Rank 60 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 64.2,
+    "cum_lang": 79.1,
+    "floor": ""
+   },
+   {
+    "rank": 61,
+    "badge": 61,
+    "why": "Rank 61 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 65.3,
+    "cum_lang": 80.1,
+    "floor": ""
+   },
+   {
+    "rank": 62,
+    "badge": 62,
+    "why": "Rank 62 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 66.3,
+    "cum_lang": 81.1,
+    "floor": ""
+   },
+   {
+    "rank": 63,
+    "badge": 63,
+    "why": "Rank 63 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 67.4,
+    "cum_lang": 81.9,
+    "floor": ""
+   },
+   {
+    "rank": 64,
+    "badge": 64,
+    "why": "Rank 64 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 68.4,
+    "cum_lang": 82.8,
+    "floor": ""
+   },
+   {
+    "rank": 65,
+    "badge": 65,
+    "why": "Rank 65 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 69.5,
+    "cum_lang": 83.5,
+    "floor": ""
+   },
+   {
+    "rank": 66,
+    "badge": 66,
+    "why": "Rank 66 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 70.5,
+    "cum_lang": 84.2,
+    "floor": ""
+   },
+   {
+    "rank": 67,
+    "badge": 67,
+    "why": "Rank 67 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 71.6,
+    "cum_lang": 85.1,
+    "floor": ""
+   },
+   {
+    "rank": 68,
+    "badge": 68,
+    "why": "Rank 68 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 72.6,
+    "cum_lang": 86.0,
+    "floor": ""
+   },
+   {
+    "rank": 69,
+    "badge": 69,
+    "why": "Rank 69 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 73.7,
+    "cum_lang": 86.6,
+    "floor": ""
+   },
+   {
+    "rank": 70,
+    "badge": 70,
+    "why": "Rank 70 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 74.7,
+    "cum_lang": 87.4,
+    "floor": ""
+   },
+   {
+    "rank": 71,
+    "badge": 71,
+    "why": "Rank 71 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 75.8,
+    "cum_lang": 88.0,
+    "floor": ""
+   },
+   {
+    "rank": 72,
+    "badge": 72,
+    "why": "Rank 72 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 76.8,
+    "cum_lang": 88.7,
+    "floor": ""
+   },
+   {
+    "rank": 73,
+    "badge": 73,
+    "why": "Rank 73 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 77.9,
+    "cum_lang": 89.4,
+    "floor": ""
+   },
+   {
+    "rank": 74,
+    "badge": 74,
+    "why": "Rank 74 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 78.9,
+    "cum_lang": 90.0,
+    "floor": ""
+   },
+   {
+    "rank": 75,
+    "badge": 75,
+    "why": "Rank 75 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 80.0,
+    "cum_lang": 90.7,
+    "floor": ""
+   },
+   {
+    "rank": 76,
+    "badge": 76,
+    "why": "Rank 76 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 81.1,
+    "cum_lang": 91.4,
+    "floor": ""
+   },
+   {
+    "rank": 77,
+    "badge": 77,
+    "why": "Rank 77 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 82.1,
+    "cum_lang": 91.9,
+    "floor": ""
+   },
+   {
+    "rank": 78,
+    "badge": 78,
+    "why": "Rank 78 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 83.2,
+    "cum_lang": 92.5,
+    "floor": ""
+   },
+   {
+    "rank": 79,
+    "badge": 79,
+    "why": "Rank 79 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 84.2,
+    "cum_lang": 93.2,
+    "floor": ""
+   },
+   {
+    "rank": 80,
+    "badge": 80,
+    "why": "Rank 80 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 85.3,
+    "cum_lang": 93.8,
+    "floor": ""
+   },
+   {
+    "rank": 81,
+    "badge": 81,
+    "why": "Rank 81 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 86.3,
+    "cum_lang": 94.4,
+    "floor": ""
+   },
+   {
+    "rank": 82,
+    "badge": 82,
+    "why": "Rank 82 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 87.4,
+    "cum_lang": 94.8,
+    "floor": ""
+   },
+   {
+    "rank": 83,
+    "badge": 83,
+    "why": "Rank 83 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 88.4,
+    "cum_lang": 95.4,
+    "floor": ""
+   },
+   {
+    "rank": 84,
+    "badge": 84,
+    "why": "Rank 84 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 89.5,
+    "cum_lang": 95.9,
+    "floor": ""
+   },
+   {
+    "rank": 85,
+    "badge": 85,
+    "why": "Rank 85 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 90.5,
+    "cum_lang": 96.1,
+    "floor": ""
+   },
+   {
+    "rank": 86,
+    "badge": 86,
+    "why": "Rank 86 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 91.6,
+    "cum_lang": 96.6,
+    "floor": ""
+   },
+   {
+    "rank": 87,
+    "badge": 87,
+    "why": "Rank 87 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 92.6,
+    "cum_lang": 97.1,
+    "floor": ""
+   },
+   {
+    "rank": 88,
+    "badge": 88,
+    "why": "Rank 88 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 93.7,
+    "cum_lang": 97.4,
+    "floor": ""
+   },
+   {
+    "rank": 89,
+    "badge": 89,
+    "why": "Rank 89 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 94.7,
+    "cum_lang": 97.8,
+    "floor": ""
+   },
+   {
+    "rank": 90,
+    "badge": 90,
+    "why": "Rank 90 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 95.8,
+    "cum_lang": 98.3,
+    "floor": ""
+   },
+   {
+    "rank": 91,
+    "badge": 91,
+    "why": "Rank 91 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 96.8,
+    "cum_lang": 98.7,
+    "floor": ""
+   },
+   {
+    "rank": 92,
+    "badge": 92,
+    "why": "Rank 92 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 97.9,
+    "cum_lang": 99.1,
+    "floor": ""
+   },
+   {
+    "rank": 93,
+    "badge": 93,
+    "why": "Rank 93 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 98.9,
+    "cum_lang": 99.4,
+    "floor": ""
+   },
+   {
+    "rank": 94,
+    "badge": 94,
+    "why": "Rank 94 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.7,
+    "floor": ""
+   },
+   {
+    "rank": 95,
+    "badge": 95,
+    "why": "Rank 95 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.7,
+    "floor": ""
+   }
+  ]
+ },
+ "EO_T2": {
+  "set": "EO_T2",
+  "blurb": "Pool eo_t2 tests the question-asking dialogue: you play the newcomer, and the examiner plays the person with information you need. The top ten items map a specific subject space: babysitting a friend's toddler, dog-sitting for a neighbor, transport in a new city, life-story enquêtes on Québec-returned expats, mairie cultural activities, film recommendations, hotel logistics, joining a hiking club, integrating socially after a move, and colleagues inviting you to spectacles. Register alternates between tu with friends, neighbors, colleagues, and vous with agents, employees, and service professionals, covering roughly half the pool each.",
+  "caps": [
+   "**Off-topic performance = A1 non atteint** regardless of language quality. Read the situation twice before opening your mouth.",
+   "**Skipping or abandoning the task = A1 non atteint.** Even a partial attempt outscores silence.",
+   "**Ask questions, do not narrate.** Tâche 2 is a question-asking dialogue. A monologue or statements-only response drifts toward off-topic and forfeits Pragmatique credit.",
+   "**Register control (Sociolinguistique).** Ami / voisin / collègue = tu. Agent / employé / responsable = vous. A mismatched register is heard immediately and marked down.",
+   "**Cover every sub-topic named in parentheses.** The parenthetical is the task specification. Omit one and the examiner reads the task as incomplete."
+  ],
+  "milestones": [
+   {
+    "after_rank": 5,
+    "headline": "First 5 prompts: 7.8% of language covered",
+    "band": "S_o ≈ 8 → NCLC 6",
+    "body": "You have locked the five highest-density templates: childcare, transport, expat life story, mairie cultural activities, and film recommendations. That is 7.8% of exam language and 1.9% of the pool. Under the score model this maps to solid B1 (upper), which is S_o ≈ 8 and NCLC 6. Examiners now hear clear connected question sequences with adequate lexicon, but the argued follow-ups and register consistency that mark B2 are still fragile. Push into the next 7 items to cross the NCLC 7 threshold."
+   },
+   {
+    "after_rank": 12,
+    "headline": "12 prompts: crossing the NCLC 7 threshold",
+    "band": "S_o ≈ 10 → NCLC 7",
+    "body": "At 12 items you have covered 14.8% of exam language and 5.5% of the pool. The set adds cycling, dog-sitting, hotel front-desk, hiking club, integration into a new city, spectacle invitations, car breakdown, and the mirror child-sitting scenario. That mix trains both the peer-tu and institutional-vous registers, plus emergency and hospitality vocabulary. Under the model this is the B2-lower band, S_o ≈ 10, NCLC 7 (target floor). At this depth roughly 4 of 6 examiner ratings should come back as B2 if disqualifiers stay clean."
+   },
+   {
+    "after_rank": 25,
+    "headline": "25 prompts: mid B2, ~24% language locked",
+    "band": "S_o ≈ 11 → NCLC 7",
+    "body": "Twenty-five items cover 24.4% of exam language and 11.2% of the pool. You have added apartment-search, volunteering, swimming pool, music festival, winter-sports station, furniture-selling, mountain-passion cold-start, zoo family outing, Vancouver tourism, job interview advice, colleague's Canada tour, and the French-class enquête. Vocabulary breadth (Linguistique) is now visibly wider, and Pragmatique register-switching between tu and vous is more reliable. Under the model S_o ≈ 11, still NCLC 7 but now with margin against a bad-mock swing. The needle sits comfortably at p_speaking = 1.0."
+   },
+   {
+    "after_rank": 60,
+    "headline": "60 prompts: almost half the exam language",
+    "band": "S_o ≈ 12 → NCLC 8",
+    "body": "Sixty items cover 48.8% of exam language and 21.3% of the pool. You are now handling one in every two scenarios an examiner might draw. Under the model this raises expected S_o to about 12, which is NCLC 8 (B2 upper). Rubric anchor: production is heard as clear, detailed, argued, with a wide range of familiar topics, precisely the CEFR B2 spoken-interaction descriptor. The gap to NCLC 9 lives in fluency and phonological control, not coverage. Continued drilling below rank 60 adds insurance; range gains slow."
+   },
+   {
+    "after_rank": 120,
+    "headline": "120 prompts: 73% of exam language covered",
+    "band": "S_o ≈ 13 → NCLC 8",
+    "body": "One hundred and twenty items cover 73.1% of exam language and 38.5% of the pool. Almost three-quarters of what an examiner could ask is now inside your rehearsal set. Under the model this is upper B2, S_o ≈ 13, NCLC 8 firmly. Rubric anchor: examiners rate all three tasks as B2 with two possibly touching C1 on Pragmatique (structuration, cohérence). Beyond rank 120 the marginal coverage per item drops below 0.4% language; time is better spent on fluency drills, phonological polish, and disqualifier hygiene than on more scenarios."
+   }
+  ],
+  "order": [
+   {
+    "rank": 1,
+    "badge": 1,
+    "why": "The single highest-leverage prompt in this pool. Seen across 28 different months with 40 total occurrences, this childcare scenario returns constantly because it hits three sub-topics the examiner already expects you to organise: food habits, leisure, sleep. Drill it clean and you earn Pragmatique credit for structured question sequencing plus Sociolinguistique credit for the tu register with a close friend. It also builds the exact question-scaffolding template (habitudes, préférences, rythme) that transfers straight into ranks 6, 21, 29, and 30. If you only rehearse one prompt this month, make it this one.",
+    "cum_pool": 0.3,
+    "cum_lang": 2.1,
+    "floor": ""
+   },
+   {
+    "rank": 2,
+    "badge": 2,
+    "why": "Transport in a new city, hosted by a Canadian friend, with 21 recurrences across 16 months. The scenario forces four concrete sub-questions the examiner counts: types de transport, destinations, horaires, tarifs. That maps to a clean four-question template you can also deploy on ranks 4, 16, 17, 21, and 22 (all activities and services with tarifs plus horaires). Drilling it earns Linguistique credit for practical vocabulary (métro, bus, tramway, correspondance, abonnement) and Pragmatique credit for logical ordering. Because the interlocutor is a friend, it also cements the tu register you need for roughly half the pool.",
+    "cum_pool": 0.8,
+    "cum_lang": 3.3,
+    "floor": ""
+   },
+   {
+    "rank": 3,
+    "badge": 3,
+    "why": "The most frequent scenario in the entire archive at 72 occurrences across 34 different months. It runs a life-story enquête on a Québec-returned colleague: itinéraire professionnel, formation, premier emploi, expatriation, difficultés. High rank because a full-length interaction here trains open questions (parlez-moi de, comment avez-vous, qu'est-ce qui) and past-tense follow-ups (avez-vous rencontré, comment vous êtes-vous adapté). That verb-tense range alone is a B2 signature; examiners read varied past forms as Linguistique breadth. Also directly prepares rank 14 (friend's immigration experience) and rank 24 (colleague's Canadian tour).",
+    "cum_pool": 1.1,
+    "cum_lang": 4.7,
+    "floor": ""
+   },
+   {
+    "rank": 4,
+    "badge": 4,
+    "why": "Cultural activities at the mairie's service culturel, only 5 recurrences but ranked here because it introduces the vous-with-institutional-agent register that half the pool depends on. Sub-topics are precise: nature, fréquence, tarifs, durée. Drilling this earns you the polite-institutional formulas (pourriez-vous m'indiquer, j'aimerais savoir si, serait-il possible de) that transfer straight to ranks 7, 15, 22, and 30. It also opens the menu-of-activities vocabulary (ateliers, spectacles, expositions, conférences) you will reuse across every leisure-and-culture prompt in the pool.",
+    "cum_pool": 1.6,
+    "cum_lang": 6.1,
+    "floor": ""
+   },
+   {
+    "rank": 5,
+    "badge": 5,
+    "why": "Film recommendations from a francophone friend, 11 recurrences across 11 months. Sub-topics: genre, lieu de projection, prix des séances. High leverage because it doubles as a rehearsal for rank 27 (colleague talking about a film they just saw), so one clean template covers both prompts. Earns Linguistique credit for cinema-specific lexicon (genre, réalisateur, séance, sortie, bande-annonce) and Pragmatique credit for chaining recommendation questions (pourquoi tu l'as aimé, à quel public tu le conseillerais). Passing the 5-item milestone means examiners already read your production as clear and connected.",
+    "cum_pool": 1.9,
+    "cum_lang": 7.8,
+    "floor": ""
+   },
+   {
+    "rank": 6,
+    "badge": 6,
+    "why": "Dog-sitting for a neighbor, 43 occurrences across 30 months. One of the most reliable scenarios in the archive. Sub-topics: responsabilités, durée, rémunération. Structurally identical to rank 1 (child-sitting), so drilling both back-to-back locks the caring-for-something-of-someone-else template. Earns Linguistique credit for care vocabulary (promener, nourrir, sortir, garder) and Sociolinguistique credit for the neighbour tu register with a tinge of professional distance around the payment question. Also prepares rank 29 (colleague seeking a babysitter), where you sit on the other side of the same conversation.",
+    "cum_pool": 2.2,
+    "cum_lang": 9.0,
+    "floor": ""
+   },
+   {
+    "rank": 7,
+    "badge": 7,
+    "why": "Hotel front desk, 5 recurrences, but ranked high because it is the archetypal vous-with-service-professional interaction. Sub-topics span petit-déjeuner, internet, transports, activités, so it doubles as a mini-tour of hospitality vocabulary. Drilling it earns Sociolinguistique credit for hotel-register formulas (à quelle heure, est-il possible de, y a-t-il un supplément) that transfer to ranks 22 (Vancouver tourist office) and 30 (restaurant reservation). Also builds the organize-my-stay question-clustering pattern used across every travel and tourism prompt in the pool.",
+    "cum_pool": 2.7,
+    "cum_lang": 9.9,
+    "floor": ""
+   },
+   {
+    "rank": 8,
+    "badge": 8,
+    "why": "Hiking club invitation, only 2 recurrences but 4 new items covered, meaning it opens sub-scenarios not touched by higher-ranked prompts. Sub-topics: participants, lieux, niveaux. A compact three-question set that trains you to ask about group composition and difficulty grading. The register is friend-tu, and drilling it earns Linguistique credit for outdoor and sport vocabulary that transfers to ranks 12 (cycling), 16 (swimming), 18 (winter sports), and 20 (mountain passion). Not the highest-frequency prompt, but a broad coverage node worth an early rehearsal pass.",
+    "cum_pool": 3.8,
+    "cum_lang": 10.5,
+    "floor": ""
+   },
+   {
+    "rank": 9,
+    "badge": 9,
+    "why": "Meeting people in a new city, 22 occurrences across 20 months. Sub-topic is loose (best ways to make friends and integrate), which makes it slightly harder. You have to generate your own question set rather than lean on a parenthetical. Drilling it forces you to invent four or five open questions and earns Pragmatique credit for cohesive discourse structuring. Pairs naturally with ranks 2 and 12 (arriving in a new city, transport, cycling) and rank 26 (integration into a new company). The soft prompt structure is exactly the kind examiners cite when awarding B2 for spontaneity.",
+    "cum_pool": 4.1,
+    "cum_lang": 11.7,
+    "floor": ""
+   },
+   {
+    "rank": 10,
+    "badge": 10,
+    "why": "Colleague invites you to a spectacle, 2 recurrences but 3 new items covered. Sub-topics: type, lieu, horaire, transport, autres participants. High rank because it forces you to ask logistics questions in a peer register (tu with a colleague) rather than institutional vous, a distinction examiners hear immediately. Drilling it prepares rank 17 (music festival invitation) and rank 24 (colleague's tour). Earns Linguistique credit for spectacle vocabulary (représentation, salle, billets, se retrouver) and Pragmatique credit for accepting-with-info-gathering, one of the most natural conversational moves in the pool.",
+    "cum_pool": 4.9,
+    "cum_lang": 12.3,
+    "floor": ""
+   },
+   {
+    "rank": 11,
+    "badge": 11,
+    "why": "Car breakdown in Canada, calling insurance, 7 recurrences across 7 months. Vous register with a professional, sub-topics: remorquage, réparations, retour chez soi. Ranked here because it introduces urgency plus problem-solving vocabulary (panne, dépanneuse, réparateur, franchise, prise en charge) that no earlier prompt covers. Drilling it earns Sociolinguistique credit for adapting to a stressed-but-polite phone register. Shares structural DNA with rank 15 (info center for volunteering) and rank 22 (tourist office), but with a distinct emergency lexicon that examiners reward.",
+    "cum_pool": 5.2,
+    "cum_lang": 13.7,
+    "floor": ""
+   },
+   {
+    "rank": 12,
+    "badge": 12,
+    "why": "Cycling in Ottawa, asking an Ottawa friend, 13 occurrences across 11 months. Sub-topics: pistes cyclables, agences de location, matériel. Ranked here because it locks the arriving-in-a-Canadian-city plus practical-daily-mobility template with a peer-friend register, complementing rank 2 (transport, generic new city) and rank 13 (apartment in Québec). Drilling earns Linguistique credit for cycling vocabulary (piste, casque, vélo en libre-service, itinéraire) and Pragmatique credit for weighing pros and cons before making a decision, a B2 spoken-interaction signature.",
+    "cum_pool": 5.5,
+    "cum_lang": 14.8,
+    "floor": ""
+   },
+   {
+    "rank": 13,
+    "badge": 13,
+    "why": "Real estate agent, apartment search in Québec. At 94 occurrences across 37 months, this is the highest raw frequency in the pool. Ranked 13 rather than higher only because its topic overlaps with several earlier scenarios that had already covered new items. But in absolute exam-day likelihood, this is one of the most probable prompts you will draw. Drilling it earns Sociolinguistique credit for the agent-vous register and Linguistique credit for housing lexicon (loyer, bail, quartier, charges, superficie, meublé). Miss this scenario and you leave massive Coverage-Order value on the table.",
+    "cum_pool": 5.7,
+    "cum_lang": 15.5,
+    "floor": ""
+   },
+   {
+    "rank": 14,
+    "badge": 14,
+    "why": "Friend who immigrated to Canada 2 years ago, 1 recurrence but 3 new items covered. Ranked here because it opens the personal-immigration-story node that no earlier prompt covers directly. Sub-topics: changement d'habitudes, vie quotidienne, adaptation. Drilling it earns Linguistique credit for reflective past-experience verbs (avoir dû, s'être habitué, ne plus, désormais) and Pragmatique credit for empathetic follow-up questions. Doubles as an interview rehearsal for your own real-life immigration story, which is the most personally relevant prompt scenario in the whole pool.",
+    "cum_pool": 6.6,
+    "cum_lang": 16.2,
+    "floor": ""
+   },
+   {
+    "rank": 15,
+    "badge": 15,
+    "why": "Volunteering info center, 11 occurrences across 10 months. Sub-topics: domaines d'action, activités, personnes concernées, organisation du temps. Vous register with an institutional agent, so it stacks on ranks 4, 7, and 22 for the same register-family drill. Drilling earns Linguistique credit for civic and associative vocabulary (bénévole, engagement, cause, mission, disponibilité), a lexical field the pool returns to repeatedly. Also earns Pragmatique credit because the four sub-topics have to be sequenced logically (what, who, when), a mini-structuring exercise on every attempt.",
+    "cum_pool": 6.8,
+    "cum_lang": 17.4,
+    "floor": ""
+   },
+   {
+    "rank": 16,
+    "badge": 16,
+    "why": "Neighbor swims weekly, pool information, 13 occurrences across 11 months. Sub-topics: horaires, prix, équipements. Small template, big transfer: same three-question core as ranks 5, 7, 21, and 30. Register is peer-neighbour tu. Drilling it earns Linguistique credit for sports-facility vocabulary (bassin, vestiaire, casier, abonnement, forfait) and Pragmatique credit for compact focused questioning, a specific B2 skill of not over-elaborating simple info requests. A safe, high-transferability prompt that pays back quickly on rehearsal.",
+    "cum_pool": 7.4,
+    "cum_lang": 17.8,
+    "floor": ""
+   },
+   {
+    "rank": 17,
+    "badge": 17,
+    "why": "Friend organizes a music festival, 6 occurrences across 6 months. Sub-topics: dates, horaires, concerts programmés, tarifs. Same core structure as ranks 5, 10, 16, and 22: recognize the pattern once and you can execute all of them from a shared template. Drilling earns Linguistique credit for event vocabulary (programmation, tête d'affiche, tarif préférentiel, billetterie) and Pragmatique credit for pre-event enthusiasm register (j'ai hâte, ça a l'air génial), which reads as natural conversational Sociolinguistique. Solid mid-tier item.",
+    "cum_pool": 7.9,
+    "cum_lang": 18.4,
+    "floor": ""
+   },
+   {
+    "rank": 18,
+    "badge": 18,
+    "why": "Friend goes to a winter-sports station, 23 occurrences across 18 months. Sub-topics: lieux, hébergements, activités. Ranked here because it opens Canadian-winter-tourism vocabulary (ski, raquette, station, télésiège, chalet) that shows up in no earlier prompt. Peer register with a friend. Drilling earns Pragmatique credit for the help-me-decide-if-this-is-for-me question posture: you signal indecision, ask for enough info to weigh it, and close with a soft verdict. A B2 spoken-interaction shape examiners recognize immediately.",
+    "cum_pool": 8.2,
+    "cum_lang": 19.2,
+    "floor": ""
+   },
+   {
+    "rank": 19,
+    "badge": 19,
+    "why": "Friend sells furniture on moving, 14 occurrences across 10 months. Sub-topics: meubles, électroménager, prix, état. Ranked here because it introduces a transactional peer scenario absent from higher ranks. Drilling earns Linguistique credit for furniture and condition vocabulary (canapé, matelas, table, en bon état, comme neuf, à négocier) and Pragmatique credit for polite bargaining moves (est-ce que ce serait possible de, à quel prix, tu serais d'accord pour). Pairs with rank 13 (apartment) as the two halves of the moving-in-to-Canada experience.",
+    "cum_pool": 8.5,
+    "cum_lang": 20.2,
+    "floor": ""
+   },
+   {
+    "rank": 20,
+    "badge": 20,
+    "why": "Train waiting room, mountain-passion conversation with a stranger, 8 occurrences across 6 months. Register is polite-peer (vous, since you don't know them). Sub-topics: lieux, activités, équipement. Ranked here because it is one of very few cold-start conversation-with-a-stranger prompts, forcing curiosity-signalling openers (ah c'est intéressant, comment vous êtes venu à). Drilling earns Sociolinguistique credit for stranger-vous plus warm-curiosity register, a subtle distinction examiners appreciate. Also builds mountain and outdoor lexicon that transfers to ranks 8, 12, and 18.",
+    "cum_pool": 8.7,
+    "cum_lang": 21.3,
+    "floor": ""
+   },
+   {
+    "rank": 21,
+    "badge": 21,
+    "why": "Neighbor visited the zoo, family outing planning, 4 recurrences across 4 months. Sub-topics: jour, animaux, tarifs. Ranked here because it introduces the family-outing planning angle with a low-stakes topic. Peer-neighbour tu register. Drilling earns Linguistique credit for animal and family vocabulary (les enfants, la sortie, dépliant, guide) and Pragmatique credit for planning-a-day question sequencing (when, what, how much). Structurally identical to ranks 16, 17, and 22, so one template covers all four.",
+    "cum_pool": 9.3,
+    "cum_lang": 21.9,
+    "floor": ""
+   },
+   {
+    "rank": 22,
+    "badge": 22,
+    "why": "Vancouver tourist office, museum info, 8 occurrences across 5 months. Sub-topics: types de musées, tarifs, heures d'ouverture. Vous register with a service professional. Ranked here because it lets you drill the tourist-office polite-formal template, which recycles into any info-desk scenario. Drilling earns Linguistique credit for museum vocabulary (exposition, permanent, temporaire, gratuit le premier dimanche, audio-guide) and Sociolinguistique credit for tourist-visitor politeness (bonjour je souhaiterais, auriez-vous une brochure). Direct transfer to rank 30 (restaurant reservation).",
+    "cum_pool": 9.8,
+    "cum_lang": 22.3,
+    "floor": ""
+   },
+   {
+    "rank": 23,
+    "badge": 23,
+    "why": "Friend advising on a job interview, 4 occurrences across 4 months, but all clustered in 2025 to 2026 (a rising scenario). Sub-topics: tenue, comportement, préparation. Peer register with a friend. Drilling earns Linguistique credit for professional-preparation vocabulary (entretien d'embauche, poste, motivation, présentation, questions-pièges) and Pragmatique credit for advice-seeking discourse structure (qu'est-ce que tu me conseilles, comment tu réagirais si). Trending upward in recent months, so it is likely to appear on your September session.",
+    "cum_pool": 10.4,
+    "cum_lang": 22.9,
+    "floor": ""
+   },
+   {
+    "rank": 24,
+    "badge": 24,
+    "why": "Colleague's tour of Canada, 4 occurrences all in 2025 to 2026 (recent). Peer register with a colleague. Sub-topics: coût, étapes, temps. Ranked here because it opens the trip-planning-by-borrowing-someone-else's-itinerary template not directly covered above. Drilling earns Linguistique credit for travel-planning vocabulary (parcours, étape, réservation, budget, hébergement) and Pragmatique credit for chained follow-ups where each answer prompts the next question, a B2 spoken-interaction signature. Rising frequency makes this a high-priority late-tail item.",
+    "cum_pool": 10.9,
+    "cum_lang": 23.4,
+    "floor": ""
+   },
+   {
+    "rank": 25,
+    "badge": 25,
+    "why": "French-class enquête on a Frenchman's weekend, 9 occurrences across 9 months. Meta-scenario: you play the enquêteur, examiner plays the informant. Sub-topics: quoi, où, quand. Ranked here because it explicitly trains open-question generation, a Pragmatique skill that shows up on many other prompts. The scenario is uniquely permissive: you can ask about almost anything a French adult does on a weekend, which builds spontaneity and range. Drilling earns Linguistique credit for daily-life leisure vocabulary and Sociolinguistique credit for interview-tone politeness with a stranger informant.",
+    "cum_pool": 11.2,
+    "cum_lang": 24.4,
+    "floor": ""
+   },
+   {
+    "rank": 26,
+    "badge": 26,
+    "why": "New company, colleague explains how things work, 12 occurrences across 11 months. Sub-topics: organisation du travail, relations entre collègues, services (restauration). Ranked here because it opens the workplace-integration vocabulary field that rank 3 only partially touched. Peer-colleague tu register. Drilling earns Linguistique credit for organisational vocabulary (hiérarchie, réunion, pause déjeuner, cantine, réfectoire, ambiance) and Pragmatique credit for information-clustering (working conditions, then people, then services). Complements rank 3 for a complete starting-a-new-job prep block.",
+    "cum_pool": 11.5,
+    "cum_lang": 25.3,
+    "floor": ""
+   },
+   {
+    "rank": 27,
+    "badge": 27,
+    "why": "Colleague saw a film, 14 occurrences across 14 months. Sub-topics: thème, acteurs, horaires. Effectively the mirror-image of rank 5 (asking a friend for recommendations): here the colleague already has an opinion and you are extracting whether it is worth your time. Peer register. Drilling earns Linguistique credit for film-evaluation vocabulary (scénario, jeu d'acteur, longueur, ambiance, à voir absolument) and Pragmatique credit for decision-gathering questioning. Pair-drill with rank 5 for double return on one template.",
+    "cum_pool": 11.7,
+    "cum_lang": 26.1,
+    "floor": ""
+   },
+   {
+    "rank": 28,
+    "badge": 28,
+    "why": "Friend advises on a weekend in a city they know well, 34 occurrences across 17 months. Sub-topics: lieux à visiter, climat, activités, hébergement. Ranked here even at high frequency because it overlaps content-wise with ranks 2, 12, 18, and 22; most of the vocabulary is already covered. Still worth drilling because it forces you to sequence four sub-topics under time pressure, a Pragmatique gain. Peer-friend register. Drilling earns Linguistique credit for city and tourism vocabulary and Sociolinguistique credit for the enthusiastic-planner register.",
+    "cum_pool": 12.0,
+    "cum_lang": 26.7,
+    "floor": ""
+   },
+   {
+    "rank": 29,
+    "badge": 29,
+    "why": "Colleague looking for a babysitter, 13 occurrences across 11 months. Mirror-image of rank 1: you interview the parent about exigences, salaire, horaires, tâches. Peer-colleague register (tu or vous depending on how you read the interlocutor, a Sociolinguistique judgement call). Drilling earns Linguistique credit for employment-mediation vocabulary (recommander, disponibilité, expérience, tarif horaire) and Pragmatique credit for four-sub-topic sequencing. High transfer with rank 1: same lexical family, opposite conversational role.",
+    "cum_pool": 12.3,
+    "cum_lang": 27.5,
+    "floor": ""
+   },
+   {
+    "rank": 30,
+    "badge": 30,
+    "why": "Restaurant employee, birthday party organization, 13 occurrences across 11 months. Sub-topics: capacité d'accueil, menus, tarifs, réservation. Vous register with a service professional. Closes out the top-30 with high-frequency plus clean-template value: same three-question core as ranks 4, 7, 15, 16, 17, and 22, deployable on any other reservation prompt. Still solid, but marginal return past this rank starts to shrink. Drilling earns Linguistique credit for restaurant vocabulary (salle privatisée, buffet, menu enfant, acompte, annulation).",
+    "cum_pool": 12.6,
+    "cum_lang": 28.2,
+    "floor": ""
+   },
+   {
+    "rank": 31,
+    "badge": 31,
+    "why": "Rank 31 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 12.8,
+    "cum_lang": 29.0,
+    "floor": ""
+   },
+   {
+    "rank": 32,
+    "badge": 32,
+    "why": "Rank 32 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 13.1,
+    "cum_lang": 29.7,
+    "floor": ""
+   },
+   {
+    "rank": 33,
+    "badge": 33,
+    "why": "Rank 33 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 13.4,
+    "cum_lang": 30.5,
+    "floor": ""
+   },
+   {
+    "rank": 34,
+    "badge": 34,
+    "why": "Rank 34 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 13.7,
+    "cum_lang": 31.4,
+    "floor": ""
+   },
+   {
+    "rank": 35,
+    "badge": 35,
+    "why": "Rank 35 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 13.9,
+    "cum_lang": 32.3,
+    "floor": ""
+   },
+   {
+    "rank": 36,
+    "badge": 36,
+    "why": "Rank 36 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 14.2,
+    "cum_lang": 33.0,
+    "floor": ""
+   },
+   {
+    "rank": 37,
+    "badge": 37,
+    "why": "Rank 37 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 14.5,
+    "cum_lang": 33.7,
+    "floor": ""
+   },
+   {
+    "rank": 38,
+    "badge": 38,
+    "why": "Rank 38 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 14.8,
+    "cum_lang": 34.3,
+    "floor": ""
+   },
+   {
+    "rank": 39,
+    "badge": 39,
+    "why": "Rank 39 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 15.0,
+    "cum_lang": 34.8,
+    "floor": ""
+   },
+   {
+    "rank": 40,
+    "badge": 40,
+    "why": "Rank 40 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 15.3,
+    "cum_lang": 35.5,
+    "floor": ""
+   },
+   {
+    "rank": 41,
+    "badge": 41,
+    "why": "Rank 41 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 15.6,
+    "cum_lang": 36.3,
+    "floor": ""
+   },
+   {
+    "rank": 42,
+    "badge": 42,
+    "why": "Rank 42 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 15.8,
+    "cum_lang": 37.1,
+    "floor": ""
+   },
+   {
+    "rank": 43,
+    "badge": 43,
+    "why": "Rank 43 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 16.1,
+    "cum_lang": 37.9,
+    "floor": ""
+   },
+   {
+    "rank": 44,
+    "badge": 44,
+    "why": "Rank 44 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 16.4,
+    "cum_lang": 38.5,
+    "floor": ""
+   },
+   {
+    "rank": 45,
+    "badge": 45,
+    "why": "Rank 45 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 16.7,
+    "cum_lang": 39.2,
+    "floor": ""
+   },
+   {
+    "rank": 46,
+    "badge": 46,
+    "why": "Rank 46 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 16.9,
+    "cum_lang": 39.7,
+    "floor": ""
+   },
+   {
+    "rank": 47,
+    "badge": 47,
+    "why": "Rank 47 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 17.2,
+    "cum_lang": 40.5,
+    "floor": ""
+   },
+   {
+    "rank": 48,
+    "badge": 48,
+    "why": "Rank 48 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 17.8,
+    "cum_lang": 40.8,
+    "floor": ""
+   },
+   {
+    "rank": 49,
+    "badge": 49,
+    "why": "Rank 49 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 18.0,
+    "cum_lang": 41.4,
+    "floor": ""
+   },
+   {
+    "rank": 50,
+    "badge": 50,
+    "why": "Rank 50 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 18.3,
+    "cum_lang": 42.0,
+    "floor": ""
+   },
+   {
+    "rank": 51,
+    "badge": 51,
+    "why": "Rank 51 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 18.6,
+    "cum_lang": 42.7,
+    "floor": ""
+   },
+   {
+    "rank": 52,
+    "badge": 52,
+    "why": "Rank 52 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 18.9,
+    "cum_lang": 43.6,
+    "floor": ""
+   },
+   {
+    "rank": 53,
+    "badge": 53,
+    "why": "Rank 53 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 19.1,
+    "cum_lang": 44.6,
+    "floor": ""
+   },
+   {
+    "rank": 54,
+    "badge": 54,
+    "why": "Rank 54 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 19.4,
+    "cum_lang": 45.3,
     "floor": ""
    },
    {
@@ -5598,4477 +2742,2493 @@ var TCF_COVERAGE = {
     "badge": 55,
     "why": "Rank 55 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 19.9,
-    "cum_lang": 32.0,
+    "cum_lang": 45.5,
     "floor": ""
    },
    {
     "rank": 56,
     "badge": 56,
     "why": "Rank 56 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 20.0,
-    "cum_lang": 32.4,
+    "cum_pool": 20.2,
+    "cum_lang": 46.3,
     "floor": ""
    },
    {
     "rank": 57,
     "badge": 57,
     "why": "Rank 57 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 20.2,
-    "cum_lang": 33.0,
+    "cum_pool": 20.5,
+    "cum_lang": 47.1,
     "floor": ""
    },
    {
     "rank": 58,
     "badge": 58,
     "why": "Rank 58 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 20.4,
-    "cum_lang": 33.9,
+    "cum_pool": 20.8,
+    "cum_lang": 47.7,
     "floor": ""
    },
    {
     "rank": 59,
     "badge": 59,
     "why": "Rank 59 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 20.5,
-    "cum_lang": 34.5,
+    "cum_pool": 21.0,
+    "cum_lang": 48.2,
     "floor": ""
    },
    {
     "rank": 60,
     "badge": 60,
     "why": "Rank 60 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 20.7,
-    "cum_lang": 35.2,
+    "cum_pool": 21.3,
+    "cum_lang": 48.8,
     "floor": ""
    },
    {
     "rank": 61,
     "badge": 61,
-    "why": "Rank 61 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 21.0,
-    "cum_lang": 35.5,
+    "why": "Rank 61 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 21.6,
+    "cum_lang": 49.7,
     "floor": ""
    },
    {
     "rank": 62,
     "badge": 62,
-    "why": "Rank 62 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 21.2,
-    "cum_lang": 36.0,
+    "why": "Rank 62 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 22.1,
+    "cum_lang": 50.0,
     "floor": ""
    },
    {
     "rank": 63,
     "badge": 63,
     "why": "Rank 63 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 21.3,
-    "cum_lang": 36.9,
+    "cum_pool": 22.4,
+    "cum_lang": 50.7,
     "floor": ""
    },
    {
     "rank": 64,
     "badge": 64,
-    "why": "Rank 64 · +3 new. Adds a distinct vocabulary lane on top of the top-ranked stems.",
-    "cum_pool": 21.8,
-    "cum_lang": 37.1,
+    "why": "Rank 64 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 22.7,
+    "cum_lang": 51.3,
     "floor": ""
    },
    {
     "rank": 65,
     "badge": 65,
-    "why": "Rank 65 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 22.1,
-    "cum_lang": 37.6,
+    "why": "Rank 65 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 23.0,
+    "cum_lang": 51.8,
     "floor": ""
    },
    {
     "rank": 66,
     "badge": 66,
-    "why": "Rank 66 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 22.5,
-    "cum_lang": 37.9,
+    "why": "Rank 66 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 23.2,
+    "cum_lang": 52.2,
     "floor": ""
    },
    {
     "rank": 67,
     "badge": 67,
     "why": "Rank 67 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 22.6,
-    "cum_lang": 38.6,
+    "cum_pool": 23.5,
+    "cum_lang": 52.7,
     "floor": ""
    },
    {
     "rank": 68,
     "badge": 68,
     "why": "Rank 68 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 22.8,
-    "cum_lang": 39.2,
+    "cum_pool": 23.8,
+    "cum_lang": 53.2,
     "floor": ""
    },
    {
     "rank": 69,
     "badge": 69,
     "why": "Rank 69 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 23.0,
-    "cum_lang": 39.9,
+    "cum_pool": 24.0,
+    "cum_lang": 53.6,
     "floor": ""
    },
    {
     "rank": 70,
     "badge": 70,
     "why": "Rank 70 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 23.1,
-    "cum_lang": 40.3,
+    "cum_pool": 24.3,
+    "cum_lang": 54.1,
     "floor": ""
    },
    {
     "rank": 71,
     "badge": 71,
     "why": "Rank 71 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 23.3,
-    "cum_lang": 41.1,
+    "cum_pool": 24.6,
+    "cum_lang": 54.5,
     "floor": ""
    },
    {
     "rank": 72,
     "badge": 72,
     "why": "Rank 72 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 23.5,
-    "cum_lang": 41.4,
+    "cum_pool": 24.9,
+    "cum_lang": 54.9,
     "floor": ""
    },
    {
     "rank": 73,
     "badge": 73,
     "why": "Rank 73 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 23.6,
-    "cum_lang": 41.9,
+    "cum_pool": 25.1,
+    "cum_lang": 55.6,
     "floor": ""
    },
    {
     "rank": 74,
     "badge": 74,
     "why": "Rank 74 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 23.8,
-    "cum_lang": 42.4,
+    "cum_pool": 25.4,
+    "cum_lang": 55.9,
     "floor": ""
    },
    {
     "rank": 75,
     "badge": 75,
     "why": "Rank 75 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 24.1,
-    "cum_lang": 42.5,
+    "cum_pool": 26.0,
+    "cum_lang": 56.2,
     "floor": ""
    },
    {
     "rank": 76,
     "badge": 76,
-    "why": "Rank 76 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 24.4,
-    "cum_lang": 42.7,
+    "why": "Rank 76 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 26.2,
+    "cum_lang": 56.6,
     "floor": ""
    },
    {
     "rank": 77,
     "badge": 77,
     "why": "Rank 77 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 24.6,
-    "cum_lang": 43.2,
+    "cum_pool": 26.5,
+    "cum_lang": 56.9,
     "floor": ""
    },
    {
     "rank": 78,
     "badge": 78,
-    "why": "Rank 78 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 24.9,
-    "cum_lang": 43.4,
+    "why": "Rank 78 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 26.8,
+    "cum_lang": 57.3,
     "floor": ""
    },
    {
     "rank": 79,
     "badge": 79,
     "why": "Rank 79 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.1,
-    "cum_lang": 44.0,
+    "cum_pool": 27.0,
+    "cum_lang": 57.8,
     "floor": ""
    },
    {
     "rank": 80,
     "badge": 80,
     "why": "Rank 80 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.2,
-    "cum_lang": 44.6,
+    "cum_pool": 27.3,
+    "cum_lang": 58.2,
     "floor": ""
    },
    {
     "rank": 81,
     "badge": 81,
     "why": "Rank 81 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.4,
-    "cum_lang": 45.1,
+    "cum_pool": 27.6,
+    "cum_lang": 58.6,
     "floor": ""
    },
    {
     "rank": 82,
     "badge": 82,
     "why": "Rank 82 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.6,
-    "cum_lang": 45.6,
+    "cum_pool": 27.9,
+    "cum_lang": 59.3,
     "floor": ""
    },
    {
     "rank": 83,
     "badge": 83,
     "why": "Rank 83 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.7,
-    "cum_lang": 45.7,
+    "cum_pool": 28.1,
+    "cum_lang": 59.6,
     "floor": ""
    },
    {
     "rank": 84,
     "badge": 84,
     "why": "Rank 84 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.9,
-    "cum_lang": 46.0,
+    "cum_pool": 28.4,
+    "cum_lang": 59.8,
     "floor": ""
    },
    {
     "rank": 85,
     "badge": 85,
     "why": "Rank 85 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.1,
-    "cum_lang": 46.6,
+    "cum_pool": 28.7,
+    "cum_lang": 60.1,
     "floor": ""
    },
    {
     "rank": 86,
     "badge": 86,
     "why": "Rank 86 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.2,
-    "cum_lang": 47.4,
+    "cum_pool": 29.0,
+    "cum_lang": 60.5,
     "floor": ""
    },
    {
     "rank": 87,
     "badge": 87,
-    "why": "Rank 87 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 26.5,
-    "cum_lang": 47.6,
+    "why": "Rank 87 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 29.2,
+    "cum_lang": 60.9,
     "floor": ""
    },
    {
     "rank": 88,
     "badge": 88,
-    "why": "Rank 88 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 26.9,
-    "cum_lang": 47.8,
+    "why": "Rank 88 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 29.5,
+    "cum_lang": 61.3,
     "floor": ""
    },
    {
     "rank": 89,
     "badge": 89,
     "why": "Rank 89 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.0,
-    "cum_lang": 48.1,
+    "cum_pool": 29.8,
+    "cum_lang": 61.7,
     "floor": ""
    },
    {
     "rank": 90,
     "badge": 90,
     "why": "Rank 90 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.2,
-    "cum_lang": 48.7,
+    "cum_pool": 30.1,
+    "cum_lang": 62.0,
     "floor": ""
    },
    {
     "rank": 91,
     "badge": 91,
     "why": "Rank 91 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.4,
-    "cum_lang": 49.0,
+    "cum_pool": 30.3,
+    "cum_lang": 62.2,
     "floor": ""
    },
    {
     "rank": 92,
     "badge": 92,
     "why": "Rank 92 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.5,
-    "cum_lang": 49.6,
+    "cum_pool": 30.6,
+    "cum_lang": 62.6,
     "floor": ""
    },
    {
     "rank": 93,
     "badge": 93,
     "why": "Rank 93 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.7,
-    "cum_lang": 49.9,
+    "cum_pool": 30.9,
+    "cum_lang": 63.0,
     "floor": ""
    },
    {
     "rank": 94,
     "badge": 94,
     "why": "Rank 94 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.9,
-    "cum_lang": 50.4,
+    "cum_pool": 31.1,
+    "cum_lang": 63.4,
     "floor": ""
    },
    {
     "rank": 95,
     "badge": 95,
     "why": "Rank 95 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.0,
-    "cum_lang": 50.7,
+    "cum_pool": 31.4,
+    "cum_lang": 63.7,
     "floor": ""
    },
    {
     "rank": 96,
     "badge": 96,
-    "why": "Rank 96 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 28.3,
-    "cum_lang": 50.9,
+    "why": "Rank 96 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 31.7,
+    "cum_lang": 64.0,
     "floor": ""
    },
    {
     "rank": 97,
     "badge": 97,
     "why": "Rank 97 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.5,
-    "cum_lang": 51.2,
+    "cum_pool": 32.0,
+    "cum_lang": 64.5,
     "floor": ""
    },
    {
     "rank": 98,
     "badge": 98,
     "why": "Rank 98 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.7,
-    "cum_lang": 51.4,
+    "cum_pool": 32.2,
+    "cum_lang": 65.0,
     "floor": ""
    },
    {
     "rank": 99,
     "badge": 99,
     "why": "Rank 99 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.8,
-    "cum_lang": 51.9,
+    "cum_pool": 32.5,
+    "cum_lang": 65.2,
     "floor": ""
    },
    {
     "rank": 100,
     "badge": 100,
-    "why": "Rank 100 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 29.2,
-    "cum_lang": 52.0,
+    "why": "Rank 100 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 32.8,
+    "cum_lang": 65.4,
     "floor": ""
    },
    {
     "rank": 101,
     "badge": 101,
     "why": "Rank 101 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 29.3,
-    "cum_lang": 52.5,
+    "cum_pool": 33.1,
+    "cum_lang": 65.7,
     "floor": ""
    },
    {
     "rank": 102,
     "badge": 102,
     "why": "Rank 102 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 29.5,
-    "cum_lang": 52.9,
+    "cum_pool": 33.3,
+    "cum_lang": 66.0,
     "floor": ""
    },
    {
     "rank": 103,
     "badge": 103,
     "why": "Rank 103 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 29.6,
-    "cum_lang": 53.3,
+    "cum_pool": 33.6,
+    "cum_lang": 66.3,
     "floor": ""
    },
    {
     "rank": 104,
     "badge": 104,
-    "why": "Rank 104 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 29.8,
-    "cum_lang": 53.5,
+    "why": "Rank 104 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 34.2,
+    "cum_lang": 66.5,
     "floor": ""
    },
    {
     "rank": 105,
     "badge": 105,
-    "why": "Rank 105 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 30.1,
-    "cum_lang": 53.7,
+    "why": "Rank 105 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 34.4,
+    "cum_lang": 66.7,
     "floor": ""
    },
    {
     "rank": 106,
     "badge": 106,
     "why": "Rank 106 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.3,
-    "cum_lang": 53.9,
+    "cum_pool": 34.7,
+    "cum_lang": 66.9,
     "floor": ""
    },
    {
     "rank": 107,
     "badge": 107,
     "why": "Rank 107 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.5,
-    "cum_lang": 54.0,
+    "cum_pool": 35.0,
+    "cum_lang": 67.5,
     "floor": ""
    },
    {
     "rank": 108,
     "badge": 108,
-    "why": "Rank 108 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 30.8,
-    "cum_lang": 54.3,
+    "why": "Rank 108 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 35.2,
+    "cum_lang": 68.0,
     "floor": ""
    },
    {
     "rank": 109,
     "badge": 109,
     "why": "Rank 109 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.9,
-    "cum_lang": 54.8,
+    "cum_pool": 35.5,
+    "cum_lang": 68.3,
     "floor": ""
    },
    {
     "rank": 110,
     "badge": 110,
     "why": "Rank 110 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.1,
-    "cum_lang": 55.1,
+    "cum_pool": 35.8,
+    "cum_lang": 68.7,
     "floor": ""
    },
    {
     "rank": 111,
     "badge": 111,
     "why": "Rank 111 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.3,
-    "cum_lang": 55.6,
+    "cum_pool": 36.1,
+    "cum_lang": 69.0,
     "floor": ""
    },
    {
     "rank": 112,
     "badge": 112,
     "why": "Rank 112 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.4,
-    "cum_lang": 56.1,
+    "cum_pool": 36.3,
+    "cum_lang": 69.4,
     "floor": ""
    },
    {
     "rank": 113,
     "badge": 113,
     "why": "Rank 113 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.6,
-    "cum_lang": 56.5,
+    "cum_pool": 36.6,
+    "cum_lang": 69.8,
     "floor": ""
    },
    {
     "rank": 114,
     "badge": 114,
     "why": "Rank 114 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.8,
-    "cum_lang": 56.7,
+    "cum_pool": 36.9,
+    "cum_lang": 70.2,
     "floor": ""
    },
    {
     "rank": 115,
     "badge": 115,
     "why": "Rank 115 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.9,
-    "cum_lang": 57.1,
+    "cum_pool": 37.2,
+    "cum_lang": 70.6,
     "floor": ""
    },
    {
     "rank": 116,
     "badge": 116,
     "why": "Rank 116 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.1,
-    "cum_lang": 57.5,
+    "cum_pool": 37.4,
+    "cum_lang": 71.1,
     "floor": ""
    },
    {
     "rank": 117,
     "badge": 117,
     "why": "Rank 117 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.2,
-    "cum_lang": 57.7,
+    "cum_pool": 37.7,
+    "cum_lang": 71.7,
     "floor": ""
    },
    {
     "rank": 118,
     "badge": 118,
     "why": "Rank 118 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.4,
-    "cum_lang": 58.0,
+    "cum_pool": 38.0,
+    "cum_lang": 72.3,
     "floor": ""
    },
    {
     "rank": 119,
     "badge": 119,
     "why": "Rank 119 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.6,
-    "cum_lang": 58.4,
+    "cum_pool": 38.3,
+    "cum_lang": 72.6,
     "floor": ""
    },
    {
     "rank": 120,
     "badge": 120,
     "why": "Rank 120 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.7,
-    "cum_lang": 58.8,
+    "cum_pool": 38.5,
+    "cum_lang": 73.1,
     "floor": ""
    },
    {
     "rank": 121,
     "badge": 121,
     "why": "Rank 121 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.9,
-    "cum_lang": 59.1,
+    "cum_pool": 38.8,
+    "cum_lang": 73.3,
     "floor": ""
    },
    {
     "rank": 122,
     "badge": 122,
     "why": "Rank 122 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.1,
-    "cum_lang": 59.5,
+    "cum_pool": 39.1,
+    "cum_lang": 73.6,
     "floor": ""
    },
    {
     "rank": 123,
     "badge": 123,
     "why": "Rank 123 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.2,
-    "cum_lang": 59.8,
+    "cum_pool": 39.3,
+    "cum_lang": 73.9,
     "floor": ""
    },
    {
     "rank": 124,
     "badge": 124,
-    "why": "Rank 124 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.4,
-    "cum_lang": 60.1,
+    "why": "Rank 124 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 39.9,
+    "cum_lang": 74.0,
     "floor": ""
    },
    {
     "rank": 125,
     "badge": 125,
-    "why": "Rank 125 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 33.7,
-    "cum_lang": 60.1,
+    "why": "Rank 125 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 40.2,
+    "cum_lang": 74.2,
     "floor": ""
    },
    {
     "rank": 126,
     "badge": 126,
     "why": "Rank 126 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.9,
-    "cum_lang": 60.5,
+    "cum_pool": 40.4,
+    "cum_lang": 74.5,
     "floor": ""
    },
    {
     "rank": 127,
     "badge": 127,
     "why": "Rank 127 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 34.0,
-    "cum_lang": 60.8,
+    "cum_pool": 40.7,
+    "cum_lang": 74.6,
     "floor": ""
    },
    {
     "rank": 128,
     "badge": 128,
     "why": "Rank 128 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 34.2,
-    "cum_lang": 61.1,
+    "cum_pool": 41.0,
+    "cum_lang": 74.8,
     "floor": ""
    },
    {
     "rank": 129,
     "badge": 129,
-    "why": "Rank 129 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 34.4,
-    "cum_lang": 61.5,
+    "why": "Rank 129 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 41.5,
+    "cum_lang": 75.0,
     "floor": ""
    },
    {
     "rank": 130,
     "badge": 130,
     "why": "Rank 130 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 34.5,
-    "cum_lang": 61.8,
+    "cum_pool": 41.8,
+    "cum_lang": 75.3,
     "floor": ""
    },
    {
     "rank": 131,
     "badge": 131,
-    "why": "Rank 131 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 34.9,
-    "cum_lang": 61.8,
+    "why": "Rank 131 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 42.1,
+    "cum_lang": 75.6,
     "floor": ""
    },
    {
     "rank": 132,
     "badge": 132,
     "why": "Rank 132 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 35.0,
-    "cum_lang": 62.3,
+    "cum_pool": 42.3,
+    "cum_lang": 75.8,
     "floor": ""
    },
    {
     "rank": 133,
     "badge": 133,
     "why": "Rank 133 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 35.2,
-    "cum_lang": 62.6,
+    "cum_pool": 42.6,
+    "cum_lang": 76.0,
     "floor": ""
    },
    {
     "rank": 134,
     "badge": 134,
     "why": "Rank 134 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 35.3,
-    "cum_lang": 62.9,
+    "cum_pool": 42.9,
+    "cum_lang": 76.5,
     "floor": ""
    },
    {
     "rank": 135,
     "badge": 135,
     "why": "Rank 135 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 35.5,
-    "cum_lang": 63.3,
+    "cum_pool": 43.2,
+    "cum_lang": 76.7,
     "floor": ""
    },
    {
     "rank": 136,
     "badge": 136,
-    "why": "Rank 136 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 35.8,
-    "cum_lang": 63.4,
+    "why": "Rank 136 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 43.4,
+    "cum_lang": 77.0,
     "floor": ""
    },
    {
     "rank": 137,
     "badge": 137,
     "why": "Rank 137 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.0,
-    "cum_lang": 63.6,
+    "cum_pool": 43.7,
+    "cum_lang": 77.2,
     "floor": ""
    },
    {
     "rank": 138,
     "badge": 138,
     "why": "Rank 138 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.2,
-    "cum_lang": 63.9,
+    "cum_pool": 44.0,
+    "cum_lang": 77.5,
     "floor": ""
    },
    {
     "rank": 139,
     "badge": 139,
     "why": "Rank 139 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.3,
-    "cum_lang": 64.0,
+    "cum_pool": 44.3,
+    "cum_lang": 77.7,
     "floor": ""
    },
    {
     "rank": 140,
     "badge": 140,
-    "why": "Rank 140 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.5,
-    "cum_lang": 64.3,
+    "why": "Rank 140 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 44.8,
+    "cum_lang": 77.8,
     "floor": ""
    },
    {
     "rank": 141,
     "badge": 141,
     "why": "Rank 141 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.6,
-    "cum_lang": 64.5,
+    "cum_pool": 45.1,
+    "cum_lang": 78.0,
     "floor": ""
    },
    {
     "rank": 142,
     "badge": 142,
     "why": "Rank 142 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.8,
-    "cum_lang": 64.8,
+    "cum_pool": 45.4,
+    "cum_lang": 78.2,
     "floor": ""
    },
    {
     "rank": 143,
     "badge": 143,
-    "why": "Rank 143 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 37.1,
-    "cum_lang": 64.9,
+    "why": "Rank 143 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 45.6,
+    "cum_lang": 78.3,
     "floor": ""
    },
    {
     "rank": 144,
     "badge": 144,
     "why": "Rank 144 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.3,
-    "cum_lang": 65.2,
+    "cum_pool": 45.9,
+    "cum_lang": 78.5,
     "floor": ""
    },
    {
     "rank": 145,
     "badge": 145,
     "why": "Rank 145 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.5,
-    "cum_lang": 65.3,
+    "cum_pool": 46.2,
+    "cum_lang": 78.6,
     "floor": ""
    },
    {
     "rank": 146,
     "badge": 146,
     "why": "Rank 146 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.6,
-    "cum_lang": 65.7,
+    "cum_pool": 46.4,
+    "cum_lang": 78.8,
     "floor": ""
    },
    {
     "rank": 147,
     "badge": 147,
     "why": "Rank 147 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.8,
-    "cum_lang": 65.8,
+    "cum_pool": 46.7,
+    "cum_lang": 79.0,
     "floor": ""
    },
    {
     "rank": 148,
     "badge": 148,
     "why": "Rank 148 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.9,
-    "cum_lang": 66.0,
+    "cum_pool": 47.0,
+    "cum_lang": 79.2,
     "floor": ""
    },
    {
     "rank": 149,
     "badge": 149,
-    "why": "Rank 149 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 38.3,
-    "cum_lang": 66.2,
+    "why": "Rank 149 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 47.3,
+    "cum_lang": 79.4,
     "floor": ""
    },
    {
     "rank": 150,
     "badge": 150,
     "why": "Rank 150 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.4,
-    "cum_lang": 66.5,
+    "cum_pool": 47.5,
+    "cum_lang": 79.5,
     "floor": ""
    },
    {
     "rank": 151,
     "badge": 151,
     "why": "Rank 151 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.6,
-    "cum_lang": 66.6,
+    "cum_pool": 47.8,
+    "cum_lang": 79.8,
     "floor": ""
    },
    {
     "rank": 152,
     "badge": 152,
     "why": "Rank 152 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.8,
-    "cum_lang": 67.0,
+    "cum_pool": 48.1,
+    "cum_lang": 80.1,
     "floor": ""
    },
    {
     "rank": 153,
     "badge": 153,
     "why": "Rank 153 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.9,
-    "cum_lang": 67.4,
+    "cum_pool": 48.4,
+    "cum_lang": 80.4,
     "floor": ""
    },
    {
     "rank": 154,
     "badge": 154,
     "why": "Rank 154 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.1,
-    "cum_lang": 67.6,
+    "cum_pool": 48.6,
+    "cum_lang": 80.7,
     "floor": ""
    },
    {
     "rank": 155,
     "badge": 155,
     "why": "Rank 155 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.3,
-    "cum_lang": 68.0,
+    "cum_pool": 48.9,
+    "cum_lang": 80.9,
     "floor": ""
    },
    {
     "rank": 156,
     "badge": 156,
     "why": "Rank 156 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.4,
-    "cum_lang": 68.1,
+    "cum_pool": 49.2,
+    "cum_lang": 81.2,
     "floor": ""
    },
    {
     "rank": 157,
     "badge": 157,
     "why": "Rank 157 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.6,
-    "cum_lang": 68.3,
+    "cum_pool": 49.5,
+    "cum_lang": 81.5,
     "floor": ""
    },
    {
     "rank": 158,
     "badge": 158,
     "why": "Rank 158 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.7,
-    "cum_lang": 68.4,
+    "cum_pool": 49.7,
+    "cum_lang": 81.8,
     "floor": ""
    },
    {
     "rank": 159,
     "badge": 159,
     "why": "Rank 159 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.9,
-    "cum_lang": 68.6,
+    "cum_pool": 50.0,
+    "cum_lang": 82.2,
     "floor": ""
    },
    {
     "rank": 160,
     "badge": 160,
     "why": "Rank 160 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.1,
-    "cum_lang": 68.9,
+    "cum_pool": 50.3,
+    "cum_lang": 82.6,
     "floor": ""
    },
    {
     "rank": 161,
     "badge": 161,
     "why": "Rank 161 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.2,
-    "cum_lang": 69.0,
+    "cum_pool": 50.5,
+    "cum_lang": 82.9,
     "floor": ""
    },
    {
     "rank": 162,
     "badge": 162,
-    "why": "Rank 162 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 40.6,
-    "cum_lang": 69.1,
+    "why": "Rank 162 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 50.8,
+    "cum_lang": 83.3,
     "floor": ""
    },
    {
     "rank": 163,
     "badge": 163,
     "why": "Rank 163 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.7,
-    "cum_lang": 69.3,
+    "cum_pool": 51.1,
+    "cum_lang": 83.5,
     "floor": ""
    },
    {
     "rank": 164,
     "badge": 164,
     "why": "Rank 164 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.9,
-    "cum_lang": 69.5,
+    "cum_pool": 51.4,
+    "cum_lang": 83.9,
     "floor": ""
    },
    {
     "rank": 165,
     "badge": 165,
     "why": "Rank 165 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.0,
-    "cum_lang": 69.6,
+    "cum_pool": 51.6,
+    "cum_lang": 84.1,
     "floor": ""
    },
    {
     "rank": 166,
     "badge": 166,
     "why": "Rank 166 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.2,
-    "cum_lang": 69.8,
+    "cum_pool": 51.9,
+    "cum_lang": 84.3,
     "floor": ""
    },
    {
     "rank": 167,
     "badge": 167,
     "why": "Rank 167 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.4,
-    "cum_lang": 70.0,
+    "cum_pool": 52.2,
+    "cum_lang": 84.4,
     "floor": ""
    },
    {
     "rank": 168,
     "badge": 168,
     "why": "Rank 168 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.5,
-    "cum_lang": 70.1,
+    "cum_pool": 52.5,
+    "cum_lang": 84.7,
     "floor": ""
    },
    {
     "rank": 169,
     "badge": 169,
     "why": "Rank 169 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.7,
-    "cum_lang": 70.3,
+    "cum_pool": 52.7,
+    "cum_lang": 85.1,
     "floor": ""
    },
    {
     "rank": 170,
     "badge": 170,
     "why": "Rank 170 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.9,
-    "cum_lang": 70.4,
+    "cum_pool": 53.0,
+    "cum_lang": 85.4,
     "floor": ""
    },
    {
     "rank": 171,
     "badge": 171,
     "why": "Rank 171 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.0,
-    "cum_lang": 70.6,
+    "cum_pool": 53.3,
+    "cum_lang": 85.5,
     "floor": ""
    },
    {
     "rank": 172,
     "badge": 172,
     "why": "Rank 172 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.2,
-    "cum_lang": 70.8,
+    "cum_pool": 53.6,
+    "cum_lang": 85.6,
     "floor": ""
    },
    {
     "rank": 173,
     "badge": 173,
     "why": "Rank 173 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.3,
-    "cum_lang": 71.1,
+    "cum_pool": 53.8,
+    "cum_lang": 85.7,
     "floor": ""
    },
    {
     "rank": 174,
     "badge": 174,
     "why": "Rank 174 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.5,
-    "cum_lang": 71.3,
+    "cum_pool": 54.1,
+    "cum_lang": 85.8,
     "floor": ""
    },
    {
     "rank": 175,
     "badge": 175,
     "why": "Rank 175 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.7,
-    "cum_lang": 71.6,
+    "cum_pool": 54.4,
+    "cum_lang": 85.9,
     "floor": ""
    },
    {
     "rank": 176,
     "badge": 176,
     "why": "Rank 176 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.8,
-    "cum_lang": 71.9,
+    "cum_pool": 54.6,
+    "cum_lang": 86.1,
     "floor": ""
    },
    {
     "rank": 177,
     "badge": 177,
     "why": "Rank 177 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.0,
-    "cum_lang": 72.1,
+    "cum_pool": 54.9,
+    "cum_lang": 86.3,
     "floor": ""
    },
    {
     "rank": 178,
     "badge": 178,
     "why": "Rank 178 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.2,
-    "cum_lang": 72.4,
+    "cum_pool": 55.2,
+    "cum_lang": 86.5,
     "floor": ""
    },
    {
     "rank": 179,
     "badge": 179,
     "why": "Rank 179 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.3,
-    "cum_lang": 72.5,
+    "cum_pool": 55.5,
+    "cum_lang": 86.7,
     "floor": ""
    },
    {
     "rank": 180,
     "badge": 180,
     "why": "Rank 180 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.5,
-    "cum_lang": 72.8,
+    "cum_pool": 55.7,
+    "cum_lang": 86.9,
     "floor": ""
    },
    {
     "rank": 181,
     "badge": 181,
     "why": "Rank 181 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.6,
-    "cum_lang": 73.1,
+    "cum_pool": 56.0,
+    "cum_lang": 87.1,
     "floor": ""
    },
    {
     "rank": 182,
     "badge": 182,
     "why": "Rank 182 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.8,
-    "cum_lang": 73.4,
+    "cum_pool": 56.3,
+    "cum_lang": 87.3,
     "floor": ""
    },
    {
     "rank": 183,
     "badge": 183,
     "why": "Rank 183 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.0,
-    "cum_lang": 73.7,
+    "cum_pool": 56.6,
+    "cum_lang": 87.4,
     "floor": ""
    },
    {
     "rank": 184,
     "badge": 184,
     "why": "Rank 184 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.1,
-    "cum_lang": 74.0,
+    "cum_pool": 56.8,
+    "cum_lang": 87.5,
     "floor": ""
    },
    {
     "rank": 185,
     "badge": 185,
     "why": "Rank 185 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.3,
-    "cum_lang": 74.2,
+    "cum_pool": 57.1,
+    "cum_lang": 87.6,
     "floor": ""
    },
    {
     "rank": 186,
     "badge": 186,
     "why": "Rank 186 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.5,
-    "cum_lang": 74.5,
+    "cum_pool": 57.4,
+    "cum_lang": 87.7,
     "floor": ""
    },
    {
     "rank": 187,
     "badge": 187,
     "why": "Rank 187 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.6,
-    "cum_lang": 74.8,
+    "cum_pool": 57.7,
+    "cum_lang": 87.9,
     "floor": ""
    },
    {
     "rank": 188,
     "badge": 188,
     "why": "Rank 188 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.8,
-    "cum_lang": 75.1,
+    "cum_pool": 57.9,
+    "cum_lang": 88.0,
     "floor": ""
    },
    {
     "rank": 189,
     "badge": 189,
     "why": "Rank 189 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.0,
-    "cum_lang": 75.4,
+    "cum_pool": 58.2,
+    "cum_lang": 88.1,
     "floor": ""
    },
    {
     "rank": 190,
     "badge": 190,
     "why": "Rank 190 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.1,
-    "cum_lang": 75.6,
+    "cum_pool": 58.5,
+    "cum_lang": 88.2,
     "floor": ""
    },
    {
     "rank": 191,
     "badge": 191,
     "why": "Rank 191 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.3,
-    "cum_lang": 75.7,
+    "cum_pool": 58.7,
+    "cum_lang": 88.3,
     "floor": ""
    },
    {
     "rank": 192,
     "badge": 192,
     "why": "Rank 192 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.4,
-    "cum_lang": 75.8,
+    "cum_pool": 59.0,
+    "cum_lang": 88.4,
     "floor": ""
    },
    {
     "rank": 193,
     "badge": 193,
     "why": "Rank 193 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.6,
-    "cum_lang": 76.1,
+    "cum_pool": 59.3,
+    "cum_lang": 88.5,
     "floor": ""
    },
    {
     "rank": 194,
     "badge": 194,
     "why": "Rank 194 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.8,
-    "cum_lang": 76.4,
+    "cum_pool": 59.6,
+    "cum_lang": 88.6,
     "floor": ""
    },
    {
     "rank": 195,
     "badge": 195,
     "why": "Rank 195 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.9,
-    "cum_lang": 76.6,
+    "cum_pool": 59.8,
+    "cum_lang": 88.9,
     "floor": ""
    },
    {
     "rank": 196,
     "badge": 196,
     "why": "Rank 196 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.1,
-    "cum_lang": 76.7,
+    "cum_pool": 60.1,
+    "cum_lang": 89.2,
     "floor": ""
    },
    {
     "rank": 197,
     "badge": 197,
     "why": "Rank 197 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.3,
-    "cum_lang": 76.9,
+    "cum_pool": 60.4,
+    "cum_lang": 89.3,
     "floor": ""
    },
    {
     "rank": 198,
     "badge": 198,
-    "why": "Rank 198 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 46.6,
-    "cum_lang": 77.0,
+    "why": "Rank 198 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 60.7,
+    "cum_lang": 89.3,
     "floor": ""
    },
    {
     "rank": 199,
     "badge": 199,
     "why": "Rank 199 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.7,
-    "cum_lang": 77.1,
+    "cum_pool": 60.9,
+    "cum_lang": 89.4,
     "floor": ""
    },
    {
     "rank": 200,
     "badge": 200,
     "why": "Rank 200 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.9,
-    "cum_lang": 77.2,
+    "cum_pool": 61.2,
+    "cum_lang": 89.7,
     "floor": ""
    },
    {
     "rank": 201,
     "badge": 201,
     "why": "Rank 201 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.1,
-    "cum_lang": 77.4,
+    "cum_pool": 61.5,
+    "cum_lang": 90.0,
     "floor": ""
    },
    {
     "rank": 202,
     "badge": 202,
     "why": "Rank 202 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.2,
-    "cum_lang": 77.4,
+    "cum_pool": 61.7,
+    "cum_lang": 90.3,
     "floor": ""
    },
    {
     "rank": 203,
     "badge": 203,
     "why": "Rank 203 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.4,
-    "cum_lang": 77.5,
+    "cum_pool": 62.0,
+    "cum_lang": 90.5,
     "floor": ""
    },
    {
     "rank": 204,
     "badge": 204,
     "why": "Rank 204 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.6,
-    "cum_lang": 77.6,
+    "cum_pool": 62.3,
+    "cum_lang": 90.7,
     "floor": ""
    },
    {
     "rank": 205,
     "badge": 205,
     "why": "Rank 205 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.7,
-    "cum_lang": 77.9,
+    "cum_pool": 62.6,
+    "cum_lang": 90.8,
     "floor": ""
    },
    {
     "rank": 206,
     "badge": 206,
     "why": "Rank 206 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.9,
-    "cum_lang": 78.1,
+    "cum_pool": 62.8,
+    "cum_lang": 91.0,
     "floor": ""
    },
    {
     "rank": 207,
     "badge": 207,
     "why": "Rank 207 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.0,
-    "cum_lang": 78.3,
+    "cum_pool": 63.1,
+    "cum_lang": 91.2,
     "floor": ""
    },
    {
     "rank": 208,
     "badge": 208,
     "why": "Rank 208 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.2,
-    "cum_lang": 78.6,
+    "cum_pool": 63.4,
+    "cum_lang": 91.4,
     "floor": ""
    },
    {
     "rank": 209,
     "badge": 209,
     "why": "Rank 209 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.4,
-    "cum_lang": 78.8,
+    "cum_pool": 63.7,
+    "cum_lang": 91.6,
     "floor": ""
    },
    {
     "rank": 210,
     "badge": 210,
     "why": "Rank 210 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.5,
-    "cum_lang": 78.9,
+    "cum_pool": 63.9,
+    "cum_lang": 91.7,
     "floor": ""
    },
    {
     "rank": 211,
     "badge": 211,
     "why": "Rank 211 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.7,
-    "cum_lang": 79.1,
+    "cum_pool": 64.2,
+    "cum_lang": 91.8,
     "floor": ""
    },
    {
     "rank": 212,
     "badge": 212,
     "why": "Rank 212 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.9,
-    "cum_lang": 79.4,
+    "cum_pool": 64.5,
+    "cum_lang": 91.9,
     "floor": ""
    },
    {
     "rank": 213,
     "badge": 213,
     "why": "Rank 213 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.0,
-    "cum_lang": 79.6,
+    "cum_pool": 64.8,
+    "cum_lang": 91.9,
     "floor": ""
    },
    {
     "rank": 214,
     "badge": 214,
     "why": "Rank 214 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.2,
-    "cum_lang": 79.9,
+    "cum_pool": 65.0,
+    "cum_lang": 91.9,
     "floor": ""
    },
    {
     "rank": 215,
     "badge": 215,
     "why": "Rank 215 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.3,
-    "cum_lang": 80.1,
+    "cum_pool": 65.3,
+    "cum_lang": 92.0,
     "floor": ""
    },
    {
     "rank": 216,
     "badge": 216,
     "why": "Rank 216 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.5,
-    "cum_lang": 80.3,
+    "cum_pool": 65.6,
+    "cum_lang": 92.1,
     "floor": ""
    },
    {
     "rank": 217,
     "badge": 217,
     "why": "Rank 217 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.7,
-    "cum_lang": 80.4,
+    "cum_pool": 65.8,
+    "cum_lang": 92.2,
     "floor": ""
    },
    {
     "rank": 218,
     "badge": 218,
     "why": "Rank 218 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.8,
-    "cum_lang": 80.6,
+    "cum_pool": 66.1,
+    "cum_lang": 92.2,
     "floor": ""
    },
    {
     "rank": 219,
     "badge": 219,
     "why": "Rank 219 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.0,
-    "cum_lang": 80.9,
+    "cum_pool": 66.4,
+    "cum_lang": 92.2,
     "floor": ""
    },
    {
     "rank": 220,
     "badge": 220,
     "why": "Rank 220 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.2,
-    "cum_lang": 81.1,
+    "cum_pool": 66.7,
+    "cum_lang": 92.3,
     "floor": ""
    },
    {
     "rank": 221,
     "badge": 221,
     "why": "Rank 221 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.3,
-    "cum_lang": 81.3,
+    "cum_pool": 66.9,
+    "cum_lang": 92.4,
     "floor": ""
    },
    {
     "rank": 222,
     "badge": 222,
     "why": "Rank 222 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.5,
-    "cum_lang": 81.6,
+    "cum_pool": 67.2,
+    "cum_lang": 92.4,
     "floor": ""
    },
    {
     "rank": 223,
     "badge": 223,
     "why": "Rank 223 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.7,
-    "cum_lang": 81.7,
+    "cum_pool": 67.5,
+    "cum_lang": 92.5,
     "floor": ""
    },
    {
     "rank": 224,
     "badge": 224,
     "why": "Rank 224 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.8,
-    "cum_lang": 81.7,
+    "cum_pool": 67.8,
+    "cum_lang": 92.7,
     "floor": ""
    },
    {
     "rank": 225,
     "badge": 225,
     "why": "Rank 225 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.0,
-    "cum_lang": 82.0,
+    "cum_pool": 68.0,
+    "cum_lang": 92.9,
     "floor": ""
    },
    {
     "rank": 226,
     "badge": 226,
     "why": "Rank 226 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.1,
-    "cum_lang": 82.2,
+    "cum_pool": 68.3,
+    "cum_lang": 93.1,
     "floor": ""
    },
    {
     "rank": 227,
     "badge": 227,
     "why": "Rank 227 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.3,
-    "cum_lang": 82.4,
+    "cum_pool": 68.6,
+    "cum_lang": 93.3,
     "floor": ""
    },
    {
     "rank": 228,
     "badge": 228,
     "why": "Rank 228 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.5,
-    "cum_lang": 82.5,
+    "cum_pool": 68.9,
+    "cum_lang": 93.5,
     "floor": ""
    },
    {
     "rank": 229,
     "badge": 229,
     "why": "Rank 229 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.6,
-    "cum_lang": 82.7,
+    "cum_pool": 69.1,
+    "cum_lang": 93.7,
     "floor": ""
    },
    {
     "rank": 230,
     "badge": 230,
     "why": "Rank 230 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.8,
-    "cum_lang": 82.9,
+    "cum_pool": 69.4,
+    "cum_lang": 93.9,
     "floor": ""
    },
    {
     "rank": 231,
     "badge": 231,
     "why": "Rank 231 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.0,
-    "cum_lang": 83.0,
+    "cum_pool": 69.7,
+    "cum_lang": 94.1,
     "floor": ""
    },
    {
     "rank": 232,
     "badge": 232,
     "why": "Rank 232 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.1,
-    "cum_lang": 83.2,
+    "cum_pool": 69.9,
+    "cum_lang": 94.3,
     "floor": ""
    },
    {
     "rank": 233,
     "badge": 233,
     "why": "Rank 233 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.3,
-    "cum_lang": 83.5,
+    "cum_pool": 70.2,
+    "cum_lang": 94.5,
     "floor": ""
    },
    {
     "rank": 234,
     "badge": 234,
     "why": "Rank 234 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.4,
-    "cum_lang": 83.6,
+    "cum_pool": 70.5,
+    "cum_lang": 94.7,
     "floor": ""
    },
    {
     "rank": 235,
     "badge": 235,
     "why": "Rank 235 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.6,
-    "cum_lang": 83.8,
+    "cum_pool": 70.8,
+    "cum_lang": 94.8,
     "floor": ""
    },
    {
     "rank": 236,
     "badge": 236,
     "why": "Rank 236 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.8,
-    "cum_lang": 83.9,
+    "cum_pool": 71.0,
+    "cum_lang": 95.0,
     "floor": ""
    },
    {
     "rank": 237,
     "badge": 237,
     "why": "Rank 237 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.9,
-    "cum_lang": 84.1,
+    "cum_pool": 71.3,
+    "cum_lang": 95.2,
     "floor": ""
    },
    {
     "rank": 238,
     "badge": 238,
     "why": "Rank 238 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.1,
-    "cum_lang": 84.2,
+    "cum_pool": 71.6,
+    "cum_lang": 95.4,
     "floor": ""
    },
    {
     "rank": 239,
     "badge": 239,
     "why": "Rank 239 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.3,
-    "cum_lang": 84.4,
+    "cum_pool": 71.9,
+    "cum_lang": 95.6,
     "floor": ""
    },
    {
     "rank": 240,
     "badge": 240,
     "why": "Rank 240 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.4,
-    "cum_lang": 84.5,
+    "cum_pool": 72.1,
+    "cum_lang": 95.7,
     "floor": ""
    },
    {
     "rank": 241,
     "badge": 241,
     "why": "Rank 241 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.6,
-    "cum_lang": 84.5,
+    "cum_pool": 72.4,
+    "cum_lang": 95.8,
     "floor": ""
    },
    {
     "rank": 242,
     "badge": 242,
     "why": "Rank 242 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.7,
-    "cum_lang": 84.6,
+    "cum_pool": 72.7,
+    "cum_lang": 95.9,
     "floor": ""
    },
    {
     "rank": 243,
     "badge": 243,
     "why": "Rank 243 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.9,
-    "cum_lang": 84.7,
+    "cum_pool": 73.0,
+    "cum_lang": 96.0,
     "floor": ""
    },
    {
     "rank": 244,
     "badge": 244,
     "why": "Rank 244 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.1,
-    "cum_lang": 84.8,
+    "cum_pool": 73.2,
+    "cum_lang": 96.1,
     "floor": ""
    },
    {
     "rank": 245,
     "badge": 245,
     "why": "Rank 245 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.2,
-    "cum_lang": 84.8,
+    "cum_pool": 73.5,
+    "cum_lang": 96.2,
     "floor": ""
    },
    {
     "rank": 246,
     "badge": 246,
     "why": "Rank 246 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.4,
-    "cum_lang": 84.9,
+    "cum_pool": 73.8,
+    "cum_lang": 96.3,
     "floor": ""
    },
    {
     "rank": 247,
     "badge": 247,
     "why": "Rank 247 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.6,
-    "cum_lang": 84.9,
+    "cum_pool": 74.0,
+    "cum_lang": 96.4,
     "floor": ""
    },
    {
     "rank": 248,
     "badge": 248,
     "why": "Rank 248 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.7,
-    "cum_lang": 85.0,
+    "cum_pool": 74.3,
+    "cum_lang": 96.4,
     "floor": ""
    },
    {
     "rank": 249,
     "badge": 249,
     "why": "Rank 249 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.9,
-    "cum_lang": 85.1,
+    "cum_pool": 74.6,
+    "cum_lang": 96.5,
     "floor": ""
    },
    {
     "rank": 250,
     "badge": 250,
     "why": "Rank 250 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.0,
-    "cum_lang": 85.2,
+    "cum_pool": 74.9,
+    "cum_lang": 96.6,
     "floor": ""
    },
    {
     "rank": 251,
     "badge": 251,
     "why": "Rank 251 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.2,
-    "cum_lang": 85.3,
+    "cum_pool": 75.1,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 252,
     "badge": 252,
     "why": "Rank 252 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.4,
-    "cum_lang": 85.3,
+    "cum_pool": 75.4,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 253,
     "badge": 253,
     "why": "Rank 253 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.5,
-    "cum_lang": 85.3,
+    "cum_pool": 75.7,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 254,
     "badge": 254,
     "why": "Rank 254 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.7,
-    "cum_lang": 85.4,
+    "cum_pool": 76.0,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 255,
     "badge": 255,
     "why": "Rank 255 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.9,
-    "cum_lang": 85.5,
+    "cum_pool": 76.2,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 256,
     "badge": 256,
     "why": "Rank 256 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.0,
-    "cum_lang": 85.6,
+    "cum_pool": 76.5,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 257,
     "badge": 257,
     "why": "Rank 257 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.2,
-    "cum_lang": 85.7,
+    "cum_pool": 76.8,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 258,
     "badge": 258,
     "why": "Rank 258 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.4,
-    "cum_lang": 85.7,
+    "cum_pool": 77.0,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 259,
     "badge": 259,
     "why": "Rank 259 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.5,
-    "cum_lang": 85.8,
+    "cum_pool": 77.3,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 260,
     "badge": 260,
     "why": "Rank 260 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.7,
-    "cum_lang": 85.9,
+    "cum_pool": 77.6,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 261,
     "badge": 261,
     "why": "Rank 261 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.8,
-    "cum_lang": 86.0,
+    "cum_pool": 77.9,
+    "cum_lang": 96.8,
     "floor": ""
    },
    {
     "rank": 262,
     "badge": 262,
     "why": "Rank 262 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.0,
-    "cum_lang": 86.2,
+    "cum_pool": 78.1,
+    "cum_lang": 96.9,
     "floor": ""
    },
    {
     "rank": 263,
     "badge": 263,
     "why": "Rank 263 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.2,
-    "cum_lang": 86.3,
+    "cum_pool": 78.4,
+    "cum_lang": 97.0,
     "floor": ""
    },
    {
     "rank": 264,
     "badge": 264,
     "why": "Rank 264 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.3,
-    "cum_lang": 86.5,
+    "cum_pool": 78.7,
+    "cum_lang": 97.1,
     "floor": ""
    },
    {
     "rank": 265,
     "badge": 265,
     "why": "Rank 265 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.5,
-    "cum_lang": 86.6,
+    "cum_pool": 79.0,
+    "cum_lang": 97.2,
     "floor": ""
    },
    {
     "rank": 266,
     "badge": 266,
     "why": "Rank 266 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.7,
-    "cum_lang": 86.8,
+    "cum_pool": 79.2,
+    "cum_lang": 97.3,
     "floor": ""
    },
    {
     "rank": 267,
     "badge": 267,
     "why": "Rank 267 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.8,
-    "cum_lang": 87.0,
+    "cum_pool": 79.5,
+    "cum_lang": 97.4,
     "floor": ""
    },
    {
     "rank": 268,
     "badge": 268,
     "why": "Rank 268 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.0,
-    "cum_lang": 87.1,
+    "cum_pool": 79.8,
+    "cum_lang": 97.5,
     "floor": ""
    },
    {
     "rank": 269,
     "badge": 269,
     "why": "Rank 269 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.1,
-    "cum_lang": 87.3,
+    "cum_pool": 80.1,
+    "cum_lang": 97.6,
     "floor": ""
    },
    {
     "rank": 270,
     "badge": 270,
     "why": "Rank 270 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.3,
-    "cum_lang": 87.5,
+    "cum_pool": 80.3,
+    "cum_lang": 97.7,
     "floor": ""
    },
    {
     "rank": 271,
     "badge": 271,
     "why": "Rank 271 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.5,
-    "cum_lang": 87.6,
+    "cum_pool": 80.6,
+    "cum_lang": 97.8,
     "floor": ""
    },
    {
     "rank": 272,
     "badge": 272,
     "why": "Rank 272 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.6,
-    "cum_lang": 87.8,
+    "cum_pool": 80.9,
+    "cum_lang": 97.9,
     "floor": ""
    },
    {
     "rank": 273,
     "badge": 273,
     "why": "Rank 273 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.8,
-    "cum_lang": 87.9,
+    "cum_pool": 81.1,
+    "cum_lang": 98.0,
     "floor": ""
    },
    {
     "rank": 274,
     "badge": 274,
     "why": "Rank 274 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.0,
-    "cum_lang": 88.1,
+    "cum_pool": 81.4,
+    "cum_lang": 98.1,
     "floor": ""
    },
    {
     "rank": 275,
     "badge": 275,
     "why": "Rank 275 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.1,
-    "cum_lang": 88.3,
+    "cum_pool": 81.7,
+    "cum_lang": 98.2,
     "floor": ""
    },
    {
     "rank": 276,
     "badge": 276,
     "why": "Rank 276 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.3,
-    "cum_lang": 88.4,
+    "cum_pool": 82.0,
+    "cum_lang": 98.3,
     "floor": ""
    },
    {
     "rank": 277,
     "badge": 277,
     "why": "Rank 277 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.4,
-    "cum_lang": 88.6,
+    "cum_pool": 82.2,
+    "cum_lang": 98.4,
     "floor": ""
    },
    {
     "rank": 278,
     "badge": 278,
     "why": "Rank 278 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.6,
-    "cum_lang": 88.7,
+    "cum_pool": 82.5,
+    "cum_lang": 98.5,
     "floor": ""
    },
    {
     "rank": 279,
     "badge": 279,
     "why": "Rank 279 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.8,
-    "cum_lang": 88.9,
+    "cum_pool": 82.8,
+    "cum_lang": 98.6,
     "floor": ""
    },
    {
     "rank": 280,
     "badge": 280,
     "why": "Rank 280 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.9,
-    "cum_lang": 89.1,
+    "cum_pool": 83.1,
+    "cum_lang": 98.7,
     "floor": ""
    },
    {
     "rank": 281,
     "badge": 281,
     "why": "Rank 281 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.1,
-    "cum_lang": 89.2,
+    "cum_pool": 83.3,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 282,
     "badge": 282,
     "why": "Rank 282 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.3,
-    "cum_lang": 89.4,
+    "cum_pool": 83.6,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 283,
     "badge": 283,
     "why": "Rank 283 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.4,
-    "cum_lang": 89.5,
+    "cum_pool": 83.9,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 284,
     "badge": 284,
     "why": "Rank 284 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.6,
-    "cum_lang": 89.7,
+    "cum_pool": 84.2,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 285,
     "badge": 285,
     "why": "Rank 285 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.7,
-    "cum_lang": 89.8,
+    "cum_pool": 84.4,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 286,
     "badge": 286,
     "why": "Rank 286 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.9,
-    "cum_lang": 89.8,
+    "cum_pool": 84.7,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 287,
     "badge": 287,
     "why": "Rank 287 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.1,
-    "cum_lang": 89.9,
+    "cum_pool": 85.0,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 288,
     "badge": 288,
     "why": "Rank 288 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.2,
-    "cum_lang": 90.0,
+    "cum_pool": 85.2,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 289,
     "badge": 289,
     "why": "Rank 289 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.4,
-    "cum_lang": 90.1,
+    "cum_pool": 85.5,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 290,
     "badge": 290,
     "why": "Rank 290 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.6,
-    "cum_lang": 90.3,
+    "cum_pool": 85.8,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 291,
     "badge": 291,
     "why": "Rank 291 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.7,
-    "cum_lang": 90.5,
+    "cum_pool": 86.1,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 292,
     "badge": 292,
     "why": "Rank 292 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.9,
-    "cum_lang": 90.6,
+    "cum_pool": 86.3,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 293,
     "badge": 293,
     "why": "Rank 293 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.1,
-    "cum_lang": 90.8,
+    "cum_pool": 86.6,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 294,
     "badge": 294,
     "why": "Rank 294 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.2,
-    "cum_lang": 90.8,
+    "cum_pool": 86.9,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 295,
     "badge": 295,
     "why": "Rank 295 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.4,
-    "cum_lang": 90.8,
+    "cum_pool": 87.2,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 296,
     "badge": 296,
     "why": "Rank 296 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.5,
-    "cum_lang": 90.9,
+    "cum_pool": 87.4,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 297,
     "badge": 297,
     "why": "Rank 297 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.7,
-    "cum_lang": 91.0,
+    "cum_pool": 87.7,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 298,
     "badge": 298,
     "why": "Rank 298 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.9,
-    "cum_lang": 91.1,
+    "cum_pool": 88.0,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 299,
     "badge": 299,
     "why": "Rank 299 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.0,
-    "cum_lang": 91.2,
+    "cum_pool": 88.3,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 300,
     "badge": 300,
     "why": "Rank 300 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.2,
-    "cum_lang": 91.3,
+    "cum_pool": 88.5,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 301,
     "badge": 301,
     "why": "Rank 301 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.4,
-    "cum_lang": 91.3,
+    "cum_pool": 88.8,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 302,
     "badge": 302,
     "why": "Rank 302 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.5,
-    "cum_lang": 91.4,
+    "cum_pool": 89.1,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 303,
     "badge": 303,
     "why": "Rank 303 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.7,
-    "cum_lang": 91.5,
+    "cum_pool": 89.3,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 304,
     "badge": 304,
     "why": "Rank 304 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.8,
-    "cum_lang": 91.6,
+    "cum_pool": 89.6,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 305,
     "badge": 305,
     "why": "Rank 305 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.0,
-    "cum_lang": 91.7,
+    "cum_pool": 89.9,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 306,
     "badge": 306,
     "why": "Rank 306 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.2,
-    "cum_lang": 91.7,
+    "cum_pool": 90.2,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 307,
     "badge": 307,
     "why": "Rank 307 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.3,
-    "cum_lang": 91.8,
+    "cum_pool": 90.4,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 308,
     "badge": 308,
     "why": "Rank 308 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.5,
-    "cum_lang": 91.9,
+    "cum_pool": 90.7,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 309,
     "badge": 309,
     "why": "Rank 309 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.7,
-    "cum_lang": 92.0,
+    "cum_pool": 91.0,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 310,
     "badge": 310,
     "why": "Rank 310 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.8,
-    "cum_lang": 92.1,
+    "cum_pool": 91.3,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 311,
     "badge": 311,
     "why": "Rank 311 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.0,
-    "cum_lang": 92.1,
+    "cum_pool": 91.5,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 312,
     "badge": 312,
     "why": "Rank 312 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.1,
-    "cum_lang": 92.2,
+    "cum_pool": 91.8,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 313,
     "badge": 313,
     "why": "Rank 313 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.3,
-    "cum_lang": 92.3,
+    "cum_pool": 92.1,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 314,
     "badge": 314,
     "why": "Rank 314 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.5,
-    "cum_lang": 92.4,
+    "cum_pool": 92.3,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 315,
     "badge": 315,
     "why": "Rank 315 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.6,
-    "cum_lang": 92.5,
+    "cum_pool": 92.6,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 316,
     "badge": 316,
     "why": "Rank 316 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.8,
-    "cum_lang": 92.5,
+    "cum_pool": 92.9,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 317,
     "badge": 317,
     "why": "Rank 317 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.0,
-    "cum_lang": 92.6,
+    "cum_pool": 93.2,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 318,
     "badge": 318,
     "why": "Rank 318 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.1,
-    "cum_lang": 92.7,
+    "cum_pool": 93.4,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 319,
     "badge": 319,
     "why": "Rank 319 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.3,
-    "cum_lang": 92.7,
+    "cum_pool": 93.7,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 320,
     "badge": 320,
     "why": "Rank 320 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.4,
-    "cum_lang": 92.7,
+    "cum_pool": 94.0,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 321,
     "badge": 321,
     "why": "Rank 321 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.6,
-    "cum_lang": 92.7,
+    "cum_pool": 94.3,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 322,
     "badge": 322,
     "why": "Rank 322 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.8,
-    "cum_lang": 92.7,
+    "cum_pool": 94.5,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 323,
     "badge": 323,
     "why": "Rank 323 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.9,
-    "cum_lang": 92.7,
+    "cum_pool": 94.8,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 324,
     "badge": 324,
     "why": "Rank 324 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.1,
-    "cum_lang": 92.7,
+    "cum_pool": 95.1,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 325,
     "badge": 325,
     "why": "Rank 325 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.3,
-    "cum_lang": 92.7,
+    "cum_pool": 95.4,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 326,
     "badge": 326,
     "why": "Rank 326 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.4,
-    "cum_lang": 92.7,
+    "cum_pool": 95.6,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 327,
     "badge": 327,
     "why": "Rank 327 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.6,
-    "cum_lang": 92.7,
+    "cum_pool": 95.9,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 328,
     "badge": 328,
     "why": "Rank 328 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.8,
-    "cum_lang": 92.7,
+    "cum_pool": 96.2,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 329,
     "badge": 329,
     "why": "Rank 329 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.9,
-    "cum_lang": 92.7,
+    "cum_pool": 96.4,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 330,
     "badge": 330,
     "why": "Rank 330 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.1,
-    "cum_lang": 92.7,
+    "cum_pool": 96.7,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 331,
     "badge": 331,
     "why": "Rank 331 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.2,
-    "cum_lang": 92.8,
+    "cum_pool": 97.0,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 332,
     "badge": 332,
     "why": "Rank 332 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.4,
-    "cum_lang": 92.8,
+    "cum_pool": 97.3,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 333,
     "badge": 333,
     "why": "Rank 333 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.6,
-    "cum_lang": 92.9,
+    "cum_pool": 97.5,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 334,
     "badge": 334,
     "why": "Rank 334 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.7,
-    "cum_lang": 93.0,
+    "cum_pool": 97.8,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 335,
     "badge": 335,
     "why": "Rank 335 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.9,
-    "cum_lang": 93.1,
+    "cum_pool": 98.1,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 336,
     "badge": 336,
     "why": "Rank 336 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.1,
-    "cum_lang": 93.2,
+    "cum_pool": 98.4,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 337,
     "badge": 337,
     "why": "Rank 337 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.2,
-    "cum_lang": 93.2,
+    "cum_pool": 98.6,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 338,
     "badge": 338,
     "why": "Rank 338 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.4,
-    "cum_lang": 93.3,
+    "cum_pool": 98.9,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 339,
     "badge": 339,
     "why": "Rank 339 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.5,
-    "cum_lang": 93.4,
+    "cum_pool": 99.2,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 340,
     "badge": 340,
     "why": "Rank 340 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.7,
-    "cum_lang": 93.5,
+    "cum_pool": 99.5,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 341,
     "badge": 341,
     "why": "Rank 341 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.9,
-    "cum_lang": 93.6,
+    "cum_pool": 99.7,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 342,
     "badge": 342,
     "why": "Rank 342 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.0,
-    "cum_lang": 93.7,
-    "floor": ""
-   },
-   {
-    "rank": 343,
-    "badge": 343,
-    "why": "Rank 343 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.2,
-    "cum_lang": 93.7,
-    "floor": ""
-   },
-   {
-    "rank": 344,
-    "badge": 344,
-    "why": "Rank 344 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.4,
-    "cum_lang": 93.8,
-    "floor": ""
-   },
-   {
-    "rank": 345,
-    "badge": 345,
-    "why": "Rank 345 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.5,
-    "cum_lang": 93.9,
-    "floor": ""
-   },
-   {
-    "rank": 346,
-    "badge": 346,
-    "why": "Rank 346 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.7,
-    "cum_lang": 94.0,
-    "floor": ""
-   },
-   {
-    "rank": 347,
-    "badge": 347,
-    "why": "Rank 347 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.8,
-    "cum_lang": 94.1,
-    "floor": ""
-   },
-   {
-    "rank": 348,
-    "badge": 348,
-    "why": "Rank 348 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.0,
-    "cum_lang": 94.1,
-    "floor": ""
-   },
-   {
-    "rank": 349,
-    "badge": 349,
-    "why": "Rank 349 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.2,
-    "cum_lang": 94.2,
-    "floor": ""
-   },
-   {
-    "rank": 350,
-    "badge": 350,
-    "why": "Rank 350 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.3,
-    "cum_lang": 94.3,
-    "floor": ""
-   },
-   {
-    "rank": 351,
-    "badge": 351,
-    "why": "Rank 351 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.5,
-    "cum_lang": 94.4,
-    "floor": ""
-   },
-   {
-    "rank": 352,
-    "badge": 352,
-    "why": "Rank 352 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.7,
-    "cum_lang": 94.5,
-    "floor": ""
-   },
-   {
-    "rank": 353,
-    "badge": 353,
-    "why": "Rank 353 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.8,
-    "cum_lang": 94.5,
-    "floor": ""
-   },
-   {
-    "rank": 354,
-    "badge": 354,
-    "why": "Rank 354 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.0,
-    "cum_lang": 94.6,
-    "floor": ""
-   },
-   {
-    "rank": 355,
-    "badge": 355,
-    "why": "Rank 355 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.1,
-    "cum_lang": 94.7,
-    "floor": ""
-   },
-   {
-    "rank": 356,
-    "badge": 356,
-    "why": "Rank 356 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.3,
-    "cum_lang": 94.8,
-    "floor": ""
-   },
-   {
-    "rank": 357,
-    "badge": 357,
-    "why": "Rank 357 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.5,
-    "cum_lang": 94.9,
-    "floor": ""
-   },
-   {
-    "rank": 358,
-    "badge": 358,
-    "why": "Rank 358 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.6,
-    "cum_lang": 95.0,
-    "floor": ""
-   },
-   {
-    "rank": 359,
-    "badge": 359,
-    "why": "Rank 359 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.8,
-    "cum_lang": 95.0,
-    "floor": ""
-   },
-   {
-    "rank": 360,
-    "badge": 360,
-    "why": "Rank 360 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.0,
-    "cum_lang": 95.1,
-    "floor": ""
-   },
-   {
-    "rank": 361,
-    "badge": 361,
-    "why": "Rank 361 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.1,
-    "cum_lang": 95.2,
-    "floor": ""
-   },
-   {
-    "rank": 362,
-    "badge": 362,
-    "why": "Rank 362 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.3,
-    "cum_lang": 95.3,
-    "floor": ""
-   },
-   {
-    "rank": 363,
-    "badge": 363,
-    "why": "Rank 363 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.5,
-    "cum_lang": 95.4,
-    "floor": ""
-   },
-   {
-    "rank": 364,
-    "badge": 364,
-    "why": "Rank 364 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.6,
-    "cum_lang": 95.4,
-    "floor": ""
-   },
-   {
-    "rank": 365,
-    "badge": 365,
-    "why": "Rank 365 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.8,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 366,
-    "badge": 366,
-    "why": "Rank 366 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.9,
-    "cum_lang": 95.6,
-    "floor": ""
-   },
-   {
-    "rank": 367,
-    "badge": 367,
-    "why": "Rank 367 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 368,
-    "badge": 368,
-    "why": "Rank 368 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.3,
-    "cum_lang": 95.8,
-    "floor": ""
-   },
-   {
-    "rank": 369,
-    "badge": 369,
-    "why": "Rank 369 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.4,
-    "cum_lang": 95.8,
-    "floor": ""
-   },
-   {
-    "rank": 370,
-    "badge": 370,
-    "why": "Rank 370 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.6,
-    "cum_lang": 95.9,
-    "floor": ""
-   },
-   {
-    "rank": 371,
-    "badge": 371,
-    "why": "Rank 371 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.8,
-    "cum_lang": 96.0,
-    "floor": ""
-   },
-   {
-    "rank": 372,
-    "badge": 372,
-    "why": "Rank 372 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.9,
-    "cum_lang": 96.1,
-    "floor": ""
-   },
-   {
-    "rank": 373,
-    "badge": 373,
-    "why": "Rank 373 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.1,
-    "cum_lang": 96.2,
-    "floor": ""
-   },
-   {
-    "rank": 374,
-    "badge": 374,
-    "why": "Rank 374 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.2,
-    "cum_lang": 96.3,
-    "floor": ""
-   },
-   {
-    "rank": 375,
-    "badge": 375,
-    "why": "Rank 375 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.4,
-    "cum_lang": 96.3,
-    "floor": ""
-   },
-   {
-    "rank": 376,
-    "badge": 376,
-    "why": "Rank 376 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.6,
-    "cum_lang": 96.4,
-    "floor": ""
-   },
-   {
-    "rank": 377,
-    "badge": 377,
-    "why": "Rank 377 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.7,
-    "cum_lang": 96.5,
-    "floor": ""
-   },
-   {
-    "rank": 378,
-    "badge": 378,
-    "why": "Rank 378 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.9,
-    "cum_lang": 96.6,
-    "floor": ""
-   },
-   {
-    "rank": 379,
-    "badge": 379,
-    "why": "Rank 379 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.1,
-    "cum_lang": 96.7,
-    "floor": ""
-   },
-   {
-    "rank": 380,
-    "badge": 380,
-    "why": "Rank 380 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.2,
-    "cum_lang": 96.7,
-    "floor": ""
-   },
-   {
-    "rank": 381,
-    "badge": 381,
-    "why": "Rank 381 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.4,
-    "cum_lang": 96.8,
-    "floor": ""
-   },
-   {
-    "rank": 382,
-    "badge": 382,
-    "why": "Rank 382 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.5,
-    "cum_lang": 96.9,
-    "floor": ""
-   },
-   {
-    "rank": 383,
-    "badge": 383,
-    "why": "Rank 383 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.7,
-    "cum_lang": 96.9,
-    "floor": ""
-   },
-   {
-    "rank": 384,
-    "badge": 384,
-    "why": "Rank 384 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.9,
-    "cum_lang": 96.9,
-    "floor": ""
-   },
-   {
-    "rank": 385,
-    "badge": 385,
-    "why": "Rank 385 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.0,
-    "cum_lang": 96.9,
-    "floor": ""
-   },
-   {
-    "rank": 386,
-    "badge": 386,
-    "why": "Rank 386 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.2,
-    "cum_lang": 97.0,
-    "floor": ""
-   },
-   {
-    "rank": 387,
-    "badge": 387,
-    "why": "Rank 387 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.4,
-    "cum_lang": 97.1,
-    "floor": ""
-   },
-   {
-    "rank": 388,
-    "badge": 388,
-    "why": "Rank 388 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.5,
-    "cum_lang": 97.1,
-    "floor": ""
-   },
-   {
-    "rank": 389,
-    "badge": 389,
-    "why": "Rank 389 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.7,
-    "cum_lang": 97.2,
-    "floor": ""
-   },
-   {
-    "rank": 390,
-    "badge": 390,
-    "why": "Rank 390 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.9,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 391,
-    "badge": 391,
-    "why": "Rank 391 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 392,
-    "badge": 392,
-    "why": "Rank 392 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 393,
-    "badge": 393,
-    "why": "Rank 393 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 394,
-    "badge": 394,
-    "why": "Rank 394 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 395,
-    "badge": 395,
-    "why": "Rank 395 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 396,
-    "badge": 396,
-    "why": "Rank 396 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 397,
-    "badge": 397,
-    "why": "Rank 397 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 398,
-    "badge": 398,
-    "why": "Rank 398 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 399,
-    "badge": 399,
-    "why": "Rank 399 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 400,
-    "badge": 400,
-    "why": "Rank 400 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 401,
-    "badge": 401,
-    "why": "Rank 401 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 402,
-    "badge": 402,
-    "why": "Rank 402 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 403,
-    "badge": 403,
-    "why": "Rank 403 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 404,
-    "badge": 404,
-    "why": "Rank 404 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 405,
-    "badge": 405,
-    "why": "Rank 405 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 406,
-    "badge": 406,
-    "why": "Rank 406 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 407,
-    "badge": 407,
-    "why": "Rank 407 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 408,
-    "badge": 408,
-    "why": "Rank 408 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 409,
-    "badge": 409,
-    "why": "Rank 409 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 410,
-    "badge": 410,
-    "why": "Rank 410 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 411,
-    "badge": 411,
-    "why": "Rank 411 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 412,
-    "badge": 412,
-    "why": "Rank 412 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 413,
-    "badge": 413,
-    "why": "Rank 413 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 414,
-    "badge": 414,
-    "why": "Rank 414 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 415,
-    "badge": 415,
-    "why": "Rank 415 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 416,
-    "badge": 416,
-    "why": "Rank 416 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 417,
-    "badge": 417,
-    "why": "Rank 417 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 418,
-    "badge": 418,
-    "why": "Rank 418 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 419,
-    "badge": 419,
-    "why": "Rank 419 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 420,
-    "badge": 420,
-    "why": "Rank 420 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 421,
-    "badge": 421,
-    "why": "Rank 421 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 422,
-    "badge": 422,
-    "why": "Rank 422 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 423,
-    "badge": 423,
-    "why": "Rank 423 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 424,
-    "badge": 424,
-    "why": "Rank 424 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 425,
-    "badge": 425,
-    "why": "Rank 425 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 426,
-    "badge": 426,
-    "why": "Rank 426 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 427,
-    "badge": 427,
-    "why": "Rank 427 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 428,
-    "badge": 428,
-    "why": "Rank 428 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 429,
-    "badge": 429,
-    "why": "Rank 429 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 430,
-    "badge": 430,
-    "why": "Rank 430 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 431,
-    "badge": 431,
-    "why": "Rank 431 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 432,
-    "badge": 432,
-    "why": "Rank 432 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 433,
-    "badge": 433,
-    "why": "Rank 433 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 434,
-    "badge": 434,
-    "why": "Rank 434 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 435,
-    "badge": 435,
-    "why": "Rank 435 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 436,
-    "badge": 436,
-    "why": "Rank 436 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 437,
-    "badge": 437,
-    "why": "Rank 437 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 438,
-    "badge": 438,
-    "why": "Rank 438 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 439,
-    "badge": 439,
-    "why": "Rank 439 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 440,
-    "badge": 440,
-    "why": "Rank 440 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 441,
-    "badge": 441,
-    "why": "Rank 441 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 442,
-    "badge": 442,
-    "why": "Rank 442 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 443,
-    "badge": 443,
-    "why": "Rank 443 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 444,
-    "badge": 444,
-    "why": "Rank 444 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 445,
-    "badge": 445,
-    "why": "Rank 445 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 446,
-    "badge": 446,
-    "why": "Rank 446 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 447,
-    "badge": 447,
-    "why": "Rank 447 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 448,
-    "badge": 448,
-    "why": "Rank 448 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 449,
-    "badge": 449,
-    "why": "Rank 449 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 450,
-    "badge": 450,
-    "why": "Rank 450 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 451,
-    "badge": 451,
-    "why": "Rank 451 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 452,
-    "badge": 452,
-    "why": "Rank 452 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 453,
-    "badge": 453,
-    "why": "Rank 453 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 454,
-    "badge": 454,
-    "why": "Rank 454 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 455,
-    "badge": 455,
-    "why": "Rank 455 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 456,
-    "badge": 456,
-    "why": "Rank 456 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 457,
-    "badge": 457,
-    "why": "Rank 457 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 458,
-    "badge": 458,
-    "why": "Rank 458 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 459,
-    "badge": 459,
-    "why": "Rank 459 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 460,
-    "badge": 460,
-    "why": "Rank 460 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 461,
-    "badge": 461,
-    "why": "Rank 461 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 462,
-    "badge": 462,
-    "why": "Rank 462 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 463,
-    "badge": 463,
-    "why": "Rank 463 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 464,
-    "badge": 464,
-    "why": "Rank 464 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 465,
-    "badge": 465,
-    "why": "Rank 465 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 466,
-    "badge": 466,
-    "why": "Rank 466 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 467,
-    "badge": 467,
-    "why": "Rank 467 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 468,
-    "badge": 468,
-    "why": "Rank 468 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 469,
-    "badge": 469,
-    "why": "Rank 469 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 470,
-    "badge": 470,
-    "why": "Rank 470 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 471,
-    "badge": 471,
-    "why": "Rank 471 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 472,
-    "badge": 472,
-    "why": "Rank 472 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 473,
-    "badge": 473,
-    "why": "Rank 473 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 474,
-    "badge": 474,
-    "why": "Rank 474 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 475,
-    "badge": 475,
-    "why": "Rank 475 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 476,
-    "badge": 476,
-    "why": "Rank 476 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 477,
-    "badge": 477,
-    "why": "Rank 477 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 478,
-    "badge": 478,
-    "why": "Rank 478 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 479,
-    "badge": 479,
-    "why": "Rank 479 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 480,
-    "badge": 480,
-    "why": "Rank 480 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 481,
-    "badge": 481,
-    "why": "Rank 481 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 482,
-    "badge": 482,
-    "why": "Rank 482 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 483,
-    "badge": 483,
-    "why": "Rank 483 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 484,
-    "badge": 484,
-    "why": "Rank 484 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 485,
-    "badge": 485,
-    "why": "Rank 485 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 486,
-    "badge": 486,
-    "why": "Rank 486 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 487,
-    "badge": 487,
-    "why": "Rank 487 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 488,
-    "badge": 488,
-    "why": "Rank 488 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 489,
-    "badge": 489,
-    "why": "Rank 489 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 490,
-    "badge": 490,
-    "why": "Rank 490 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 491,
-    "badge": 491,
-    "why": "Rank 491 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 492,
-    "badge": 492,
-    "why": "Rank 492 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 493,
-    "badge": 493,
-    "why": "Rank 493 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 494,
-    "badge": 494,
-    "why": "Rank 494 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 495,
-    "badge": 495,
-    "why": "Rank 495 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 496,
-    "badge": 496,
-    "why": "Rank 496 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 497,
-    "badge": 497,
-    "why": "Rank 497 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 498,
-    "badge": 498,
-    "why": "Rank 498 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 499,
-    "badge": 499,
-    "why": "Rank 499 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 500,
-    "badge": 500,
-    "why": "Rank 500 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 501,
-    "badge": 501,
-    "why": "Rank 501 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 502,
-    "badge": 502,
-    "why": "Rank 502 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 503,
-    "badge": 503,
-    "why": "Rank 503 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 504,
-    "badge": 504,
-    "why": "Rank 504 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 505,
-    "badge": 505,
-    "why": "Rank 505 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 506,
-    "badge": 506,
-    "why": "Rank 506 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 507,
-    "badge": 507,
-    "why": "Rank 507 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 508,
-    "badge": 508,
-    "why": "Rank 508 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.1,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 509,
-    "badge": 509,
-    "why": "Rank 509 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 510,
-    "badge": 510,
-    "why": "Rank 510 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 511,
-    "badge": 511,
-    "why": "Rank 511 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.6,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 512,
-    "badge": 512,
-    "why": "Rank 512 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 513,
-    "badge": 513,
-    "why": "Rank 513 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 514,
-    "badge": 514,
-    "why": "Rank 514 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 515,
-    "badge": 515,
-    "why": "Rank 515 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 516,
-    "badge": 516,
-    "why": "Rank 516 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.4,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 517,
-    "badge": 517,
-    "why": "Rank 517 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 518,
-    "badge": 518,
-    "why": "Rank 518 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 519,
-    "badge": 519,
-    "why": "Rank 519 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.9,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 520,
-    "badge": 520,
-    "why": "Rank 520 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 521,
-    "badge": 521,
-    "why": "Rank 521 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.2,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 522,
-    "badge": 522,
-    "why": "Rank 522 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.3,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 523,
-    "badge": 523,
-    "why": "Rank 523 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.5,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 524,
-    "badge": 524,
-    "why": "Rank 524 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.7,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 525,
-    "badge": 525,
-    "why": "Rank 525 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.8,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 526,
-    "badge": 526,
-    "why": "Rank 526 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 527,
-    "badge": 527,
-    "why": "Rank 527 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 528,
-    "badge": 528,
-    "why": "Rank 528 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 529,
-    "badge": 529,
-    "why": "Rank 529 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.4,
-    "floor": ""
-   },
-   {
-    "rank": 530,
-    "badge": 530,
-    "why": "Rank 530 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 531,
-    "badge": 531,
-    "why": "Rank 531 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 532,
-    "badge": 532,
-    "why": "Rank 532 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 533,
-    "badge": 533,
-    "why": "Rank 533 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 534,
-    "badge": 534,
-    "why": "Rank 534 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 535,
-    "badge": 535,
-    "why": "Rank 535 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.6,
-    "floor": ""
-   },
-   {
-    "rank": 536,
-    "badge": 536,
-    "why": "Rank 536 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.7,
-    "floor": ""
-   },
-   {
-    "rank": 537,
-    "badge": 537,
-    "why": "Rank 537 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 538,
-    "badge": 538,
-    "why": "Rank 538 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 539,
-    "badge": 539,
-    "why": "Rank 539 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.8,
-    "floor": ""
-   },
-   {
-    "rank": 540,
-    "badge": 540,
-    "why": "Rank 540 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 541,
-    "badge": 541,
-    "why": "Rank 541 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 542,
-    "badge": 542,
-    "why": "Rank 542 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 543,
-    "badge": 543,
-    "why": "Rank 543 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 544,
-    "badge": 544,
-    "why": "Rank 544 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 545,
-    "badge": 545,
-    "why": "Rank 545 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 546,
-    "badge": 546,
-    "why": "Rank 546 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 547,
-    "badge": 547,
-    "why": "Rank 547 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 548,
-    "badge": 548,
-    "why": "Rank 548 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 549,
-    "badge": 549,
-    "why": "Rank 549 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 550,
-    "badge": 550,
-    "why": "Rank 550 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.0,
-    "floor": ""
-   },
-   {
-    "rank": 551,
-    "badge": 551,
-    "why": "Rank 551 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.0,
-    "floor": ""
-   },
-   {
-    "rank": 552,
-    "badge": 552,
-    "why": "Rank 552 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.0,
-    "floor": ""
-   },
-   {
-    "rank": 553,
-    "badge": 553,
-    "why": "Rank 553 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.0,
-    "floor": ""
-   },
-   {
-    "rank": 554,
-    "badge": 554,
-    "why": "Rank 554 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.1,
-    "floor": ""
-   },
-   {
-    "rank": 555,
-    "badge": 555,
-    "why": "Rank 555 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.1,
-    "floor": ""
-   },
-   {
-    "rank": 556,
-    "badge": 556,
-    "why": "Rank 556 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.1,
-    "floor": ""
-   },
-   {
-    "rank": 557,
-    "badge": 557,
-    "why": "Rank 557 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.1,
-    "floor": ""
-   },
-   {
-    "rank": 558,
-    "badge": 558,
-    "why": "Rank 558 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.1,
-    "floor": ""
-   },
-   {
-    "rank": 559,
-    "badge": 559,
-    "why": "Rank 559 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.3,
-    "floor": ""
-   },
-   {
-    "rank": 560,
-    "badge": 560,
-    "why": "Rank 560 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.3,
-    "floor": ""
-   },
-   {
-    "rank": 561,
-    "badge": 561,
-    "why": "Rank 561 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.3,
-    "floor": ""
-   },
-   {
-    "rank": 562,
-    "badge": 562,
-    "why": "Rank 562 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.3,
-    "floor": ""
-   },
-   {
-    "rank": 563,
-    "badge": 563,
-    "why": "Rank 563 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.3,
-    "floor": ""
-   },
-   {
-    "rank": 564,
-    "badge": 564,
-    "why": "Rank 564 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.4,
-    "floor": ""
-   },
-   {
-    "rank": 565,
-    "badge": 565,
-    "why": "Rank 565 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.4,
-    "floor": ""
-   },
-   {
-    "rank": 566,
-    "badge": 566,
-    "why": "Rank 566 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.4,
-    "floor": ""
-   },
-   {
-    "rank": 567,
-    "badge": 567,
-    "why": "Rank 567 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.4,
-    "floor": ""
-   },
-   {
-    "rank": 568,
-    "badge": 568,
-    "why": "Rank 568 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.5,
-    "floor": ""
-   },
-   {
-    "rank": 569,
-    "badge": 569,
-    "why": "Rank 569 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 570,
-    "badge": 570,
-    "why": "Rank 570 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 571,
-    "badge": 571,
-    "why": "Rank 571 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 572,
-    "badge": 572,
-    "why": "Rank 572 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 573,
-    "badge": 573,
-    "why": "Rank 573 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 574,
-    "badge": 574,
-    "why": "Rank 574 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 575,
-    "badge": 575,
-    "why": "Rank 575 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.7,
-    "floor": ""
-   },
-   {
-    "rank": 576,
-    "badge": 576,
-    "why": "Rank 576 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.7,
-    "floor": ""
-   },
-   {
-    "rank": 577,
-    "badge": 577,
-    "why": "Rank 577 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 98.8,
     "floor": ""
    },
    {
-    "rank": 578,
-    "badge": 578,
-    "why": "Rank 578 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 343,
+    "badge": 343,
+    "why": "Rank 343 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 98.8,
+    "floor": ""
+   },
+   {
+    "rank": 344,
+    "badge": 344,
+    "why": "Rank 344 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 98.9,
     "floor": ""
    },
    {
-    "rank": 579,
-    "badge": 579,
-    "why": "Rank 579 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 345,
+    "badge": 345,
+    "why": "Rank 345 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 98.9,
     "floor": ""
    },
    {
-    "rank": 580,
-    "badge": 580,
-    "why": "Rank 580 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 346,
+    "badge": 346,
+    "why": "Rank 346 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
-    "cum_lang": 99.0,
+    "cum_lang": 98.9,
     "floor": ""
    },
    {
-    "rank": 581,
-    "badge": 581,
-    "why": "Rank 581 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 347,
+    "badge": 347,
+    "why": "Rank 347 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 98.9,
+    "floor": ""
+   },
+   {
+    "rank": 348,
+    "badge": 348,
+    "why": "Rank 348 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 98.9,
+    "floor": ""
+   },
+   {
+    "rank": 349,
+    "badge": 349,
+    "why": "Rank 349 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 98.9,
+    "floor": ""
+   },
+   {
+    "rank": 350,
+    "badge": 350,
+    "why": "Rank 350 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 98.9,
+    "floor": ""
+   },
+   {
+    "rank": 351,
+    "badge": 351,
+    "why": "Rank 351 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.1,
     "floor": ""
    },
    {
-    "rank": 582,
-    "badge": 582,
-    "why": "Rank 582 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.1,
-    "floor": ""
-   },
-   {
-    "rank": 583,
-    "badge": 583,
-    "why": "Rank 583 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.3,
-    "floor": ""
-   },
-   {
-    "rank": 584,
-    "badge": 584,
-    "why": "Rank 584 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 352,
+    "badge": 352,
+    "why": "Rank 352 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.4,
     "floor": ""
    },
    {
-    "rank": 585,
-    "badge": 585,
-    "why": "Rank 585 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 353,
+    "badge": 353,
+    "why": "Rank 353 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.4,
     "floor": ""
    },
    {
-    "rank": 586,
-    "badge": 586,
-    "why": "Rank 586 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 587,
-    "badge": 587,
-    "why": "Rank 587 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 588,
-    "badge": 588,
-    "why": "Rank 588 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.4,
-    "floor": ""
-   },
-   {
-    "rank": 589,
-    "badge": 589,
-    "why": "Rank 589 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 354,
+    "badge": 354,
+    "why": "Rank 354 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.5,
     "floor": ""
    },
    {
-    "rank": 590,
-    "badge": 590,
-    "why": "Rank 590 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 355,
+    "badge": 355,
+    "why": "Rank 355 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.5,
     "floor": ""
    },
    {
-    "rank": 591,
-    "badge": 591,
-    "why": "Rank 591 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 356,
+    "badge": 356,
+    "why": "Rank 356 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.5,
+    "floor": ""
+   },
+   {
+    "rank": 357,
+    "badge": 357,
+    "why": "Rank 357 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.6,
     "floor": ""
    },
    {
-    "rank": 592,
-    "badge": 592,
-    "why": "Rank 592 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.6,
-    "floor": ""
-   },
-   {
-    "rank": 593,
-    "badge": 593,
-    "why": "Rank 593 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.7,
-    "floor": ""
-   },
-   {
-    "rank": 594,
-    "badge": 594,
-    "why": "Rank 594 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.7,
-    "floor": ""
-   },
-   {
-    "rank": 595,
-    "badge": 595,
-    "why": "Rank 595 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.7,
-    "floor": ""
-   },
-   {
-    "rank": 596,
-    "badge": 596,
-    "why": "Rank 596 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 358,
+    "badge": 358,
+    "why": "Rank 358 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.8,
     "floor": ""
    },
    {
-    "rank": 597,
-    "badge": 597,
-    "why": "Rank 597 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 598,
-    "badge": 598,
-    "why": "Rank 598 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 599,
-    "badge": 599,
-    "why": "Rank 599 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 600,
-    "badge": 600,
-    "why": "Rank 600 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 601,
-    "badge": 601,
-    "why": "Rank 601 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 602,
-    "badge": 602,
-    "why": "Rank 602 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 603,
-    "badge": 603,
-    "why": "Rank 603 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 604,
-    "badge": 604,
-    "why": "Rank 604 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 605,
-    "badge": 605,
-    "why": "Rank 605 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 606,
-    "badge": 606,
-    "why": "Rank 606 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 607,
-    "badge": 607,
-    "why": "Rank 607 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 608,
-    "badge": 608,
-    "why": "Rank 608 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 609,
-    "badge": 609,
-    "why": "Rank 609 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 359,
+    "badge": 359,
+    "why": "Rank 359 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.9,
     "floor": ""
    },
    {
-    "rank": 610,
-    "badge": 610,
-    "why": "Rank 610 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 360,
+    "badge": 360,
+    "why": "Rank 360 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.9,
     "floor": ""
    },
    {
-    "rank": 611,
-    "badge": 611,
-    "why": "Rank 611 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 361,
+    "badge": 361,
+    "why": "Rank 361 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.9,
     "floor": ""
    },
    {
-    "rank": 612,
-    "badge": 612,
-    "why": "Rank 612 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 362,
+    "badge": 362,
+    "why": "Rank 362 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.9,
+    "floor": ""
+   },
+   {
+    "rank": 363,
+    "badge": 363,
+    "why": "Rank 363 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.9,
+    "floor": ""
+   },
+   {
+    "rank": 364,
+    "badge": 364,
+    "why": "Rank 364 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.9,
+    "floor": ""
+   },
+   {
+    "rank": 365,
+    "badge": 365,
+    "why": "Rank 365 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 100.0,
     "floor": ""
    },
    {
-    "rank": 613,
-    "badge": 613,
-    "why": "Rank 613 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 100.0,
-    "floor": ""
-   },
-   {
-    "rank": 614,
-    "badge": 614,
-    "why": "Rank 614 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 366,
+    "badge": 366,
+    "why": "Rank 366 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 100.0,
     "floor": ""
@@ -10077,4819 +5237,2508 @@ var TCF_COVERAGE = {
  },
  "EO_T3": {
   "set": "EO_T3",
-  "blurb": "The Oral T3 pool holds 597 opinion prompts spread across roughly six argumentative families: language and cultural integration; education and career; technology and privacy; health, body and lifestyle; generational and urban values; and state, gender and society. Drilling here is about structure, not topic. Every prompt exercises the same skeleton (position, two or three arguments with examples, concession, conclusion). Install that arc plus the connector inventory (d'un côté, en revanche, cela dit), and the templates transfer across all 597. Front-loaded reps compound fast.",
+  "blurb": "EO T3 is the 5-minute opinion monologue: the examiner drops a topical yes/no or comparative question and you defend a position. The top-30 shows the terrain — state authority and limits, travel and identity, kids and screens, retirement age, health-media reliability, video games in child development, arts in schools, language before immigration, ranking global issues, salary versus meaning at work, gender quotas, ban debates, tech replacing labour, solo travel, museums, digital friendship, physical appearance. Society, values, work, tech, education. Same reasoning frame every time — thesis, two arguments with examples, nuance, conclusion.",
   "caps": [
-   "**Never go off-topic (hors-sujet).** Any performance judged off-topic is flagged A1 non atteint regardless of language quality; this bypasses the rubric entirely. Read every prompt twice before speaking.",
-   "**Attempt and complete all 3 tasks.** A skipped or abandoned T3 is an automatic A1 non atteint. A rough half-monologue always beats silence.",
-   "**Commit to a position.** Even a wishy-washy 'ça dépend' answer risks adéquation flags. Pick a side in your first two sentences, then hedge inside the argument if you must.",
-   "**Structure beats perfection.** The examiner scores cohérence and développement thématique, not flawless grammar. A clean skeleton at B1 grammar reads B2; broken grammar with rich vocab does not.",
-   "**Fill the full 5 minutes.** A 90-second answer caps you well below B2 no matter how clean. Load examples if arguments run dry."
+   "**Off-topic = A1 non atteint.** Restate the question in your intro. If you speak fluently about something the examiner did not ask, the rubric is bypassed and the score collapses.",
+   "**Task not attempted or abandoned = A1 non atteint.** Speak for the full window even if the argument gets shakier — partial delivery scores, silence does not.",
+   "**No source document to lean on.** T3 gives you only the question. Do not fabricate quoted stats or invent studies; examiners weigh coherence and lexical range, not fake numbers.",
+   "**Take a position — do not hedge into pure description.** T3 asks for an opinion (êtes-vous d'accord, pensez-vous, selon vous). A neutral paraphrase without a thesis loses pragmatique points and reads as B1 at best.",
+   "**Structure discourse-cohésion out loud.** Signal your plan (d'un côté / de l'autre / en somme). Without visible articulation, examiners downgrade under 'structuration du discours' even when grammar is clean.",
+   "**Hold register: neutral-to-formal.** No 'ouais', no 'trucs', no filler-heavy conversational drift. Sociolinguistique caps out the score if the register slips to casual."
   ],
   "milestones": [
    {
     "after_rank": 5,
-    "headline": "Skeleton installed",
-    "band": "A2 upper to B1 lower",
-    "body": "Five prompts is enough to fix the position-argument-example-concession-conclusion arc in muscle memory, and you have already touched three families (language and cultural integration, tech and society, education). Coverage: 3% of what has appeared on recent exams. If you froze here, your monologue would read A2 upper: adequate opening, thin development, weak connectors. Ranks 6 to 12 is where the argument-per-family template count doubles and the connector inventory starts turning that structure into a B2 signal. Push on."
+    "headline": "5 prompts — the core-cluster frame is live",
+    "band": "S_o ≈ 7 → NCLC 6 (upper B1)",
+    "body": "You now own the state-control, cross-cultural travel, kids-and-phones, work-until-70, and health-media scaffolds — five templates that carry each other's arguments. At this depth your speech reads as B1: simple connected reasoning with brief justifications. You can attempt any T3 prompt without freezing. The gap to B2 is depth of argument and lexical range: pick two arguments, not five, and finish each with a concrete example. Aisance and structuration are still the weak dimensions."
    },
    {
     "after_rank": 12,
-    "headline": "Connectors online",
-    "band": "B1",
-    "body": "Twelve prompts covers five of the six argumentative families and 7.7% of historical exam appearances. By now the connectors (d'un côté, en revanche, cela dit, autrement dit) should be surfacing automatically. You have handled cost-benefit, ethics, generational, and tech-society frames. What is still missing for B2 is consistent development: two arguments per side, each with one concrete example, not just an abstract claim. Push ranks 13 to 25 timed, four minutes minimum per drill."
+    "headline": "12 prompts — most prompts feel familiar",
+    "band": "S_o ≈ 9 → NCLC 6 (top of B1)",
+    "body": "Video games, arts in schools, language before immigrating, global-priority ranking, salary, gender quotas, and daily-electronics dangers close on top of the earlier five. Pool coverage is at 6.2 %, but language-family coverage is already 12 % — the cluster effect is real. At this depth you sound like a candidate who understood the question, took a side, and gave two arguments with examples in a controlled 5 minutes. That is the B2 threshold on 'clear + detailed + argued viewpoint with advantages/disadvantages'. One more push and B2 is reachable."
    },
    {
     "after_rank": 25,
-    "headline": "B2 threshold in reach",
-    "band": "B1 upper to B2 lower",
-    "body": "Twenty-five prompts covers 14% of historical exam appearances and has touched every one of the six families. This is where the B2 spoken-production anchor kicks in: clear detailed explanation of a viewpoint plus advantages and disadvantages of various options. If your monologues are hitting around four minutes with two developed arguments, one concession, and a clean conclusion, at least four of six examiner ratings should come back B2. That is NCLC 7 territory. Do not slow down; ranks 26 to 60 build the variance shield that protects you from a bad-luck B1 rating on an unfamiliar prompt."
+    "headline": "25 prompts — B2 becomes the median outcome",
+    "band": "S_o ≈ 10–11 → NCLC 7 (target floor)",
+    "body": "You have covered 11.7 % of the pool but 24 % of language-family coverage, and the templates you drilled generalise across nearly a quarter of what T3 asks. Aisance is now automatic on core scenarios, structuration is explicit (annonce, arg 1, arg 2, nuance, conclusion), and lexique reaches across society, tech, work, and culture. Under the FEI règle-de-calcul, most tasks reading as B2 lands you in the 10–13 window — this is the exact bar for NCLC 7. Stop drilling only for coverage past here; start drilling for depth and phonological control."
    },
    {
     "after_rank": 60,
-    "headline": "NCLC 7 territory",
-    "band": "B2 lower to mid",
-    "body": "Sixty prompts covers roughly 31% of everything that has surfaced on recent exams. At this depth every argumentative family has been drilled 8 to 10 times, so template reuse is automatic on new prompts. Catastrophic-failure exposure (off-topic, blank, panic-stop) drops toward zero because you have a first sentence ready for any question shape. This is comfortable NCLC 7. Ranks 61 to 120 are for C1 shine and for de-risking rare-topic prompts that could otherwise wobble your rating downward."
+    "headline": "60 prompts — NCLC 8 in reach",
+    "band": "S_o ≈ 12 → NCLC 8 (upper B2)",
+    "body": "Language-family coverage crosses 46 %. Almost half of what an examiner might reasonably ask now sits inside a template you have rehearsed. The bottleneck shifts from what to say to how to say it: complex sentences (concessive, hypothetical, cause-consequence), precise connectors, and pronunciation clean enough that examiners stop noticing effort. If mocks come back consistently 'clear, detailed, wide range, argued, fluent', you are inside upper B2 and NCLC 8 is a defensible mock outcome."
    },
    {
     "after_rank": 120,
-    "headline": "NCLC 8 in view",
-    "band": "B2 upper",
-    "body": "120 items covers 52% of what has appeared on real exams since 2022. At this coverage every likely September 2026 prompt is either drilled directly or one adjacent variant away. Structure is now invisible: you organize on autopilot and can spend cognitive budget on precision vocabulary, phrasal linkers (autrement dit, ce qui revient à dire, en somme), and controlled hesitation for rhetorical effect. If disqualifiers stay at zero and every task hits the full 5 minutes with developed argumentation, examiner ratings should cluster at B2 upper with C1 flashes. That is NCLC 8, above your NCLC 7 floor."
+    "headline": "120 prompts — C1 argument style if delivery holds",
+    "band": "S_o ≈ 14–15 → NCLC 9 (lower C1)",
+    "body": "You own about 71 % of the language-family space — near-saturation. At this depth the bar to lift is not familiarity but the CEFR C1 descriptor: 'clear, detailed descriptions of complex subjects integrating sub-themes, developing particular points, rounding off with an appropriate conclusion.' That means nuance inside each argument, not just between arguments. Prosody, precise register, low-frequency lexique, and a real conclusion (not a repeat) are the last mile. Coverage past here has flattening marginal return — one new prompt no longer opens a family."
    }
   ],
   "order": [
    {
     "rank": 1,
     "badge": 1,
-    "why": "The pool's #1 leverage item covers the biggest argumentative family in T3, language and cultural integration, and reappears in six separate exam papers. The prompt invites a textbook cost-benefit skeleton: yes you can know a country through food, art, geography, media (three arguments); no, you cannot because language carries humor, values, and unspoken codes (concession); conclude with \"surface knowledge without language, deep knowledge with it.\" Nail this template once and you own it for ranks 4, 12, 17, and 29 too. Drill timed. Measure whether you hit two arguments plus concession inside four minutes without slowing.",
-    "cum_pool": 1.0,
+    "why": "State-control is a template detonator. Seen across 9 different months and covering 5 new question-families in one shot, this prompt trains the abstract civic-power frame that later powers questions on quotas, prohibition, transit policy, media regulation, and government-in-schools scenarios. The reasoning skeleton — legitimate limits, competing values, individual responsibility versus collective good — is the single most reused argument shape in the top-30. Drill it once well and you gain a defensible thesis, connector inventory (néanmoins, dans une certaine mesure, en revanche), and civic vocabulary that lifts every governance prompt afterwards. Highest leverage in the pool.",
+    "cum_pool": 1.6,
     "cum_lang": 0.4,
     "floor": ""
    },
    {
     "rank": 2,
     "badge": 2,
-    "why": "Second-highest leverage and the anchor for the technology-and-society family, appearing in eight different papers. This prompt is deceptively simple because it asks for risks only, so you don't need a concession, you need a full three-argument enumeration with real examples: health (yeux, sommeil, sédentarité), privacy (données personnelles, réseaux sociaux), dependency (perte de concentration, isolement social). That structure is the B2 spoken-production move: clear detailed description on a familiar topic. The same three-slot enumeration pattern will fire on ranks 8, 14, 20, and 25. Load one memorable example per risk; the examples are what push cohérence over the B1/B2 line.",
-    "cum_pool": 1.3,
-    "cum_lang": 1.2,
+    "why": "The travel-transforms-personality prompt has appeared in 47 different months — essentially every scraped month for four straight years. This is the single most examiner-recurring scenario in the T3 pool. Beyond the raw return frequency, it trains the identity-and-change frame that reappears on immigrant integration, friendship abroad, solo travel, and cross-cultural exposure. Owning this one means you can improvise on nearly any 'expérience à l'étranger' variant. Pragmatique gains: thematic development around personal-versus-general examples. Lexique gains: values, adaptation, ouverture d'esprit, remise en question — words that transfer directly to at least six other high-rank prompts.",
+    "cum_pool": 1.9,
+    "cum_lang": 1.6,
     "floor": ""
    },
    {
     "rank": 3,
     "badge": 3,
-    "why": "Anchors the state-and-society family, which also owns ranks 7, 11, 14, 15, 22, and 28. The framing is high-abstraction, making this a stretch prompt for early drilling and a stress test for your position-commit reflex. Pick a lane and stick to it: agree (name domains the state genuinely cannot police, like the internet, the black market, private life) then concede two areas where control is legitimate (public health, environment). Or reverse. Either lane hits B2 if you cite two concrete examples per argument. Drilling this early trains you to speak abstractly without hedging into 'ça dépend,' the classic adéquation trap.",
-    "cum_pool": 2.2,
-    "cum_lang": 1.5,
+    "why": "Kids and mobile phones has been asked in 32 months. The examiner literally requests 'avantages et inconvénients' — that phrase is the CEFR B2 spoken-production descriptor made into a prompt. Rehearse this one and you rehearse the exact rubric target: 'explain a viewpoint on a topical issue, giving the advantages and disadvantages of various options.' The frame generalises to daily-electronics dangers, video games, media violence, screen-time-related prompts, and the entire tech cluster. Vocabulary payoff — encadrement parental, dépendance, socialisation, harcèlement en ligne — is dense and reusable. If a mock lands here, you should hit B2 without effort.",
+    "cum_pool": 2.3,
+    "cum_lang": 2.8,
     "floor": ""
    },
    {
     "rank": 4,
     "badge": 4,
-    "why": "This has appeared in 46 different exam papers since 2022, which is the highest recurrence in the entire top 30. If any T3 prompt shows up in September 2026, this class of prompt (travel-and-identity, personality-transformation, cultural encounter) is the one to hedge against. The skeleton is the classic personal-plus-abstract mix: personal anecdote as your position (yes it transformed me because...), two general arguments (exposure to difference forces reflection; language immersion widens vocabulary of thought), concession (some tourists come back unchanged), close with a nuanced conclusion. This prompt pays double dividends: it drills the argument skeleton and it gives you a rehearsable personal anecdote that recycles into ranks 12 and 29.",
-    "cum_pool": 2.3,
-    "cum_lang": 2.4,
+    "why": "Work-until-70 seen in 17 months. This is the flagship of the labour-and-society cluster, next to salary-most-important, loving-your-job, and tech-replacing-work. Drilling it earns you the demographic-argument frame (population vieillissante, système de retraite, pénibilité) and the balancing move between individual desire and collective necessity — a structural move that scores under pragmatique. The prompt is short, focused, and forces a clear yes/no thesis, which is exactly the shape examiners want to hear in the first 20 seconds. Prepares work-cluster questions that together account for a large share of the pool's labour angle.",
+    "cum_pool": 2.9,
+    "cum_lang": 3.4,
     "floor": ""
    },
    {
     "rank": 5,
     "badge": 5,
-    "why": "The provocation format (a controversial statement, agree or disagree) is one of the two most common T3 shapes; drilling this installs the disagreement template. Almost always disagree here: cultural subjects develop creativity, emotional intelligence, and social skills (three arguments, one example each, Picasso for creativity, theater for public speaking, music for teamwork). Concede that overloaded schedules and STEM pressure make cultural subjects the first cut, then close on the position that personal fulfillment beats immediate utility. This template maps directly onto ranks 15, 20, and 25 (all 'should we ban or mandate X' formats). Practice sharp opening: state your position in the first two sentences, never bury it.",
-    "cum_pool": 2.7,
-    "cum_lang": 3.0,
+    "why": "Summer weight-loss magazines drills the specific 'source fiabilité' frame: are these recommendations reliable and useful. That reliability-of-media reasoning transfers directly to media violence, digital-tools-speed-up, and daily-electronics-dangers prompts. Seen in 10 months. Payoff is lexique for critical evaluation — sources, expertise, marketing, effets secondaires, mode passagère — plus the healthy-body cluster vocabulary. It also trains a lighter, more concrete argumentative register than pure civic prompts, which is useful for staying under 5 minutes without abstract drift. Solid mid-cluster item, still high enough that skipping it costs you a family.",
+    "cum_pool": 3.2,
+    "cum_lang": 5.0,
     "floor": ""
    },
    {
     "rank": 6,
     "badge": 6,
-    "why": "Second-most-recurring prompt in the top 30 and the anchor for the generational-values family. This one has real complexity: the question is not \"is retirement good\" but \"is it reasonable to force it that late.\" That distinction matters for adéquation. Miss the \"raisonnable\" hinge and you slide off-topic. Skeleton: position (no, unreasonable) with two arguments (health decline in physical jobs; blocks youth employment) plus one econ concession (aging demographics require it); or reverse (yes, if the job is desk-based and the person chooses). Whichever lane, the demographic-and-work-conditions vocabulary you build here recycles into ranks 21, 22, 26, 30.",
-    "cum_pool": 3.0,
-    "cum_lang": 3.5,
+    "why": "Video games in child development, seen in 12 months, is the twin of the mobile-phones prompt but pushes you further because the examiner explicitly asks for 'aspects éducatifs et sociaux' — two sub-themes to develop. That is the CEFR C1 move ('integrating sub-themes, developing particular points') worth practising. If you rehearse this cleanly, you gain a template that lifts your mobile-phone answer, your arts-in-school answer, and your daily-electronics answer. Lexique: coordination œil-main, esprit d'équipe, addiction, décrochage scolaire. Structure: two-branch parallel argumentation, then synthesis.",
+    "cum_pool": 3.6,
+    "cum_lang": 6.2,
     "floor": ""
    },
    {
     "rank": 7,
     "badge": 7,
-    "why": "Symbolic-value debates are their own T3 sub-shape (should we dedicate a day, celebrate an event, honor a category). Drill this one to install the \"symbolic vs practical\" argument frame. Position: yes, keep the day, it raises awareness on gender-based violence, wage gap, political representation (three arguments), concede that one day is insufficient and symbolic gestures can be tokenistic, close with \"one day of visibility plus 364 days of action.\" That symbolic-vs-practical hinge fires on any commemoration or awareness-campaign prompt, and drilling gender vocabulary here (parité, égalité, discrimination systémique) pays off on ranks 11 and 22. Careful with adéquation: the question is about the day, not about feminism in general.",
-    "cum_pool": 3.5,
-    "cum_lang": 3.9,
+    "why": "Arts in schools has surged in the 2026 months (Feb, Apr, May, Jun) — examiners are actively returning to it. The 'éducation à la culture' frame is a specific angle you cannot improvise from other prompts: bien-être des élèves, éveil artistique, émancipation, égalité d'accès à la culture. This is one of the few prompts that rewards genuinely humanistic vocabulary and lifts your sociolinguistique score by demonstrating range. It also prepares gratuitement-musées and book-obsolescence prompts. Skipping it leaves a gap the tech and civic templates cannot fill.",
+    "cum_pool": 3.9,
+    "cum_lang": 7.5,
     "floor": ""
    },
    {
     "rank": 8,
     "badge": 8,
-    "why": "A classic dual-lens tech-and-society prompt with a spelled-out dual criterion in the question itself (aspects éducatifs et sociaux). Read the prompt carefully: the examiner has handed you your two argument headings. Structure: yes, positive on both fronts (educational: problem-solving, second-language exposure via English games; social: online cooperation, shared culture with peers), concede addiction and screen time risks, land on \"with parental framing, net positive.\" Or reverse. This \"the prompt tells you the axes\" pattern shows up regularly; noticing it saves 30 seconds of thinking time. Family template here recycles onto ranks 14, 20, 25.",
-    "cum_pool": 3.7,
-    "cum_lang": 5.0,
+    "why": "Language before immigrating has been asked in 16 months. It is short, clean, and forces exactly the yes-with-nuance response the rubric rewards. Drilling it earns you the integration-and-adaptation frame (intégration professionnelle, isolement, démarches administratives, apprentissage progressif) — vocabulary you cannot substitute in from other clusters. It prepares the friendship-abroad and language-of-host-country questions, and pairs directly with the travel-transforms-personality prompt for a cross-referenceable set. High cluster value because immigration content sits in nearly every civic-adjacent T3 prompt.",
+    "cum_pool": 4.5,
+    "cum_lang": 8.0,
     "floor": ""
    },
    {
     "rank": 9,
     "badge": 9,
-    "why": "Anchors the health-and-body family and models the \"favorable ou opposé\" binary format, which forces a clean commit. Take opposition: these magazines promote unrealistic beauty standards, push unregulated diet products (arguments), and target women disproportionately (specificity argument). Concede that some magazines offer sound nutritional advice; close with a call for medical rather than editorial guidance. The vocabulary you build here (image corporelle, complexes, régimes, industrie de l'amaigrissement) recycles into ranks 16, 18, 19. Watch for adéquation: this is not \"should we diet\" or \"is being thin good,\" it's about the media practice of publishing weight-loss advice.",
-    "cum_pool": 4.0,
-    "cum_lang": 5.7,
+    "why": "The global-issues priority prompt is a ranking task — humanitarian, social, cultural — and ranking is a distinctive pragmatique move examiners score highly under 'structuration du discours'. Seen in 11 months, with 5 hits in the last 6 months of the sample. Drilling it forces you to justify a choice by weighing alternatives rather than just describing them, which is the exact B2-to-C1 boundary. Vocabulary: enjeu, priorité, urgence, échelle mondiale, concertation internationale. Also unlocks the media-violence and government-responsibility prompts by building your macro-scale civic register.",
+    "cum_pool": 4.9,
+    "cum_lang": 9.2,
     "floor": ""
    },
    {
     "rank": 10,
     "badge": 10,
-    "why": "47 occurrences and it's the pool's cleanest \"avantages et inconvénients\" prompt. Practice this until the avantages/inconvénients skeleton is reflex, because that skeleton IS the B2 spoken-production descriptor verbatim (\"clear detailed viewpoint, giving the advantages and disadvantages of various options\"). Avantages: liberté, rencontres imprévues, croissance personnelle. Inconvénients: solitude, insécurité, coûts non-partagés. Do not force a \"je préfère X\" personal position at the end unless it feels natural; the prompt is neutral. Land on a balanced conclusion showing you can hold both sides. This is the template shape that will fire on any dual-axis T3 prompt.",
-    "cum_pool": 4.2,
-    "cum_lang": 6.4,
+    "why": "'Salary is what matters most' — seen in 16 months. This closes the work-cluster started by rank 4 and rank 28. The prompt asks for straight agreement/disagreement, which is where many candidates stumble by hedging: rehearse a firm thesis, defend it with two arguments (sens du travail, épanouissement personnel versus sécurité matérielle, reconnaissance sociale), close with nuance. Vocabulary: rémunération, motivation intrinsèque, équilibre vie professionnelle-vie personnelle. Owning ranks 4, 10, 28 together means the entire labour-and-meaning question space is one template.",
+    "cum_pool": 5.5,
+    "cum_lang": 9.7,
     "floor": ""
    },
    {
     "rank": 11,
     "badge": 11,
-    "why": "A rising prompt (first appeared late 2025, already in four 2026 papers) tied to the gender-and-politics thread that recurs in T3 across ranks 7 and 22. The topic invites a policy-mechanism argument, which is one step more sophisticated than an opinion-only argument. Position: yes, quotas are necessary because historical exclusion doesn't self-correct, representation shapes agenda, and role models change aspirations (three arguments). Concede meritocratic objections: quotas can pick weak candidates, or reduce women's legitimacy. Land on \"temporary corrective, sunset clause.\" Building this policy-argument register (imposer, mécanisme, effet incitatif, discrimination positive) upgrades your linguistic range from B1 storytelling to B2 argumentation.",
-    "cum_pool": 4.5,
-    "cum_lang": 7.1,
+    "why": "Gender-parity quotas — seen in 12 months and rising into 2026. This is a policy prompt where the risk is under-argumenting a controversial topic and slipping into vague generality. Drilling it earns you the égalité-versus-équité, discrimination positive, plafond de verre, mérite vocabulary, plus the ability to defend a nuanced position without offending register (sociolinguistique). Prepares the free-transit and ban-cigarettes prompts by rehearsing the 'intervention étatique légitime?' frame. Ties directly back to rank 1.",
+    "cum_pool": 5.8,
+    "cum_lang": 10.9,
     "floor": ""
    },
    {
     "rank": 12,
     "badge": 12,
-    "why": "Milestone item at rank 12, and it closes the loop on the language-and-integration family (ranks 1, 4, 17, 29). The nuance to grab: \"changer\" is not the same as \"abandonner.\" Nail this and you unlock the \"adaptation vs preservation\" argument shape that recycles across every migration and cultural-contact prompt. Position: partial change is necessary for integration (professional norms, social rhythms, sometimes food) but core identity should be preserved (language, family customs). Two arguments per side. Concede that refusing to adapt breeds isolation. This is the ideal template to have ready for your Canada-target audience because it echoes real immigration narratives you can draw on for personal examples.",
-    "cum_pool": 4.9,
-    "cum_lang": 7.7,
+    "why": "Daily use of electronics and its dangers — 14 months of hits. This is the umbrella prompt for the tech-cluster that includes mobile phones (rank 3), video games (rank 6), digital tools (rank 23), and tech replacing work (rank 14). The examiner asks for 'impacts et éventuels dangers' — two explicit sub-themes. Drilling it earns santé mentale, sédentarité, désinformation, temps d'écran, dépendance. If you have a clean 5-minute run on this, you have a spine that plugs into every device-and-screen prompt in the pool. High cluster leverage for a moderate rank.",
+    "cum_pool": 6.2,
+    "cum_lang": 12.0,
     "floor": ""
    },
    {
     "rank": 13,
     "badge": 13,
-    "why": "Opens the urban-vs-rural axis and pairs with the aging-society axis (rank 6, 23). This is a compare-and-contrast prompt with a built-in specific demographic (personnes âgées), which is the adéquation trap: do not talk about city vs country in general, talk about it FOR ELDERLY. Two-side skeleton: city advantages for elderly (proximité des soins, transports, isolement social moindre), country advantages (calme, coût de la vie, air pur, communauté serrée). Take a side. The city-vs-country vocabulary (services de proximité, désertification médicale, tranquillité, tissu social) recycles into ranks 23 and 28. Compare-contrast structure is a T3 sub-shape worth having reflex-fast.",
-    "cum_pool": 5.2,
-    "cum_lang": 8.1,
+    "why": "Ban cigarettes and alcohol — only 5 months of hits, but it is a rare 'total prohibition' framing that trains a distinctive argument (santé publique, libertés individuelles, marché noir, éducation préventive). This vocabulary does not appear elsewhere in the top-30. It ties to rank 1 (state-can-control-everything) as a specific application of the abstract principle. Worth drilling because the prompt is short, the position is defensible either way, and the argument transfers to the free-transit prompt. Moderate frequency, high specificity.",
+    "cum_pool": 6.8,
+    "cum_lang": 12.6,
     "floor": ""
    },
    {
     "rank": 14,
     "badge": 14,
-    "why": "The security-vs-liberty debate wearing a T3 costume. Fresh prompt (first appeared late 2025) and highly likely for September 2026 given three recent runs. Skeleton: yes, cameras deter and help solve crime (arguments: dissuasion, résolution d'enquête, sentiment de sécurité), but the \"réellement\" hinge in the question invites a healthy concession. Studies show displaced crime rather than reduced crime, plus surveillance costs. Land on \"useful but not sufficient, needs social prevention.\" The dual-benefit-plus-hidden-cost argument shape here is a B2 signature move and generalises to any policy-tech prompt. Watch adéquation on \"réellement\": don't answer \"are cameras good?\" Answer \"do they actually improve safety?\"",
-    "cum_pool": 5.5,
-    "cum_lang": 8.8,
+    "why": "Technology replacing human work — 17 months of hits, one of the highest recurrence counts in the pool. The examiner wants a clear opinion on a probabilistic future, which forces conditional and hypothetical constructions (si + imparfait / conditionnel, il est probable que + subjonctif). Those grammar structures directly lift your linguistique score. Vocabulary: automatisation, intelligence artificielle, reconversion professionnelle, secteurs vulnérables. Prepares digital-tools-speed-up, mobile-phone, and daily-electronics prompts by building the future-of-labour lens.",
+    "cum_pool": 7.1,
+    "cum_lang": 13.6,
     "floor": ""
    },
    {
     "rank": 15,
     "badge": 15,
-    "why": "Prohibition prompt that fuses state-and-society with the health family (ranks 3, 9, 18). Templates the paternalism debate. Take opposition: prohibition failed historically (US 1920s), creates black markets (economic argument), infantilizes citizens (rights argument), while regulation and taxation work better (policy alternative). Concede that health costs justify some restriction. Land on regulate-and-inform, do not prohibit. Or reverse and defend prohibition on public health grounds (mortality, addiction, second-hand harm). Either lane, this drills the citation-of-precedent move (referring to a historical case) that reads as C1. If you can drop one specific precedent per drill, your linguistic range jumps.",
-    "cum_pool": 5.9,
-    "cum_lang": 9.3,
+    "why": "Solo travel — 30 months of hits, one of the most recurrent prompts in the pool. Advantages/inconvenients framing again, so the reasoning template overlaps mobile-phones (rank 3) and video-games (rank 6). Drilling this pins the travel cluster together with ranks 2, 8, 22 (travel, immigration language, integration abroad). Vocabulary: liberté, imprévu, sécurité, rencontres locales, budget maîtrisé. Trains the personal-experience anchoring move — 'j'ai eu l'occasion de…' — which is a cheap way to look B2 by grounding argument in a concrete example.",
+    "cum_pool": 7.5,
+    "cum_lang": 14.4,
     "floor": ""
    },
    {
     "rank": 16,
     "badge": 16,
-    "why": "An abstract-concept prompt (que pensez-vous de X) which is one of the harder T3 shapes because there's no built-in binary. You have to impose structure. Frame it as \"is beauty a source of wellbeing or social pressure?\" and now you have a two-side skeleton. Arguments for pressure: injonctions esthétiques, réseaux sociaux, industrie cosmétique. Arguments for wellbeing: confiance en soi, expression de soi. Concede that beauty standards evolve across cultures. Close on beauty as personal expression rather than burden or obligation. Learning to convert open-ended abstract prompts into binary debates is a top T3 skill because the pool has roughly fifteen such prompts.",
-    "cum_pool": 6.2,
-    "cum_lang": 9.7,
+    "why": "Free access to museums, theatres, cultural sites — asked in 8 months. This is the cultural-access prompt that pairs with rank 7 (arts in schools) and rank 27 (book obsolescence) to lock the culture cluster. Vocabulary: démocratisation culturelle, patrimoine, financement public, égalité d'accès. Trains you to argue funding trade-offs (impôts, mécénat, priorités budgétaires), which transfers to the free-transit prompt (rank 26). Moderate recurrence but a genuine new cluster-family — do not skip.",
+    "cum_pool": 7.8,
+    "cum_lang": 15.6,
     "floor": ""
    },
    {
     "rank": 17,
     "badge": 17,
-    "why": "Third-most-recurring in the top 30 and a direct integration-and-language prompt. Almost always agree: language enables employment, protects from exploitation, unlocks cultural participation. Concede that visible-minority communities can build parallel networks (Chinatowns, quartiers ethniques) but at cost of long-term marginalisation. Land firmly. This paraphrases rank 1 from a different angle, so mastering both means you can pivot depending on which framing the examiner picks. Also, given the Canada target, this is your rehearsal for what \"s'intégrer\" actually means for you: turn the abstract into a personal argument about French in Quebec or Ontario. Personal grounding lifts pragmatic score.",
-    "cum_pool": 6.5,
-    "cum_lang": 9.9,
+    "why": "Friendship with people whose convictions oppose yours — 4 months of hits, the lowest recurrence in the top-20. It ranks here because it opens a small but genuinely distinct interpersonal-values cluster that no other top prompt covers (tolérance, respect, différences idéologiques, dialogue). Drilling it earns you a concrete-personal-example register that pairs well with sociolinguistique adaptation. If time is tight, this is the first item where you can consider skimming rather than deep-drilling — but its specific vocabulary is genuinely non-substitutable.",
+    "cum_pool": 8.4,
+    "cum_lang": 16.2,
     "floor": ""
    },
    {
     "rank": 18,
     "badge": 18,
-    "why": "Rare (1 occurrence) but flagged high because it opens a distinct sub-topic: nutrition. The health-family template you built at ranks 9, 15, 16, 19 fires here with tweaks. Skeleton: no, meat is not the health problem. The problem is quantity and processing (arguments: red meat in moderation, plant-based excess of ultra-processed foods, human digestion needs varied nutrients). Concede environmental and animal-welfare arguments as legitimate reasons that are not health reasons. Land on nutrition-and-moderation rather than restriction. The key adéquation move: the question is \"pour être en bonne santé\" so don't drift into ethics or ecology. Practice keeping the frame tight.",
-    "cum_pool": 7.0,
-    "cum_lang": 10.5,
+    "why": "Media limiting violent images — 8 months of hits. This prompt asks explicitly for 'enjeux éthiques et informatifs', a two-branch structure examiners reward. Vocabulary: liberté de la presse, sensibilisation, banalisation de la violence, public jeune, censure. Pairs with rank 1 (state control) and rank 9 (global issues) to build the civic-and-media cluster. Trains you to hold a nuanced position on a socially charged topic without slipping register — a direct sociolinguistique win. Solid mid-rank leverage.",
+    "cum_pool": 8.8,
+    "cum_lang": 17.4,
     "floor": ""
    },
    {
     "rank": 19,
     "badge": 19,
-    "why": "Body-image debate with an aging-society undercurrent (pair with ranks 6, 16, 23). Position: understandable but concerning. Reasons: societal pressure of youth culture, medical risks, spiraling costs and dysmorphia (three arguments); concession, some cases are reconstructive or life-changing after accidents, distinct from aesthetic anti-aging. Close on aging as natural, cosmetic surgery as personal choice within limits. The nuance-move here (distinguishing reconstructive from aesthetic surgery) is C1-level precision. One such distinction per monologue lifts you from B2 to B2 upper. Also drills the \"qu'en pensez-vous\" open-ended shape you'll see across ranks 3, 11, 14, 22, 27, 29.",
-    "cum_pool": 7.4,
-    "cum_lang": 11.0,
+    "why": "People no longer send letters — 11 months of hits. This is a nostalgia/social-change prompt that trains the past-versus-present comparison, which uses imparfait-versus-présent constructions and comparative connectors (autrefois, désormais, alors que). Vocabulary: correspondance, lien affectif, rapidité, chaleur humaine, dématérialisation. Prepares the book-obsolescence (rank 27), global-village (rank 29), and digital-tools (rank 23) prompts by rehearsing the tech-erasing-tradition frame. Underrated because the topic feels light but the grammar payoff is real.",
+    "cum_pool": 9.1,
+    "cum_lang": 18.5,
     "floor": ""
    },
    {
     "rank": 20,
     "badge": 20,
-    "why": "Tech plus parenting equals classic risk-vs-opportunity T3 shape. Almost always disagree: parents should not be fearful in a paralyzing sense, but supervision is essential (arguments: exposure to inappropriate content, cyberbullying, addiction to short-form content). Concede that internet is unavoidable and educational when framed. Land on the accompagnement position: not fear, not freedom, but guided use. This is a variant of the \"should we allow X\" template. If you drilled rank 8 (jeux vidéo), this one is 80% muscle memory. Same family template, different noun. That transfer effect is exactly why coverage compounds.",
-    "cum_pool": 7.7,
-    "cum_lang": 11.4,
+    "why": "Teaching modern tech in schools — only 2 months of hits, both in 2026, so this is a rising item examiners have just started returning to. New family covered: 2. The lexical overlap with arts-in-schools (rank 7) and daily-electronics (rank 12) is high, but the specific angle — programme scolaire, éducation numérique, esprit critique face aux réseaux — is worth its own template. Drill it to be safe for the September window, especially since 2026 recurrence suggests it could reappear. Moderate but well-timed leverage.",
+    "cum_pool": 9.7,
+    "cum_lang": 19.3,
     "floor": ""
    },
    {
     "rank": 21,
     "badge": 21,
-    "why": "Public-spending prompt inside the education family. Position: yes, universities are chronically underfunded relative to social returns. Arguments: research capacity, tuition burden on students, faculty precarity. Concede that public money must be well-audited and that private funding has a role. Close on public funding matching public mission. This drills the money-and-institutions register (subventions, dépenses publiques, mission de service public, rendement social) that recycles into ranks 25 and 28. Also a good stretch prompt because there's no obvious personal anecdote available. You have to reason from principles and stats. Practice that abstract mode; it's what separates B2 from B1.",
-    "cum_pool": 8.2,
-    "cum_lang": 11.8,
+    "why": "Young Canadian adults staying with parents — 6 months of hits, and the wording explicitly names Canada. This is one of the few prompts with a Canada-flavoured cultural anchor, which lets you show sociolinguistique awareness of the receiving culture (a legitimate NCLC-relevant signal). Vocabulary: autonomie, coût du logement, marché immobilier, soutien familial, indépendance financière. Pairs with rank 30 (integrating new hires) as a young-adulthood cluster. Solid mid-rank pickup.",
+    "cum_pool": 10.1,
+    "cum_lang": 20.5,
     "floor": ""
    },
    {
     "rank": 22,
     "badge": 22,
-    "why": "The examiner is testing whether you can commit to a \"preference\" question without slipping into stereotype. Safest lane: no preference, competence is not gendered (position). Arguments: leadership styles vary within each gender more than between, historically men have dominated management so any inherited \"difference\" is cultural not innate, judging on skill is the professional norm. Concede that individual experiences vary. Land on competence rather than gender category. Avoid gender essentialism (women are more caring, men are more decisive). That's a sociolinguistic trap. The competence-not-category argument frame recycles into ranks 7, 11, 27.",
-    "cum_pool": 8.4,
-    "cum_lang": 12.6,
+    "why": "Ease of making friends abroad — 16 months of hits, one of the more recurrent items in the pool. This closes the immigration/integration cluster started by ranks 2 and 8. Vocabulary: barrière linguistique, communauté d'expatriés, choc culturel, isolement, réseaux locaux. The prompt asks you to expliquez les raisons — cause-and-consequence reasoning, which trains parce que / du fait que / en raison de / c'est pourquoi connectors. Reusable phrases for at least four other prompts in the top-30.",
+    "cum_pool": 10.4,
+    "cum_lang": 21.4,
     "floor": ""
    },
    {
     "rank": 23,
     "badge": 23,
-    "why": "\"Essentiels\" is the hinge word here. It invites qualified agreement, not blanket yes/no. Position: important yet not essential. Arguments in favor: reduce isolation, provide routine, physical activity via dog-walking, therapeutic effects proven in studies. Concede: they can be a health-and-cost burden for very old or fragile people, they're one tool among many (human contact, community programs). Close on qualified support. The word \"essentiel\" is doing serious adéquation work here; ignoring it and saying \"yes pets are great\" costs points. Drilling this teaches close reading of prompt qualifiers, a skill that fires on ranks 6, 13, 26, 28.",
-    "cum_pool": 8.7,
-    "cum_lang": 12.9,
+    "why": "Digital tools speeding up daily tasks — 5 months of hits. The examiner requests concrete examples ('des exemples pour illustrer'), which is the exact behaviour B2 rubric rewards. Drilling this trains the example-anchoring reflex: for any argument, name one concrete tool or scenario. Vocabulary: applications, démarches administratives en ligne, gain de temps, perte du contact humain, fracture numérique. Ties directly to rank 12 (electronics) and rank 14 (tech replacing work) as the productivity-side of the tech cluster. Modest recurrence, real technique payoff.",
+    "cum_pool": 10.7,
+    "cum_lang": 22.7,
     "floor": ""
    },
    {
     "rank": 24,
     "badge": 24,
-    "why": "Slight variant on the pure opinion prompt. This is a recommendation task inside a T3 slot, which means the pragmatic structure is different (three recommendations, not two arguments). Do NOT waste time hunting for a for/against structure. Structure: three concrete outings plus one rationale each (a monument for history, a neighbourhood for authentic local life, a museum or event for cultural depth). Close with an \"ideal itinerary\" synthesis. Watch adéquation: the audience is a first-time visitor from abroad, so pick things memorable and accessible, not obscure. Sociolinguistic performance here (adapting register to a visitor) is directly what family \"sociolinguistique\" rates.",
-    "cum_pool": 9.0,
-    "cum_lang": 13.5,
+    "why": "Physical appearance and society — 14 months of hits. This trains the values-and-superficialité angle: apparences, jugement social, estime de soi, réseaux sociaux, standards de beauté. Distinct enough from the other social-values prompts (ranks 11, 17) that it earns its own template. The prompt is open-ended ('quelle est votre opinion'), so it rewards a clean thesis with two grounded arguments — the CEFR B2 spoken-production formula. Good mid-cluster pickup with real vocabulary transfer to friendship-abroad and cultural-access prompts.",
+    "cum_pool": 11.0,
+    "cum_lang": 23.5,
     "floor": ""
    },
    {
     "rank": 25,
     "badge": 25,
-    "why": "Fresh (only 2 sightings, both in 2026) and combines education with tech-and-society families. Almost always agree: digital literacy is a modern basic skill (arguments: preparing for future jobs, critical thinking against misinformation, safe use of social media). Concede that basics (reading, math) come first and screen fatigue is real. Land on not instead of but alongside traditional subjects. This is the education-adaptation template that pairs with rank 5 (culture in school) and rank 20 (parenting and internet). Same skeleton, three different fillings. That's why we cluster items into families: one solid drill unlocks three prompt variants.",
-    "cum_pool": 9.4,
-    "cum_lang": 14.1,
+    "why": "TV = wasted time — 5 months of hits. Short, provocative, forces a strong yes/no thesis. This is the entertainment-media cluster's core, and it trains a defensive-of-nuance move (partiellement d'accord, cela dépend du type de contenu). Vocabulary: divertissement, culture générale, information, écran passif, contenu qualitatif. Pairs with rank 27 (book obsolescence) and rank 18 (violent images) to build the media cluster. Modest recurrence, but new family covered = 2, so it opens more than its rank suggests.",
+    "cum_pool": 11.7,
+    "cum_lang": 24.0,
     "floor": ""
    },
    {
     "rank": 26,
     "badge": 26,
-    "why": "Fourth-most-recurring in the top 30 and the anchor for the education-career family (ranks 21, 25, 30). This is where you can drop personal anecdote: your own diploma path. Position: yes, diplomas open doors but do not guarantee success. Arguments: diplomas signal to employers, provide network, teach specialized knowledge. Concede that soft skills, entrepreneurship, and adaptability often matter more, and there are many diploma-free success stories (Zuckerberg, artisans). Land on diploma as passport, not destination. This prompt is a gift because it lets you rehearse a memorable anecdote you can pivot into any career, work, or education prompt with minimal restructuring.",
-    "cum_pool": 9.5,
-    "cum_lang": 14.6,
+    "why": "Free public transit for the environment — 20 months of hits, the fourth-most recurrent prompt in the top-30. Two-branch prompt: environnement + politique publique. Drilling it earns transport en commun, congestion, subventions, émissions de CO2, comportement citoyen. Ties to rank 1 (state control), rank 13 (ban cigarettes), and rank 16 (free museums) as the applied-policy cluster. Long overdue in this position — deserves close drilling because environmental prompts sit near the median of examiner interest and this template covers most of them.",
+    "cum_pool": 12.0,
+    "cum_lang": 24.7,
     "floor": ""
    },
    {
     "rank": 27,
     "badge": 27,
-    "why": "Interpersonal-values debate that fires on the tolerance-and-conviction theme. Position: yes, friendship across convictions is possible and valuable. Arguments: friendship rests on trust and shared values (respect, honesty) not on identical opinions; exposure to opposing views prevents intellectual bubbles; personal example of a friend with different politics. Concede that some convictions (racism, extreme intolerance) make friendship untenable. Land on friendship built on shared values rather than shared opinions. Distinguishing valeurs from opinions is a C1-level nuance move. Drilling this teaches you to introduce a definitional distinction inside your monologue, which is a top B2+ signal.",
-    "cum_pool": 9.9,
-    "cum_lang": 15.0,
+    "why": "The book is now useless — 9 months of hits with strong 2026 clustering (Jan, Mar, Apr, Jun, Jul). New family covered: 2. This trains the culture-versus-technology tension that examiners love and gives you a place to deploy heritage vocabulary (patrimoine littéraire, plaisir de la lecture, concentration profonde, écrans versus papier). Pairs with rank 7 (arts in schools), rank 16 (museums), rank 19 (letters), and rank 25 (TV) to lock the entire culture-and-media cluster. Rising recurrence makes it more urgent than the raw n=12 count implies.",
+    "cum_pool": 12.7,
+    "cum_lang": 25.0,
     "floor": ""
    },
    {
     "rank": 28,
     "badge": 28,
-    "why": "Fresh urban-policy prompt with a clear cost-benefit skeleton and public-spending register. Position: yes, universal free transit is worth funding (arguments: environmental, social equity, congestion reduction). Concede the funding question. Free is not really free, it's taxpayer-financed, so quality can suffer. Land on free for low-income and off-peak, subsidised for the rest. This dual-tier resolution is a C1-level move: you're not just picking a side, you're proposing a nuanced policy design. The public-services vocabulary (transport en commun, financement public, service universel, congestion) is high-leverage across ranks 13, 21, 26.",
-    "cum_pool": 10.2,
-    "cum_lang": 15.6,
+    "why": "Loving your job as a career-success criterion — 16 months of hits. Closes the work-cluster (with ranks 4 and 10) by adding the meaning-and-vocation angle: passion, épanouissement, motivation, persévérance, sens au travail. The prompt is a straightforward oui/non, so the payoff is in argument depth: two reasons, one nuance, one conclusion. If you own ranks 4, 10, and 28 as a coherent set, you have a defensible answer for every 'travail' variant the pool can throw. Also lifts your abstract-noun lexique across the board.",
+    "cum_pool": 13.0,
+    "cum_lang": 25.7,
     "floor": ""
    },
    {
     "rank": 29,
     "badge": 29,
-    "why": "Fresh migration-identity prompt that closes the loop on the language-integration family. Position: partially, but not fully. Arguments for: daily language shifts, adaptation to new customs, distance from family rituals gradually blurs origin culture. Concede: with intention (community, home visits, teaching kids the mother tongue), origin culture can persist for decades. Land on forgetting is not obligatory, it's the result of a conscious choice or a passive surrender. The active/passive distinction is a strong B2+ nuance. Perfect prompt for you personally because your Canada target IS this scenario. The anecdote writes itself and lifts pragmatic score.",
-    "cum_pool": 10.6,
-    "cum_lang": 16.0,
+    "why": "Internet as a global village — 8 months of hits. This trains the world-connectedness frame (mondialisation, échanges culturels, uniformisation, disparités numériques) and forces the 'dans quelle mesure' partial-agreement structure, which is a genuine pragmatique move examiners score higher than a flat yes/no. Vocabulary transfers to rank 22 (friendship abroad), rank 2 (travel), rank 8 (immigration), and rank 12 (electronics). Modest recurrence but a wide connector — do not skip.",
+    "cum_pool": 13.3,
+    "cum_lang": 26.6,
     "floor": ""
    },
    {
     "rank": 30,
     "badge": 30,
-    "why": "Rank 30 milestone. Workplace-motivation prompt inside the education-career family. Position: no, salary is necessary but not primary. Arguments: intrinsic motivation (sens du travail), work environment (relations, autonomie), recognition and career growth all outrank pure salary above a threshold; cite Maslow or Herzberg if you have them. Concede that below decent-living wages, salary is dominant. Land on financial hygiene first, qualitative motivators after. Introducing a named framework (even briefly) is a B2+ move. If you can drop one such reference across your drilled prompts, examiners read it as C1 vocabulary range. This closes your top 30 with a synthesis-ready template.",
-    "cum_pool": 11.1,
-    "cum_lang": 16.4,
+    "why": "Companies onboarding new hires — 7 months of hits, cleanly recent (2024–2026). This closes the workplace-and-integration bridge between the work cluster (ranks 4, 10, 28) and the integration cluster (ranks 8, 22). Vocabulary: intégration professionnelle, mentorat, formation initiale, culture d'entreprise, responsabilité de l'employeur. Still solid because it opens a distinct sub-angle — corporate rather than civic responsibility — that no other top-30 prompt covers. Past this rank the marginal return on new-family coverage genuinely starts to flatten: the top-30 has done the heavy lifting.",
+    "cum_pool": 13.6,
+    "cum_lang": 27.5,
     "floor": ""
    },
    {
     "rank": 31,
     "badge": 31,
-    "why": "Rank 31 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 11.4,
-    "cum_lang": 16.8,
+    "why": "Rank 31 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 14.0,
+    "cum_lang": 28.5,
     "floor": ""
    },
    {
     "rank": 32,
     "badge": 32,
     "why": "Rank 32 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 11.6,
-    "cum_lang": 17.5,
+    "cum_pool": 14.3,
+    "cum_lang": 29.3,
     "floor": ""
    },
    {
     "rank": 33,
     "badge": 33,
-    "why": "Rank 33 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 11.9,
-    "cum_lang": 17.9,
+    "why": "Rank 33 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 14.6,
+    "cum_lang": 30.2,
     "floor": ""
    },
    {
     "rank": 34,
     "badge": 34,
-    "why": "Rank 34 · +3 new. Adds a distinct vocabulary lane on top of the top-ranked stems.",
-    "cum_pool": 12.4,
-    "cum_lang": 18.3,
+    "why": "Rank 34 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 15.3,
+    "cum_lang": 30.5,
     "floor": ""
    },
    {
     "rank": 35,
     "badge": 35,
     "why": "Rank 35 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 12.6,
-    "cum_lang": 19.3,
+    "cum_pool": 15.6,
+    "cum_lang": 31.2,
     "floor": ""
    },
    {
     "rank": 36,
     "badge": 36,
     "why": "Rank 36 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 12.7,
-    "cum_lang": 20.0,
+    "cum_pool": 15.9,
+    "cum_lang": 32.0,
     "floor": ""
    },
    {
     "rank": 37,
     "badge": 37,
     "why": "Rank 37 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 12.9,
-    "cum_lang": 20.7,
+    "cum_pool": 16.2,
+    "cum_lang": 32.7,
     "floor": ""
    },
    {
     "rank": 38,
     "badge": 38,
     "why": "Rank 38 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 13.1,
-    "cum_lang": 21.1,
+    "cum_pool": 16.6,
+    "cum_lang": 33.4,
     "floor": ""
    },
    {
     "rank": 39,
     "badge": 39,
-    "why": "Rank 39 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 13.4,
-    "cum_lang": 21.5,
+    "why": "Rank 39 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 16.9,
+    "cum_lang": 34.1,
     "floor": ""
    },
    {
     "rank": 40,
     "badge": 40,
     "why": "Rank 40 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 13.6,
-    "cum_lang": 22.3,
+    "cum_pool": 17.2,
+    "cum_lang": 34.9,
     "floor": ""
    },
    {
     "rank": 41,
     "badge": 41,
-    "why": "Rank 41 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 13.9,
-    "cum_lang": 22.6,
+    "why": "Rank 41 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 17.5,
+    "cum_lang": 35.7,
     "floor": ""
    },
    {
     "rank": 42,
     "badge": 42,
-    "why": "Rank 42 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 14.2,
-    "cum_lang": 22.8,
+    "why": "Rank 42 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 17.9,
+    "cum_lang": 36.3,
     "floor": ""
    },
    {
     "rank": 43,
     "badge": 43,
-    "why": "Rank 43 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 14.6,
-    "cum_lang": 23.1,
+    "why": "Rank 43 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 18.2,
+    "cum_lang": 37.1,
     "floor": ""
    },
    {
     "rank": 44,
     "badge": 44,
-    "why": "Rank 44 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 14.9,
-    "cum_lang": 23.5,
+    "why": "Rank 44 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 18.5,
+    "cum_lang": 37.7,
     "floor": ""
    },
    {
     "rank": 45,
     "badge": 45,
     "why": "Rank 45 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 15.1,
-    "cum_lang": 24.2,
+    "cum_pool": 18.8,
+    "cum_lang": 38.3,
     "floor": ""
    },
    {
     "rank": 46,
     "badge": 46,
-    "why": "Rank 46 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 15.4,
-    "cum_lang": 24.4,
+    "why": "Rank 46 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 19.2,
+    "cum_lang": 38.8,
     "floor": ""
    },
    {
     "rank": 47,
     "badge": 47,
-    "why": "Rank 47 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 15.7,
-    "cum_lang": 24.8,
+    "why": "Rank 47 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 19.5,
+    "cum_lang": 39.6,
     "floor": ""
    },
    {
     "rank": 48,
     "badge": 48,
-    "why": "Rank 48 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 16.1,
-    "cum_lang": 25.1,
+    "why": "Rank 48 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 19.8,
+    "cum_lang": 40.3,
     "floor": ""
    },
    {
     "rank": 49,
     "badge": 49,
     "why": "Rank 49 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 16.2,
-    "cum_lang": 25.7,
+    "cum_pool": 20.1,
+    "cum_lang": 40.7,
     "floor": ""
    },
    {
     "rank": 50,
     "badge": 50,
-    "why": "Rank 50 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 16.6,
-    "cum_lang": 25.9,
+    "why": "Rank 50 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 20.5,
+    "cum_lang": 41.4,
     "floor": ""
    },
    {
     "rank": 51,
     "badge": 51,
     "why": "Rank 51 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 16.8,
-    "cum_lang": 26.5,
+    "cum_pool": 20.8,
+    "cum_lang": 42.1,
     "floor": ""
    },
    {
     "rank": 52,
     "badge": 52,
-    "why": "Rank 52 · +3 new. Adds a distinct vocabulary lane on top of the top-ranked stems.",
-    "cum_pool": 17.3,
-    "cum_lang": 26.7,
+    "why": "Rank 52 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 21.1,
+    "cum_lang": 42.6,
     "floor": ""
    },
    {
     "rank": 53,
     "badge": 53,
     "why": "Rank 53 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 17.6,
-    "cum_lang": 27.0,
+    "cum_pool": 21.8,
+    "cum_lang": 42.8,
     "floor": ""
    },
    {
     "rank": 54,
     "badge": 54,
     "why": "Rank 54 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 17.8,
-    "cum_lang": 27.6,
+    "cum_pool": 22.1,
+    "cum_lang": 43.4,
     "floor": ""
    },
    {
     "rank": 55,
     "badge": 55,
-    "why": "Rank 55 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 18.1,
-    "cum_lang": 27.9,
+    "why": "Rank 55 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 22.4,
+    "cum_lang": 44.6,
     "floor": ""
    },
    {
     "rank": 56,
     "badge": 56,
-    "why": "Rank 56 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 18.4,
-    "cum_lang": 28.1,
+    "why": "Rank 56 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 22.7,
+    "cum_lang": 45.0,
     "floor": ""
    },
    {
     "rank": 57,
     "badge": 57,
     "why": "Rank 57 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 18.6,
-    "cum_lang": 29.1,
+    "cum_pool": 23.1,
+    "cum_lang": 45.6,
     "floor": ""
    },
    {
     "rank": 58,
     "badge": 58,
-    "why": "Rank 58 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 18.9,
-    "cum_lang": 29.4,
+    "why": "Rank 58 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 23.4,
+    "cum_lang": 46.0,
     "floor": ""
    },
    {
     "rank": 59,
     "badge": 59,
     "why": "Rank 59 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 19.1,
-    "cum_lang": 29.9,
+    "cum_pool": 23.7,
+    "cum_lang": 46.4,
     "floor": ""
    },
    {
     "rank": 60,
     "badge": 60,
     "why": "Rank 60 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 19.3,
-    "cum_lang": 30.8,
+    "cum_pool": 24.0,
+    "cum_lang": 46.9,
     "floor": ""
    },
    {
     "rank": 61,
     "badge": 61,
-    "why": "Rank 61 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 19.6,
-    "cum_lang": 31.2,
+    "why": "Rank 61 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 24.4,
+    "cum_lang": 47.3,
     "floor": ""
    },
    {
     "rank": 62,
     "badge": 62,
     "why": "Rank 62 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 19.8,
-    "cum_lang": 31.9,
+    "cum_pool": 24.7,
+    "cum_lang": 47.7,
     "floor": ""
    },
    {
     "rank": 63,
     "badge": 63,
-    "why": "Rank 63 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 20.1,
-    "cum_lang": 32.1,
+    "why": "Rank 63 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 25.0,
+    "cum_lang": 48.1,
     "floor": ""
    },
    {
     "rank": 64,
     "badge": 64,
     "why": "Rank 64 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 20.4,
-    "cum_lang": 32.3,
+    "cum_pool": 25.6,
+    "cum_lang": 48.3,
     "floor": ""
    },
    {
     "rank": 65,
     "badge": 65,
-    "why": "Rank 65 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 20.8,
-    "cum_lang": 32.5,
+    "why": "Rank 65 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 26.0,
+    "cum_lang": 48.8,
     "floor": ""
    },
    {
     "rank": 66,
     "badge": 66,
     "why": "Rank 66 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 20.9,
-    "cum_lang": 33.0,
+    "cum_pool": 26.3,
+    "cum_lang": 49.3,
     "floor": ""
    },
    {
     "rank": 67,
     "badge": 67,
-    "why": "Rank 67 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 21.3,
-    "cum_lang": 33.1,
+    "why": "Rank 67 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 26.6,
+    "cum_lang": 49.9,
     "floor": ""
    },
    {
     "rank": 68,
     "badge": 68,
     "why": "Rank 68 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 21.4,
-    "cum_lang": 33.6,
+    "cum_pool": 26.9,
+    "cum_lang": 50.5,
     "floor": ""
    },
    {
     "rank": 69,
     "badge": 69,
     "why": "Rank 69 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 21.6,
-    "cum_lang": 33.8,
+    "cum_pool": 27.3,
+    "cum_lang": 50.9,
     "floor": ""
    },
    {
     "rank": 70,
     "badge": 70,
     "why": "Rank 70 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 21.8,
-    "cum_lang": 34.1,
+    "cum_pool": 27.6,
+    "cum_lang": 51.4,
     "floor": ""
    },
    {
     "rank": 71,
     "badge": 71,
-    "why": "Rank 71 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 22.1,
-    "cum_lang": 34.3,
+    "why": "Rank 71 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 27.9,
+    "cum_lang": 51.9,
     "floor": ""
    },
    {
     "rank": 72,
     "badge": 72,
     "why": "Rank 72 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 22.3,
-    "cum_lang": 34.6,
+    "cum_pool": 28.2,
+    "cum_lang": 52.5,
     "floor": ""
    },
    {
     "rank": 73,
     "badge": 73,
-    "why": "Rank 73 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 22.4,
-    "cum_lang": 35.1,
+    "why": "Rank 73 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 28.9,
+    "cum_lang": 52.6,
     "floor": ""
    },
    {
     "rank": 74,
     "badge": 74,
     "why": "Rank 74 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 22.6,
-    "cum_lang": 35.6,
+    "cum_pool": 29.2,
+    "cum_lang": 53.0,
     "floor": ""
    },
    {
     "rank": 75,
     "badge": 75,
     "why": "Rank 75 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 22.8,
-    "cum_lang": 35.9,
+    "cum_pool": 29.5,
+    "cum_lang": 53.5,
     "floor": ""
    },
    {
     "rank": 76,
     "badge": 76,
     "why": "Rank 76 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 22.9,
-    "cum_lang": 36.4,
+    "cum_pool": 29.9,
+    "cum_lang": 53.9,
     "floor": ""
    },
    {
     "rank": 77,
     "badge": 77,
     "why": "Rank 77 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 23.1,
-    "cum_lang": 36.7,
+    "cum_pool": 30.2,
+    "cum_lang": 54.3,
     "floor": ""
    },
    {
     "rank": 78,
     "badge": 78,
-    "why": "Rank 78 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 23.5,
-    "cum_lang": 37.0,
+    "why": "Rank 78 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 30.5,
+    "cum_lang": 54.8,
     "floor": ""
    },
    {
     "rank": 79,
     "badge": 79,
-    "why": "Rank 79 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 23.8,
-    "cum_lang": 37.2,
+    "why": "Rank 79 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 30.8,
+    "cum_lang": 55.4,
     "floor": ""
    },
    {
     "rank": 80,
     "badge": 80,
     "why": "Rank 80 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 24.0,
-    "cum_lang": 37.5,
+    "cum_pool": 31.2,
+    "cum_lang": 55.9,
     "floor": ""
    },
    {
     "rank": 81,
     "badge": 81,
-    "why": "Rank 81 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 24.3,
-    "cum_lang": 37.8,
+    "why": "Rank 81 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 31.5,
+    "cum_lang": 56.4,
     "floor": ""
    },
    {
     "rank": 82,
     "badge": 82,
     "why": "Rank 82 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 24.5,
-    "cum_lang": 38.4,
+    "cum_pool": 31.8,
+    "cum_lang": 56.6,
     "floor": ""
    },
    {
     "rank": 83,
     "badge": 83,
     "why": "Rank 83 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 24.6,
-    "cum_lang": 38.9,
+    "cum_pool": 32.1,
+    "cum_lang": 57.0,
     "floor": ""
    },
    {
     "rank": 84,
     "badge": 84,
-    "why": "Rank 84 · +3 new. Adds a distinct vocabulary lane on top of the top-ranked stems.",
-    "cum_pool": 25.1,
-    "cum_lang": 39.0,
+    "why": "Rank 84 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 32.5,
+    "cum_lang": 57.5,
     "floor": ""
    },
    {
     "rank": 85,
     "badge": 85,
     "why": "Rank 85 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.3,
-    "cum_lang": 39.4,
+    "cum_pool": 32.8,
+    "cum_lang": 57.8,
     "floor": ""
    },
    {
     "rank": 86,
     "badge": 86,
     "why": "Rank 86 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.5,
-    "cum_lang": 39.9,
+    "cum_pool": 33.1,
+    "cum_lang": 58.1,
     "floor": ""
    },
    {
     "rank": 87,
     "badge": 87,
     "why": "Rank 87 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.6,
-    "cum_lang": 40.2,
+    "cum_pool": 33.4,
+    "cum_lang": 58.5,
     "floor": ""
    },
    {
     "rank": 88,
     "badge": 88,
     "why": "Rank 88 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 25.8,
-    "cum_lang": 40.9,
+    "cum_pool": 33.8,
+    "cum_lang": 59.4,
     "floor": ""
    },
    {
     "rank": 89,
     "badge": 89,
-    "why": "Rank 89 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 26.1,
-    "cum_lang": 41.1,
+    "why": "Rank 89 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 34.1,
+    "cum_lang": 60.1,
     "floor": ""
    },
    {
     "rank": 90,
     "badge": 90,
-    "why": "Rank 90 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.3,
-    "cum_lang": 41.4,
+    "why": "Rank 90 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 34.7,
+    "cum_lang": 60.2,
     "floor": ""
    },
    {
     "rank": 91,
     "badge": 91,
     "why": "Rank 91 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.5,
-    "cum_lang": 41.8,
+    "cum_pool": 35.1,
+    "cum_lang": 60.5,
     "floor": ""
    },
    {
     "rank": 92,
     "badge": 92,
     "why": "Rank 92 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 26.6,
-    "cum_lang": 42.2,
+    "cum_pool": 35.4,
+    "cum_lang": 61.0,
     "floor": ""
    },
    {
     "rank": 93,
     "badge": 93,
-    "why": "Rank 93 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 27.0,
-    "cum_lang": 42.3,
+    "why": "Rank 93 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 35.7,
+    "cum_lang": 61.4,
     "floor": ""
    },
    {
     "rank": 94,
     "badge": 94,
     "why": "Rank 94 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.1,
-    "cum_lang": 42.7,
+    "cum_pool": 36.0,
+    "cum_lang": 61.7,
     "floor": ""
    },
    {
     "rank": 95,
     "badge": 95,
     "why": "Rank 95 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.3,
-    "cum_lang": 42.9,
+    "cum_pool": 36.4,
+    "cum_lang": 62.5,
     "floor": ""
    },
    {
     "rank": 96,
     "badge": 96,
     "why": "Rank 96 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 27.5,
-    "cum_lang": 43.6,
+    "cum_pool": 36.7,
+    "cum_lang": 62.8,
     "floor": ""
    },
    {
     "rank": 97,
     "badge": 97,
-    "why": "Rank 97 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 27.8,
-    "cum_lang": 43.7,
+    "why": "Rank 97 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 37.0,
+    "cum_lang": 63.2,
     "floor": ""
    },
    {
     "rank": 98,
     "badge": 98,
     "why": "Rank 98 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.0,
-    "cum_lang": 44.0,
+    "cum_pool": 37.3,
+    "cum_lang": 63.6,
     "floor": ""
    },
    {
     "rank": 99,
     "badge": 99,
     "why": "Rank 99 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.1,
-    "cum_lang": 44.4,
+    "cum_pool": 37.7,
+    "cum_lang": 63.9,
     "floor": ""
    },
    {
     "rank": 100,
     "badge": 100,
     "why": "Rank 100 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.3,
-    "cum_lang": 44.9,
+    "cum_pool": 38.0,
+    "cum_lang": 64.2,
     "floor": ""
    },
    {
     "rank": 101,
     "badge": 101,
     "why": "Rank 101 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.5,
-    "cum_lang": 45.5,
+    "cum_pool": 38.3,
+    "cum_lang": 64.5,
     "floor": ""
    },
    {
     "rank": 102,
     "badge": 102,
     "why": "Rank 102 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.6,
-    "cum_lang": 45.9,
+    "cum_pool": 38.6,
+    "cum_lang": 65.1,
     "floor": ""
    },
    {
     "rank": 103,
     "badge": 103,
     "why": "Rank 103 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 28.8,
-    "cum_lang": 46.2,
+    "cum_pool": 39.0,
+    "cum_lang": 65.6,
     "floor": ""
    },
    {
     "rank": 104,
     "badge": 104,
-    "why": "Rank 104 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 29.1,
-    "cum_lang": 46.4,
+    "why": "Rank 104 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 39.3,
+    "cum_lang": 66.2,
     "floor": ""
    },
    {
     "rank": 105,
     "badge": 105,
-    "why": "Rank 105 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 29.5,
-    "cum_lang": 46.5,
+    "why": "Rank 105 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 39.6,
+    "cum_lang": 66.7,
     "floor": ""
    },
    {
     "rank": 106,
     "badge": 106,
     "why": "Rank 106 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 29.6,
-    "cum_lang": 47.0,
+    "cum_pool": 39.9,
+    "cum_lang": 67.1,
     "floor": ""
    },
    {
     "rank": 107,
     "badge": 107,
     "why": "Rank 107 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 29.8,
-    "cum_lang": 47.3,
+    "cum_pool": 40.3,
+    "cum_lang": 67.3,
     "floor": ""
    },
    {
     "rank": 108,
     "badge": 108,
     "why": "Rank 108 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.0,
-    "cum_lang": 47.7,
+    "cum_pool": 40.6,
+    "cum_lang": 67.5,
     "floor": ""
    },
    {
     "rank": 109,
     "badge": 109,
     "why": "Rank 109 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.2,
-    "cum_lang": 47.8,
+    "cum_pool": 40.9,
+    "cum_lang": 67.9,
     "floor": ""
    },
    {
     "rank": 110,
     "badge": 110,
     "why": "Rank 110 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.3,
-    "cum_lang": 48.4,
+    "cum_pool": 41.2,
+    "cum_lang": 68.4,
     "floor": ""
    },
    {
     "rank": 111,
     "badge": 111,
-    "why": "Rank 111 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 30.7,
-    "cum_lang": 48.6,
+    "why": "Rank 111 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 41.6,
+    "cum_lang": 68.6,
     "floor": ""
    },
    {
     "rank": 112,
     "badge": 112,
     "why": "Rank 112 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 30.8,
-    "cum_lang": 48.8,
+    "cum_pool": 41.9,
+    "cum_lang": 68.9,
     "floor": ""
    },
    {
     "rank": 113,
     "badge": 113,
-    "why": "Rank 113 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.0,
-    "cum_lang": 49.3,
+    "why": "Rank 113 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 42.5,
+    "cum_lang": 69.0,
     "floor": ""
    },
    {
     "rank": 114,
     "badge": 114,
-    "why": "Rank 114 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.2,
-    "cum_lang": 49.6,
+    "why": "Rank 114 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 43.2,
+    "cum_lang": 69.1,
     "floor": ""
    },
    {
     "rank": 115,
     "badge": 115,
     "why": "Rank 115 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.3,
-    "cum_lang": 50.0,
+    "cum_pool": 43.5,
+    "cum_lang": 69.2,
     "floor": ""
    },
    {
     "rank": 116,
     "badge": 116,
     "why": "Rank 116 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.5,
-    "cum_lang": 50.5,
+    "cum_pool": 43.8,
+    "cum_lang": 69.5,
     "floor": ""
    },
    {
     "rank": 117,
     "badge": 117,
     "why": "Rank 117 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.7,
-    "cum_lang": 50.8,
+    "cum_pool": 44.2,
+    "cum_lang": 69.7,
     "floor": ""
    },
    {
     "rank": 118,
     "badge": 118,
     "why": "Rank 118 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 31.8,
-    "cum_lang": 51.2,
+    "cum_pool": 44.5,
+    "cum_lang": 70.0,
     "floor": ""
    },
    {
     "rank": 119,
     "badge": 119,
     "why": "Rank 119 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.0,
-    "cum_lang": 51.4,
+    "cum_pool": 44.8,
+    "cum_lang": 70.2,
     "floor": ""
    },
    {
     "rank": 120,
     "badge": 120,
     "why": "Rank 120 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.2,
-    "cum_lang": 51.6,
+    "cum_pool": 45.1,
+    "cum_lang": 70.8,
     "floor": ""
    },
    {
     "rank": 121,
     "badge": 121,
     "why": "Rank 121 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.3,
-    "cum_lang": 51.8,
+    "cum_pool": 45.5,
+    "cum_lang": 71.0,
     "floor": ""
    },
    {
     "rank": 122,
     "badge": 122,
     "why": "Rank 122 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.5,
-    "cum_lang": 52.1,
+    "cum_pool": 45.8,
+    "cum_lang": 71.4,
     "floor": ""
    },
    {
     "rank": 123,
     "badge": 123,
     "why": "Rank 123 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.7,
-    "cum_lang": 52.6,
+    "cum_pool": 46.1,
+    "cum_lang": 71.7,
     "floor": ""
    },
    {
     "rank": 124,
     "badge": 124,
     "why": "Rank 124 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 32.8,
-    "cum_lang": 53.0,
+    "cum_pool": 46.4,
+    "cum_lang": 71.9,
     "floor": ""
    },
    {
     "rank": 125,
     "badge": 125,
     "why": "Rank 125 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.0,
-    "cum_lang": 53.5,
+    "cum_pool": 46.8,
+    "cum_lang": 72.3,
     "floor": ""
    },
    {
     "rank": 126,
     "badge": 126,
     "why": "Rank 126 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.2,
-    "cum_lang": 53.8,
+    "cum_pool": 47.1,
+    "cum_lang": 72.7,
     "floor": ""
    },
    {
     "rank": 127,
     "badge": 127,
     "why": "Rank 127 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.3,
-    "cum_lang": 54.0,
+    "cum_pool": 47.4,
+    "cum_lang": 73.1,
     "floor": ""
    },
    {
     "rank": 128,
     "badge": 128,
     "why": "Rank 128 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.5,
-    "cum_lang": 54.3,
+    "cum_pool": 47.7,
+    "cum_lang": 73.4,
     "floor": ""
    },
    {
     "rank": 129,
     "badge": 129,
     "why": "Rank 129 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 33.7,
-    "cum_lang": 54.4,
+    "cum_pool": 48.1,
+    "cum_lang": 73.6,
     "floor": ""
    },
    {
     "rank": 130,
     "badge": 130,
-    "why": "Rank 130 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 34.0,
-    "cum_lang": 54.5,
+    "why": "Rank 130 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 48.4,
+    "cum_lang": 74.0,
     "floor": ""
    },
    {
     "rank": 131,
     "badge": 131,
     "why": "Rank 131 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 34.2,
-    "cum_lang": 54.7,
+    "cum_pool": 48.7,
+    "cum_lang": 74.2,
     "floor": ""
    },
    {
     "rank": 132,
     "badge": 132,
-    "why": "Rank 132 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 34.5,
-    "cum_lang": 54.8,
+    "why": "Rank 132 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 49.0,
+    "cum_lang": 74.4,
     "floor": ""
    },
    {
     "rank": 133,
     "badge": 133,
     "why": "Rank 133 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 34.7,
-    "cum_lang": 55.0,
+    "cum_pool": 49.4,
+    "cum_lang": 74.7,
     "floor": ""
    },
    {
     "rank": 134,
     "badge": 134,
-    "why": "Rank 134 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 35.0,
-    "cum_lang": 55.2,
+    "why": "Rank 134 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 49.7,
+    "cum_lang": 74.9,
     "floor": ""
    },
    {
     "rank": 135,
     "badge": 135,
     "why": "Rank 135 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 35.2,
-    "cum_lang": 55.4,
+    "cum_pool": 50.0,
+    "cum_lang": 75.2,
     "floor": ""
    },
    {
     "rank": 136,
     "badge": 136,
     "why": "Rank 136 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 35.3,
-    "cum_lang": 55.7,
+    "cum_pool": 50.3,
+    "cum_lang": 75.5,
     "floor": ""
    },
    {
     "rank": 137,
     "badge": 137,
     "why": "Rank 137 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 35.5,
-    "cum_lang": 55.9,
+    "cum_pool": 50.6,
+    "cum_lang": 75.7,
     "floor": ""
    },
    {
     "rank": 138,
     "badge": 138,
-    "why": "Rank 138 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 35.8,
-    "cum_lang": 56.1,
+    "why": "Rank 138 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 51.0,
+    "cum_lang": 76.0,
     "floor": ""
    },
    {
     "rank": 139,
     "badge": 139,
     "why": "Rank 139 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.0,
-    "cum_lang": 56.3,
+    "cum_pool": 51.3,
+    "cum_lang": 76.3,
     "floor": ""
    },
    {
     "rank": 140,
     "badge": 140,
-    "why": "Rank 140 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 36.3,
-    "cum_lang": 56.5,
+    "why": "Rank 140 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 51.6,
+    "cum_lang": 76.4,
     "floor": ""
    },
    {
     "rank": 141,
     "badge": 141,
     "why": "Rank 141 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.5,
-    "cum_lang": 56.8,
+    "cum_pool": 51.9,
+    "cum_lang": 76.6,
     "floor": ""
    },
    {
     "rank": 142,
     "badge": 142,
     "why": "Rank 142 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.7,
-    "cum_lang": 57.1,
+    "cum_pool": 52.3,
+    "cum_lang": 76.8,
     "floor": ""
    },
    {
     "rank": 143,
     "badge": 143,
     "why": "Rank 143 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 36.9,
-    "cum_lang": 57.5,
+    "cum_pool": 52.6,
+    "cum_lang": 77.1,
     "floor": ""
    },
    {
     "rank": 144,
     "badge": 144,
     "why": "Rank 144 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.0,
-    "cum_lang": 57.6,
+    "cum_pool": 52.9,
+    "cum_lang": 77.3,
     "floor": ""
    },
    {
     "rank": 145,
     "badge": 145,
     "why": "Rank 145 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.2,
-    "cum_lang": 58.0,
+    "cum_pool": 53.2,
+    "cum_lang": 77.5,
     "floor": ""
    },
    {
     "rank": 146,
     "badge": 146,
     "why": "Rank 146 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.4,
-    "cum_lang": 58.3,
+    "cum_pool": 53.6,
+    "cum_lang": 77.7,
     "floor": ""
    },
    {
     "rank": 147,
     "badge": 147,
     "why": "Rank 147 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.5,
-    "cum_lang": 58.7,
+    "cum_pool": 53.9,
+    "cum_lang": 77.9,
     "floor": ""
    },
    {
     "rank": 148,
     "badge": 148,
     "why": "Rank 148 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.7,
-    "cum_lang": 59.2,
+    "cum_pool": 54.2,
+    "cum_lang": 78.1,
     "floor": ""
    },
    {
     "rank": 149,
     "badge": 149,
     "why": "Rank 149 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 37.9,
-    "cum_lang": 59.5,
+    "cum_pool": 54.5,
+    "cum_lang": 78.5,
     "floor": ""
    },
    {
     "rank": 150,
     "badge": 150,
     "why": "Rank 150 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.0,
-    "cum_lang": 59.7,
+    "cum_pool": 54.9,
+    "cum_lang": 78.8,
     "floor": ""
    },
    {
     "rank": 151,
     "badge": 151,
     "why": "Rank 151 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.2,
-    "cum_lang": 59.9,
+    "cum_pool": 55.2,
+    "cum_lang": 79.1,
     "floor": ""
    },
    {
     "rank": 152,
     "badge": 152,
     "why": "Rank 152 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.4,
-    "cum_lang": 60.2,
+    "cum_pool": 55.5,
+    "cum_lang": 79.5,
     "floor": ""
    },
    {
     "rank": 153,
     "badge": 153,
     "why": "Rank 153 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 38.5,
-    "cum_lang": 60.6,
+    "cum_pool": 55.8,
+    "cum_lang": 79.9,
     "floor": ""
    },
    {
     "rank": 154,
     "badge": 154,
-    "why": "Rank 154 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 38.9,
-    "cum_lang": 60.6,
+    "why": "Rank 154 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 56.2,
+    "cum_lang": 80.4,
     "floor": ""
    },
    {
     "rank": 155,
     "badge": 155,
     "why": "Rank 155 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.0,
-    "cum_lang": 60.8,
+    "cum_pool": 56.5,
+    "cum_lang": 80.8,
     "floor": ""
    },
    {
     "rank": 156,
     "badge": 156,
     "why": "Rank 156 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.2,
-    "cum_lang": 61.0,
+    "cum_pool": 56.8,
+    "cum_lang": 81.0,
     "floor": ""
    },
    {
     "rank": 157,
     "badge": 157,
-    "why": "Rank 157 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 39.5,
-    "cum_lang": 61.0,
+    "why": "Rank 157 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 57.1,
+    "cum_lang": 81.3,
     "floor": ""
    },
    {
     "rank": 158,
     "badge": 158,
     "why": "Rank 158 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.7,
-    "cum_lang": 61.1,
+    "cum_pool": 57.5,
+    "cum_lang": 81.5,
     "floor": ""
    },
    {
     "rank": 159,
     "badge": 159,
     "why": "Rank 159 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 39.9,
-    "cum_lang": 61.3,
+    "cum_pool": 57.8,
+    "cum_lang": 81.8,
     "floor": ""
    },
    {
     "rank": 160,
     "badge": 160,
     "why": "Rank 160 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.0,
-    "cum_lang": 61.5,
+    "cum_pool": 58.1,
+    "cum_lang": 81.9,
     "floor": ""
    },
    {
     "rank": 161,
     "badge": 161,
     "why": "Rank 161 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.2,
-    "cum_lang": 61.7,
+    "cum_pool": 58.4,
+    "cum_lang": 82.0,
     "floor": ""
    },
    {
     "rank": 162,
     "badge": 162,
     "why": "Rank 162 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.4,
-    "cum_lang": 61.8,
+    "cum_pool": 58.8,
+    "cum_lang": 82.5,
     "floor": ""
    },
    {
     "rank": 163,
     "badge": 163,
     "why": "Rank 163 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.5,
-    "cum_lang": 62.1,
+    "cum_pool": 59.1,
+    "cum_lang": 82.9,
     "floor": ""
    },
    {
     "rank": 164,
     "badge": 164,
     "why": "Rank 164 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 40.7,
-    "cum_lang": 62.4,
+    "cum_pool": 59.4,
+    "cum_lang": 83.2,
     "floor": ""
    },
    {
     "rank": 165,
     "badge": 165,
-    "why": "Rank 165 · +3 new. Adds a distinct vocabulary lane on top of the top-ranked stems.",
-    "cum_pool": 41.2,
-    "cum_lang": 62.4,
+    "why": "Rank 165 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 59.7,
+    "cum_lang": 83.7,
     "floor": ""
    },
    {
     "rank": 166,
     "badge": 166,
     "why": "Rank 166 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.4,
-    "cum_lang": 62.6,
+    "cum_pool": 60.1,
+    "cum_lang": 83.8,
     "floor": ""
    },
    {
     "rank": 167,
     "badge": 167,
     "why": "Rank 167 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.5,
-    "cum_lang": 63.0,
+    "cum_pool": 60.4,
+    "cum_lang": 83.9,
     "floor": ""
    },
    {
     "rank": 168,
     "badge": 168,
     "why": "Rank 168 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.7,
-    "cum_lang": 63.3,
+    "cum_pool": 60.7,
+    "cum_lang": 84.0,
     "floor": ""
    },
    {
     "rank": 169,
     "badge": 169,
     "why": "Rank 169 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 41.9,
-    "cum_lang": 63.6,
+    "cum_pool": 61.0,
+    "cum_lang": 84.1,
     "floor": ""
    },
    {
     "rank": 170,
     "badge": 170,
     "why": "Rank 170 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.0,
-    "cum_lang": 63.8,
+    "cum_pool": 61.4,
+    "cum_lang": 84.2,
     "floor": ""
    },
    {
     "rank": 171,
     "badge": 171,
     "why": "Rank 171 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.2,
-    "cum_lang": 64.2,
+    "cum_pool": 61.7,
+    "cum_lang": 84.3,
     "floor": ""
    },
    {
     "rank": 172,
     "badge": 172,
     "why": "Rank 172 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.4,
-    "cum_lang": 64.4,
+    "cum_pool": 62.0,
+    "cum_lang": 84.5,
     "floor": ""
    },
    {
     "rank": 173,
     "badge": 173,
     "why": "Rank 173 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.5,
-    "cum_lang": 64.8,
+    "cum_pool": 62.3,
+    "cum_lang": 84.7,
     "floor": ""
    },
    {
     "rank": 174,
     "badge": 174,
     "why": "Rank 174 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.7,
-    "cum_lang": 65.1,
+    "cum_pool": 62.7,
+    "cum_lang": 84.9,
     "floor": ""
    },
    {
     "rank": 175,
     "badge": 175,
     "why": "Rank 175 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 42.9,
-    "cum_lang": 65.3,
+    "cum_pool": 63.0,
+    "cum_lang": 85.0,
     "floor": ""
    },
    {
     "rank": 176,
     "badge": 176,
     "why": "Rank 176 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.0,
-    "cum_lang": 65.7,
+    "cum_pool": 63.3,
+    "cum_lang": 85.1,
     "floor": ""
    },
    {
     "rank": 177,
     "badge": 177,
     "why": "Rank 177 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.2,
-    "cum_lang": 66.0,
+    "cum_pool": 63.6,
+    "cum_lang": 85.2,
     "floor": ""
    },
    {
     "rank": 178,
     "badge": 178,
     "why": "Rank 178 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.4,
-    "cum_lang": 66.2,
+    "cum_pool": 64.0,
+    "cum_lang": 85.3,
     "floor": ""
    },
    {
     "rank": 179,
     "badge": 179,
     "why": "Rank 179 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.6,
-    "cum_lang": 66.3,
+    "cum_pool": 64.3,
+    "cum_lang": 85.5,
     "floor": ""
    },
    {
     "rank": 180,
     "badge": 180,
     "why": "Rank 180 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.7,
-    "cum_lang": 66.7,
+    "cum_pool": 64.6,
+    "cum_lang": 85.6,
     "floor": ""
    },
    {
     "rank": 181,
     "badge": 181,
     "why": "Rank 181 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 43.9,
-    "cum_lang": 67.0,
+    "cum_pool": 64.9,
+    "cum_lang": 85.8,
     "floor": ""
    },
    {
     "rank": 182,
     "badge": 182,
     "why": "Rank 182 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.1,
-    "cum_lang": 67.3,
+    "cum_pool": 65.3,
+    "cum_lang": 85.9,
     "floor": ""
    },
    {
     "rank": 183,
     "badge": 183,
     "why": "Rank 183 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.2,
-    "cum_lang": 67.5,
+    "cum_pool": 65.6,
+    "cum_lang": 86.0,
     "floor": ""
    },
    {
     "rank": 184,
     "badge": 184,
-    "why": "Rank 184 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 44.6,
-    "cum_lang": 67.6,
+    "why": "Rank 184 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 65.9,
+    "cum_lang": 86.1,
     "floor": ""
    },
    {
     "rank": 185,
     "badge": 185,
     "why": "Rank 185 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.7,
-    "cum_lang": 67.8,
+    "cum_pool": 66.2,
+    "cum_lang": 86.4,
     "floor": ""
    },
    {
     "rank": 186,
     "badge": 186,
     "why": "Rank 186 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 44.9,
-    "cum_lang": 67.9,
+    "cum_pool": 66.6,
+    "cum_lang": 86.8,
     "floor": ""
    },
    {
     "rank": 187,
     "badge": 187,
     "why": "Rank 187 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.1,
-    "cum_lang": 68.1,
+    "cum_pool": 66.9,
+    "cum_lang": 87.1,
     "floor": ""
    },
    {
     "rank": 188,
     "badge": 188,
     "why": "Rank 188 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.2,
-    "cum_lang": 68.3,
+    "cum_pool": 67.2,
+    "cum_lang": 87.4,
     "floor": ""
    },
    {
     "rank": 189,
     "badge": 189,
     "why": "Rank 189 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.4,
-    "cum_lang": 68.5,
+    "cum_pool": 67.5,
+    "cum_lang": 87.8,
     "floor": ""
    },
    {
     "rank": 190,
     "badge": 190,
     "why": "Rank 190 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.6,
-    "cum_lang": 68.6,
+    "cum_pool": 67.9,
+    "cum_lang": 88.1,
     "floor": ""
    },
    {
     "rank": 191,
     "badge": 191,
     "why": "Rank 191 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 45.7,
-    "cum_lang": 68.8,
+    "cum_pool": 68.2,
+    "cum_lang": 88.2,
     "floor": ""
    },
    {
     "rank": 192,
     "badge": 192,
-    "why": "Rank 192 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 46.1,
-    "cum_lang": 68.8,
+    "why": "Rank 192 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 68.5,
+    "cum_lang": 88.3,
     "floor": ""
    },
    {
     "rank": 193,
     "badge": 193,
-    "why": "Rank 193 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 46.4,
-    "cum_lang": 68.9,
+    "why": "Rank 193 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 68.8,
+    "cum_lang": 88.4,
     "floor": ""
    },
    {
     "rank": 194,
     "badge": 194,
     "why": "Rank 194 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.6,
-    "cum_lang": 69.0,
+    "cum_pool": 69.2,
+    "cum_lang": 88.6,
     "floor": ""
    },
    {
     "rank": 195,
     "badge": 195,
     "why": "Rank 195 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.7,
-    "cum_lang": 69.1,
+    "cum_pool": 69.5,
+    "cum_lang": 88.7,
     "floor": ""
    },
    {
     "rank": 196,
     "badge": 196,
     "why": "Rank 196 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 46.9,
-    "cum_lang": 69.3,
+    "cum_pool": 69.8,
+    "cum_lang": 89.0,
     "floor": ""
    },
    {
     "rank": 197,
     "badge": 197,
     "why": "Rank 197 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.1,
-    "cum_lang": 69.5,
+    "cum_pool": 70.1,
+    "cum_lang": 89.3,
     "floor": ""
    },
    {
     "rank": 198,
     "badge": 198,
     "why": "Rank 198 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.2,
-    "cum_lang": 69.6,
+    "cum_pool": 70.5,
+    "cum_lang": 89.7,
     "floor": ""
    },
    {
     "rank": 199,
     "badge": 199,
     "why": "Rank 199 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.4,
-    "cum_lang": 69.7,
+    "cum_pool": 70.8,
+    "cum_lang": 90.0,
     "floor": ""
    },
    {
     "rank": 200,
     "badge": 200,
     "why": "Rank 200 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.6,
-    "cum_lang": 69.7,
+    "cum_pool": 71.1,
+    "cum_lang": 90.0,
     "floor": ""
    },
    {
     "rank": 201,
     "badge": 201,
     "why": "Rank 201 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.7,
-    "cum_lang": 70.0,
+    "cum_pool": 71.4,
+    "cum_lang": 90.2,
     "floor": ""
    },
    {
     "rank": 202,
     "badge": 202,
     "why": "Rank 202 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 47.9,
-    "cum_lang": 70.3,
+    "cum_pool": 71.8,
+    "cum_lang": 90.4,
     "floor": ""
    },
    {
     "rank": 203,
     "badge": 203,
     "why": "Rank 203 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.1,
-    "cum_lang": 70.5,
+    "cum_pool": 72.1,
+    "cum_lang": 90.7,
     "floor": ""
    },
    {
     "rank": 204,
     "badge": 204,
     "why": "Rank 204 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.2,
-    "cum_lang": 70.8,
+    "cum_pool": 72.4,
+    "cum_lang": 90.9,
     "floor": ""
    },
    {
     "rank": 205,
     "badge": 205,
     "why": "Rank 205 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.4,
-    "cum_lang": 71.1,
+    "cum_pool": 72.7,
+    "cum_lang": 91.1,
     "floor": ""
    },
    {
     "rank": 206,
     "badge": 206,
     "why": "Rank 206 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.6,
-    "cum_lang": 71.3,
+    "cum_pool": 73.1,
+    "cum_lang": 91.3,
     "floor": ""
    },
    {
     "rank": 207,
     "badge": 207,
     "why": "Rank 207 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.7,
-    "cum_lang": 71.6,
+    "cum_pool": 73.4,
+    "cum_lang": 91.5,
     "floor": ""
    },
    {
     "rank": 208,
     "badge": 208,
     "why": "Rank 208 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 48.9,
-    "cum_lang": 71.9,
+    "cum_pool": 73.7,
+    "cum_lang": 91.8,
     "floor": ""
    },
    {
     "rank": 209,
     "badge": 209,
     "why": "Rank 209 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.1,
-    "cum_lang": 72.1,
+    "cum_pool": 74.0,
+    "cum_lang": 92.0,
     "floor": ""
    },
    {
     "rank": 210,
     "badge": 210,
     "why": "Rank 210 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.2,
-    "cum_lang": 72.4,
+    "cum_pool": 74.4,
+    "cum_lang": 92.2,
     "floor": ""
    },
    {
     "rank": 211,
     "badge": 211,
     "why": "Rank 211 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.4,
-    "cum_lang": 72.6,
+    "cum_pool": 74.7,
+    "cum_lang": 92.4,
     "floor": ""
    },
    {
     "rank": 212,
     "badge": 212,
     "why": "Rank 212 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.6,
-    "cum_lang": 72.9,
+    "cum_pool": 75.0,
+    "cum_lang": 92.5,
     "floor": ""
    },
    {
     "rank": 213,
     "badge": 213,
     "why": "Rank 213 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.7,
-    "cum_lang": 73.2,
+    "cum_pool": 75.3,
+    "cum_lang": 92.6,
     "floor": ""
    },
    {
     "rank": 214,
     "badge": 214,
     "why": "Rank 214 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 49.9,
-    "cum_lang": 73.4,
+    "cum_pool": 75.6,
+    "cum_lang": 92.6,
     "floor": ""
    },
    {
     "rank": 215,
     "badge": 215,
     "why": "Rank 215 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.1,
-    "cum_lang": 73.7,
+    "cum_pool": 76.0,
+    "cum_lang": 92.8,
     "floor": ""
    },
    {
     "rank": 216,
     "badge": 216,
     "why": "Rank 216 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.3,
-    "cum_lang": 73.9,
+    "cum_pool": 76.3,
+    "cum_lang": 92.9,
     "floor": ""
    },
    {
     "rank": 217,
     "badge": 217,
     "why": "Rank 217 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.4,
-    "cum_lang": 74.2,
+    "cum_pool": 76.6,
+    "cum_lang": 93.0,
     "floor": ""
    },
    {
     "rank": 218,
     "badge": 218,
     "why": "Rank 218 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.6,
-    "cum_lang": 74.5,
+    "cum_pool": 76.9,
+    "cum_lang": 93.1,
     "floor": ""
    },
    {
     "rank": 219,
     "badge": 219,
     "why": "Rank 219 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.8,
-    "cum_lang": 74.7,
+    "cum_pool": 77.3,
+    "cum_lang": 93.2,
     "floor": ""
    },
    {
     "rank": 220,
     "badge": 220,
     "why": "Rank 220 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 50.9,
-    "cum_lang": 74.8,
+    "cum_pool": 77.6,
+    "cum_lang": 93.3,
     "floor": ""
    },
    {
     "rank": 221,
     "badge": 221,
     "why": "Rank 221 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.1,
-    "cum_lang": 74.9,
+    "cum_pool": 77.9,
+    "cum_lang": 93.3,
     "floor": ""
    },
    {
     "rank": 222,
     "badge": 222,
     "why": "Rank 222 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.3,
-    "cum_lang": 75.0,
+    "cum_pool": 78.2,
+    "cum_lang": 93.5,
     "floor": ""
    },
    {
     "rank": 223,
     "badge": 223,
     "why": "Rank 223 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.4,
-    "cum_lang": 75.1,
+    "cum_pool": 78.6,
+    "cum_lang": 93.8,
     "floor": ""
    },
    {
     "rank": 224,
     "badge": 224,
     "why": "Rank 224 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.6,
-    "cum_lang": 75.3,
+    "cum_pool": 78.9,
+    "cum_lang": 94.0,
     "floor": ""
    },
    {
     "rank": 225,
     "badge": 225,
     "why": "Rank 225 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.8,
-    "cum_lang": 75.5,
+    "cum_pool": 79.2,
+    "cum_lang": 94.2,
     "floor": ""
    },
    {
     "rank": 226,
     "badge": 226,
     "why": "Rank 226 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 51.9,
-    "cum_lang": 75.7,
+    "cum_pool": 79.5,
+    "cum_lang": 94.4,
     "floor": ""
    },
    {
     "rank": 227,
     "badge": 227,
     "why": "Rank 227 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.1,
-    "cum_lang": 75.8,
+    "cum_pool": 79.9,
+    "cum_lang": 94.7,
     "floor": ""
    },
    {
     "rank": 228,
     "badge": 228,
     "why": "Rank 228 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.3,
-    "cum_lang": 76.0,
+    "cum_pool": 80.2,
+    "cum_lang": 94.9,
     "floor": ""
    },
    {
     "rank": 229,
     "badge": 229,
     "why": "Rank 229 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.4,
-    "cum_lang": 76.2,
+    "cum_pool": 80.5,
+    "cum_lang": 95.1,
     "floor": ""
    },
    {
     "rank": 230,
     "badge": 230,
     "why": "Rank 230 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.6,
-    "cum_lang": 76.4,
+    "cum_pool": 80.8,
+    "cum_lang": 95.3,
     "floor": ""
    },
    {
     "rank": 231,
     "badge": 231,
     "why": "Rank 231 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.8,
-    "cum_lang": 76.6,
+    "cum_pool": 81.2,
+    "cum_lang": 95.3,
     "floor": ""
    },
    {
     "rank": 232,
     "badge": 232,
     "why": "Rank 232 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 52.9,
-    "cum_lang": 76.7,
+    "cum_pool": 81.5,
+    "cum_lang": 95.4,
     "floor": ""
    },
    {
     "rank": 233,
     "badge": 233,
     "why": "Rank 233 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.1,
-    "cum_lang": 76.9,
+    "cum_pool": 81.8,
+    "cum_lang": 95.5,
     "floor": ""
    },
    {
     "rank": 234,
     "badge": 234,
     "why": "Rank 234 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.3,
-    "cum_lang": 77.1,
+    "cum_pool": 82.1,
+    "cum_lang": 95.7,
     "floor": ""
    },
    {
     "rank": 235,
     "badge": 235,
     "why": "Rank 235 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.4,
-    "cum_lang": 77.3,
+    "cum_pool": 82.5,
+    "cum_lang": 95.8,
     "floor": ""
    },
    {
     "rank": 236,
     "badge": 236,
     "why": "Rank 236 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.6,
-    "cum_lang": 77.6,
+    "cum_pool": 82.8,
+    "cum_lang": 95.9,
     "floor": ""
    },
    {
     "rank": 237,
     "badge": 237,
     "why": "Rank 237 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.8,
-    "cum_lang": 77.8,
+    "cum_pool": 83.1,
+    "cum_lang": 96.0,
     "floor": ""
    },
    {
     "rank": 238,
     "badge": 238,
     "why": "Rank 238 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 53.9,
-    "cum_lang": 78.0,
+    "cum_pool": 83.4,
+    "cum_lang": 96.1,
     "floor": ""
    },
    {
     "rank": 239,
     "badge": 239,
     "why": "Rank 239 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.1,
-    "cum_lang": 78.2,
+    "cum_pool": 83.8,
+    "cum_lang": 96.2,
     "floor": ""
    },
    {
     "rank": 240,
     "badge": 240,
     "why": "Rank 240 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.3,
-    "cum_lang": 78.3,
+    "cum_pool": 84.1,
+    "cum_lang": 96.3,
     "floor": ""
    },
    {
     "rank": 241,
     "badge": 241,
     "why": "Rank 241 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.4,
-    "cum_lang": 78.5,
+    "cum_pool": 84.4,
+    "cum_lang": 96.4,
     "floor": ""
    },
    {
     "rank": 242,
     "badge": 242,
     "why": "Rank 242 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.6,
-    "cum_lang": 78.7,
+    "cum_pool": 84.7,
+    "cum_lang": 96.6,
     "floor": ""
    },
    {
     "rank": 243,
     "badge": 243,
     "why": "Rank 243 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.8,
-    "cum_lang": 78.8,
+    "cum_pool": 85.1,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 244,
     "badge": 244,
     "why": "Rank 244 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 54.9,
-    "cum_lang": 79.0,
+    "cum_pool": 85.4,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 245,
     "badge": 245,
     "why": "Rank 245 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.1,
-    "cum_lang": 79.2,
+    "cum_pool": 85.7,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 246,
     "badge": 246,
     "why": "Rank 246 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.3,
-    "cum_lang": 79.4,
+    "cum_pool": 86.0,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 247,
     "badge": 247,
     "why": "Rank 247 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.4,
-    "cum_lang": 79.4,
+    "cum_pool": 86.4,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 248,
     "badge": 248,
     "why": "Rank 248 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 55.6,
-    "cum_lang": 79.7,
+    "cum_pool": 86.7,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 249,
     "badge": 249,
-    "why": "Rank 249 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 55.9,
-    "cum_lang": 79.7,
+    "why": "Rank 249 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 87.0,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 250,
     "badge": 250,
     "why": "Rank 250 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.1,
-    "cum_lang": 79.8,
+    "cum_pool": 87.3,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 251,
     "badge": 251,
     "why": "Rank 251 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.3,
-    "cum_lang": 79.9,
+    "cum_pool": 87.7,
+    "cum_lang": 96.7,
     "floor": ""
    },
    {
     "rank": 252,
     "badge": 252,
     "why": "Rank 252 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.4,
-    "cum_lang": 80.0,
+    "cum_pool": 88.0,
+    "cum_lang": 96.8,
     "floor": ""
    },
    {
     "rank": 253,
     "badge": 253,
     "why": "Rank 253 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.6,
-    "cum_lang": 80.1,
+    "cum_pool": 88.3,
+    "cum_lang": 96.9,
     "floor": ""
    },
    {
     "rank": 254,
     "badge": 254,
     "why": "Rank 254 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 56.8,
-    "cum_lang": 80.2,
+    "cum_pool": 88.6,
+    "cum_lang": 97.0,
     "floor": ""
    },
    {
     "rank": 255,
     "badge": 255,
     "why": "Rank 255 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.0,
-    "cum_lang": 80.3,
+    "cum_pool": 89.0,
+    "cum_lang": 97.1,
     "floor": ""
    },
    {
     "rank": 256,
     "badge": 256,
     "why": "Rank 256 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.1,
-    "cum_lang": 80.4,
+    "cum_pool": 89.3,
+    "cum_lang": 97.2,
     "floor": ""
    },
    {
     "rank": 257,
     "badge": 257,
     "why": "Rank 257 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.3,
-    "cum_lang": 80.4,
+    "cum_pool": 89.6,
+    "cum_lang": 97.3,
     "floor": ""
    },
    {
     "rank": 258,
     "badge": 258,
     "why": "Rank 258 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.5,
-    "cum_lang": 80.5,
+    "cum_pool": 89.9,
+    "cum_lang": 97.4,
     "floor": ""
    },
    {
     "rank": 259,
     "badge": 259,
     "why": "Rank 259 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.6,
-    "cum_lang": 80.6,
+    "cum_pool": 90.3,
+    "cum_lang": 97.6,
     "floor": ""
    },
    {
     "rank": 260,
     "badge": 260,
     "why": "Rank 260 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 57.8,
-    "cum_lang": 80.7,
+    "cum_pool": 90.6,
+    "cum_lang": 97.7,
     "floor": ""
    },
    {
     "rank": 261,
     "badge": 261,
     "why": "Rank 261 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.0,
-    "cum_lang": 80.8,
+    "cum_pool": 90.9,
+    "cum_lang": 97.8,
     "floor": ""
    },
    {
     "rank": 262,
     "badge": 262,
-    "why": "Rank 262 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 58.3,
-    "cum_lang": 80.8,
+    "why": "Rank 262 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
+    "cum_pool": 91.2,
+    "cum_lang": 97.9,
     "floor": ""
    },
    {
     "rank": 263,
     "badge": 263,
     "why": "Rank 263 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.5,
-    "cum_lang": 80.9,
+    "cum_pool": 91.6,
+    "cum_lang": 98.0,
     "floor": ""
    },
    {
     "rank": 264,
     "badge": 264,
     "why": "Rank 264 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.6,
-    "cum_lang": 80.9,
+    "cum_pool": 91.9,
+    "cum_lang": 98.1,
     "floor": ""
    },
    {
     "rank": 265,
     "badge": 265,
     "why": "Rank 265 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 58.8,
-    "cum_lang": 81.0,
+    "cum_pool": 92.2,
+    "cum_lang": 98.2,
     "floor": ""
    },
    {
     "rank": 266,
     "badge": 266,
     "why": "Rank 266 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.0,
-    "cum_lang": 81.1,
+    "cum_pool": 92.5,
+    "cum_lang": 98.3,
     "floor": ""
    },
    {
     "rank": 267,
     "badge": 267,
     "why": "Rank 267 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.1,
-    "cum_lang": 81.2,
+    "cum_pool": 92.9,
+    "cum_lang": 98.5,
     "floor": ""
    },
    {
     "rank": 268,
     "badge": 268,
     "why": "Rank 268 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.3,
-    "cum_lang": 81.3,
+    "cum_pool": 93.2,
+    "cum_lang": 98.6,
     "floor": ""
    },
    {
     "rank": 269,
     "badge": 269,
     "why": "Rank 269 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.5,
-    "cum_lang": 81.4,
+    "cum_pool": 93.5,
+    "cum_lang": 98.7,
     "floor": ""
    },
    {
     "rank": 270,
     "badge": 270,
     "why": "Rank 270 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.6,
-    "cum_lang": 81.5,
+    "cum_pool": 93.8,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 271,
     "badge": 271,
     "why": "Rank 271 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 59.8,
-    "cum_lang": 81.6,
+    "cum_pool": 94.2,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 272,
     "badge": 272,
     "why": "Rank 272 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.0,
-    "cum_lang": 81.7,
+    "cum_pool": 94.5,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 273,
     "badge": 273,
     "why": "Rank 273 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.1,
-    "cum_lang": 81.9,
+    "cum_pool": 94.8,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 274,
     "badge": 274,
     "why": "Rank 274 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.3,
-    "cum_lang": 82.1,
+    "cum_pool": 95.1,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 275,
     "badge": 275,
     "why": "Rank 275 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.5,
-    "cum_lang": 82.3,
+    "cum_pool": 95.5,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 276,
     "badge": 276,
     "why": "Rank 276 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.6,
-    "cum_lang": 82.4,
+    "cum_pool": 95.8,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 277,
     "badge": 277,
     "why": "Rank 277 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 60.8,
-    "cum_lang": 82.6,
+    "cum_pool": 96.1,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 278,
     "badge": 278,
     "why": "Rank 278 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.0,
-    "cum_lang": 82.8,
+    "cum_pool": 96.4,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 279,
     "badge": 279,
     "why": "Rank 279 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.1,
-    "cum_lang": 83.0,
+    "cum_pool": 96.8,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 280,
     "badge": 280,
     "why": "Rank 280 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.3,
-    "cum_lang": 83.1,
+    "cum_pool": 97.1,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 281,
     "badge": 281,
     "why": "Rank 281 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.5,
-    "cum_lang": 83.3,
+    "cum_pool": 97.4,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 282,
     "badge": 282,
     "why": "Rank 282 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.6,
-    "cum_lang": 83.5,
+    "cum_pool": 97.7,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 283,
     "badge": 283,
     "why": "Rank 283 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 61.8,
-    "cum_lang": 83.7,
+    "cum_pool": 98.1,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 284,
     "badge": 284,
     "why": "Rank 284 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.0,
-    "cum_lang": 83.8,
+    "cum_pool": 98.4,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 285,
     "badge": 285,
     "why": "Rank 285 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.1,
-    "cum_lang": 84.0,
+    "cum_pool": 98.7,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 286,
     "badge": 286,
     "why": "Rank 286 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.3,
-    "cum_lang": 84.2,
+    "cum_pool": 99.0,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 287,
     "badge": 287,
     "why": "Rank 287 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.5,
-    "cum_lang": 84.4,
+    "cum_pool": 99.4,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 288,
     "badge": 288,
     "why": "Rank 288 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.6,
-    "cum_lang": 84.5,
+    "cum_pool": 99.7,
+    "cum_lang": 98.8,
     "floor": ""
    },
    {
     "rank": 289,
     "badge": 289,
     "why": "Rank 289 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 62.8,
-    "cum_lang": 84.7,
-    "floor": ""
-   },
-   {
-    "rank": 290,
-    "badge": 290,
-    "why": "Rank 290 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.0,
-    "cum_lang": 84.9,
-    "floor": ""
-   },
-   {
-    "rank": 291,
-    "badge": 291,
-    "why": "Rank 291 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.1,
-    "cum_lang": 85.1,
-    "floor": ""
-   },
-   {
-    "rank": 292,
-    "badge": 292,
-    "why": "Rank 292 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.3,
-    "cum_lang": 85.3,
-    "floor": ""
-   },
-   {
-    "rank": 293,
-    "badge": 293,
-    "why": "Rank 293 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.5,
-    "cum_lang": 85.4,
-    "floor": ""
-   },
-   {
-    "rank": 294,
-    "badge": 294,
-    "why": "Rank 294 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.7,
-    "cum_lang": 85.6,
-    "floor": ""
-   },
-   {
-    "rank": 295,
-    "badge": 295,
-    "why": "Rank 295 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 63.8,
-    "cum_lang": 85.8,
-    "floor": ""
-   },
-   {
-    "rank": 296,
-    "badge": 296,
-    "why": "Rank 296 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.0,
-    "cum_lang": 86.0,
-    "floor": ""
-   },
-   {
-    "rank": 297,
-    "badge": 297,
-    "why": "Rank 297 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.2,
-    "cum_lang": 86.1,
-    "floor": ""
-   },
-   {
-    "rank": 298,
-    "badge": 298,
-    "why": "Rank 298 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.3,
-    "cum_lang": 86.3,
-    "floor": ""
-   },
-   {
-    "rank": 299,
-    "badge": 299,
-    "why": "Rank 299 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.5,
-    "cum_lang": 86.5,
-    "floor": ""
-   },
-   {
-    "rank": 300,
-    "badge": 300,
-    "why": "Rank 300 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.7,
-    "cum_lang": 86.5,
-    "floor": ""
-   },
-   {
-    "rank": 301,
-    "badge": 301,
-    "why": "Rank 301 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 64.8,
-    "cum_lang": 86.7,
-    "floor": ""
-   },
-   {
-    "rank": 302,
-    "badge": 302,
-    "why": "Rank 302 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.0,
-    "cum_lang": 86.8,
-    "floor": ""
-   },
-   {
-    "rank": 303,
-    "badge": 303,
-    "why": "Rank 303 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.2,
-    "cum_lang": 87.0,
-    "floor": ""
-   },
-   {
-    "rank": 304,
-    "badge": 304,
-    "why": "Rank 304 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.3,
-    "cum_lang": 87.2,
-    "floor": ""
-   },
-   {
-    "rank": 305,
-    "badge": 305,
-    "why": "Rank 305 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.5,
-    "cum_lang": 87.3,
-    "floor": ""
-   },
-   {
-    "rank": 306,
-    "badge": 306,
-    "why": "Rank 306 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.7,
-    "cum_lang": 87.5,
-    "floor": ""
-   },
-   {
-    "rank": 307,
-    "badge": 307,
-    "why": "Rank 307 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 65.8,
-    "cum_lang": 87.7,
-    "floor": ""
-   },
-   {
-    "rank": 308,
-    "badge": 308,
-    "why": "Rank 308 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.0,
-    "cum_lang": 87.8,
-    "floor": ""
-   },
-   {
-    "rank": 309,
-    "badge": 309,
-    "why": "Rank 309 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.2,
-    "cum_lang": 87.9,
-    "floor": ""
-   },
-   {
-    "rank": 310,
-    "badge": 310,
-    "why": "Rank 310 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.3,
-    "cum_lang": 88.1,
-    "floor": ""
-   },
-   {
-    "rank": 311,
-    "badge": 311,
-    "why": "Rank 311 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.5,
-    "cum_lang": 88.3,
-    "floor": ""
-   },
-   {
-    "rank": 312,
-    "badge": 312,
-    "why": "Rank 312 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.7,
-    "cum_lang": 88.4,
-    "floor": ""
-   },
-   {
-    "rank": 313,
-    "badge": 313,
-    "why": "Rank 313 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 66.8,
-    "cum_lang": 88.4,
-    "floor": ""
-   },
-   {
-    "rank": 314,
-    "badge": 314,
-    "why": "Rank 314 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.0,
-    "cum_lang": 88.4,
-    "floor": ""
-   },
-   {
-    "rank": 315,
-    "badge": 315,
-    "why": "Rank 315 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.2,
-    "cum_lang": 88.4,
-    "floor": ""
-   },
-   {
-    "rank": 316,
-    "badge": 316,
-    "why": "Rank 316 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.3,
-    "cum_lang": 88.4,
-    "floor": ""
-   },
-   {
-    "rank": 317,
-    "badge": 317,
-    "why": "Rank 317 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.5,
-    "cum_lang": 88.5,
-    "floor": ""
-   },
-   {
-    "rank": 318,
-    "badge": 318,
-    "why": "Rank 318 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.7,
-    "cum_lang": 88.6,
-    "floor": ""
-   },
-   {
-    "rank": 319,
-    "badge": 319,
-    "why": "Rank 319 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 67.8,
-    "cum_lang": 88.7,
-    "floor": ""
-   },
-   {
-    "rank": 320,
-    "badge": 320,
-    "why": "Rank 320 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.0,
-    "cum_lang": 88.8,
-    "floor": ""
-   },
-   {
-    "rank": 321,
-    "badge": 321,
-    "why": "Rank 321 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.2,
-    "cum_lang": 88.9,
-    "floor": ""
-   },
-   {
-    "rank": 322,
-    "badge": 322,
-    "why": "Rank 322 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.3,
-    "cum_lang": 89.0,
-    "floor": ""
-   },
-   {
-    "rank": 323,
-    "badge": 323,
-    "why": "Rank 323 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.5,
-    "cum_lang": 89.0,
-    "floor": ""
-   },
-   {
-    "rank": 324,
-    "badge": 324,
-    "why": "Rank 324 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.7,
-    "cum_lang": 89.1,
-    "floor": ""
-   },
-   {
-    "rank": 325,
-    "badge": 325,
-    "why": "Rank 325 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 68.8,
-    "cum_lang": 89.2,
-    "floor": ""
-   },
-   {
-    "rank": 326,
-    "badge": 326,
-    "why": "Rank 326 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.0,
-    "cum_lang": 89.3,
-    "floor": ""
-   },
-   {
-    "rank": 327,
-    "badge": 327,
-    "why": "Rank 327 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.2,
-    "cum_lang": 89.4,
-    "floor": ""
-   },
-   {
-    "rank": 328,
-    "badge": 328,
-    "why": "Rank 328 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.3,
-    "cum_lang": 89.5,
-    "floor": ""
-   },
-   {
-    "rank": 329,
-    "badge": 329,
-    "why": "Rank 329 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.5,
-    "cum_lang": 89.6,
-    "floor": ""
-   },
-   {
-    "rank": 330,
-    "badge": 330,
-    "why": "Rank 330 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.7,
-    "cum_lang": 89.7,
-    "floor": ""
-   },
-   {
-    "rank": 331,
-    "badge": 331,
-    "why": "Rank 331 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 69.8,
-    "cum_lang": 89.7,
-    "floor": ""
-   },
-   {
-    "rank": 332,
-    "badge": 332,
-    "why": "Rank 332 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.0,
-    "cum_lang": 89.8,
-    "floor": ""
-   },
-   {
-    "rank": 333,
-    "badge": 333,
-    "why": "Rank 333 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.2,
-    "cum_lang": 89.9,
-    "floor": ""
-   },
-   {
-    "rank": 334,
-    "badge": 334,
-    "why": "Rank 334 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.4,
-    "cum_lang": 90.0,
-    "floor": ""
-   },
-   {
-    "rank": 335,
-    "badge": 335,
-    "why": "Rank 335 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.5,
-    "cum_lang": 90.1,
-    "floor": ""
-   },
-   {
-    "rank": 336,
-    "badge": 336,
-    "why": "Rank 336 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.7,
-    "cum_lang": 90.2,
-    "floor": ""
-   },
-   {
-    "rank": 337,
-    "badge": 337,
-    "why": "Rank 337 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 70.9,
-    "cum_lang": 90.3,
-    "floor": ""
-   },
-   {
-    "rank": 338,
-    "badge": 338,
-    "why": "Rank 338 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.0,
-    "cum_lang": 90.4,
-    "floor": ""
-   },
-   {
-    "rank": 339,
-    "badge": 339,
-    "why": "Rank 339 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.2,
-    "cum_lang": 90.4,
-    "floor": ""
-   },
-   {
-    "rank": 340,
-    "badge": 340,
-    "why": "Rank 340 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.4,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 341,
-    "badge": 341,
-    "why": "Rank 341 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.5,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 342,
-    "badge": 342,
-    "why": "Rank 342 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.7,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 343,
-    "badge": 343,
-    "why": "Rank 343 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 71.9,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 344,
-    "badge": 344,
-    "why": "Rank 344 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.0,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 345,
-    "badge": 345,
-    "why": "Rank 345 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.2,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 346,
-    "badge": 346,
-    "why": "Rank 346 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.4,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 347,
-    "badge": 347,
-    "why": "Rank 347 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.5,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 348,
-    "badge": 348,
-    "why": "Rank 348 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.7,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 349,
-    "badge": 349,
-    "why": "Rank 349 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 72.9,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 350,
-    "badge": 350,
-    "why": "Rank 350 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.0,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 351,
-    "badge": 351,
-    "why": "Rank 351 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.2,
-    "cum_lang": 90.5,
-    "floor": ""
-   },
-   {
-    "rank": 352,
-    "badge": 352,
-    "why": "Rank 352 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.4,
-    "cum_lang": 90.6,
-    "floor": ""
-   },
-   {
-    "rank": 353,
-    "badge": 353,
-    "why": "Rank 353 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.5,
-    "cum_lang": 90.7,
-    "floor": ""
-   },
-   {
-    "rank": 354,
-    "badge": 354,
-    "why": "Rank 354 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.7,
-    "cum_lang": 90.8,
-    "floor": ""
-   },
-   {
-    "rank": 355,
-    "badge": 355,
-    "why": "Rank 355 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 73.9,
-    "cum_lang": 90.9,
-    "floor": ""
-   },
-   {
-    "rank": 356,
-    "badge": 356,
-    "why": "Rank 356 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.0,
-    "cum_lang": 91.0,
-    "floor": ""
-   },
-   {
-    "rank": 357,
-    "badge": 357,
-    "why": "Rank 357 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.2,
-    "cum_lang": 91.1,
-    "floor": ""
-   },
-   {
-    "rank": 358,
-    "badge": 358,
-    "why": "Rank 358 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.4,
-    "cum_lang": 91.1,
-    "floor": ""
-   },
-   {
-    "rank": 359,
-    "badge": 359,
-    "why": "Rank 359 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.5,
-    "cum_lang": 91.2,
-    "floor": ""
-   },
-   {
-    "rank": 360,
-    "badge": 360,
-    "why": "Rank 360 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.7,
-    "cum_lang": 91.3,
-    "floor": ""
-   },
-   {
-    "rank": 361,
-    "badge": 361,
-    "why": "Rank 361 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 74.9,
-    "cum_lang": 91.4,
-    "floor": ""
-   },
-   {
-    "rank": 362,
-    "badge": 362,
-    "why": "Rank 362 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.0,
-    "cum_lang": 91.5,
-    "floor": ""
-   },
-   {
-    "rank": 363,
-    "badge": 363,
-    "why": "Rank 363 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.2,
-    "cum_lang": 91.6,
-    "floor": ""
-   },
-   {
-    "rank": 364,
-    "badge": 364,
-    "why": "Rank 364 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.4,
-    "cum_lang": 91.7,
-    "floor": ""
-   },
-   {
-    "rank": 365,
-    "badge": 365,
-    "why": "Rank 365 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.5,
-    "cum_lang": 91.8,
-    "floor": ""
-   },
-   {
-    "rank": 366,
-    "badge": 366,
-    "why": "Rank 366 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.7,
-    "cum_lang": 91.8,
-    "floor": ""
-   },
-   {
-    "rank": 367,
-    "badge": 367,
-    "why": "Rank 367 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 75.9,
-    "cum_lang": 91.9,
-    "floor": ""
-   },
-   {
-    "rank": 368,
-    "badge": 368,
-    "why": "Rank 368 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.0,
-    "cum_lang": 92.0,
-    "floor": ""
-   },
-   {
-    "rank": 369,
-    "badge": 369,
-    "why": "Rank 369 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.2,
-    "cum_lang": 92.1,
-    "floor": ""
-   },
-   {
-    "rank": 370,
-    "badge": 370,
-    "why": "Rank 370 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.4,
-    "cum_lang": 92.2,
-    "floor": ""
-   },
-   {
-    "rank": 371,
-    "badge": 371,
-    "why": "Rank 371 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.5,
-    "cum_lang": 92.3,
-    "floor": ""
-   },
-   {
-    "rank": 372,
-    "badge": 372,
-    "why": "Rank 372 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.7,
-    "cum_lang": 92.4,
-    "floor": ""
-   },
-   {
-    "rank": 373,
-    "badge": 373,
-    "why": "Rank 373 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 76.9,
-    "cum_lang": 92.5,
-    "floor": ""
-   },
-   {
-    "rank": 374,
-    "badge": 374,
-    "why": "Rank 374 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.1,
-    "cum_lang": 92.5,
-    "floor": ""
-   },
-   {
-    "rank": 375,
-    "badge": 375,
-    "why": "Rank 375 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.2,
-    "cum_lang": 92.6,
-    "floor": ""
-   },
-   {
-    "rank": 376,
-    "badge": 376,
-    "why": "Rank 376 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.4,
-    "cum_lang": 92.7,
-    "floor": ""
-   },
-   {
-    "rank": 377,
-    "badge": 377,
-    "why": "Rank 377 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.6,
-    "cum_lang": 92.8,
-    "floor": ""
-   },
-   {
-    "rank": 378,
-    "badge": 378,
-    "why": "Rank 378 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.7,
-    "cum_lang": 92.9,
-    "floor": ""
-   },
-   {
-    "rank": 379,
-    "badge": 379,
-    "why": "Rank 379 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 77.9,
-    "cum_lang": 93.0,
-    "floor": ""
-   },
-   {
-    "rank": 380,
-    "badge": 380,
-    "why": "Rank 380 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.1,
-    "cum_lang": 93.1,
-    "floor": ""
-   },
-   {
-    "rank": 381,
-    "badge": 381,
-    "why": "Rank 381 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.2,
-    "cum_lang": 93.2,
-    "floor": ""
-   },
-   {
-    "rank": 382,
-    "badge": 382,
-    "why": "Rank 382 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.4,
-    "cum_lang": 93.3,
-    "floor": ""
-   },
-   {
-    "rank": 383,
-    "badge": 383,
-    "why": "Rank 383 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.6,
-    "cum_lang": 93.3,
-    "floor": ""
-   },
-   {
-    "rank": 384,
-    "badge": 384,
-    "why": "Rank 384 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.7,
-    "cum_lang": 93.4,
-    "floor": ""
-   },
-   {
-    "rank": 385,
-    "badge": 385,
-    "why": "Rank 385 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 78.9,
-    "cum_lang": 93.5,
-    "floor": ""
-   },
-   {
-    "rank": 386,
-    "badge": 386,
-    "why": "Rank 386 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.1,
-    "cum_lang": 93.6,
-    "floor": ""
-   },
-   {
-    "rank": 387,
-    "badge": 387,
-    "why": "Rank 387 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.2,
-    "cum_lang": 93.7,
-    "floor": ""
-   },
-   {
-    "rank": 388,
-    "badge": 388,
-    "why": "Rank 388 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.4,
-    "cum_lang": 93.8,
-    "floor": ""
-   },
-   {
-    "rank": 389,
-    "badge": 389,
-    "why": "Rank 389 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.6,
-    "cum_lang": 93.9,
-    "floor": ""
-   },
-   {
-    "rank": 390,
-    "badge": 390,
-    "why": "Rank 390 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.7,
-    "cum_lang": 94.0,
-    "floor": ""
-   },
-   {
-    "rank": 391,
-    "badge": 391,
-    "why": "Rank 391 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 79.9,
-    "cum_lang": 94.0,
-    "floor": ""
-   },
-   {
-    "rank": 392,
-    "badge": 392,
-    "why": "Rank 392 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.1,
-    "cum_lang": 94.1,
-    "floor": ""
-   },
-   {
-    "rank": 393,
-    "badge": 393,
-    "why": "Rank 393 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.2,
-    "cum_lang": 94.2,
-    "floor": ""
-   },
-   {
-    "rank": 394,
-    "badge": 394,
-    "why": "Rank 394 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.4,
-    "cum_lang": 94.3,
-    "floor": ""
-   },
-   {
-    "rank": 395,
-    "badge": 395,
-    "why": "Rank 395 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.6,
-    "cum_lang": 94.4,
-    "floor": ""
-   },
-   {
-    "rank": 396,
-    "badge": 396,
-    "why": "Rank 396 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.7,
-    "cum_lang": 94.5,
-    "floor": ""
-   },
-   {
-    "rank": 397,
-    "badge": 397,
-    "why": "Rank 397 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 80.9,
-    "cum_lang": 94.6,
-    "floor": ""
-   },
-   {
-    "rank": 398,
-    "badge": 398,
-    "why": "Rank 398 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.1,
-    "cum_lang": 94.7,
-    "floor": ""
-   },
-   {
-    "rank": 399,
-    "badge": 399,
-    "why": "Rank 399 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.2,
-    "cum_lang": 94.7,
-    "floor": ""
-   },
-   {
-    "rank": 400,
-    "badge": 400,
-    "why": "Rank 400 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.4,
-    "cum_lang": 94.8,
-    "floor": ""
-   },
-   {
-    "rank": 401,
-    "badge": 401,
-    "why": "Rank 401 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.6,
-    "cum_lang": 94.9,
-    "floor": ""
-   },
-   {
-    "rank": 402,
-    "badge": 402,
-    "why": "Rank 402 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.7,
-    "cum_lang": 95.0,
-    "floor": ""
-   },
-   {
-    "rank": 403,
-    "badge": 403,
-    "why": "Rank 403 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 81.9,
-    "cum_lang": 95.1,
-    "floor": ""
-   },
-   {
-    "rank": 404,
-    "badge": 404,
-    "why": "Rank 404 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.1,
-    "cum_lang": 95.2,
-    "floor": ""
-   },
-   {
-    "rank": 405,
-    "badge": 405,
-    "why": "Rank 405 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.2,
-    "cum_lang": 95.3,
-    "floor": ""
-   },
-   {
-    "rank": 406,
-    "badge": 406,
-    "why": "Rank 406 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.4,
-    "cum_lang": 95.4,
-    "floor": ""
-   },
-   {
-    "rank": 407,
-    "badge": 407,
-    "why": "Rank 407 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.6,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 408,
-    "badge": 408,
-    "why": "Rank 408 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.7,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 409,
-    "badge": 409,
-    "why": "Rank 409 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 82.9,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 410,
-    "badge": 410,
-    "why": "Rank 410 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.1,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 411,
-    "badge": 411,
-    "why": "Rank 411 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.2,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 412,
-    "badge": 412,
-    "why": "Rank 412 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.4,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 413,
-    "badge": 413,
-    "why": "Rank 413 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.6,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 414,
-    "badge": 414,
-    "why": "Rank 414 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.8,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 415,
-    "badge": 415,
-    "why": "Rank 415 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 83.9,
-    "cum_lang": 95.5,
-    "floor": ""
-   },
-   {
-    "rank": 416,
-    "badge": 416,
-    "why": "Rank 416 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.1,
-    "cum_lang": 95.6,
-    "floor": ""
-   },
-   {
-    "rank": 417,
-    "badge": 417,
-    "why": "Rank 417 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 418,
-    "badge": 418,
-    "why": "Rank 418 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.4,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 419,
-    "badge": 419,
-    "why": "Rank 419 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 420,
-    "badge": 420,
-    "why": "Rank 420 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 421,
-    "badge": 421,
-    "why": "Rank 421 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 84.9,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 422,
-    "badge": 422,
-    "why": "Rank 422 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 423,
-    "badge": 423,
-    "why": "Rank 423 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 424,
-    "badge": 424,
-    "why": "Rank 424 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.4,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 425,
-    "badge": 425,
-    "why": "Rank 425 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 426,
-    "badge": 426,
-    "why": "Rank 426 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 427,
-    "badge": 427,
-    "why": "Rank 427 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 85.9,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 428,
-    "badge": 428,
-    "why": "Rank 428 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 429,
-    "badge": 429,
-    "why": "Rank 429 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 430,
-    "badge": 430,
-    "why": "Rank 430 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.4,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 431,
-    "badge": 431,
-    "why": "Rank 431 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 432,
-    "badge": 432,
-    "why": "Rank 432 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 433,
-    "badge": 433,
-    "why": "Rank 433 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 86.9,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 434,
-    "badge": 434,
-    "why": "Rank 434 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 435,
-    "badge": 435,
-    "why": "Rank 435 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 436,
-    "badge": 436,
-    "why": "Rank 436 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.4,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 437,
-    "badge": 437,
-    "why": "Rank 437 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 438,
-    "badge": 438,
-    "why": "Rank 438 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 439,
-    "badge": 439,
-    "why": "Rank 439 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 87.9,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 440,
-    "badge": 440,
-    "why": "Rank 440 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 441,
-    "badge": 441,
-    "why": "Rank 441 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 442,
-    "badge": 442,
-    "why": "Rank 442 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.4,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 443,
-    "badge": 443,
-    "why": "Rank 443 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 444,
-    "badge": 444,
-    "why": "Rank 444 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 445,
-    "badge": 445,
-    "why": "Rank 445 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 88.9,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 446,
-    "badge": 446,
-    "why": "Rank 446 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 447,
-    "badge": 447,
-    "why": "Rank 447 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 448,
-    "badge": 448,
-    "why": "Rank 448 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.4,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 449,
-    "badge": 449,
-    "why": "Rank 449 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 450,
-    "badge": 450,
-    "why": "Rank 450 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 451,
-    "badge": 451,
-    "why": "Rank 451 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 89.9,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 452,
-    "badge": 452,
-    "why": "Rank 452 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 453,
-    "badge": 453,
-    "why": "Rank 453 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 454,
-    "badge": 454,
-    "why": "Rank 454 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.5,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 455,
-    "badge": 455,
-    "why": "Rank 455 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 456,
-    "badge": 456,
-    "why": "Rank 456 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 90.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 457,
-    "badge": 457,
-    "why": "Rank 457 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 458,
-    "badge": 458,
-    "why": "Rank 458 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 459,
-    "badge": 459,
-    "why": "Rank 459 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 460,
-    "badge": 460,
-    "why": "Rank 460 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.5,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 461,
-    "badge": 461,
-    "why": "Rank 461 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 462,
-    "badge": 462,
-    "why": "Rank 462 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 91.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 463,
-    "badge": 463,
-    "why": "Rank 463 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 464,
-    "badge": 464,
-    "why": "Rank 464 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 465,
-    "badge": 465,
-    "why": "Rank 465 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 466,
-    "badge": 466,
-    "why": "Rank 466 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.5,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 467,
-    "badge": 467,
-    "why": "Rank 467 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 468,
-    "badge": 468,
-    "why": "Rank 468 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 92.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 469,
-    "badge": 469,
-    "why": "Rank 469 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 470,
-    "badge": 470,
-    "why": "Rank 470 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 471,
-    "badge": 471,
-    "why": "Rank 471 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 472,
-    "badge": 472,
-    "why": "Rank 472 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.5,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 473,
-    "badge": 473,
-    "why": "Rank 473 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 474,
-    "badge": 474,
-    "why": "Rank 474 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 93.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 475,
-    "badge": 475,
-    "why": "Rank 475 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 476,
-    "badge": 476,
-    "why": "Rank 476 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 477,
-    "badge": 477,
-    "why": "Rank 477 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 478,
-    "badge": 478,
-    "why": "Rank 478 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.5,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 479,
-    "badge": 479,
-    "why": "Rank 479 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 480,
-    "badge": 480,
-    "why": "Rank 480 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 94.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 481,
-    "badge": 481,
-    "why": "Rank 481 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 482,
-    "badge": 482,
-    "why": "Rank 482 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 483,
-    "badge": 483,
-    "why": "Rank 483 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 484,
-    "badge": 484,
-    "why": "Rank 484 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.5,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 485,
-    "badge": 485,
-    "why": "Rank 485 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 486,
-    "badge": 486,
-    "why": "Rank 486 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 95.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 487,
-    "badge": 487,
-    "why": "Rank 487 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 488,
-    "badge": 488,
-    "why": "Rank 488 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.1,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 489,
-    "badge": 489,
-    "why": "Rank 489 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 490,
-    "badge": 490,
-    "why": "Rank 490 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.5,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 491,
-    "badge": 491,
-    "why": "Rank 491 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.6,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 492,
-    "badge": 492,
-    "why": "Rank 492 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 96.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 493,
-    "badge": 493,
-    "why": "Rank 493 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 494,
-    "badge": 494,
-    "why": "Rank 494 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.2,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 495,
-    "badge": 495,
-    "why": "Rank 495 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 496,
-    "badge": 496,
-    "why": "Rank 496 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.5,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 497,
-    "badge": 497,
-    "why": "Rank 497 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.7,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 498,
-    "badge": 498,
-    "why": "Rank 498 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 97.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 499,
-    "badge": 499,
-    "why": "Rank 499 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 500,
-    "badge": 500,
-    "why": "Rank 500 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.2,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 501,
-    "badge": 501,
-    "why": "Rank 501 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 502,
-    "badge": 502,
-    "why": "Rank 502 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.5,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 503,
-    "badge": 503,
-    "why": "Rank 503 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.7,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 504,
-    "badge": 504,
-    "why": "Rank 504 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 98.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 505,
-    "badge": 505,
-    "why": "Rank 505 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 506,
-    "badge": 506,
-    "why": "Rank 506 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.2,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 507,
-    "badge": 507,
-    "why": "Rank 507 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.3,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 508,
-    "badge": 508,
-    "why": "Rank 508 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.5,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 509,
-    "badge": 509,
-    "why": "Rank 509 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.7,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 510,
-    "badge": 510,
-    "why": "Rank 510 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 99.8,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 511,
-    "badge": 511,
-    "why": "Rank 511 · covers only this specific wording. Drill only if you have time and want the exact turns of phrase for this scenario.",
-    "cum_pool": 100.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 512,
-    "badge": 512,
-    "why": "Rank 512 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 513,
-    "badge": 513,
-    "why": "Rank 513 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 514,
-    "badge": 514,
-    "why": "Rank 514 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 515,
-    "badge": 515,
-    "why": "Rank 515 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 95.7,
-    "floor": ""
-   },
-   {
-    "rank": 516,
-    "badge": 516,
-    "why": "Rank 516 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 95.8,
-    "floor": ""
-   },
-   {
-    "rank": 517,
-    "badge": 517,
-    "why": "Rank 517 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 95.9,
-    "floor": ""
-   },
-   {
-    "rank": 518,
-    "badge": 518,
-    "why": "Rank 518 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.0,
-    "floor": ""
-   },
-   {
-    "rank": 519,
-    "badge": 519,
-    "why": "Rank 519 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.0,
-    "floor": ""
-   },
-   {
-    "rank": 520,
-    "badge": 520,
-    "why": "Rank 520 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.0,
-    "floor": ""
-   },
-   {
-    "rank": 521,
-    "badge": 521,
-    "why": "Rank 521 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.0,
-    "floor": ""
-   },
-   {
-    "rank": 522,
-    "badge": 522,
-    "why": "Rank 522 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.0,
-    "floor": ""
-   },
-   {
-    "rank": 523,
-    "badge": 523,
-    "why": "Rank 523 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.0,
-    "floor": ""
-   },
-   {
-    "rank": 524,
-    "badge": 524,
-    "why": "Rank 524 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.1,
-    "floor": ""
-   },
-   {
-    "rank": 525,
-    "badge": 525,
-    "why": "Rank 525 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.1,
-    "floor": ""
-   },
-   {
-    "rank": 526,
-    "badge": 526,
-    "why": "Rank 526 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.1,
-    "floor": ""
-   },
-   {
-    "rank": 527,
-    "badge": 527,
-    "why": "Rank 527 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.2,
-    "floor": ""
-   },
-   {
-    "rank": 528,
-    "badge": 528,
-    "why": "Rank 528 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.2,
-    "floor": ""
-   },
-   {
-    "rank": 529,
-    "badge": 529,
-    "why": "Rank 529 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.3,
-    "floor": ""
-   },
-   {
-    "rank": 530,
-    "badge": 530,
-    "why": "Rank 530 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.4,
-    "floor": ""
-   },
-   {
-    "rank": 531,
-    "badge": 531,
-    "why": "Rank 531 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.5,
-    "floor": ""
-   },
-   {
-    "rank": 532,
-    "badge": 532,
-    "why": "Rank 532 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.7,
-    "floor": ""
-   },
-   {
-    "rank": 533,
-    "badge": 533,
-    "why": "Rank 533 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.8,
-    "floor": ""
-   },
-   {
-    "rank": 534,
-    "badge": 534,
-    "why": "Rank 534 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.8,
-    "floor": ""
-   },
-   {
-    "rank": 535,
-    "badge": 535,
-    "why": "Rank 535 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.8,
-    "floor": ""
-   },
-   {
-    "rank": 536,
-    "badge": 536,
-    "why": "Rank 536 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.8,
-    "floor": ""
-   },
-   {
-    "rank": 537,
-    "badge": 537,
-    "why": "Rank 537 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.8,
-    "floor": ""
-   },
-   {
-    "rank": 538,
-    "badge": 538,
-    "why": "Rank 538 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.8,
-    "floor": ""
-   },
-   {
-    "rank": 539,
-    "badge": 539,
-    "why": "Rank 539 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.8,
-    "floor": ""
-   },
-   {
-    "rank": 540,
-    "badge": 540,
-    "why": "Rank 540 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.9,
-    "floor": ""
-   },
-   {
-    "rank": 541,
-    "badge": 541,
-    "why": "Rank 541 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 96.9,
-    "floor": ""
-   },
-   {
-    "rank": 542,
-    "badge": 542,
-    "why": "Rank 542 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.1,
-    "floor": ""
-   },
-   {
-    "rank": 543,
-    "badge": 543,
-    "why": "Rank 543 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.2,
-    "floor": ""
-   },
-   {
-    "rank": 544,
-    "badge": 544,
-    "why": "Rank 544 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.2,
-    "floor": ""
-   },
-   {
-    "rank": 545,
-    "badge": 545,
-    "why": "Rank 545 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.2,
-    "floor": ""
-   },
-   {
-    "rank": 546,
-    "badge": 546,
-    "why": "Rank 546 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.3,
-    "floor": ""
-   },
-   {
-    "rank": 547,
-    "badge": 547,
-    "why": "Rank 547 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 548,
-    "badge": 548,
-    "why": "Rank 548 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 549,
-    "badge": 549,
-    "why": "Rank 549 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.5,
-    "floor": ""
-   },
-   {
-    "rank": 550,
-    "badge": 550,
-    "why": "Rank 550 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.6,
-    "floor": ""
-   },
-   {
-    "rank": 551,
-    "badge": 551,
-    "why": "Rank 551 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.7,
-    "floor": ""
-   },
-   {
-    "rank": 552,
-    "badge": 552,
-    "why": "Rank 552 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 553,
-    "badge": 553,
-    "why": "Rank 553 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 97.9,
-    "floor": ""
-   },
-   {
-    "rank": 554,
-    "badge": 554,
-    "why": "Rank 554 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.0,
-    "floor": ""
-   },
-   {
-    "rank": 555,
-    "badge": 555,
-    "why": "Rank 555 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.0,
-    "floor": ""
-   },
-   {
-    "rank": 556,
-    "badge": 556,
-    "why": "Rank 556 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.0,
-    "floor": ""
-   },
-   {
-    "rank": 557,
-    "badge": 557,
-    "why": "Rank 557 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.1,
-    "floor": ""
-   },
-   {
-    "rank": 558,
-    "badge": 558,
-    "why": "Rank 558 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.2,
-    "floor": ""
-   },
-   {
-    "rank": 559,
-    "badge": 559,
-    "why": "Rank 559 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.2,
-    "floor": ""
-   },
-   {
-    "rank": 560,
-    "badge": 560,
-    "why": "Rank 560 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.2,
-    "floor": ""
-   },
-   {
-    "rank": 561,
-    "badge": 561,
-    "why": "Rank 561 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.2,
-    "floor": ""
-   },
-   {
-    "rank": 562,
-    "badge": 562,
-    "why": "Rank 562 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.4,
-    "floor": ""
-   },
-   {
-    "rank": 563,
-    "badge": 563,
-    "why": "Rank 563 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.5,
-    "floor": ""
-   },
-   {
-    "rank": 564,
-    "badge": 564,
-    "why": "Rank 564 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.5,
-    "floor": ""
-   },
-   {
-    "rank": 565,
-    "badge": 565,
-    "why": "Rank 565 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.5,
-    "floor": ""
-   },
-   {
-    "rank": 566,
-    "badge": 566,
-    "why": "Rank 566 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 567,
-    "badge": 567,
-    "why": "Rank 567 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 568,
-    "badge": 568,
-    "why": "Rank 568 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 569,
-    "badge": 569,
-    "why": "Rank 569 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 570,
-    "badge": 570,
-    "why": "Rank 570 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.6,
-    "floor": ""
-   },
-   {
-    "rank": 571,
-    "badge": 571,
-    "why": "Rank 571 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.7,
-    "floor": ""
-   },
-   {
-    "rank": 572,
-    "badge": 572,
-    "why": "Rank 572 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.7,
-    "floor": ""
-   },
-   {
-    "rank": 573,
-    "badge": 573,
-    "why": "Rank 573 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 98.8,
     "floor": ""
    },
    {
-    "rank": 574,
-    "badge": 574,
-    "why": "Rank 574 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 290,
+    "badge": 290,
+    "why": "Rank 290 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 98.8,
+    "floor": ""
+   },
+   {
+    "rank": 291,
+    "badge": 291,
+    "why": "Rank 291 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 98.8,
+    "floor": ""
+   },
+   {
+    "rank": 292,
+    "badge": 292,
+    "why": "Rank 292 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 98.8,
+    "floor": ""
+   },
+   {
+    "rank": 293,
+    "badge": 293,
+    "why": "Rank 293 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 98.9,
     "floor": ""
    },
    {
-    "rank": 575,
-    "badge": 575,
-    "why": "Rank 575 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.9,
-    "floor": ""
-   },
-   {
-    "rank": 576,
-    "badge": 576,
-    "why": "Rank 576 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.9,
-    "floor": ""
-   },
-   {
-    "rank": 577,
-    "badge": 577,
-    "why": "Rank 577 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 98.9,
-    "floor": ""
-   },
-   {
-    "rank": 578,
-    "badge": 578,
-    "why": "Rank 578 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 294,
+    "badge": 294,
+    "why": "Rank 294 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.0,
     "floor": ""
    },
    {
-    "rank": 579,
-    "badge": 579,
-    "why": "Rank 579 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 295,
+    "badge": 295,
+    "why": "Rank 295 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.0,
     "floor": ""
    },
    {
-    "rank": 580,
-    "badge": 580,
-    "why": "Rank 580 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 296,
+    "badge": 296,
+    "why": "Rank 296 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.1,
     "floor": ""
    },
    {
-    "rank": 581,
-    "badge": 581,
-    "why": "Rank 581 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 297,
+    "badge": 297,
+    "why": "Rank 297 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
-    "cum_lang": 99.1,
+    "cum_lang": 99.2,
     "floor": ""
    },
    {
-    "rank": 582,
-    "badge": 582,
-    "why": "Rank 582 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 298,
+    "badge": 298,
+    "why": "Rank 298 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.2,
+    "floor": ""
+   },
+   {
+    "rank": 299,
+    "badge": 299,
+    "why": "Rank 299 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.2,
+    "floor": ""
+   },
+   {
+    "rank": 300,
+    "badge": 300,
+    "why": "Rank 300 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 99.2,
+    "floor": ""
+   },
+   {
+    "rank": 301,
+    "badge": 301,
+    "why": "Rank 301 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.3,
     "floor": ""
    },
    {
-    "rank": 583,
-    "badge": 583,
-    "why": "Rank 583 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 302,
+    "badge": 302,
+    "why": "Rank 302 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
-    "cum_lang": 99.3,
+    "cum_lang": 99.4,
     "floor": ""
    },
    {
-    "rank": 584,
-    "badge": 584,
-    "why": "Rank 584 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.5,
-    "floor": ""
-   },
-   {
-    "rank": 585,
-    "badge": 585,
-    "why": "Rank 585 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.5,
-    "floor": ""
-   },
-   {
-    "rank": 586,
-    "badge": 586,
-    "why": "Rank 586 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 303,
+    "badge": 303,
+    "why": "Rank 303 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.6,
     "floor": ""
    },
    {
-    "rank": 587,
-    "badge": 587,
-    "why": "Rank 587 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 304,
+    "badge": 304,
+    "why": "Rank 304 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.7,
     "floor": ""
    },
    {
-    "rank": 588,
-    "badge": 588,
-    "why": "Rank 588 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 305,
+    "badge": 305,
+    "why": "Rank 305 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.7,
     "floor": ""
    },
    {
-    "rank": 589,
-    "badge": 589,
-    "why": "Rank 589 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.7,
-    "floor": ""
-   },
-   {
-    "rank": 590,
-    "badge": 590,
-    "why": "Rank 590 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.7,
-    "floor": ""
-   },
-   {
-    "rank": 591,
-    "badge": 591,
-    "why": "Rank 591 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.7,
-    "floor": ""
-   },
-   {
-    "rank": 592,
-    "badge": 592,
-    "why": "Rank 592 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 306,
+    "badge": 306,
+    "why": "Rank 306 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 99.8,
     "floor": ""
    },
    {
-    "rank": 593,
-    "badge": 593,
-    "why": "Rank 593 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 594,
-    "badge": 594,
-    "why": "Rank 594 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.8,
-    "floor": ""
-   },
-   {
-    "rank": 595,
-    "badge": 595,
-    "why": "Rank 595 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
-    "cum_pool": 100.0,
-    "cum_lang": 99.9,
-    "floor": ""
-   },
-   {
-    "rank": 596,
-    "badge": 596,
-    "why": "Rank 596 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 307,
+    "badge": 307,
+    "why": "Rank 307 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 100.0,
     "floor": ""
    },
    {
-    "rank": 597,
-    "badge": 597,
-    "why": "Rank 597 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "rank": 308,
+    "badge": 308,
+    "why": "Rank 308 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
     "cum_pool": 100.0,
     "cum_lang": 100.0,
     "floor": ""
