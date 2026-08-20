@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -25,9 +25,17 @@ header.page h1{font-size:1.65rem;margin:.2rem 0 .5rem}
   border:1px solid var(--line);border-left:3px solid var(--accent);
   font-size:.88rem;color:#3c4653;line-height:1.55}
 .callout b{color:var(--ink)}
-h2.group{font-size:1.05rem;margin:2rem 0 .2rem}
+h2.group{font-size:1.05rem;margin:2rem 0 .2rem;display:flex;align-items:baseline;gap:.55rem}
+h2.group .fr{font-weight:500;font-size:.85rem;color:var(--muted)}
+.group-note{color:var(--muted);font-size:.88rem;margin:0 0 .9rem}
 section.card{border:1px solid var(--line);border-radius:14px;padding:1rem 1.15rem 1.1rem;
   margin:.8rem 0;background:#fff;box-shadow:0 1px 2px rgba(16,24,40,.04)}
+.card-head{display:flex;gap:.6rem;align-items:center;margin-bottom:.55rem}
+.badge{flex:none;display:inline-flex;align-items:center;justify-content:center;
+  min-width:2rem;height:2rem;padding:0 .55rem;border-radius:999px;background:var(--accent);
+  color:#fff;font-weight:700;font-size:.95rem}
+.card-head .name{font-weight:650;font-size:1.06rem}
+.card-head .hint{color:var(--muted);font-size:.85rem}
 ul.links{list-style:none;padding-left:0;margin:0}
 ul.links li{border-top:1px solid var(--line)}
 ul.links li:first-child{border-top:none}
@@ -39,20 +47,6 @@ ul.links a .lang{display:inline-block;background:var(--chip);border-radius:6px;
 ul.links a .what{font-size:.95rem;font-weight:600}
 ul.links a .hint{color:var(--muted);font-size:.84rem}
 ul.links a::after{content:"›";margin-left:auto;color:var(--muted);font-size:1.15rem;line-height:1}
-
-section.topic{border:1px solid var(--line);border-radius:14px;padding:1rem 1.15rem 1.1rem;
-  margin:.8rem 0;background:#fff;box-shadow:0 1px 2px rgba(16,24,40,.04)}
-.topic-head{display:flex;gap:.6rem;align-items:flex-start;margin-bottom:.3rem}
-.badge{flex:none;display:inline-flex;align-items:center;justify-content:center;
-  min-width:2rem;height:2rem;padding:0 .55rem;border-radius:999px;background:var(--accent);
-  color:#fff;font-weight:700;font-size:.95rem}
-p.prompt{margin:.1rem 0;font-size:1rem;color:var(--ink);flex:1 1 auto}
-p.prompt .orig{color:var(--muted);font-weight:500;font-size:.78rem;margin-left:.4rem;
-  white-space:nowrap}
-p.doc{background:var(--doc-bg);border:1px solid var(--doc-line);border-radius:10px;
-  padding:.65rem .9rem;margin:.55rem 0 0;font-size:.92rem;color:#3a3a32;line-height:1.55}
-p.doc b{color:#7a6a1f;font-weight:700;text-transform:uppercase;letter-spacing:.05em;
-  font-size:.72rem;display:block;margin-bottom:.3rem}
 footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
   color:var(--muted);font-size:.82rem}
 </style>
@@ -60,49 +54,79 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <body>
 <header class="page">
   <h1>TCF Canada — Prompts</h1>
-  <p class="lead">Tous les sujets d'<em>expression écrite</em> (Tâches 1&nbsp;·&nbsp;2&nbsp;·&nbsp;3) et
-  d'<em>expression orale</em> (Tâches 2&nbsp;·&nbsp;3) publiés par
-  <a href="https://reussir-tcfcanada.com/">reussir-tcfcanada.com</a> entre janvier 2022 et août 2026,
-  dédoublonnés et classés par valeur d'entraînement.</p>
+  <p class="lead">Every <em>expression écrite</em> topic (Tasks 1&nbsp;·&nbsp;2&nbsp;·&nbsp;3) and
+  <em>expression orale</em> topic (Tasks 2&nbsp;·&nbsp;3) published by
+  <a href="https://reussir-tcfcanada.com/">reussir-tcfcanada.com</a> between January 2022 and August 2026,
+  deduplicated and ranked by practice value.</p>
 
   <div class="callout">
-    <b>Ordre par défaut : similarité.</b> Chaque sujet à côté de son plus proche voisin lexical.
-    Ouvrez n'importe où et les sujets autour de vous rejouent le même vocabulaire.
+    <b>Default order: similarity.</b> Each prompt sits next to its nearest lexical neighbour.
+    Open anywhere and the items around you rehearse the same vocabulary.
   </div>
   <div class="callout">
-    <b>Ordre de couverture</b> — un clic. Rang 1 = le sujet dont la maîtrise vous ouvre le plus
-    d'autres sujets. Chaque item porte le <em>pourquoi</em> de son rang, ancré sur le barème TCF
-    (Linguistique · Pragmatique · Sociolinguistique) et la cible NCLC 7 pour l'examen de septembre.
+    <b>Coverage order</b> — one click. Rank 1 = the prompt whose mastery opens the most other
+    prompts. Each item carries the <em>why</em> of its rank, anchored on the TCF rubric
+    (Linguistique · Pragmatique · Sociolinguistique) with a September-exam NCLC 7 target.
   </div>
   <div class="callout">
-    <b>Ordre de difficulté</b> — rang&nbsp;#1&nbsp;=&nbsp;plus facile. Utile pour construire une
-    rampe d'échauffement plutôt que d'attaquer les sujets abstraits d'entrée.
+    <b>Difficulty order</b> — rank&nbsp;#1&nbsp;=&nbsp;easiest. Useful for a warm-up ramp
+    instead of hitting abstract topics cold.
   </div>
   <div class="callout">
-    <b>Marquer votre progression</b> — chaque sujet porte une case <b>Fait</b>. Le compteur
-    en haut de chaque page suit ce qui reste, filtre les faits hors de tout ordre choisi et
-    conserve vos coches d'une visite à l'autre.
+    <b>Marking your progress</b> — every prompt carries a <b>Done</b> tick. The counter at the
+    top of each page tracks what is left, filters finished items out of any chosen order, and
+    remembers your ticks between visits. Ticks are stored per pool, so a prompt ticked off on
+    the English page is already ticked on the French one.
   </div>
 </header>
 
-<h2 class="group">Expression écrite</h2>
+<h2 class="group">Expression écrite <span class="fr">— written</span></h2>
+<p class="group-note">Writing prompts, deduplicated across January 2022 – August 2026.</p>
+
 <section class="card">
+  <div class="card-head"><span class="badge">T1</span><span class="name">Task 1 · short message</span><span class="hint">88 prompts · 60–120 words</span></div>
   <ul class="links">
-    <li><a href="ee-t1.html"><span class="lang">T1</span><span class="what">Message court</span><span class="hint">88 sujets · 60–120 mots</span></a></li>
-    <li><a href="ee-t2.html"><span class="lang">T2</span><span class="what">Article / forum / blog</span><span class="hint">85 sujets · 120–150 mots</span></a></li>
-    <li><a href="ee-t3.html"><span class="lang">T3</span><span class="what">Essai argumentatif</span><span class="hint">95 sujets · deux documents contrastés</span></a></li>
+    <li><a href="ee-t1-EN.html"><span class="lang">EN</span><span class="what">Similarity order</span><span class="hint">English</span></a></li>
+    <li><a href="ee-t1.html"><span class="lang">FR</span><span class="what">Ordre de similarité</span><span class="hint">français</span></a></li>
   </ul>
 </section>
 
-<h2 class="group">Expression orale</h2>
 <section class="card">
+  <div class="card-head"><span class="badge">T2</span><span class="name">Task 2 · article / forum / blog</span><span class="hint">85 prompts · 120–150 words</span></div>
   <ul class="links">
-    <li><a href="eo-t2.html"><span class="lang">T2</span><span class="what">Dialogue interactif</span><span class="hint">366 sujets · vous posez les questions</span></a></li>
-    <li><a href="eo-t3.html"><span class="lang">T3</span><span class="what">Monologue d'opinion</span><span class="hint">308 sujets · débat, position, arguments</span></a></li>
+    <li><a href="ee-t2-EN.html"><span class="lang">EN</span><span class="what">Similarity order</span><span class="hint">English</span></a></li>
+    <li><a href="ee-t2.html"><span class="lang">FR</span><span class="what">Ordre de similarité</span><span class="hint">français</span></a></li>
   </ul>
-  <p class="lead" style="margin-top:.7rem;font-size:.85rem"><em>La Tâche 1 orale (entretien personnel) n'apparaît pas ici — reussir-tcfcanada.com ne publie pas de sujets mensuels pour ce format, qui porte toujours sur vous-même.</em></p>
 </section>
 
-<footer class="page">Site statique · sources publiques · aucun tracking. Cible : NCLC 7 (Écrite &amp; Orale) — TCF Canada septembre 2026.</footer>
+<section class="card">
+  <div class="card-head"><span class="badge">T3</span><span class="name">Task 3 · argumentative essay</span><span class="hint">95 prompts · two contrasting documents</span></div>
+  <ul class="links">
+    <li><a href="ee-t3-EN.html"><span class="lang">EN</span><span class="what">Similarity order</span><span class="hint">English</span></a></li>
+    <li><a href="ee-t3.html"><span class="lang">FR</span><span class="what">Ordre de similarité</span><span class="hint">français</span></a></li>
+  </ul>
+</section>
+
+<h2 class="group">Expression orale <span class="fr">— spoken</span></h2>
+<p class="group-note">Speaking prompts in the same deduplicated set.</p>
+
+<section class="card">
+  <div class="card-head"><span class="badge">T2</span><span class="name">Task 2 · interactive dialogue</span><span class="hint">366 prompts · you ask the questions</span></div>
+  <ul class="links">
+    <li><a href="eo-t2-EN.html"><span class="lang">EN</span><span class="what">Similarity order</span><span class="hint">English</span></a></li>
+    <li><a href="eo-t2.html"><span class="lang">FR</span><span class="what">Ordre de similarité</span><span class="hint">français</span></a></li>
+  </ul>
+</section>
+
+<section class="card">
+  <div class="card-head"><span class="badge">T3</span><span class="name">Task 3 · opinion monologue</span><span class="hint">308 prompts · debate, position, arguments</span></div>
+  <ul class="links">
+    <li><a href="eo-t3-EN.html"><span class="lang">EN</span><span class="what">Similarity order</span><span class="hint">English</span></a></li>
+    <li><a href="eo-t3.html"><span class="lang">FR</span><span class="what">Ordre de similarité</span><span class="hint">français</span></a></li>
+  </ul>
+  <p class="lead" style="margin-top:.7rem;font-size:.85rem"><em>Oral Task 1 (personal interview) does not appear here — reussir-tcfcanada.com publishes no monthly prompts for that format, which is always about you.</em></p>
+</section>
+
+<footer class="page">Static site · public sources · no tracking. Target: NCLC 7 (written &amp; spoken) — TCF Canada September 2026.</footer>
 </body>
 </html>
