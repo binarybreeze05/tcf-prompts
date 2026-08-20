@@ -5139,13 +5139,13 @@ var TCF_COVERAGE = {
     "after_rank": 12,
     "headline": "B1 confirmed. Range starting to widen.",
     "band": "solid B1 (NCLC 5 to 6)",
-    "body": "Twelve prompts, close to 5% of the pool covered. Crucially, you've now spanned three examiner-role families: friend and family (tu), civic staff (vous), and workplace peers (usually vous). That range is what nudges an examiner from 'simple + connected' toward 'clear + argued'. From here every new prompt is a double gain: fresh vocabulary domain plus a new chance to hit a new question form. Watch the tu and vous switch when you jump between prompts. The mairie clerk in item 7 does not get the same register as the friend in item 2."
+    "body": "Twelve prompts, close to 5% of the pool covered. Crucially, you've now spanned three examiner-role families: friend and family (tu), civic staff (vous), and workplace peers (usually vous). That range is what nudges an examiner from 'simple + connected' toward 'clear + argued'. From here every new prompt is a double gain: fresh vocabulary domain plus a new chance to hit a new question form. Watch the tu and vous switch when you jump between prompts: the mairie clerk in item 7 does not get the same register as the friend in item 2."
    },
    {
     "after_rank": 25,
     "headline": "B2 traction. Four of six task-ratings within reach.",
     "band": "B1 upper to B2 lower (NCLC 6 to 7)",
-    "body": "Twenty-five prompts drilled, over 10% of the pool. This is the operational sweet spot for NCLC 7. With this many role scenarios in your muscle memory, whatever the examiner rolls on test day, you already have a scaffold: opener, five well-formed questions, a follow-up on their answer, a polite close. The B2 spoken-interaction descriptor calls for 'fluency and spontaneity that makes regular interaction with native speakers quite possible'. That fluency lives in the follow-up question. Practice asking one embedded or reformulated question in every mock ('Pourriez-vous me dire si...?', 'Vous voulez dire que...?')."
+    "body": "Twenty-five prompts drilled, over 10% of the pool. This is the operational sweet spot for NCLC 7. With this many role scenarios in your muscle memory, whatever the examiner rolls on test day, you already have a scaffold: opener, five well-formed questions, a follow-up on their answer, a polite close. The B2 spoken-interaction descriptor calls for 'fluency and spontaneity that makes regular interaction with native speakers quite possible', and that fluency lives in the follow-up question. Practice asking one embedded or reformulated question in every mock ('Pourriez-vous me dire si...?', 'Vous voulez dire que...?')."
    },
    {
     "after_rank": 60,
@@ -5157,7 +5157,7 @@ var TCF_COVERAGE = {
     "after_rank": 120,
     "headline": "Near-C1 breadth. September prep already over-covered.",
     "band": "B2 upper to C1 edge (NCLC 8 to 9)",
-    "body": "One hundred twenty prompts, roughly a third of the pool. From here every extra drill has diminishing marginal return on breadth and increasing return on precision. If you land here before September, shift your remaining sessions from new prompts to two disciplines. First, record yourself on prompts 1 through 30 and mark hesitations, register slips, and yes/no over-reliance. Second, drill conditionnel de politesse ('Pourriez-vous me préciser...?', 'J'aimerais savoir si...') on every civic-role prompt. Breadth is banked. Sharpness is what nudges you from B2 lower (NCLC 7) into B2 upper (NCLC 8)."
+    "body": "One hundred twenty prompts, roughly a third of the pool. From here every extra drill has diminishing marginal return on breadth and increasing return on precision. If you land here before September, shift your remaining sessions from new prompts to two disciplines: first, record yourself on prompts 1 through 30 and mark hesitations, register slips, and yes/no over-reliance; second, drill conditionnel de politesse ('Pourriez-vous me préciser...?', 'J'aimerais savoir si...') on every civic-role prompt. Breadth is banked; sharpness is what nudges you from B2 lower (NCLC 7) into B2 upper (NCLC 8)."
    }
   ],
   "order": [
