@@ -49,6 +49,17 @@ ul.links a .hint{color:var(--muted);font-size:.84rem}
 ul.links a::after{content:"›";margin-left:auto;color:var(--muted);font-size:1.15rem;line-height:1}
 footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
   color:var(--muted);font-size:.82rem}
+/* tcf-group */
+.tcf-group{border:2px solid #c7d7f7;border-radius:16px;padding:.55rem .6rem .6rem;margin:.8rem 0;background:#f6f9ff}
+.tcf-group-head{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;padding:.15rem .45rem .5rem;font-size:.8rem;color:#344054}
+.tcf-group-tag{background:var(--accent);color:#fff;border-radius:999px;padding:.12rem .6rem;font-weight:700;letter-spacing:.02em;white-space:nowrap}
+.tcf-group-n{font-weight:700;color:var(--ink)}
+.tcf-group-hint{color:var(--muted)}
+.tcf-group .tcf-core>section.topic{margin:.35rem 0;box-shadow:none;border-color:#dbe4f3}
+.tcf-seam{display:flex;align-items:center;gap:.55rem;margin:.45rem .2rem}
+.tcf-seam::before,.tcf-seam::after{content:'';flex:1 1 0;border-top:1px dashed #9db4e3}
+.tcf-seam span{font-size:.74rem;color:#3b5bb0;background:#eef4ff;border:1px dashed #9db4e3;border-radius:999px;padding:.1rem .65rem;white-space:nowrap}
+/* /tcf-group */
 </style>
 </head>
 <body>
@@ -78,13 +89,19 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     remembers your ticks between visits. Ticks are stored per pool, so a prompt ticked off on
     the English page is already ticked on the French one.
   </div>
+  <div class="callout" id="callout-groups">
+    <b>Answer-blocks</b> — prompts that call for the same prepared answer sit together in one
+    box (both certain and arguable matches, from a two-pass audit). Every prompt keeps its own
+    number, tick and rank; the box moves as one unit in every order. Inside a box, close variants
+    that need small adjustments are separated by a dashed ≈ line.
+  </div>
 </header>
 
 <h2 class="group">Expression écrite <span class="fr">— written</span></h2>
 <p class="group-note">Writing prompts, deduplicated across January 2022 – August 2026.</p>
 
 <section class="card">
-  <div class="card-head"><span class="badge">T1</span><span class="name">Task 1 · short message</span><span class="hint">88 prompts · 60–120 words</span></div>
+  <div class="card-head"><span class="badge">T1</span><span class="name">Task 1 · short message</span><span class="hint">88 prompts · 19 answer-blocks · 60–120 words</span></div>
   <ul class="links">
     <li><a href="ee-t1-EN.html"><span class="lang">EN</span><span class="what">Similarity order</span><span class="hint">English</span></a></li>
     <li><a href="ee-t1.html"><span class="lang">FR</span><span class="what">Ordre de similarité</span><span class="hint">français</span></a></li>
@@ -92,7 +109,7 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 </section>
 
 <section class="card">
-  <div class="card-head"><span class="badge">T2</span><span class="name">Task 2 · article / forum / blog</span><span class="hint">85 prompts · 120–150 words</span></div>
+  <div class="card-head"><span class="badge">T2</span><span class="name">Task 2 · article / forum / blog</span><span class="hint">85 prompts · 17 answer-blocks · 120–150 words</span></div>
   <ul class="links">
     <li><a href="ee-t2-EN.html"><span class="lang">EN</span><span class="what">Similarity order</span><span class="hint">English</span></a></li>
     <li><a href="ee-t2.html"><span class="lang">FR</span><span class="what">Ordre de similarité</span><span class="hint">français</span></a></li>
@@ -100,7 +117,7 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 </section>
 
 <section class="card">
-  <div class="card-head"><span class="badge">T3</span><span class="name">Task 3 · argumentative essay</span><span class="hint">95 prompts · two contrasting documents</span></div>
+  <div class="card-head"><span class="badge">T3</span><span class="name">Task 3 · argumentative essay</span><span class="hint">95 prompts · 27 answer-blocks · two contrasting documents</span></div>
   <ul class="links">
     <li><a href="ee-t3-EN.html"><span class="lang">EN</span><span class="what">Similarity order</span><span class="hint">English</span></a></li>
     <li><a href="ee-t3.html"><span class="lang">FR</span><span class="what">Ordre de similarité</span><span class="hint">français</span></a></li>
@@ -111,7 +128,7 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="group-note">Speaking prompts in the same deduplicated set.</p>
 
 <section class="card">
-  <div class="card-head"><span class="badge">T2</span><span class="name">Task 2 · interactive dialogue</span><span class="hint">366 prompts · you ask the questions</span></div>
+  <div class="card-head"><span class="badge">T2</span><span class="name">Task 2 · interactive dialogue</span><span class="hint">366 prompts · 65 answer-blocks · you ask the questions</span></div>
   <ul class="links">
     <li><a href="eo-t2-EN.html"><span class="lang">EN</span><span class="what">Similarity order</span><span class="hint">English</span></a></li>
     <li><a href="eo-t2.html"><span class="lang">FR</span><span class="what">Ordre de similarité</span><span class="hint">français</span></a></li>
@@ -119,7 +136,7 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 </section>
 
 <section class="card">
-  <div class="card-head"><span class="badge">T3</span><span class="name">Task 3 · opinion monologue</span><span class="hint">308 prompts · debate, position, arguments</span></div>
+  <div class="card-head"><span class="badge">T3</span><span class="name">Task 3 · opinion monologue</span><span class="hint">308 prompts · 67 answer-blocks · debate, position, arguments</span></div>
   <ul class="links">
     <li><a href="eo-t3-EN.html"><span class="lang">EN</span><span class="what">Similarity order</span><span class="hint">English</span></a></li>
     <li><a href="eo-t3.html"><span class="lang">FR</span><span class="what">Ordre de similarité</span><span class="hint">français</span></a></li>

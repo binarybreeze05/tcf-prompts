@@ -57,6 +57,17 @@ p.doc b{color:#7a6a1f;font-weight:700;text-transform:uppercase;letter-spacing:.0
   font-size:.72rem;display:block;margin-bottom:.3rem}
 footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
   color:var(--muted);font-size:.82rem}
+/* tcf-group */
+.tcf-group{border:2px solid #c7d7f7;border-radius:16px;padding:.55rem .6rem .6rem;margin:.8rem 0;background:#f6f9ff}
+.tcf-group-head{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;padding:.15rem .45rem .5rem;font-size:.8rem;color:#344054}
+.tcf-group-tag{background:var(--accent);color:#fff;border-radius:999px;padding:.12rem .6rem;font-weight:700;letter-spacing:.02em;white-space:nowrap}
+.tcf-group-n{font-weight:700;color:var(--ink)}
+.tcf-group-hint{color:var(--muted)}
+.tcf-group .tcf-core>section.topic{margin:.35rem 0;box-shadow:none;border-color:#dbe4f3}
+.tcf-seam{display:flex;align-items:center;gap:.55rem;margin:.45rem .2rem}
+.tcf-seam::before,.tcf-seam::after{content:'';flex:1 1 0;border-top:1px dashed #9db4e3}
+.tcf-seam span{font-size:.74rem;color:#3b5bb0;background:#eef4ff;border:1px dashed #9db4e3;border-radius:999px;padding:.1rem .65rem;white-space:nowrap}
+/* /tcf-group */
 </style>
 </head>
 <body>
@@ -64,7 +75,7 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
   <p class="crumb"><a href="index.html">← Toutes les listes</a></p>
   <h1>TCF Orale · Tâche 3</h1>
   <p class="lead">Vous exposez et défendez une opinion sur un sujet d'actualité — env. 5 min.</p>
-  <p class="lead"><b>308 sujets uniques</b> après dédoublonnage · L'ordre par défaut est l'<b>ordre de similarité</b> (chaque sujet à côté de son plus proche voisin). Le menu <b>Trier par</b> en haut bascule vers l'<b>ordre de couverture</b> (le plus fort d'abord, avec pourquoi c'est classé là) ou l'<b>ordre de difficulté</b> (rang 1 = plus facile).</p>
+  <p class="lead"><b>308 sujets</b>, dont 235 regroupés en <b>67 blocs</b> (un bloc = une seule réponse à préparer ; les variantes proches y sont séparées par ≈) · L'ordre par défaut est l'<b>ordre de similarité</b> (chaque sujet à côté de son plus proche voisin). Le menu <b>Trier par</b> en haut bascule vers l'<b>ordre de couverture</b> (le plus fort d'abord, avec pourquoi c'est classé là) ou l'<b>ordre de difficulté</b> (rang 1 = plus facile).</p>
 </header>
 <section class="topic" id="p-1">
   <div class="topic-head">
@@ -72,78 +83,312 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">L’État ne peut pas tout contrôler : êtes-vous d’accord avec cette affirmation ? Pourquoi ?<span class="orig">· was #27</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-1">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">3 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-2">
   <div class="topic-head">
     <span class="badge">2</span>
     <p class="prompt">Lorsqu’on voyage à l’étranger, on est souvent confronté à de nouvelles cultures et modes de vie. Pensez-vous que cela peut transformer notre personnalité ? Expliquez votre avis.<span class="orig">· was #163</span></p>
   </div>
 </section>
+<section class="topic" id="p-192">
+  <div class="topic-head">
+    <span class="badge">192</span>
+    <p class="prompt">Le voyage fait de vous une meilleure personne. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #92</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-54">
+  <div class="topic-head">
+    <span class="badge">54</span>
+    <p class="prompt">Les voyages sont-ils indispensables pour enrichir ses connaissances et son expérience personnelle ? Justifiez votre point de vue .<span class="orig">· was #218</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-290">
+  <div class="topic-head">
+    <span class="badge">290</span>
+    <p class="prompt">Une expérience de vie à l’étranger est toujours positive. Êtes vous d’accord avec cette affirmation ? Pourquoi ?<span class="orig">· was #189</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-2">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-3">
   <div class="topic-head">
     <span class="badge">3</span>
     <p class="prompt">Dans le contexte actuel, les enfants et les adolescents devraient-ils posséder leur propre téléphone portable ? Quels sont les avantages et les inconvénients de cette pratique ?<span class="orig">· was #77</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-232">
+  <div class="topic-head">
+    <span class="badge">232</span>
+    <p class="prompt">À votre avis, faut-il interdire l’usage du téléphone portable à l’école ? Pourquoi ?<span class="orig">· was #52</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-3">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-4">
   <div class="topic-head">
     <span class="badge">4</span>
     <p class="prompt">Est-il raisonnable de faire travailler les personnes jusqu’à l’âge de 70 ans ? Pourquoi ?<span class="orig">· was #141</span></p>
   </div>
 </section>
+<section class="topic" id="p-163">
+  <div class="topic-head">
+    <span class="badge">163</span>
+    <p class="prompt">Trouvez-vous acceptable de prolonger l’âge de départ à la retraite jusqu’à 70 ans ?<span class="orig">· was #271</span></p>
+  </div>
+</section>
+<section class="topic" id="p-297">
+  <div class="topic-head">
+    <span class="badge">297</span>
+    <p class="prompt">À votre avis, jusqu’à quel âge est-il raisonnable de travailler ? Expliquez .<span class="orig">· was #23</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-246">
+  <div class="topic-head">
+    <span class="badge">246</span>
+    <p class="prompt">Le travail des personnes âgées est-il bon pour la société, selon vous ? Expliquez votre réponse .<span class="orig">· was #84</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-5">
   <div class="topic-head">
     <span class="badge">5</span>
     <p class="prompt">Chaque été, de nombreux magazines publient des conseils et des régimes pour perdre du poids rapidement. Pensez-vous que ces recommandations sont fiables et utiles ? Justifiez votre réponse.<span class="orig">· was #244</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-4">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">7 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-6">
   <div class="topic-head">
     <span class="badge">6</span>
     <p class="prompt">Pensez-vous que les jeux vidéo peuvent jouer un rôle positif dans le développement des enfants ? Argumentez votre réponse en tenant compte des aspects éducatifs et sociaux.<span class="orig">· was #144</span></p>
   </div>
 </section>
+<section class="topic" id="p-53">
+  <div class="topic-head">
+    <span class="badge">53</span>
+    <p class="prompt">Les jeux vidéo participent au développement de l’enfant. Qu’en pensez-vous ?<span class="orig">· was #221</span></p>
+  </div>
+</section>
+<section class="topic" id="p-113">
+  <div class="topic-head">
+    <span class="badge">113</span>
+    <p class="prompt">À votre avis, les jeux vidéo peuvent-ils nuire aux enfants ? Pourquoi ?<span class="orig">· was #220</span></p>
+  </div>
+</section>
+<section class="topic" id="p-189">
+  <div class="topic-head">
+    <span class="badge">189</span>
+    <p class="prompt">Les jeux vidéo constituent-ils un danger pour les joueurs ? Expliquez pourquoi .<span class="orig">· was #54</span></p>
+  </div>
+</section>
+<section class="topic" id="p-280">
+  <div class="topic-head">
+    <span class="badge">280</span>
+    <p class="prompt">Les jeux vidéo pour les enfants pour ou contre ? Justifiez votre réponse.<span class="orig">· was #35</span></p>
+  </div>
+</section>
+<section class="topic" id="p-299">
+  <div class="topic-head">
+    <span class="badge">299</span>
+    <p class="prompt">Pensez-vous que les jeux vidéo peuvent participer à l’évolution d’un enfant ?<span class="orig">· was #258</span></p>
+  </div>
+</section>
+<section class="topic" id="p-302">
+  <div class="topic-head">
+    <span class="badge">302</span>
+    <p class="prompt">D’après vous, comment les jeux vidéo influencent-ils les enfants ? Pourquoi ?<span class="orig">· was #69</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-5">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">4 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-7">
   <div class="topic-head">
     <span class="badge">7</span>
     <p class="prompt">Pensez-vous que les établissements scolaires devraient valoriser davantage les activités liées à l’art (musique, théâtre, arts visuels, etc.) ? Pourquoi ?<span class="orig">· was #290</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-40">
+  <div class="topic-head">
+    <span class="badge">40</span>
+    <p class="prompt">À votre avis, quels enseignements l’école devrait-elle proposer afin de renforcer la motivation et l’intérêt des élèves ? Pourquoi ?<span class="orig">· was #101</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-175">
+  <div class="topic-head">
+    <span class="badge">175</span>
+    <p class="prompt">La priorité de l’école, c’est d’enseigner le programme scolaire. Que pensez-vous de cette affirmation ? Pourquoi ?<span class="orig">· was #26</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-202">
+  <div class="topic-head">
+    <span class="badge">202</span>
+    <p class="prompt">L’écologie devrait-elle être enseignée dès le plus jeune âge à l’école ? Êtes-vous d’accord avec cette idée ?<span class="orig">· was #264</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-6">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">9 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-8">
   <div class="topic-head">
     <span class="badge">8</span>
     <p class="prompt">Il est nécessaire de connaître la langue d’un pays d’accueil avant d’y immigrer. Qu’en pensez-vous ?<span class="orig">· was #276</span></p>
   </div>
 </section>
+<section class="topic" id="p-64">
+  <div class="topic-head">
+    <span class="badge">64</span>
+    <p class="prompt">Est-ce que maîtriser la langue du pays d’accueil est suffisant pour réussir son intégration ? Pourquoi ?<span class="orig">· was #82</span></p>
+  </div>
+</section>
+<section class="topic" id="p-119">
+  <div class="topic-head">
+    <span class="badge">119</span>
+    <p class="prompt">Pensez-vous qu’il est possible de découvrir un pays sans savoir sa langue ? Pourquoi ?<span class="orig">· was #9</span></p>
+  </div>
+</section>
+<section class="topic" id="p-200">
+  <div class="topic-head">
+    <span class="badge">200</span>
+    <p class="prompt">Il est nécessaire d’apprendre la langue du pays où l’on vit pour s’intégrer. Êtes-vous d’accord avec cette affirmation ? Pourquoi ?<span class="orig">· was #62</span></p>
+  </div>
+</section>
+<section class="topic" id="p-231">
+  <div class="topic-head">
+    <span class="badge">231</span>
+    <p class="prompt">Est-il possible de vivre dans un pays sans connaître sa langue ? Quel est votre point de vue ?<span class="orig">· was #17</span></p>
+  </div>
+</section>
+<section class="topic" id="p-258">
+  <div class="topic-head">
+    <span class="badge">258</span>
+    <p class="prompt">L’apprentissage de la langue du pays dans lequel on vit est-il une nécessité pour mieux s’intégrer ? Partagez votre avis .<span class="orig">· was #240</span></p>
+  </div>
+</section>
+<section class="topic" id="p-286">
+  <div class="topic-head">
+    <span class="badge">286</span>
+    <p class="prompt">Pensez-vous que maîtriser la langue du pays où l’on vit soit essentiel pour bien s’intégrer ? Pourquoi ?<span class="orig">· was #60</span></p>
+  </div>
+</section>
+<section class="topic" id="p-301">
+  <div class="topic-head">
+    <span class="badge">301</span>
+    <p class="prompt">Faut-il maîtriser la langue du pays où l’on réside ? Pourquoi ?<span class="orig">· was #25</span></p>
+  </div>
+</section>
+<section class="topic" id="p-307">
+  <div class="topic-head">
+    <span class="badge">307</span>
+    <p class="prompt">Selon-vous, est-il nécessaire de parler la langue d’un pays avant d’y immigrer ? Expliquez pourquoi.<span class="orig">· was #65</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-9">
   <div class="topic-head">
     <span class="badge">9</span>
     <p class="prompt">Selon vous, parmi les principaux enjeux actuels (humanitaire, social ou culturel), laquelle mérite d’être priorisée dans le monde actuel ? Justifiez .<span class="orig">· was #294</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-7">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-10">
   <div class="topic-head">
     <span class="badge">10</span>
     <p class="prompt">Le plus important dans un emploi, c’est le salaire. Êtes-vous d’accord avec cette affirmation ? Justifiez votre point de vue.<span class="orig">· was #15</span></p>
   </div>
 </section>
+<section class="topic" id="p-28">
+  <div class="topic-head">
+    <span class="badge">28</span>
+    <p class="prompt">Aimer son métier est-il un critère essentiel pour réussir sa carrière professionnelle ? Justifiez votre réponse .<span class="orig">· was #226</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-11">
   <div class="topic-head">
     <span class="badge">11</span>
     <p class="prompt">Certains gouvernements adoptent une répartition égale entre hommes et femmes pour garantir l’égalité. Quel est votre avis sur cette approche ?<span class="orig">· was #242</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-8">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-12">
   <div class="topic-head">
     <span class="badge">12</span>
     <p class="prompt">Quels sont, selon vous, les impacts et les éventuels dangers d’une utilisation quotidienne des appareils électroniques comme les téléphones, les ordinateurs et les tablettes ?<span class="orig">· was #167</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-62">
+  <div class="topic-head">
+    <span class="badge">62</span>
+    <p class="prompt">Pensez-vous que les enfants passent trop de temps devant les écrans (ordinateurs, tablettes, téléphones, télévisions, etc.)? Pourquoi ?<span class="orig">· was #122</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-9">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-13">
   <div class="topic-head">
     <span class="badge">13</span>
     <p class="prompt">Pensez-vous que le gouvernement devrait interdire la vente de cigarettes et d’alcool ? Pourquoi ?<span class="orig">· was #268</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-292">
+  <div class="topic-head">
+    <span class="badge">292</span>
+    <p class="prompt">Pensez-vous qu’on devrait interdire les jeux d’argent et de hasard ? Pourquoi ?<span class="orig">· was #53</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-14">
   <div class="topic-head">
     <span class="badge">14</span>
@@ -162,12 +407,35 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Pensez-vous qu’il serait préférable que les musées, théâtres et autres sites culturels soient ouverts gratuitement au public ? Pourquoi ?<span class="orig">· was #299</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-10">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-17">
   <div class="topic-head">
     <span class="badge">17</span>
     <p class="prompt">Est-il possible de nouer une amitié avec une personne dont les convictions sont opposées aux vôtres ?<span class="orig">· was #72</span></p>
   </div>
 </section>
+<section class="topic" id="p-51">
+  <div class="topic-head">
+    <span class="badge">51</span>
+    <p class="prompt">Certaines personnes estiment que deux individus très différents ne pourront jamais être amis pour la vie. Êtes-vous d’accord avec cette affirmation ? Argumentez votre point de vue.<span class="orig">· was #211</span></p>
+  </div>
+</section>
+<section class="topic" id="p-229">
+  <div class="topic-head">
+    <span class="badge">229</span>
+    <p class="prompt">Selon certains, des personnes très différentes ne peuvent pas garder une amitié durable. Êtes-vous d’accord ?<span class="orig">· was #295</span></p>
+  </div>
+</section>
+<section class="topic" id="p-304">
+  <div class="topic-head">
+    <span class="badge">304</span>
+    <p class="prompt">Est-il possible d’être ami avec quelqu’un qui a des convictions opposées aux vôtres ?<span class="orig">· was #91</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-18">
   <div class="topic-head">
     <span class="badge">18</span>
@@ -180,78 +448,258 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">De nos jours, les gens ne s’envoient presque plus de courrier (cartes de voeux , lettres d’amour, etc.) .Est-ce que c’est regrettable?<span class="orig">· was #177</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-11">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-20">
   <div class="topic-head">
     <span class="badge">20</span>
     <p class="prompt">Faut-il inclure l’enseignement des technologies modernes (Internet, réseaux sociaux, etc.) dans le programme scolaire ? Pourquoi ?<span class="orig">· was #234</span></p>
   </div>
 </section>
+<section class="topic" id="p-276">
+  <div class="topic-head">
+    <span class="badge">276</span>
+    <p class="prompt">Doit-on apprendre les technologies à l’école dès le plus jeune âge ? Pourquoi ?<span class="orig">· was #250</span></p>
+  </div>
+</section>
+<section class="topic" id="p-300">
+  <div class="topic-head">
+    <span class="badge">300</span>
+    <p class="prompt">Est-il important d’apprendre à utiliser les nouvelles technologies (Internet, réseaux sociaux, etc.) dès l’enfance ? Pourquoi ?<span class="orig">· was #183</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-12">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-21">
   <div class="topic-head">
     <span class="badge">21</span>
     <p class="prompt">De jeunes adultes canadiens préfèrent rester vivre chez leurs parents parce qu’ils s’y sentent bien. Quel regard porterez-vous sur cette situation?<span class="orig">· was #219</span></p>
   </div>
 </section>
+<section class="topic" id="p-173">
+  <div class="topic-head">
+    <span class="badge">173</span>
+    <p class="prompt">De jeunes Canadiens choisissent d’habiter chez leurs parents, parce qu’ils s’y sentent confortables. Qu’en pensez-vous ?<span class="orig">· was #278</span></p>
+  </div>
+</section>
+<section class="topic" id="p-193">
+  <div class="topic-head">
+    <span class="badge">193</span>
+    <p class="prompt">Est-il pratique de continuer à vivre avec ses parents après l’âge de 25 ans ? Qu’en pensez-vous ?<span class="orig">· was #73</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-13">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-22">
   <div class="topic-head">
     <span class="badge">22</span>
     <p class="prompt">D’après vous, est-il facile de se faire de nouveaux amis en arrivant dans un pays étranger ? Expliquez les raisons qui facilitent ou compliquent l’intégration sociale.<span class="orig">· was #186</span></p>
   </div>
 </section>
+<section class="topic" id="p-222">
+  <div class="topic-head">
+    <span class="badge">222</span>
+    <p class="prompt">Est-ce important de se socialiser avec les gens qui habitent à l'étranger ?<span class="orig">· was #40</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-14">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">7 sujets</span><span class="tcf-group-hint">4 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-23">
   <div class="topic-head">
     <span class="badge">23</span>
     <p class="prompt">Avec l’évolution des outils numériques, de nombreuses tâches du quotidien sont devenues plus rapides à réaliser. Partagez-vous cette opinion ? Donnez des exemples pour illustrer votre réponse.<span class="orig">· was #300</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-82">
+  <div class="topic-head">
+    <span class="badge">82</span>
+    <p class="prompt">Certaines personnes préfèrent vivre sans se servir de la technologie (téléphone, Internet, ordinateur). Qu’en pensez-vous ?<span class="orig">· was #209</span></p>
+  </div>
+</section>
+<section class="topic" id="p-171">
+  <div class="topic-head">
+    <span class="badge">171</span>
+    <p class="prompt">Peut-on se passer d’Internet dans la vie quotidienne ? Pourquoi ?<span class="orig">· was #105</span></p>
+  </div>
+</section>
+<section class="topic" id="p-267">
+  <div class="topic-head">
+    <span class="badge">267</span>
+    <p class="prompt">Aujourd’hui, beaucoup disent qu’on ne peut plus vivre sans la technologie. Quelle est votre opinion ?<span class="orig">· was #303</span></p>
+  </div>
+</section>
+<section class="topic" id="p-298">
+  <div class="topic-head">
+    <span class="badge">298</span>
+    <p class="prompt">L'internet est devenu indispensable dans notre vie. Etes-vous d'accord avec cette affirmation ?<span class="orig">· was #22</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-285">
+  <div class="topic-head">
+    <span class="badge">285</span>
+    <p class="prompt">Internet rend-il la vie plus facile, selon vous ?<span class="orig">· was #74</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-288">
+  <div class="topic-head">
+    <span class="badge">288</span>
+    <p class="prompt">Peut-on vivre aujourd’hui sans téléphone portable ? Quel est votre avis ?<span class="orig">· was #157</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-15">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-24">
   <div class="topic-head">
     <span class="badge">24</span>
     <p class="prompt">De nos jours, l’apparence physique est très importante. Quelle est votre opinion sur l’importance de la beauté dans la société actuelle ?<span class="orig">· was #249</span></p>
   </div>
 </section>
+<section class="topic" id="p-141">
+  <div class="topic-head">
+    <span class="badge">141</span>
+    <p class="prompt">Pour réussir dans la vie professionnelle il faut être beau ou belle. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #50</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-16">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-25">
   <div class="topic-head">
     <span class="badge">25</span>
     <p class="prompt">Le temps passé devant la télévision est du temps perdu. Etes-vous d’accord avec cette affirmation ?<span class="orig">· was #223</span></p>
   </div>
 </section>
+<section class="topic" id="p-107">
+  <div class="topic-head">
+    <span class="badge">107</span>
+    <p class="prompt">Pensez-vous que la télévision contribue à l’éveil et à l’apprentissage des enfants ? Êtes-vous d’accord ?<span class="orig">· was #179</span></p>
+  </div>
+</section>
+<section class="topic" id="p-178">
+  <div class="topic-head">
+    <span class="badge">178</span>
+    <p class="prompt">La télévision est-elle un bon outil pour acquérir des connaissances ? Qu’en pensez-vous ?<span class="orig">· was #261</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-283">
+  <div class="topic-head">
+    <span class="badge">283</span>
+    <p class="prompt">Que pensez-vous de l’influence de la télévision sur les jeunes aujourd’hui?<span class="orig">· was #153</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-26">
   <div class="topic-head">
     <span class="badge">26</span>
     <p class="prompt">Pour réduire la pollution et protéger l’environnement, les transports en commun devraient-ils être gratuits ? Argumentez votre réponse .<span class="orig">· was #296</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-17">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-27">
   <div class="topic-head">
     <span class="badge">27</span>
     <p class="prompt">De nos jours, le livre est devenu inutile. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #229</span></p>
   </div>
 </section>
-<section class="topic" id="p-28">
+<section class="topic" id="p-57">
   <div class="topic-head">
-    <span class="badge">28</span>
-    <p class="prompt">Aimer son métier est-il un critère essentiel pour réussir sa carrière professionnelle ? Justifiez votre réponse .<span class="orig">· was #226</span></p>
+    <span class="badge">57</span>
+    <p class="prompt">On associe souvent la lecture à la culture. Q u’en pensez-vous ? Doit-on lire pour être cultivé?<span class="orig">· was #216</span></p>
   </div>
 </section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-18">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-29">
   <div class="topic-head">
     <span class="badge">29</span>
     <p class="prompt">Avec le développement d’Internet, les frontières semblent s’effacer, transformant le monde en un « village global ». Dans quelle mesure partagez-vous cette vision ?<span class="orig">· was #123</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-150">
+  <div class="topic-head">
+    <span class="badge">150</span>
+    <p class="prompt">Selon vous, un monde sans frontière, ni passeport, ni visa est-il possible ? Pourquoi ?<span class="orig">· was #222</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-30">
   <div class="topic-head">
     <span class="badge">30</span>
     <p class="prompt">Les entreprises ont-elles la responsabilité d’accompagner les nouveaux salariés pour qu’ils s’intègrent plus facilement ? Partagez-vous cette idée ?<span class="orig">· was #97</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-19">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">5 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-31">
   <div class="topic-head">
     <span class="badge">31</span>
     <p class="prompt">Quelles sont les actions citoyennes (aide alimentaire, visite à des malades, projet écologique, etc.) que vous jugez admirables? Pourquoi ?<span class="orig">· was #129</span></p>
   </div>
 </section>
+<section class="topic" id="p-87">
+  <div class="topic-head">
+    <span class="badge">87</span>
+    <p class="prompt">Quel est le type d’action solidaire que vous aimeriez faire ?<span class="orig">· was #130</span></p>
+  </div>
+</section>
+<section class="topic" id="p-88">
+  <div class="topic-head">
+    <span class="badge">88</span>
+    <p class="prompt">Quelles formes d’engagement citoyen, telles que le bénévolat ou les actions écologiques, trouvez-vous exemplaires ? Justifiez votre réponse .<span class="orig">· was #160</span></p>
+  </div>
+</section>
+<section class="topic" id="p-133">
+  <div class="topic-head">
+    <span class="badge">133</span>
+    <p class="prompt">Pendant leur temps libre, certaines personnes s’engagent dans des associations pour aider les autres. Qu’en pensez-vous ?<span class="orig">· was #275</span></p>
+  </div>
+</section>
+<section class="topic" id="p-206">
+  <div class="topic-head">
+    <span class="badge">206</span>
+    <p class="prompt">Quelles sont les raisons qui peuvent pousser une personne à s’engager dans une action humanitaire ?<span class="orig">· was #95</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-32">
   <div class="topic-head">
     <span class="badge">32</span>
@@ -264,48 +712,178 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">La célébration de la Journée internationale des droits des femmes contribue à faire progresser la cause féministe. Êtes-vous d’accord, pourquoi ?<span class="orig">· was #304</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-20">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">8 sujets</span><span class="tcf-group-hint">3 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-34">
   <div class="topic-head">
     <span class="badge">34</span>
     <p class="prompt">S’installer à l’étranger pour travailler ne présente pas de difficultés. Êtes-vous d’accord ? Expliquez pourquoi .<span class="orig">· was #149</span></p>
   </div>
 </section>
+<section class="topic" id="p-123">
+  <div class="topic-head">
+    <span class="badge">123</span>
+    <p class="prompt">Vivre à l’étranger représente un véritable défi pour beaucoup de personnes. Partagez-vous cette idée ? Expliquez pourquoi.<span class="orig">· was #124</span></p>
+  </div>
+</section>
+<section class="topic" id="p-131">
+  <div class="topic-head">
+    <span class="badge">131</span>
+    <p class="prompt">Prendre la décision de quitter son pays est facile. Qu’en pensez-vous ?<span class="orig">· was #79</span></p>
+  </div>
+</section>
+<section class="topic" id="p-153">
+  <div class="topic-head">
+    <span class="badge">153</span>
+    <p class="prompt">Adaptation à l’étranger : Évoquez les facilités et les défis de l’intégration d’un jeune qui déménage à l’étranger.<span class="orig">· was #253</span></p>
+  </div>
+</section>
+<section class="topic" id="p-167">
+  <div class="topic-head">
+    <span class="badge">167</span>
+    <p class="prompt">Si vous allez vivre au Canada, pensez-vous que vous trouverez facilement du travail ? Pourquoi ?<span class="orig">· was #67</span></p>
+  </div>
+</section>
+<section class="topic" id="p-291">
+  <div class="topic-head">
+    <span class="badge">291</span>
+    <p class="prompt">S’installer dans un nouveau pays est souvent difficile. Êtes-vous d’accord ? Expliquez pourquoi .<span class="orig">· was #39</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-162">
+  <div class="topic-head">
+    <span class="badge">162</span>
+    <p class="prompt">Si vous vous installez dans un autre pays, croyez-vous que cela vous offrira plus d’opportunités professionnelles et personnelles ? Pourquoi ?<span class="orig">· was #243</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-177">
+  <div class="topic-head">
+    <span class="badge">177</span>
+    <p class="prompt">Avoir une expérience à l’étranger est-il un atout indispensable pour réussir sa carrière professionnelle ? Expliquez votre opinion .<span class="orig">· was #269</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-21">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-35">
   <div class="topic-head">
     <span class="badge">35</span>
     <p class="prompt">Les menus végétariens sont-ils une alternative saine et durable à l’alimentation traditionnelle. Qu’en pensez-vous ?<span class="orig">· was #174</span></p>
   </div>
 </section>
+<section class="topic" id="p-112">
+  <div class="topic-head">
+    <span class="badge">112</span>
+    <p class="prompt">Pour être en bonne santé, il faut arrêter de manger de la viande. Que pensez-vous de cette affirmation ?<span class="orig">· was #80</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-36">
   <div class="topic-head">
     <span class="badge">36</span>
     <p class="prompt">Certains parents récompensent leurs enfants avec de l’argent pour leurs bons résultats scolaires. Pensez-vous que cette pratique est une bonne méthode d’éducation ? Pourquoi ?<span class="orig">· was #191</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-22">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">3 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-37">
   <div class="topic-head">
     <span class="badge">37</span>
     <p class="prompt">Pensez-vous qu’une entreprise doit privilégier le bien-être de ses employés pour assurer son bon fonctionnement ? Justifiez votre point de vue .<span class="orig">· was #70</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-66">
+  <div class="topic-head">
+    <span class="badge">66</span>
+    <p class="prompt">Les employeurs doivent-ils permettre à leurs employés de suivre des formations tout au long de leur vie professionnelle ? Cela est-il bénéfique pour tout le monde ?<span class="orig">· was #117</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-183">
+  <div class="topic-head">
+    <span class="badge">183</span>
+    <p class="prompt">Les entreprises doivent-elles accepter que les employés se reposent au travail ? Êtes-vous d’accord ?<span class="orig">· was #121</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-23">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-38">
   <div class="topic-head">
     <span class="badge">38</span>
     <p class="prompt">La présence des produits bio augmente dans les grandes surfaces. Selon vous, est-ce une évolution bénéfique ? Pourquoi ?<span class="orig">· was #127</span></p>
   </div>
 </section>
+<section class="topic" id="p-100">
+  <div class="topic-head">
+    <span class="badge">100</span>
+    <p class="prompt">Consommer des produits bio est réservé aux personnes les plus riches. Êtes vous d’accord? Pourquoi?<span class="orig">· was #37</span></p>
+  </div>
+</section>
+<section class="topic" id="p-151">
+  <div class="topic-head">
+    <span class="badge">151</span>
+    <p class="prompt">La bonne santé exige-t-elle de consommer seulement des produits biologiques ? Êtes-vous d’accord ?<span class="orig">· was #210</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-24">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">5 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-39">
   <div class="topic-head">
     <span class="badge">39</span>
     <p class="prompt">Quand on s’installe dans un nouveau pays, est-ce qu’il faut changer ses habitudes de vie (alimentation, vacances, vêtements, etc.) ?<span class="orig">· was #64</span></p>
   </div>
 </section>
-<section class="topic" id="p-40">
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-56">
   <div class="topic-head">
-    <span class="badge">40</span>
-    <p class="prompt">À votre avis, quels enseignements l’école devrait-elle proposer afin de renforcer la motivation et l’intérêt des élèves ? Pourquoi ?<span class="orig">· was #101</span></p>
+    <span class="badge">56</span>
+    <p class="prompt">Pour bien s’intégrer dans un nouveau pays, faudrait-il renoncer à ses traditions ? Qu’en pensez-vous ?<span class="orig">· was #161</span></p>
   </div>
 </section>
+<section class="topic" id="p-74">
+  <div class="topic-head">
+    <span class="badge">74</span>
+    <p class="prompt">Quand on vit à l’étranger, il est indispensable de rester dans la communauté de son pays d’origine. Qu’en pensez vous ?<span class="orig">· was #29</span></p>
+  </div>
+</section>
+<section class="topic" id="p-93">
+  <div class="topic-head">
+    <span class="badge">93</span>
+    <p class="prompt">Pensez-vous qu’il soit simple de préserver sa culture d’origine en vivant à l’étranger ? Expliquez pourquoi .<span class="orig">· was #298</span></p>
+  </div>
+</section>
+<section class="topic" id="p-97">
+  <div class="topic-head">
+    <span class="badge">97</span>
+    <p class="prompt">À votre avis, vivre de longues années à l’étranger fait-il oublier sa culture d’origine ? Expliquez .<span class="orig">· was #287</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-41">
   <div class="topic-head">
     <span class="badge">41</span>
@@ -324,24 +902,75 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Qu’est-ce qui explique l’attrait des gens pour la vie des stars ? Est-ce uniquement de la curiosité ou une influence plus significative sur la société ?<span class="orig">· was #237</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-25">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-44">
   <div class="topic-head">
     <span class="badge">44</span>
     <p class="prompt">Les métiers liés à l’art (cinéma, musique, peinture, etc.) ne sont pas vus comme de vrais emplois. Qu’en pensez-vous ?<span class="orig">· was #274</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-208">
+  <div class="topic-head">
+    <span class="badge">208</span>
+    <p class="prompt">Existe-t-il des professions plus utiles que d’autres ? Pourquoi ?<span class="orig">· was #75</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-26">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">3 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-45">
   <div class="topic-head">
     <span class="badge">45</span>
     <p class="prompt">Certains pensent que les salaires des sportifs professionnels sont excessives. Êtes-vous d’accord ?<span class="orig">· was #49</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-108">
+  <div class="topic-head">
+    <span class="badge">108</span>
+    <p class="prompt">Les métiers les plus difficiles devraient être les métiers les mieux payés. Qu’en pensez-vous ?<span class="orig">· was #31</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-137">
+  <div class="topic-head">
+    <span class="badge">137</span>
+    <p class="prompt">À votre avis, est-il préférable que tous les employés d’une entreprise gagnent le même salaire ? Pourquoi ?<span class="orig">· was #206</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-27">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-46">
   <div class="topic-head">
     <span class="badge">46</span>
     <p class="prompt">Le stress peut avoir des effets positifs et encourager les personnes à agir. Qu’en pensez-vous ?<span class="orig">· was #133</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-210">
+  <div class="topic-head">
+    <span class="badge">210</span>
+    <p class="prompt">Certaines personnes estiment qu’il est impossible de combattre le stress. Quel est votre avis ?<span class="orig">· was #66</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-47">
   <div class="topic-head">
     <span class="badge">47</span>
@@ -366,54 +995,156 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">De plus en plus de parents choisissent d’enseigner eux-mêmes à leurs enfants à domicile plutôt que de les inscrire à l’école. Qu’en pensez-vous ?<span class="orig">· was #190</span></p>
   </div>
 </section>
-<section class="topic" id="p-51">
-  <div class="topic-head">
-    <span class="badge">51</span>
-    <p class="prompt">Certaines personnes estiment que deux individus très différents ne pourront jamais être amis pour la vie. Êtes-vous d’accord avec cette affirmation ? Argumentez votre point de vue.<span class="orig">· was #211</span></p>
-  </div>
-</section>
+<div class="tcf-group" id="g-EO_T3-28">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">5 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-52">
   <div class="topic-head">
     <span class="badge">52</span>
     <p class="prompt">De nombreuses personnes se tournent vers la chirurgie esthétique pour sembler plus jeunes. Qu’en pensez-vous ?<span class="orig">· was #235</span></p>
   </div>
 </section>
-<section class="topic" id="p-53">
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-99">
   <div class="topic-head">
-    <span class="badge">53</span>
-    <p class="prompt">Les jeux vidéo participent au développement de l’enfant. Qu’en pensez-vous ?<span class="orig">· was #221</span></p>
+    <span class="badge">99</span>
+    <p class="prompt">La plupart des gens essaient-ils de paraître plus jeunes que leur âge ? Qu’en pensez-vous ?<span class="orig">· was #125</span></p>
   </div>
 </section>
-<section class="topic" id="p-54">
+<section class="topic" id="p-224">
   <div class="topic-head">
-    <span class="badge">54</span>
-    <p class="prompt">Les voyages sont-ils indispensables pour enrichir ses connaissances et son expérience personnelle ? Justifiez votre point de vue .<span class="orig">· was #218</span></p>
+    <span class="badge">224</span>
+    <p class="prompt">De nos jours, les jeunes rejettent l’idée de vieillir. Quel est votre avis sur cette idée ?<span class="orig">· was #260</span></p>
   </div>
 </section>
+<section class="topic" id="p-252">
+  <div class="topic-head">
+    <span class="badge">252</span>
+    <p class="prompt">Les gens aiment rester toujours jeunes. Qu’en pensez-vous ?<span class="orig">· was #100</span></p>
+  </div>
+</section>
+<section class="topic" id="p-257">
+  <div class="topic-head">
+    <span class="badge">257</span>
+    <p class="prompt">De nos jours, tout le monde veut rester jeune. Qu’en pensez-vous ?<span class="orig">· was #119</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-29">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">9 sujets</span><span class="tcf-group-hint">3 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-55">
   <div class="topic-head">
     <span class="badge">55</span>
     <p class="prompt">Économie d’eau et d’électricité : Discutez des stratégies pour réduire la consommation d’eau et d’électricité dans un ménage, et des bénéfices environnementaux et économiques associés.<span class="orig">· was #307</span></p>
   </div>
 </section>
-<section class="topic" id="p-56">
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-78">
   <div class="topic-head">
-    <span class="badge">56</span>
-    <p class="prompt">Pour bien s’intégrer dans un nouveau pays, faudrait-il renoncer à ses traditions ? Qu’en pensez-vous ?<span class="orig">· was #161</span></p>
+    <span class="badge">78</span>
+    <p class="prompt">Pour protéger la planète, faut-il acheter des aliments produits localement et selon les saisons ? Êtes-vous d’accord ?<span class="orig">· was #246</span></p>
   </div>
 </section>
-<section class="topic" id="p-57">
+<section class="topic" id="p-109">
   <div class="topic-head">
-    <span class="badge">57</span>
-    <p class="prompt">On associe souvent la lecture à la culture. Q u’en pensez-vous ? Doit-on lire pour être cultivé?<span class="orig">· was #216</span></p>
+    <span class="badge">109</span>
+    <p class="prompt">Pensez-vous que les actions simples de chaque jour puissent réellement avoir un impact sur la protection de la planète ? Pourquoi ?<span class="orig">· was #106</span></p>
   </div>
 </section>
+<section class="topic" id="p-121">
+  <div class="topic-head">
+    <span class="badge">121</span>
+    <p class="prompt">Tout le monde peut agir pour produire moins de déchets. Qu’en pensez-vous ?<span class="orig">· was #284</span></p>
+  </div>
+</section>
+<section class="topic" id="p-165">
+  <div class="topic-head">
+    <span class="badge">165</span>
+    <p class="prompt">Quelles actions et gestes doit-on entreprendre pour lutter contre la pollution ?<span class="orig">· was #196</span></p>
+  </div>
+</section>
+<section class="topic" id="p-199">
+  <div class="topic-head">
+    <span class="badge">199</span>
+    <p class="prompt">Pour la protection de la planète, les efforts de chaque personne (tri, économie d’électricité, etc.) sont nécessaires. Êtes-vous d’accord ?<span class="orig">· was #305</span></p>
+  </div>
+</section>
+<section class="topic" id="p-255">
+  <div class="topic-head">
+    <span class="badge">255</span>
+    <p class="prompt">Que pensez-vous du recyclage des déchets ?<span class="orig">· was #10</span></p>
+  </div>
+</section>
+<section class="topic" id="p-279">
+  <div class="topic-head">
+    <span class="badge">279</span>
+    <p class="prompt">Tout le monde peut participer au tri des déchets. Êtes-vous d’accord ?<span class="orig">· was #139</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-158">
+  <div class="topic-head">
+    <span class="badge">158</span>
+    <p class="prompt">Quel est votre avis sur les actions prises dans votre pays pour diminuer la pollution ?<span class="orig">· was #273</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-30">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">7 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-58">
   <div class="topic-head">
     <span class="badge">58</span>
     <p class="prompt">Faut-il développer encore plus le secteur du tourisme dans votre pays ? Pourquoi ?<span class="orig">· was #108</span></p>
   </div>
 </section>
+<section class="topic" id="p-161">
+  <div class="topic-head">
+    <span class="badge">161</span>
+    <p class="prompt">Le tourisme contribue à la croissance et au développement du pays. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #205</span></p>
+  </div>
+</section>
+<section class="topic" id="p-187">
+  <div class="topic-head">
+    <span class="badge">187</span>
+    <p class="prompt">Quels sont, selon vous, les principaux objectifs du développement du tourisme dans un pays ? Quels bénéfices peut-il apporter à l’économie et à la culture locale ?<span class="orig">· was #279</span></p>
+  </div>
+</section>
+<section class="topic" id="p-217">
+  <div class="topic-head">
+    <span class="badge">217</span>
+    <p class="prompt">Pensez-vous que le tourisme puisse favoriser le développement dans tous les pays ? Pourquoi ?<span class="orig">· was #93</span></p>
+  </div>
+</section>
+<section class="topic" id="p-259">
+  <div class="topic-head">
+    <span class="badge">259</span>
+    <p class="prompt">Comment le tourisme participe-t-il à l’économie et au développement d’un pays ?<span class="orig">· was #265</span></p>
+  </div>
+</section>
+<section class="topic" id="p-260">
+  <div class="topic-head">
+    <span class="badge">260</span>
+    <p class="prompt">Quelles sont les raisons qui poussent un pays à encourager le développement du tourisme ?<span class="orig">· was #104</span></p>
+  </div>
+</section>
+<section class="topic" id="p-281">
+  <div class="topic-head">
+    <span class="badge">281</span>
+    <p class="prompt">Le tourisme est-il important ? Justifiez votre réponse.<span class="orig">· was #8</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-59">
   <div class="topic-head">
     <span class="badge">59</span>
@@ -432,48 +1163,116 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Selon vous, doit-on donner une éducation différente aux filles et aux garçons ? Pour quelles raisons ?<span class="orig">· was #232</span></p>
   </div>
 </section>
-<section class="topic" id="p-62">
-  <div class="topic-head">
-    <span class="badge">62</span>
-    <p class="prompt">Pensez-vous que les enfants passent trop de temps devant les écrans (ordinateurs, tablettes, téléphones, télévisions, etc.)? Pourquoi ?<span class="orig">· was #122</span></p>
-  </div>
-</section>
+<div class="tcf-group" id="g-EO_T3-31">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-63">
   <div class="topic-head">
     <span class="badge">63</span>
     <p class="prompt">Les animaux de compagnie sont-ils essentiels pour le bien-être des personnes âgées ? Qu’en pensez-vous ?<span class="orig">· was #18</span></p>
   </div>
 </section>
-<section class="topic" id="p-64">
+<section class="topic" id="p-134">
   <div class="topic-head">
-    <span class="badge">64</span>
-    <p class="prompt">Est-ce que maîtriser la langue du pays d’accueil est suffisant pour réussir son intégration ? Pourquoi ?<span class="orig">· was #82</span></p>
+    <span class="badge">134</span>
+    <p class="prompt">Les animaux de compagnie peuvent-ils rendre les personnes plus heureuses ? Pourquoi ?<span class="orig">· was #45</span></p>
   </div>
 </section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-32">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">5 sujets</span><span class="tcf-group-hint">5 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-65">
   <div class="topic-head">
     <span class="badge">65</span>
     <p class="prompt">Quelles sont les principales motivations qui incitent les gens à immigrer vers d’autres pays ? Pourqoui ?<span class="orig">· was #176</span></p>
   </div>
 </section>
-<section class="topic" id="p-66">
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-81">
   <div class="topic-head">
-    <span class="badge">66</span>
-    <p class="prompt">Les employeurs doivent-ils permettre à leurs employés de suivre des formations tout au long de leur vie professionnelle ? Cela est-il bénéfique pour tout le monde ?<span class="orig">· was #117</span></p>
+    <span class="badge">81</span>
+    <p class="prompt">Quand quelqu’un quitte son pays pour aller vivre ailleurs, c’est souvent parce qu’il n’a pas d’autre choix. Qu’en pensez-vous ?<span class="orig">· was #68</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-238">
+  <div class="topic-head">
+    <span class="badge">238</span>
+    <p class="prompt">À votre avis, quelles raisons peuvent amener quelqu’un à exercer un emploi à l’étranger ?<span class="orig">· was #170</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-272">
+  <div class="topic-head">
+    <span class="badge">272</span>
+    <p class="prompt">Quitter son pays d’origine pour mieux vivre. Pour ou contre?<span class="orig">· was #89</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-277">
+  <div class="topic-head">
+    <span class="badge">277</span>
+    <p class="prompt">Quelles peuvent être les motivations d’une personne pour étudier à l’étranger ?<span class="orig">· was #76</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-33">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-67">
   <div class="topic-head">
     <span class="badge">67</span>
     <p class="prompt">Est-il normal que les jeunes travaillent pour financer leurs études ? Expliquez votre position sur cette question .<span class="orig">· was #283</span></p>
   </div>
 </section>
+<section class="topic" id="p-249">
+  <div class="topic-head">
+    <span class="badge">249</span>
+    <p class="prompt">Travailler et étudier en même temps est difficile. Êtes-vous d’accord avec cette affirmation?<span class="orig">· was #24</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-34">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">3 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-68">
   <div class="topic-head">
     <span class="badge">68</span>
     <p class="prompt">Quels sont les avantages d’apprendre une langue étrangère dès le plus jeune âge ? Est-ce que cela favorise l’intégration et la progression professionnelle à l’âge adulte ?<span class="orig">· was #277</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-118">
+  <div class="topic-head">
+    <span class="badge">118</span>
+    <p class="prompt">Selon vous, est-il important d’étudier des langues étrangères ? Pour quelles raisons ?<span class="orig">· was #142</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-194">
+  <div class="topic-head">
+    <span class="badge">194</span>
+    <p class="prompt">Selon vous, est-ce que les jeunes ont plus de facilité à apprendre une langue étrangère que les personnes âgées ?<span class="orig">· was #138</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-69">
   <div class="topic-head">
     <span class="badge">69</span>
@@ -492,30 +1291,81 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Comment pourrait-on encourager davantage de personnes à pratiquer une activité sportive ? Partagez vos idées .<span class="orig">· was #159</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-35">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-72">
   <div class="topic-head">
     <span class="badge">72</span>
     <p class="prompt">Les ONG et les associations sont-elles les seules capables d’aider les personnes pauvres ? Qu’en pensez-vous ?<span class="orig">· was #88</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-146">
+  <div class="topic-head">
+    <span class="badge">146</span>
+    <p class="prompt">Qui doit aider les personnes âgées, les citoyens ou l’état ? Que pensez-vous de l’action civile ?<span class="orig">· was #135</span></p>
+  </div>
+</section>
+<section class="topic" id="p-278">
+  <div class="topic-head">
+    <span class="badge">278</span>
+    <p class="prompt">D’après vous, qui doit aider les personnes en situation difficile : le gouvernement ou les citoyens ? Quel est votre avis ?<span class="orig">· was #256</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-36">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-73">
   <div class="topic-head">
     <span class="badge">73</span>
     <p class="prompt">À la maison, les parents devraient interdire à leurs enfants l’utilisation d’Internet. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #55</span></p>
   </div>
 </section>
-<section class="topic" id="p-74">
+<section class="topic" id="p-98">
   <div class="topic-head">
-    <span class="badge">74</span>
-    <p class="prompt">Quand on vit à l’étranger, il est indispensable de rester dans la communauté de son pays d’origine. Qu’en pensez vous ?<span class="orig">· was #29</span></p>
+    <span class="badge">98</span>
+    <p class="prompt">Les parents doivent laisser les enfants utiliser Internet sans avoir peur. Qu’en pensez-vous ?<span class="orig">· was #41</span></p>
   </div>
 </section>
+<section class="topic" id="p-303">
+  <div class="topic-head">
+    <span class="badge">303</span>
+    <p class="prompt">Faut-il interdire l'accès à internet aux enfants ? Qu'en pensez-vous ?<span class="orig">· was #13</span></p>
+  </div>
+</section>
+<section class="topic" id="p-308">
+  <div class="topic-head">
+    <span class="badge">308</span>
+    <p class="prompt">Les parents devraient-ils permettre à leurs enfants d’être sur les réseaux sociaux ? Êtes-vous d’accord ?<span class="orig">· was #98</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-37">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-75">
   <div class="topic-head">
     <span class="badge">75</span>
     <p class="prompt">Les sorties pédagogiques (musée, zoos, galeries) pour les enfants sont-elles bénéfiques ? Expliquez votre point de vue.<span class="orig">· was #126</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-91">
+  <div class="topic-head">
+    <span class="badge">91</span>
+    <p class="prompt">Les parcs zoologiques ont-ils une utilité ? Pourquoi ?<span class="orig">· was #259</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-76">
   <div class="topic-head">
     <span class="badge">76</span>
@@ -528,36 +1378,38 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">D’après vous, quelles mesures un pays peut-il adopter pour faciliter l’intégration des étrangers ?<span class="orig">· was #245</span></p>
   </div>
 </section>
-<section class="topic" id="p-78">
-  <div class="topic-head">
-    <span class="badge">78</span>
-    <p class="prompt">Pour protéger la planète, faut-il acheter des aliments produits localement et selon les saisons ? Êtes-vous d’accord ?<span class="orig">· was #246</span></p>
-  </div>
-</section>
 <section class="topic" id="p-79">
   <div class="topic-head">
     <span class="badge">79</span>
     <p class="prompt">Selon vous, les prestations sociales réduisent-elles la solidarité entre les membres d’une famille ? Expliquez .<span class="orig">· was #248</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-38">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-80">
   <div class="topic-head">
     <span class="badge">80</span>
     <p class="prompt">Les relations d’amitié virtuelles sur Internet peuvent-elles être aussi solides que les liens familiaux ? Expliquez votre point de vue .<span class="orig">· was #239</span></p>
   </div>
 </section>
-<section class="topic" id="p-81">
+<section class="topic" id="p-240">
   <div class="topic-head">
-    <span class="badge">81</span>
-    <p class="prompt">Quand quelqu’un quitte son pays pour aller vivre ailleurs, c’est souvent parce qu’il n’a pas d’autre choix. Qu’en pensez-vous ?<span class="orig">· was #68</span></p>
+    <span class="badge">240</span>
+    <p class="prompt">De nos jours, grâce à Internet, les relations à distance peuvent-elles être aussi solides que les relations directes ? Partagez-vous cet avis ?<span class="orig">· was #102</span></p>
   </div>
 </section>
-<section class="topic" id="p-82">
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-117">
   <div class="topic-head">
-    <span class="badge">82</span>
-    <p class="prompt">Certaines personnes préfèrent vivre sans se servir de la technologie (téléphone, Internet, ordinateur). Qu’en pensez-vous ?<span class="orig">· was #209</span></p>
+    <span class="badge">117</span>
+    <p class="prompt">Grâce aux réseaux sociaux, il est plus facile de se faire des connaissances et des amitiés. Qu’en pensez-vous ?<span class="orig">· was #289</span></p>
   </div>
 </section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-83">
   <div class="topic-head">
     <span class="badge">83</span>
@@ -582,370 +1434,33 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Il est nécessaire de limiter la circulation des voitures en ville. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #4</span></p>
   </div>
 </section>
-<section class="topic" id="p-87">
-  <div class="topic-head">
-    <span class="badge">87</span>
-    <p class="prompt">Quel est le type d’action solidaire que vous aimeriez faire ?<span class="orig">· was #130</span></p>
-  </div>
-</section>
-<section class="topic" id="p-88">
-  <div class="topic-head">
-    <span class="badge">88</span>
-    <p class="prompt">Quelles formes d’engagement citoyen, telles que le bénévolat ou les actions écologiques, trouvez-vous exemplaires ? Justifiez votre réponse .<span class="orig">· was #160</span></p>
-  </div>
-</section>
+<div class="tcf-group" id="g-EO_T3-39">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-89">
   <div class="topic-head">
     <span class="badge">89</span>
     <p class="prompt">Pensez-vous que les jeunes s’impliquent moins aujourd’hui dans des domaines comme l’environnement, la politique ou la santé ? Pourquoi ?<span class="orig">· was #308</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-241">
+  <div class="topic-head">
+    <span class="badge">241</span>
+    <p class="prompt">Pourquoi, selon vous, certaines personnes ne montrent-elles pas d’intérêt pour la politique ?<span class="orig">· was #151</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-40">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">7 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-90">
   <div class="topic-head">
     <span class="badge">90</span>
     <p class="prompt">Faut-il être autoritaire avec ses enfants ? Qu’en pensez-vous ?<span class="orig">· was #3</span></p>
-  </div>
-</section>
-<section class="topic" id="p-91">
-  <div class="topic-head">
-    <span class="badge">91</span>
-    <p class="prompt">Les parcs zoologiques ont-ils une utilité ? Pourquoi ?<span class="orig">· was #259</span></p>
-  </div>
-</section>
-<section class="topic" id="p-92">
-  <div class="topic-head">
-    <span class="badge">92</span>
-    <p class="prompt">Les universités ont-elles besoin de plus de financement pour mieux fonctionner ? Expliquez votre point de vue .<span class="orig">· was #158</span></p>
-  </div>
-</section>
-<section class="topic" id="p-93">
-  <div class="topic-head">
-    <span class="badge">93</span>
-    <p class="prompt">Pensez-vous qu’il soit simple de préserver sa culture d’origine en vivant à l’étranger ? Expliquez pourquoi .<span class="orig">· was #298</span></p>
-  </div>
-</section>
-<section class="topic" id="p-94">
-  <div class="topic-head">
-    <span class="badge">94</span>
-    <p class="prompt">Pensez-vous que la liberté d’expression doit être limitée ? Pourquoi ?<span class="orig">· was #128</span></p>
-  </div>
-</section>
-<section class="topic" id="p-95">
-  <div class="topic-head">
-    <span class="badge">95</span>
-    <p class="prompt">Certaines personnes font le choix de ne pas avoir d’enfant. Quels sont les facteurs qui motivent cette décision et quelles en sont les implications sociétales et personnelles ?<span class="orig">· was #131</span></p>
-  </div>
-</section>
-<section class="topic" id="p-96">
-  <div class="topic-head">
-    <span class="badge">96</span>
-    <p class="prompt">Pensez-vous que l’exploration de l’espace est trop chère et qu’elle n’est pas nécessaire ? Pourquoi ?<span class="orig">· was #192</span></p>
-  </div>
-</section>
-<section class="topic" id="p-97">
-  <div class="topic-head">
-    <span class="badge">97</span>
-    <p class="prompt">À votre avis, vivre de longues années à l’étranger fait-il oublier sa culture d’origine ? Expliquez .<span class="orig">· was #287</span></p>
-  </div>
-</section>
-<section class="topic" id="p-98">
-  <div class="topic-head">
-    <span class="badge">98</span>
-    <p class="prompt">Les parents doivent laisser les enfants utiliser Internet sans avoir peur. Qu’en pensez-vous ?<span class="orig">· was #41</span></p>
-  </div>
-</section>
-<section class="topic" id="p-99">
-  <div class="topic-head">
-    <span class="badge">99</span>
-    <p class="prompt">La plupart des gens essaient-ils de paraître plus jeunes que leur âge ? Qu’en pensez-vous ?<span class="orig">· was #125</span></p>
-  </div>
-</section>
-<section class="topic" id="p-100">
-  <div class="topic-head">
-    <span class="badge">100</span>
-    <p class="prompt">Consommer des produits bio est réservé aux personnes les plus riches. Êtes vous d’accord? Pourquoi?<span class="orig">· was #37</span></p>
-  </div>
-</section>
-<section class="topic" id="p-101">
-  <div class="topic-head">
-    <span class="badge">101</span>
-    <p class="prompt">Pensez-vous que les réseaux sociaux sont une perte de temps ou, au contraire, un outil utile ? Justifiez votre point de vue .<span class="orig">· was #213</span></p>
-  </div>
-</section>
-<section class="topic" id="p-102">
-  <div class="topic-head">
-    <span class="badge">102</span>
-    <p class="prompt">Êtes vous d’accord avec cette affirmation : les vieux sont toujours pessimistes par rapport aux jeunes ? êtes-vous optimiste par rapport aux nouvelles générations ?<span class="orig">· was #293</span></p>
-  </div>
-</section>
-<section class="topic" id="p-103">
-  <div class="topic-head">
-    <span class="badge">103</span>
-    <p class="prompt">Faites-vous confiance aux informations que vous consultez sur le web ? Pourquoi ?<span class="orig">· was #134</span></p>
-  </div>
-</section>
-<section class="topic" id="p-104">
-  <div class="topic-head">
-    <span class="badge">104</span>
-    <p class="prompt">Pourquoi les gens s’intéressent-ils aux voyages en train, en avion ou en bus (selon le contexte local) ?<span class="orig">· was #38</span></p>
-  </div>
-</section>
-<section class="topic" id="p-105">
-  <div class="topic-head">
-    <span class="badge">105</span>
-    <p class="prompt">Le développement des achats sur Internet pourrait-il entraîner la disparition des magasins physiques ? Quel est votre avis ?<span class="orig">· was #231</span></p>
-  </div>
-</section>
-<section class="topic" id="p-106">
-  <div class="topic-head">
-    <span class="badge">106</span>
-    <p class="prompt">Parmi ces médias (journaux, radio, télévision, internet, réseaux sociaux), lequel préférez-vous pour vous informer ? Expliquez votre choix.<span class="orig">· was #251</span></p>
-  </div>
-</section>
-<section class="topic" id="p-107">
-  <div class="topic-head">
-    <span class="badge">107</span>
-    <p class="prompt">Pensez-vous que la télévision contribue à l’éveil et à l’apprentissage des enfants ? Êtes-vous d’accord ?<span class="orig">· was #179</span></p>
-  </div>
-</section>
-<section class="topic" id="p-108">
-  <div class="topic-head">
-    <span class="badge">108</span>
-    <p class="prompt">Les métiers les plus difficiles devraient être les métiers les mieux payés. Qu’en pensez-vous ?<span class="orig">· was #31</span></p>
-  </div>
-</section>
-<section class="topic" id="p-109">
-  <div class="topic-head">
-    <span class="badge">109</span>
-    <p class="prompt">Pensez-vous que les actions simples de chaque jour puissent réellement avoir un impact sur la protection de la planète ? Pourquoi ?<span class="orig">· was #106</span></p>
-  </div>
-</section>
-<section class="topic" id="p-110">
-  <div class="topic-head">
-    <span class="badge">110</span>
-    <p class="prompt">Pensez-vous que le travail à distance aide vraiment à mieux équilibrer la vie professionnelle et la vie privée ?<span class="orig">· was #99</span></p>
-  </div>
-</section>
-<section class="topic" id="p-111">
-  <div class="topic-head">
-    <span class="badge">111</span>
-    <p class="prompt">Pour une personne âgée, il est plus facile de vivre en ville qu’à la campagne. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #87</span></p>
-  </div>
-</section>
-<section class="topic" id="p-112">
-  <div class="topic-head">
-    <span class="badge">112</span>
-    <p class="prompt">Pour être en bonne santé, il faut arrêter de manger de la viande. Que pensez-vous de cette affirmation ?<span class="orig">· was #80</span></p>
-  </div>
-</section>
-<section class="topic" id="p-113">
-  <div class="topic-head">
-    <span class="badge">113</span>
-    <p class="prompt">À votre avis, les jeux vidéo peuvent-ils nuire aux enfants ? Pourquoi ?<span class="orig">· was #220</span></p>
-  </div>
-</section>
-<section class="topic" id="p-114">
-  <div class="topic-head">
-    <span class="badge">114</span>
-    <p class="prompt">Connaître le pays d’accueil est-il essentiel pour un immigrant ? Expliquez pourquoi .<span class="orig">· was #203</span></p>
-  </div>
-</section>
-<section class="topic" id="p-115">
-  <div class="topic-head">
-    <span class="badge">115</span>
-    <p class="prompt">Les bons résultats scolaires sont-ils indispensables pour réussir dans la vie ? Partagez votre point de vue en argumentant .<span class="orig">· was #187</span></p>
-  </div>
-</section>
-<section class="topic" id="p-116">
-  <div class="topic-head">
-    <span class="badge">116</span>
-    <p class="prompt">Les célébrités devraient participer davantage à la vie politique. Que pensez-vous de cette affirmation ?<span class="orig">· was #118</span></p>
-  </div>
-</section>
-<section class="topic" id="p-117">
-  <div class="topic-head">
-    <span class="badge">117</span>
-    <p class="prompt">Grâce aux réseaux sociaux, il est plus facile de se faire des connaissances et des amitiés. Qu’en pensez-vous ?<span class="orig">· was #289</span></p>
-  </div>
-</section>
-<section class="topic" id="p-118">
-  <div class="topic-head">
-    <span class="badge">118</span>
-    <p class="prompt">Selon vous, est-il important d’étudier des langues étrangères ? Pour quelles raisons ?<span class="orig">· was #142</span></p>
-  </div>
-</section>
-<section class="topic" id="p-119">
-  <div class="topic-head">
-    <span class="badge">119</span>
-    <p class="prompt">Pensez-vous qu’il est possible de découvrir un pays sans savoir sa langue ? Pourquoi ?<span class="orig">· was #9</span></p>
-  </div>
-</section>
-<section class="topic" id="p-120">
-  <div class="topic-head">
-    <span class="badge">120</span>
-    <p class="prompt">Télétravail : Analysez les avantages et les défis du télétravail, notamment en termes de gestion du temps.<span class="orig">· was #162</span></p>
-  </div>
-</section>
-<section class="topic" id="p-121">
-  <div class="topic-head">
-    <span class="badge">121</span>
-    <p class="prompt">Tout le monde peut agir pour produire moins de déchets. Qu’en pensez-vous ?<span class="orig">· was #284</span></p>
-  </div>
-</section>
-<section class="topic" id="p-122">
-  <div class="topic-head">
-    <span class="badge">122</span>
-    <p class="prompt">Selon vous, quel serait l’âge idéal pour émigrer ? Pourquoi cet âge en particulier ?<span class="orig">· was #180</span></p>
-  </div>
-</section>
-<section class="topic" id="p-123">
-  <div class="topic-head">
-    <span class="badge">123</span>
-    <p class="prompt">Vivre à l’étranger représente un véritable défi pour beaucoup de personnes. Partagez-vous cette idée ? Expliquez pourquoi.<span class="orig">· was #124</span></p>
-  </div>
-</section>
-<section class="topic" id="p-124">
-  <div class="topic-head">
-    <span class="badge">124</span>
-    <p class="prompt">Faut-il absolument vivre dans un pays pour bien comprendre sa culture ? Justifiez .<span class="orig">· was #224</span></p>
-  </div>
-</section>
-<section class="topic" id="p-125">
-  <div class="topic-head">
-    <span class="badge">125</span>
-    <p class="prompt">Pensez-vous qu’il soit important que chacun puisse travailler depuis chez lui s’il le désire ?<span class="orig">· was #254</span></p>
-  </div>
-</section>
-<section class="topic" id="p-126">
-  <div class="topic-head">
-    <span class="badge">126</span>
-    <p class="prompt">Les universités doivent accepter tous les étudiants sans processus de sélection. Partagez-vous cette opinion ?<span class="orig">· was #306</span></p>
-  </div>
-</section>
-<section class="topic" id="p-127">
-  <div class="topic-head">
-    <span class="badge">127</span>
-    <p class="prompt">Croyez-vous que les personnes continuent à cuisiner régulièrement aujourd’hui ? Pourquoi ?<span class="orig">· was #58</span></p>
-  </div>
-</section>
-<section class="topic" id="p-128">
-  <div class="topic-head">
-    <span class="badge">128</span>
-    <p class="prompt">Que pensez-vous de la qualité de la nourriture dans votre pays ? Pourquoi ?<span class="orig">· was #78</span></p>
-  </div>
-</section>
-<section class="topic" id="p-129">
-  <div class="topic-head">
-    <span class="badge">129</span>
-    <p class="prompt">Il faut obliger les enfants à faire du sport. Êtes-vous d’accord ? Pourquoi ?<span class="orig">· was #7</span></p>
-  </div>
-</section>
-<section class="topic" id="p-130">
-  <div class="topic-head">
-    <span class="badge">130</span>
-    <p class="prompt">La diversité sociale et culturelle à l’école favorise-t-elle l’esprit de tolérance chez les élèves ? Pourquoi ?<span class="orig">· was #199</span></p>
-  </div>
-</section>
-<section class="topic" id="p-131">
-  <div class="topic-head">
-    <span class="badge">131</span>
-    <p class="prompt">Prendre la décision de quitter son pays est facile. Qu’en pensez-vous ?<span class="orig">· was #79</span></p>
-  </div>
-</section>
-<section class="topic" id="p-132">
-  <div class="topic-head">
-    <span class="badge">132</span>
-    <p class="prompt">Avez-vous une préférence entre les pièces de théâtre et les films ? Expliquez votre choix.<span class="orig">· was #113</span></p>
-  </div>
-</section>
-<section class="topic" id="p-133">
-  <div class="topic-head">
-    <span class="badge">133</span>
-    <p class="prompt">Pendant leur temps libre, certaines personnes s’engagent dans des associations pour aider les autres. Qu’en pensez-vous ?<span class="orig">· was #275</span></p>
-  </div>
-</section>
-<section class="topic" id="p-134">
-  <div class="topic-head">
-    <span class="badge">134</span>
-    <p class="prompt">Les animaux de compagnie peuvent-ils rendre les personnes plus heureuses ? Pourquoi ?<span class="orig">· was #45</span></p>
-  </div>
-</section>
-<section class="topic" id="p-135">
-  <div class="topic-head">
-    <span class="badge">135</span>
-    <p class="prompt">Pensez-vous que nos habitudes alimentaires se transforment au fil des années ?<span class="orig">· was #204</span></p>
-  </div>
-</section>
-<section class="topic" id="p-136">
-  <div class="topic-head">
-    <span class="badge">136</span>
-    <p class="prompt">Tous les soins médicaux devraient-ils être offerts gratuitement à tout le monde ? Quel est votre avis ?<span class="orig">· was #272</span></p>
-  </div>
-</section>
-<section class="topic" id="p-137">
-  <div class="topic-head">
-    <span class="badge">137</span>
-    <p class="prompt">À votre avis, est-il préférable que tous les employés d’une entreprise gagnent le même salaire ? Pourquoi ?<span class="orig">· was #206</span></p>
-  </div>
-</section>
-<section class="topic" id="p-138">
-  <div class="topic-head">
-    <span class="badge">138</span>
-    <p class="prompt">Peut-on réellement connaître un pays uniquement à travers la lecture de livres ? Pourquoi ?<span class="orig">· was #57</span></p>
-  </div>
-</section>
-<section class="topic" id="p-139">
-  <div class="topic-head">
-    <span class="badge">139</span>
-    <p class="prompt">Pour quelles raisons le métier de professeur peut-il paraître difficile ou impressionnant ?<span class="orig">· was #71</span></p>
-  </div>
-</section>
-<section class="topic" id="p-140">
-  <div class="topic-head">
-    <span class="badge">140</span>
-    <p class="prompt">L’utilisation d’Internet peut amener les personnes à se sentir seules ? Qu’en pensez-vous ?<span class="orig">· was #178</span></p>
-  </div>
-</section>
-<section class="topic" id="p-141">
-  <div class="topic-head">
-    <span class="badge">141</span>
-    <p class="prompt">Pour réussir dans la vie professionnelle il faut être beau ou belle. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #50</span></p>
-  </div>
-</section>
-<section class="topic" id="p-142">
-  <div class="topic-head">
-    <span class="badge">142</span>
-    <p class="prompt">Certains choisissent de ne pas avoir l’actualité par le biais de la télévision? Qu’en pensez-vous?<span class="orig">· was #236</span></p>
-  </div>
-</section>
-<section class="topic" id="p-143">
-  <div class="topic-head">
-    <span class="badge">143</span>
-    <p class="prompt">Est-il important de développer les énergies renouvelable ?<span class="orig">· was #267</span></p>
-  </div>
-</section>
-<section class="topic" id="p-144">
-  <div class="topic-head">
-    <span class="badge">144</span>
-    <p class="prompt">Il faut être compétent dans son métier pour progresser dans la hiérarchie d’une entreprise. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #47</span></p>
-  </div>
-</section>
-<section class="topic" id="p-145">
-  <div class="topic-head">
-    <span class="badge">145</span>
-    <p class="prompt">Faut-il toujours dire toute la vérité aux enfants ? Donnez votre avis .<span class="orig">· was #281</span></p>
-  </div>
-</section>
-<section class="topic" id="p-146">
-  <div class="topic-head">
-    <span class="badge">146</span>
-    <p class="prompt">Qui doit aider les personnes âgées, les citoyens ou l’état ? Que pensez-vous de l’action civile ?<span class="orig">· was #135</span></p>
-  </div>
-</section>
-<section class="topic" id="p-147">
-  <div class="topic-head">
-    <span class="badge">147</span>
-    <p class="prompt">Les téléphones portables facilitent la communication. Etes-vous d’accord avec cette affirmation? Pourquoi?<span class="orig">· was #217</span></p>
   </div>
 </section>
 <section class="topic" id="p-148">
@@ -954,46 +1469,430 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Pensez-vous que l’autorité soit indispensable pour bien éduquer les enfants ? Justifiez votre point de vue .<span class="orig">· was #166</span></p>
   </div>
 </section>
-<section class="topic" id="p-149">
+<section class="topic" id="p-190">
   <div class="topic-head">
-    <span class="badge">149</span>
-    <p class="prompt">La télé-réalité a une mauvaise influence sur les jeunes. Qu’en pensez-vous ?<span class="orig">· was #230</span></p>
+    <span class="badge">190</span>
+    <p class="prompt">Est-il utile d’imposer des règles strictes à ses enfants ? Donnez votre avis .<span class="orig">· was #228</span></p>
   </div>
 </section>
-<section class="topic" id="p-150">
+<section class="topic" id="p-205">
   <div class="topic-head">
-    <span class="badge">150</span>
-    <p class="prompt">Selon vous, un monde sans frontière, ni passeport, ni visa est-il possible ? Pourquoi ?<span class="orig">· was #222</span></p>
+    <span class="badge">205</span>
+    <p class="prompt">À votre avis, faut-il de l’autorité pour élever correctement un enfant ? Pourquoi ?<span class="orig">· was #165</span></p>
   </div>
 </section>
-<section class="topic" id="p-151">
+<section class="topic" id="p-216">
   <div class="topic-head">
-    <span class="badge">151</span>
-    <p class="prompt">La bonne santé exige-t-elle de consommer seulement des produits biologiques ? Êtes-vous d’accord ?<span class="orig">· was #210</span></p>
+    <span class="badge">216</span>
+    <p class="prompt">À votre avis, l’autorité joue-t-elle un rôle essentiel dans l’éducation des enfants ?<span class="orig">· was #185</span></p>
   </div>
 </section>
-<section class="topic" id="p-152">
+<section class="topic" id="p-230">
   <div class="topic-head">
-    <span class="badge">152</span>
-    <p class="prompt">Les autorités devraient-elles restreindre les déplacements en avion pour préserver l’environnement ? Qu’en pensez-vous ?<span class="orig">· was #297</span></p>
+    <span class="badge">230</span>
+    <p class="prompt">Est-il important d’adopter une attitude autoritaire envers ses enfants ? Qu’en pensez-vous ?<span class="orig">· was #145</span></p>
   </div>
 </section>
-<section class="topic" id="p-153">
+<section class="topic" id="p-247">
   <div class="topic-head">
-    <span class="badge">153</span>
-    <p class="prompt">Adaptation à l’étranger : Évoquez les facilités et les défis de l’intégration d’un jeune qui déménage à l’étranger.<span class="orig">· was #253</span></p>
+    <span class="badge">247</span>
+    <p class="prompt">Est-ce que vous pensez que l’autorité est nécessaire dans l’éducation d’un enfant ? Pourquoi ?<span class="orig">· was #109</span></p>
   </div>
 </section>
-<section class="topic" id="p-154">
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-92">
   <div class="topic-head">
-    <span class="badge">154</span>
-    <p class="prompt">Choix de vêtements : Débattez de l’importance du choix des vêtements dans un cadre professionnel, surtout en contexte de télétravail.<span class="orig">· was #175</span></p>
+    <span class="badge">92</span>
+    <p class="prompt">Les universités ont-elles besoin de plus de financement pour mieux fonctionner ? Expliquez votre point de vue .<span class="orig">· was #158</span></p>
   </div>
 </section>
-<section class="topic" id="p-155">
+<section class="topic" id="p-94">
   <div class="topic-head">
-    <span class="badge">155</span>
-    <p class="prompt">Pensez-vous qu’il faut toujours respecter les instructions donnés par son supérieur au travail ? Pourquoi ?<span class="orig">· was #181</span></p>
+    <span class="badge">94</span>
+    <p class="prompt">Pensez-vous que la liberté d’expression doit être limitée ? Pourquoi ?<span class="orig">· was #128</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-41">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-95">
+  <div class="topic-head">
+    <span class="badge">95</span>
+    <p class="prompt">Certaines personnes font le choix de ne pas avoir d’enfant. Quels sont les facteurs qui motivent cette décision et quelles en sont les implications sociétales et personnelles ?<span class="orig">· was #131</span></p>
+  </div>
+</section>
+<section class="topic" id="p-235">
+  <div class="topic-head">
+    <span class="badge">235</span>
+    <p class="prompt">De nos jours, certaines personnes décident de ne pas avoir d’enfants. Quel est votre avis sur cette décision ?<span class="orig">· was #115</span></p>
+  </div>
+</section>
+<section class="topic" id="p-262">
+  <div class="topic-head">
+    <span class="badge">262</span>
+    <p class="prompt">Pensez-vous qu’il est acceptable de ne pas vouloir avoir d’enfants ?<span class="orig">· was #132</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-96">
+  <div class="topic-head">
+    <span class="badge">96</span>
+    <p class="prompt">Pensez-vous que l’exploration de l’espace est trop chère et qu’elle n’est pas nécessaire ? Pourquoi ?<span class="orig">· was #192</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-42">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-101">
+  <div class="topic-head">
+    <span class="badge">101</span>
+    <p class="prompt">Pensez-vous que les réseaux sociaux sont une perte de temps ou, au contraire, un outil utile ? Justifiez votre point de vue .<span class="orig">· was #213</span></p>
+  </div>
+</section>
+<section class="topic" id="p-198">
+  <div class="topic-head">
+    <span class="badge">198</span>
+    <p class="prompt">L’utilisation des réseaux sociaux ou des applications rend-elle les gens moins dynamiques ? Qu’en pensez-vous ?<span class="orig">· was #171</span></p>
+  </div>
+</section>
+<section class="topic" id="p-225">
+  <div class="topic-head">
+    <span class="badge">225</span>
+    <p class="prompt">Pensez-vous que l’utilisation des réseaux sociaux empêche de se concentrer sur l’essentiel ? Pourquoi ?<span class="orig">· was #156</span></p>
+  </div>
+</section>
+<section class="topic" id="p-268">
+  <div class="topic-head">
+    <span class="badge">268</span>
+    <p class="prompt">Selon vous, l’utilisation des réseaux sociaux fait-elle perdre un temps précieux ? Pourquoi ?<span class="orig">· was #143</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-43">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">6 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-102">
+  <div class="topic-head">
+    <span class="badge">102</span>
+    <p class="prompt">Êtes vous d’accord avec cette affirmation : les vieux sont toujours pessimistes par rapport aux jeunes ? êtes-vous optimiste par rapport aux nouvelles générations ?<span class="orig">· was #293</span></p>
+  </div>
+</section>
+<section class="topic" id="p-180">
+  <div class="topic-head">
+    <span class="badge">180</span>
+    <p class="prompt">Aujourd’hui, les jeunes sont de moins en moins respectueux. Êtes-vous d’accord ? Pourquoi ?<span class="orig">· was #184</span></p>
+  </div>
+</section>
+<section class="topic" id="p-197">
+  <div class="topic-head">
+    <span class="badge">197</span>
+    <p class="prompt">Pensez-vous que les adultes perçoivent les jeunes de manière négative ? Pourquoi ?<span class="orig">· was #154</span></p>
+  </div>
+</section>
+<section class="topic" id="p-201">
+  <div class="topic-head">
+    <span class="badge">201</span>
+    <p class="prompt">Les jeunes sont plus optimistes que leurs aînés. Qu’en pensez-vous ?<span class="orig">· was #152</span></p>
+  </div>
+</section>
+<section class="topic" id="p-270">
+  <div class="topic-head">
+    <span class="badge">270</span>
+    <p class="prompt">Les vieux ont une vision pessimiste des jeunes. Qu’en pensez-vous ?<span class="orig">· was #111</span></p>
+  </div>
+</section>
+<section class="topic" id="p-295">
+  <div class="topic-head">
+    <span class="badge">295</span>
+    <p class="prompt">Êtes-vous d’accord avec cette affirmation : les adultes portent un regard pessimiste sur les jeunes ? Pourquoi ?<span class="orig">· was #136</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-44">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-103">
+  <div class="topic-head">
+    <span class="badge">103</span>
+    <p class="prompt">Faites-vous confiance aux informations que vous consultez sur le web ? Pourquoi ?<span class="orig">· was #134</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-176">
+  <div class="topic-head">
+    <span class="badge">176</span>
+    <p class="prompt">On est mieux informé grâce à Internet. Qu’en pensez-vous ?<span class="orig">· was #19</span></p>
+  </div>
+</section>
+<section class="topic" id="p-223">
+  <div class="topic-head">
+    <span class="badge">223</span>
+    <p class="prompt">Grâce à Internet, sommes-nous mieux informés qu’avant ? Donnez votre avis .<span class="orig">· was #201</span></p>
+  </div>
+</section>
+<section class="topic" id="p-266">
+  <div class="topic-head">
+    <span class="badge">266</span>
+    <p class="prompt">Avec Internet, on reçoit plus d’informations. Qu’en pensez-vous ?<span class="orig">· was #44</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-104">
+  <div class="topic-head">
+    <span class="badge">104</span>
+    <p class="prompt">Pourquoi les gens s’intéressent-ils aux voyages en train, en avion ou en bus (selon le contexte local) ?<span class="orig">· was #38</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-45">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-105">
+  <div class="topic-head">
+    <span class="badge">105</span>
+    <p class="prompt">Le développement des achats sur Internet pourrait-il entraîner la disparition des magasins physiques ? Quel est votre avis ?<span class="orig">· was #231</span></p>
+  </div>
+</section>
+<section class="topic" id="p-191">
+  <div class="topic-head">
+    <span class="badge">191</span>
+    <p class="prompt">Est-il possible de réaliser tous ses achats en ligne ? Qu’en pensez-vous ?<span class="orig">· was #34</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-106">
+  <div class="topic-head">
+    <span class="badge">106</span>
+    <p class="prompt">Parmi ces médias (journaux, radio, télévision, internet, réseaux sociaux), lequel préférez-vous pour vous informer ? Expliquez votre choix.<span class="orig">· was #251</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-46">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">7 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-110">
+  <div class="topic-head">
+    <span class="badge">110</span>
+    <p class="prompt">Pensez-vous que le travail à distance aide vraiment à mieux équilibrer la vie professionnelle et la vie privée ?<span class="orig">· was #99</span></p>
+  </div>
+</section>
+<section class="topic" id="p-120">
+  <div class="topic-head">
+    <span class="badge">120</span>
+    <p class="prompt">Télétravail : Analysez les avantages et les défis du télétravail, notamment en termes de gestion du temps.<span class="orig">· was #162</span></p>
+  </div>
+</section>
+<section class="topic" id="p-125">
+  <div class="topic-head">
+    <span class="badge">125</span>
+    <p class="prompt">Pensez-vous qu’il soit important que chacun puisse travailler depuis chez lui s’il le désire ?<span class="orig">· was #254</span></p>
+  </div>
+</section>
+<section class="topic" id="p-172">
+  <div class="topic-head">
+    <span class="badge">172</span>
+    <p class="prompt">Le développement du télétravail en est une amélioration pour tous. Qu’en pensez-vous ?<span class="orig">· was #96</span></p>
+  </div>
+</section>
+<section class="topic" id="p-220">
+  <div class="topic-head">
+    <span class="badge">220</span>
+    <p class="prompt">Le télétravail aide à trouver un bon équilibre entre travail et vie privée. Quel est votre avis ?<span class="orig">· was #286</span></p>
+  </div>
+</section>
+<section class="topic" id="p-243">
+  <div class="topic-head">
+    <span class="badge">243</span>
+    <p class="prompt">Selon vous, devrait-on obliger toutes les personnes pouvant travailler depuis chez elles à pratiquer le télétravail ? Pourquoi ?<span class="orig">· was #288</span></p>
+  </div>
+</section>
+<section class="topic" id="p-275">
+  <div class="topic-head">
+    <span class="badge">275</span>
+    <p class="prompt">Les entreprises devraient-elles réduire le télétravail pour leurs salariés ? Pourquoi ?<span class="orig">· was #85</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-111">
+  <div class="topic-head">
+    <span class="badge">111</span>
+    <p class="prompt">Pour une personne âgée, il est plus facile de vivre en ville qu’à la campagne. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #87</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-47">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-114">
+  <div class="topic-head">
+    <span class="badge">114</span>
+    <p class="prompt">Connaître le pays d’accueil est-il essentiel pour un immigrant ? Expliquez pourquoi .<span class="orig">· was #203</span></p>
+  </div>
+</section>
+<section class="topic" id="p-256">
+  <div class="topic-head">
+    <span class="badge">256</span>
+    <p class="prompt">Si vous immigrez, est-il important pour vous de bien connaître le pays d’accueil ?<span class="orig">· was #155</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-48">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">3 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-115">
+  <div class="topic-head">
+    <span class="badge">115</span>
+    <p class="prompt">Les bons résultats scolaires sont-ils indispensables pour réussir dans la vie ? Partagez votre point de vue en argumentant .<span class="orig">· was #187</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-164">
+  <div class="topic-head">
+    <span class="badge">164</span>
+    <p class="prompt">Aujourd’hui, les études sont souvent considérées comme essentielles pour trouver un emploi. Partagez votre opinion sur cette affirmation .<span class="orig">· was #227</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-296">
+  <div class="topic-head">
+    <span class="badge">296</span>
+    <p class="prompt">L’expérience est plus importante que les diplômes pour trouver un emploi. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #33</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-116">
+  <div class="topic-head">
+    <span class="badge">116</span>
+    <p class="prompt">Les célébrités devraient participer davantage à la vie politique. Que pensez-vous de cette affirmation ?<span class="orig">· was #118</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-49">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-122">
+  <div class="topic-head">
+    <span class="badge">122</span>
+    <p class="prompt">Selon vous, quel serait l’âge idéal pour émigrer ? Pourquoi cet âge en particulier ?<span class="orig">· was #180</span></p>
+  </div>
+</section>
+<section class="topic" id="p-204">
+  <div class="topic-head">
+    <span class="badge">204</span>
+    <p class="prompt">À votre avis, quel est le meilleur âge pour partir vivre à l’étranger ? Expliquez .<span class="orig">· was #51</span></p>
+  </div>
+</section>
+<section class="topic" id="p-261">
+  <div class="topic-head">
+    <span class="badge">261</span>
+    <p class="prompt">Quand est-il préférable de s’expatrier ? Donnez votre opinion .<span class="orig">· was #208</span></p>
+  </div>
+</section>
+<section class="topic" id="p-282">
+  <div class="topic-head">
+    <span class="badge">282</span>
+    <p class="prompt">L’immigration est-elle possible à tout âge ?<span class="orig">· was #164</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-50">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-124">
+  <div class="topic-head">
+    <span class="badge">124</span>
+    <p class="prompt">Faut-il absolument vivre dans un pays pour bien comprendre sa culture ? Justifiez .<span class="orig">· was #224</span></p>
+  </div>
+</section>
+<section class="topic" id="p-250">
+  <div class="topic-head">
+    <span class="badge">250</span>
+    <p class="prompt">On peut connaître les autres cultures sans voyager. Qu’en pensez-vous ?<span class="orig">· was #48</span></p>
+  </div>
+</section>
+<section class="topic" id="p-294">
+  <div class="topic-head">
+    <span class="badge">294</span>
+    <p class="prompt">Selon-vous, est-il nécessaire de vivre dans un pays pour connaître sa culture ? Expliquez pourquoi.<span class="orig">· was #90</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-138">
+  <div class="topic-head">
+    <span class="badge">138</span>
+    <p class="prompt">Peut-on réellement connaître un pays uniquement à travers la lecture de livres ? Pourquoi ?<span class="orig">· was #57</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-126">
+  <div class="topic-head">
+    <span class="badge">126</span>
+    <p class="prompt">Les universités doivent accepter tous les étudiants sans processus de sélection. Partagez-vous cette opinion ?<span class="orig">· was #306</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-51">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">3 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-127">
+  <div class="topic-head">
+    <span class="badge">127</span>
+    <p class="prompt">Croyez-vous que les personnes continuent à cuisiner régulièrement aujourd’hui ? Pourquoi ?<span class="orig">· was #58</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-135">
+  <div class="topic-head">
+    <span class="badge">135</span>
+    <p class="prompt">Pensez-vous que nos habitudes alimentaires se transforment au fil des années ?<span class="orig">· was #204</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-209">
+  <div class="topic-head">
+    <span class="badge">209</span>
+    <p class="prompt">La consommation d’objets comme les vêtements et les téléphones est-elle excessive ? Pourquoi ?<span class="orig">· was #94</span></p>
+  </div>
+</section>
+<section class="topic" id="p-212">
+  <div class="topic-head">
+    <span class="badge">212</span>
+    <p class="prompt">Que pensez-vous des nouvelles habitudes de consommation dans les pays développés ?<span class="orig">· was #241</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-128">
+  <div class="topic-head">
+    <span class="badge">128</span>
+    <p class="prompt">Que pensez-vous de la qualité de la nourriture dans votre pays ? Pourquoi ?<span class="orig">· was #78</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-52">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-129">
+  <div class="topic-head">
+    <span class="badge">129</span>
+    <p class="prompt">Il faut obliger les enfants à faire du sport. Êtes-vous d’accord ? Pourquoi ?<span class="orig">· was #7</span></p>
   </div>
 </section>
 <section class="topic" id="p-156">
@@ -1002,16 +1901,207 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Il faut encourager les enfants à participer aux compétitions sportives. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #194</span></p>
   </div>
 </section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-53">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-130">
+  <div class="topic-head">
+    <span class="badge">130</span>
+    <p class="prompt">La diversité sociale et culturelle à l’école favorise-t-elle l’esprit de tolérance chez les élèves ? Pourquoi ?<span class="orig">· was #199</span></p>
+  </div>
+</section>
+<section class="topic" id="p-196">
+  <div class="topic-head">
+    <span class="badge">196</span>
+    <p class="prompt">La diversité au sein des écoles favorise-t-elle l’épanouissement de tous les élèves. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #56</span></p>
+  </div>
+</section>
+<section class="topic" id="p-237">
+  <div class="topic-head">
+    <span class="badge">237</span>
+    <p class="prompt">La diversité dans les écoles aide-t-elle tous les élèves à mieux s’épanouir ?<span class="orig">· was #214</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-132">
+  <div class="topic-head">
+    <span class="badge">132</span>
+    <p class="prompt">Avez-vous une préférence entre les pièces de théâtre et les films ? Expliquez votre choix.<span class="orig">· was #113</span></p>
+  </div>
+</section>
+<section class="topic" id="p-136">
+  <div class="topic-head">
+    <span class="badge">136</span>
+    <p class="prompt">Tous les soins médicaux devraient-ils être offerts gratuitement à tout le monde ? Quel est votre avis ?<span class="orig">· was #272</span></p>
+  </div>
+</section>
+<section class="topic" id="p-139">
+  <div class="topic-head">
+    <span class="badge">139</span>
+    <p class="prompt">Pour quelles raisons le métier de professeur peut-il paraître difficile ou impressionnant ?<span class="orig">· was #71</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-54">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">3 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-140">
+  <div class="topic-head">
+    <span class="badge">140</span>
+    <p class="prompt">L’utilisation d’Internet peut amener les personnes à se sentir seules ? Qu’en pensez-vous ?<span class="orig">· was #178</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-234">
+  <div class="topic-head">
+    <span class="badge">234</span>
+    <p class="prompt">Pensez-vous qu’Internet contribue réellement au bonheur des gens ? Justifiez votre réponse .<span class="orig">· was #86</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-269">
+  <div class="topic-head">
+    <span class="badge">269</span>
+    <p class="prompt">Est-ce l'internet contribue de façon positive ou négative dans la vie des gens ? Qu'en pensez-vous ?<span class="orig">· was #28</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-55">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">3 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-142">
+  <div class="topic-head">
+    <span class="badge">142</span>
+    <p class="prompt">Certains choisissent de ne pas avoir l’actualité par le biais de la télévision? Qu’en pensez-vous?<span class="orig">· was #236</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-170">
+  <div class="topic-head">
+    <span class="badge">170</span>
+    <p class="prompt">De nos jours, est-il faisable de vivre sans télévision ? Expliquez .<span class="orig">· was #212</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-305">
+  <div class="topic-head">
+    <span class="badge">305</span>
+    <p class="prompt">Les gens regardent de moins en moins la télévision. Etes-vous d’accord avec cette affirmation ?<span class="orig">· was #83</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-143">
+  <div class="topic-head">
+    <span class="badge">143</span>
+    <p class="prompt">Est-il important de développer les énergies renouvelable ?<span class="orig">· was #267</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-56">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-144">
+  <div class="topic-head">
+    <span class="badge">144</span>
+    <p class="prompt">Il faut être compétent dans son métier pour progresser dans la hiérarchie d’une entreprise. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #47</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-265">
+  <div class="topic-head">
+    <span class="badge">265</span>
+    <p class="prompt">À votre avis, faut-il étudier longtemps pour gagner un salaire important ?<span class="orig">· was #266</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-145">
+  <div class="topic-head">
+    <span class="badge">145</span>
+    <p class="prompt">Faut-il toujours dire toute la vérité aux enfants ? Donnez votre avis .<span class="orig">· was #281</span></p>
+  </div>
+</section>
+<section class="topic" id="p-147">
+  <div class="topic-head">
+    <span class="badge">147</span>
+    <p class="prompt">Les téléphones portables facilitent la communication. Etes-vous d’accord avec cette affirmation? Pourquoi?<span class="orig">· was #217</span></p>
+  </div>
+</section>
+<section class="topic" id="p-149">
+  <div class="topic-head">
+    <span class="badge">149</span>
+    <p class="prompt">La télé-réalité a une mauvaise influence sur les jeunes. Qu’en pensez-vous ?<span class="orig">· was #230</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-57">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">3 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-152">
+  <div class="topic-head">
+    <span class="badge">152</span>
+    <p class="prompt">Les autorités devraient-elles restreindre les déplacements en avion pour préserver l’environnement ? Qu’en pensez-vous ?<span class="orig">· was #297</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-185">
+  <div class="topic-head">
+    <span class="badge">185</span>
+    <p class="prompt">Il y a trop de touristes dans une ville, c’est un problème pour les habitants. Qu’en pensez-vous ?<span class="orig">· was #20</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-214">
+  <div class="topic-head">
+    <span class="badge">214</span>
+    <p class="prompt">Le développement du tourisme est contraire à la protection de l’environnement. vous. Qu’en pensez-vous?<span class="orig">· was #147</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-58">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-154">
+  <div class="topic-head">
+    <span class="badge">154</span>
+    <p class="prompt">Choix de vêtements : Débattez de l’importance du choix des vêtements dans un cadre professionnel, surtout en contexte de télétravail.<span class="orig">· was #175</span></p>
+  </div>
+</section>
+<section class="topic" id="p-195">
+  <div class="topic-head">
+    <span class="badge">195</span>
+    <p class="prompt">Pensez-vous que les vêtements que l’on porte ont de l’importance dans la vie ? Justifiez .<span class="orig">· was #270</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-155">
+  <div class="topic-head">
+    <span class="badge">155</span>
+    <p class="prompt">Pensez-vous qu’il faut toujours respecter les instructions donnés par son supérieur au travail ? Pourquoi ?<span class="orig">· was #181</span></p>
+  </div>
+</section>
 <section class="topic" id="p-157">
   <div class="topic-head">
     <span class="badge">157</span>
     <p class="prompt">Quel travail souhaiteriez-vous essayer un jour ? Justifiez .<span class="orig">· was #247</span></p>
-  </div>
-</section>
-<section class="topic" id="p-158">
-  <div class="topic-head">
-    <span class="badge">158</span>
-    <p class="prompt">Quel est votre avis sur les actions prises dans votre pays pour diminuer la pollution ?<span class="orig">· was #273</span></p>
   </div>
 </section>
 <section class="topic" id="p-159">
@@ -1026,82 +2116,36 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Il n’y a pas d’âge limite pour apprendre. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #12</span></p>
   </div>
 </section>
-<section class="topic" id="p-161">
-  <div class="topic-head">
-    <span class="badge">161</span>
-    <p class="prompt">Le tourisme contribue à la croissance et au développement du pays. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #205</span></p>
-  </div>
-</section>
-<section class="topic" id="p-162">
-  <div class="topic-head">
-    <span class="badge">162</span>
-    <p class="prompt">Si vous vous installez dans un autre pays, croyez-vous que cela vous offrira plus d’opportunités professionnelles et personnelles ? Pourquoi ?<span class="orig">· was #243</span></p>
-  </div>
-</section>
-<section class="topic" id="p-163">
-  <div class="topic-head">
-    <span class="badge">163</span>
-    <p class="prompt">Trouvez-vous acceptable de prolonger l’âge de départ à la retraite jusqu’à 70 ans ?<span class="orig">· was #271</span></p>
-  </div>
-</section>
-<section class="topic" id="p-164">
-  <div class="topic-head">
-    <span class="badge">164</span>
-    <p class="prompt">Aujourd’hui, les études sont souvent considérées comme essentielles pour trouver un emploi. Partagez votre opinion sur cette affirmation .<span class="orig">· was #227</span></p>
-  </div>
-</section>
-<section class="topic" id="p-165">
-  <div class="topic-head">
-    <span class="badge">165</span>
-    <p class="prompt">Quelles actions et gestes doit-on entreprendre pour lutter contre la pollution ?<span class="orig">· was #196</span></p>
-  </div>
-</section>
 <section class="topic" id="p-166">
   <div class="topic-head">
     <span class="badge">166</span>
     <p class="prompt">Il est possible de vivre sans médicaments. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #198</span></p>
   </div>
 </section>
-<section class="topic" id="p-167">
-  <div class="topic-head">
-    <span class="badge">167</span>
-    <p class="prompt">Si vous allez vivre au Canada, pensez-vous que vous trouverez facilement du travail ? Pourquoi ?<span class="orig">· was #67</span></p>
-  </div>
-</section>
+<div class="tcf-group" id="g-EO_T3-59">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-168">
   <div class="topic-head">
     <span class="badge">168</span>
     <p class="prompt">Obtenir un emploi quand on est jeune peut poser plus de difficultés. Êtes-vous d’accord ? Pourquoi ?<span class="orig">· was #215</span></p>
   </div>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-271">
+  <div class="topic-head">
+    <span class="badge">271</span>
+    <p class="prompt">Selon vous, que doit faire un jeune pour trouver un emploi ?<span class="orig">· was #120</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-169">
   <div class="topic-head">
     <span class="badge">169</span>
     <p class="prompt">Les personnes âgées offrent souvent des conseils utiles. Qu’en pensez-vous ?<span class="orig">· was #285</span></p>
-  </div>
-</section>
-<section class="topic" id="p-170">
-  <div class="topic-head">
-    <span class="badge">170</span>
-    <p class="prompt">De nos jours, est-il faisable de vivre sans télévision ? Expliquez .<span class="orig">· was #212</span></p>
-  </div>
-</section>
-<section class="topic" id="p-171">
-  <div class="topic-head">
-    <span class="badge">171</span>
-    <p class="prompt">Peut-on se passer d’Internet dans la vie quotidienne ? Pourquoi ?<span class="orig">· was #105</span></p>
-  </div>
-</section>
-<section class="topic" id="p-172">
-  <div class="topic-head">
-    <span class="badge">172</span>
-    <p class="prompt">Le développement du télétravail en est une amélioration pour tous. Qu’en pensez-vous ?<span class="orig">· was #96</span></p>
-  </div>
-</section>
-<section class="topic" id="p-173">
-  <div class="topic-head">
-    <span class="badge">173</span>
-    <p class="prompt">De jeunes Canadiens choisissent d’habiter chez leurs parents, parce qu’ils s’y sentent confortables. Qu’en pensez-vous ?<span class="orig">· was #278</span></p>
   </div>
 </section>
 <section class="topic" id="p-174">
@@ -1110,40 +2154,10 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Le plus important pour conserver la santé est-il de bien se nourrir ? Qu’en pensez-vous ?<span class="orig">· was #110</span></p>
   </div>
 </section>
-<section class="topic" id="p-175">
-  <div class="topic-head">
-    <span class="badge">175</span>
-    <p class="prompt">La priorité de l’école, c’est d’enseigner le programme scolaire. Que pensez-vous de cette affirmation ? Pourquoi ?<span class="orig">· was #26</span></p>
-  </div>
-</section>
-<section class="topic" id="p-176">
-  <div class="topic-head">
-    <span class="badge">176</span>
-    <p class="prompt">On est mieux informé grâce à Internet. Qu’en pensez-vous ?<span class="orig">· was #19</span></p>
-  </div>
-</section>
-<section class="topic" id="p-177">
-  <div class="topic-head">
-    <span class="badge">177</span>
-    <p class="prompt">Avoir une expérience à l’étranger est-il un atout indispensable pour réussir sa carrière professionnelle ? Expliquez votre opinion .<span class="orig">· was #269</span></p>
-  </div>
-</section>
-<section class="topic" id="p-178">
-  <div class="topic-head">
-    <span class="badge">178</span>
-    <p class="prompt">La télévision est-elle un bon outil pour acquérir des connaissances ? Qu’en pensez-vous ?<span class="orig">· was #261</span></p>
-  </div>
-</section>
 <section class="topic" id="p-179">
   <div class="topic-head">
     <span class="badge">179</span>
     <p class="prompt">Faut-il que les parents surveillent les amis de leurs enfants ? Quel est votre point de vue ?<span class="orig">· was #21</span></p>
-  </div>
-</section>
-<section class="topic" id="p-180">
-  <div class="topic-head">
-    <span class="badge">180</span>
-    <p class="prompt">Aujourd’hui, les jeunes sont de moins en moins respectueux. Êtes-vous d’accord ? Pourquoi ?<span class="orig">· was #184</span></p>
   </div>
 </section>
 <section class="topic" id="p-181">
@@ -1152,238 +2166,36 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Il est indispensable de savoir parler anglais quand on voyage à l’étranger. Qu’en pensez-vous ?<span class="orig">· was #2</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-60">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-182">
   <div class="topic-head">
     <span class="badge">182</span>
     <p class="prompt">Est-il bon de faire plusieurs métiers dans sa carrière ? Qu'en pensez-vous ?<span class="orig">· was #14</span></p>
   </div>
 </section>
-<section class="topic" id="p-183">
+<section class="topic" id="p-284">
   <div class="topic-head">
-    <span class="badge">183</span>
-    <p class="prompt">Les entreprises doivent-elles accepter que les employés se reposent au travail ? Êtes-vous d’accord ?<span class="orig">· was #121</span></p>
+    <span class="badge">284</span>
+    <p class="prompt">Est-il bénéfique de changer plusieurs fois de métier pendant sa carrière ?<span class="orig">· was #81</span></p>
   </div>
 </section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-184">
   <div class="topic-head">
     <span class="badge">184</span>
     <p class="prompt">D’après vous, Internet a-t-il changé les habitudes dans le monde du travail ?<span class="orig">· was #233</span></p>
   </div>
 </section>
-<section class="topic" id="p-185">
-  <div class="topic-head">
-    <span class="badge">185</span>
-    <p class="prompt">Il y a trop de touristes dans une ville, c’est un problème pour les habitants. Qu’en pensez-vous ?<span class="orig">· was #20</span></p>
-  </div>
-</section>
+<div class="tcf-group" id="g-EO_T3-61">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-186">
   <div class="topic-head">
     <span class="badge">186</span>
     <p class="prompt">Changer de métier est-il réellement envisageable à tout moment de la vie ? Quels sont les défis et les opportunités liés à une reconversion professionnelle ?<span class="orig">· was #116</span></p>
-  </div>
-</section>
-<section class="topic" id="p-187">
-  <div class="topic-head">
-    <span class="badge">187</span>
-    <p class="prompt">Quels sont, selon vous, les principaux objectifs du développement du tourisme dans un pays ? Quels bénéfices peut-il apporter à l’économie et à la culture locale ?<span class="orig">· was #279</span></p>
-  </div>
-</section>
-<section class="topic" id="p-188">
-  <div class="topic-head">
-    <span class="badge">188</span>
-    <p class="prompt">Pensez-vous que les personnes handicapées disposent d’une place suffisante dans la société ? Pourquoi ?<span class="orig">· was #148</span></p>
-  </div>
-</section>
-<section class="topic" id="p-189">
-  <div class="topic-head">
-    <span class="badge">189</span>
-    <p class="prompt">Les jeux vidéo constituent-ils un danger pour les joueurs ? Expliquez pourquoi .<span class="orig">· was #54</span></p>
-  </div>
-</section>
-<section class="topic" id="p-190">
-  <div class="topic-head">
-    <span class="badge">190</span>
-    <p class="prompt">Est-il utile d’imposer des règles strictes à ses enfants ? Donnez votre avis .<span class="orig">· was #228</span></p>
-  </div>
-</section>
-<section class="topic" id="p-191">
-  <div class="topic-head">
-    <span class="badge">191</span>
-    <p class="prompt">Est-il possible de réaliser tous ses achats en ligne ? Qu’en pensez-vous ?<span class="orig">· was #34</span></p>
-  </div>
-</section>
-<section class="topic" id="p-192">
-  <div class="topic-head">
-    <span class="badge">192</span>
-    <p class="prompt">Le voyage fait de vous une meilleure personne. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #92</span></p>
-  </div>
-</section>
-<section class="topic" id="p-193">
-  <div class="topic-head">
-    <span class="badge">193</span>
-    <p class="prompt">Est-il pratique de continuer à vivre avec ses parents après l’âge de 25 ans ? Qu’en pensez-vous ?<span class="orig">· was #73</span></p>
-  </div>
-</section>
-<section class="topic" id="p-194">
-  <div class="topic-head">
-    <span class="badge">194</span>
-    <p class="prompt">Selon vous, est-ce que les jeunes ont plus de facilité à apprendre une langue étrangère que les personnes âgées ?<span class="orig">· was #138</span></p>
-  </div>
-</section>
-<section class="topic" id="p-195">
-  <div class="topic-head">
-    <span class="badge">195</span>
-    <p class="prompt">Pensez-vous que les vêtements que l’on porte ont de l’importance dans la vie ? Justifiez .<span class="orig">· was #270</span></p>
-  </div>
-</section>
-<section class="topic" id="p-196">
-  <div class="topic-head">
-    <span class="badge">196</span>
-    <p class="prompt">La diversité au sein des écoles favorise-t-elle l’épanouissement de tous les élèves. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #56</span></p>
-  </div>
-</section>
-<section class="topic" id="p-197">
-  <div class="topic-head">
-    <span class="badge">197</span>
-    <p class="prompt">Pensez-vous que les adultes perçoivent les jeunes de manière négative ? Pourquoi ?<span class="orig">· was #154</span></p>
-  </div>
-</section>
-<section class="topic" id="p-198">
-  <div class="topic-head">
-    <span class="badge">198</span>
-    <p class="prompt">L’utilisation des réseaux sociaux ou des applications rend-elle les gens moins dynamiques ? Qu’en pensez-vous ?<span class="orig">· was #171</span></p>
-  </div>
-</section>
-<section class="topic" id="p-199">
-  <div class="topic-head">
-    <span class="badge">199</span>
-    <p class="prompt">Pour la protection de la planète, les efforts de chaque personne (tri, économie d’électricité, etc.) sont nécessaires. Êtes-vous d’accord ?<span class="orig">· was #305</span></p>
-  </div>
-</section>
-<section class="topic" id="p-200">
-  <div class="topic-head">
-    <span class="badge">200</span>
-    <p class="prompt">Il est nécessaire d’apprendre la langue du pays où l’on vit pour s’intégrer. Êtes-vous d’accord avec cette affirmation ? Pourquoi ?<span class="orig">· was #62</span></p>
-  </div>
-</section>
-<section class="topic" id="p-201">
-  <div class="topic-head">
-    <span class="badge">201</span>
-    <p class="prompt">Les jeunes sont plus optimistes que leurs aînés. Qu’en pensez-vous ?<span class="orig">· was #152</span></p>
-  </div>
-</section>
-<section class="topic" id="p-202">
-  <div class="topic-head">
-    <span class="badge">202</span>
-    <p class="prompt">L’écologie devrait-elle être enseignée dès le plus jeune âge à l’école ? Êtes-vous d’accord avec cette idée ?<span class="orig">· was #264</span></p>
-  </div>
-</section>
-<section class="topic" id="p-203">
-  <div class="topic-head">
-    <span class="badge">203</span>
-    <p class="prompt">Le voyage est-il une activité principalement accessible aux personnes riches ? Partagez votre opinion .<span class="orig">· was #195</span></p>
-  </div>
-</section>
-<section class="topic" id="p-204">
-  <div class="topic-head">
-    <span class="badge">204</span>
-    <p class="prompt">À votre avis, quel est le meilleur âge pour partir vivre à l’étranger ? Expliquez .<span class="orig">· was #51</span></p>
-  </div>
-</section>
-<section class="topic" id="p-205">
-  <div class="topic-head">
-    <span class="badge">205</span>
-    <p class="prompt">À votre avis, faut-il de l’autorité pour élever correctement un enfant ? Pourquoi ?<span class="orig">· was #165</span></p>
-  </div>
-</section>
-<section class="topic" id="p-206">
-  <div class="topic-head">
-    <span class="badge">206</span>
-    <p class="prompt">Quelles sont les raisons qui peuvent pousser une personne à s’engager dans une action humanitaire ?<span class="orig">· was #95</span></p>
-  </div>
-</section>
-<section class="topic" id="p-207">
-  <div class="topic-head">
-    <span class="badge">207</span>
-    <p class="prompt">Est-il possible de se fier aux rendez-vous médicaux à distance ? Pourquoi ?<span class="orig">· was #59</span></p>
-  </div>
-</section>
-<section class="topic" id="p-208">
-  <div class="topic-head">
-    <span class="badge">208</span>
-    <p class="prompt">Existe-t-il des professions plus utiles que d’autres ? Pourquoi ?<span class="orig">· was #75</span></p>
-  </div>
-</section>
-<section class="topic" id="p-209">
-  <div class="topic-head">
-    <span class="badge">209</span>
-    <p class="prompt">La consommation d’objets comme les vêtements et les téléphones est-elle excessive ? Pourquoi ?<span class="orig">· was #94</span></p>
-  </div>
-</section>
-<section class="topic" id="p-210">
-  <div class="topic-head">
-    <span class="badge">210</span>
-    <p class="prompt">Certaines personnes estiment qu’il est impossible de combattre le stress. Quel est votre avis ?<span class="orig">· was #66</span></p>
-  </div>
-</section>
-<section class="topic" id="p-211">
-  <div class="topic-head">
-    <span class="badge">211</span>
-    <p class="prompt">Tous les membres du foyer doivent participer aux tâches ménagères. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #173</span></p>
-  </div>
-</section>
-<section class="topic" id="p-212">
-  <div class="topic-head">
-    <span class="badge">212</span>
-    <p class="prompt">Que pensez-vous des nouvelles habitudes de consommation dans les pays développés ?<span class="orig">· was #241</span></p>
-  </div>
-</section>
-<section class="topic" id="p-213">
-  <div class="topic-head">
-    <span class="badge">213</span>
-    <p class="prompt">À votre avis, les enfants peuvent-ils aider à mieux s’intégrer lorsqu’on arrive dans un pays étranger ? Expliquez pourquoi .<span class="orig">· was #280</span></p>
-  </div>
-</section>
-<section class="topic" id="p-214">
-  <div class="topic-head">
-    <span class="badge">214</span>
-    <p class="prompt">Le développement du tourisme est contraire à la protection de l’environnement. vous. Qu’en pensez-vous?<span class="orig">· was #147</span></p>
-  </div>
-</section>
-<section class="topic" id="p-215">
-  <div class="topic-head">
-    <span class="badge">215</span>
-    <p class="prompt">Aujourd’hui, on peut tout apprendre seuls grâce à Internet. Qu’en pensez-vous ?<span class="orig">· was #140</span></p>
-  </div>
-</section>
-<section class="topic" id="p-216">
-  <div class="topic-head">
-    <span class="badge">216</span>
-    <p class="prompt">À votre avis, l’autorité joue-t-elle un rôle essentiel dans l’éducation des enfants ?<span class="orig">· was #185</span></p>
-  </div>
-</section>
-<section class="topic" id="p-217">
-  <div class="topic-head">
-    <span class="badge">217</span>
-    <p class="prompt">Pensez-vous que le tourisme puisse favoriser le développement dans tous les pays ? Pourquoi ?<span class="orig">· was #93</span></p>
-  </div>
-</section>
-<section class="topic" id="p-218">
-  <div class="topic-head">
-    <span class="badge">218</span>
-    <p class="prompt">Selon vous, doit-on protéger tous les animaux en voie de disparition ? Pourquoi ?<span class="orig">· was #137</span></p>
-  </div>
-</section>
-<section class="topic" id="p-219">
-  <div class="topic-head">
-    <span class="badge">219</span>
-    <p class="prompt">Faut-il réduire le temps de travail pour vivre plus pleinement ? Qu’en pensez-vous ?<span class="orig">· was #43</span></p>
-  </div>
-</section>
-<section class="topic" id="p-220">
-  <div class="topic-head">
-    <span class="badge">220</span>
-    <p class="prompt">Le télétravail aide à trouver un bon équilibre entre travail et vie privée. Quel est votre avis ?<span class="orig">· was #286</span></p>
   </div>
 </section>
 <section class="topic" id="p-221">
@@ -1392,30 +2204,127 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Pensez-vous qu’il est possible de changer de carrière à tout âge ? Qu’en pensez-vous ?<span class="orig">· was #32</span></p>
   </div>
 </section>
-<section class="topic" id="p-222">
+<section class="topic" id="p-263">
   <div class="topic-head">
-    <span class="badge">222</span>
-    <p class="prompt">Est-ce important de se socialiser avec les gens qui habitent à l'étranger ?<span class="orig">· was #40</span></p>
+    <span class="badge">263</span>
+    <p class="prompt">Selon vous, peut-on commencer un nouveau métier même à un âge avancé ?<span class="orig">· was #202</span></p>
   </div>
 </section>
-<section class="topic" id="p-223">
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-188">
   <div class="topic-head">
-    <span class="badge">223</span>
-    <p class="prompt">Grâce à Internet, sommes-nous mieux informés qu’avant ? Donnez votre avis .<span class="orig">· was #201</span></p>
+    <span class="badge">188</span>
+    <p class="prompt">Pensez-vous que les personnes handicapées disposent d’une place suffisante dans la société ? Pourquoi ?<span class="orig">· was #148</span></p>
   </div>
 </section>
-<section class="topic" id="p-224">
+<section class="topic" id="p-203">
   <div class="topic-head">
-    <span class="badge">224</span>
-    <p class="prompt">De nos jours, les jeunes rejettent l’idée de vieillir. Quel est votre avis sur cette idée ?<span class="orig">· was #260</span></p>
+    <span class="badge">203</span>
+    <p class="prompt">Le voyage est-il une activité principalement accessible aux personnes riches ? Partagez votre opinion .<span class="orig">· was #195</span></p>
   </div>
 </section>
-<section class="topic" id="p-225">
+<section class="topic" id="p-207">
   <div class="topic-head">
-    <span class="badge">225</span>
-    <p class="prompt">Pensez-vous que l’utilisation des réseaux sociaux empêche de se concentrer sur l’essentiel ? Pourquoi ?<span class="orig">· was #156</span></p>
+    <span class="badge">207</span>
+    <p class="prompt">Est-il possible de se fier aux rendez-vous médicaux à distance ? Pourquoi ?<span class="orig">· was #59</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-62">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-211">
+  <div class="topic-head">
+    <span class="badge">211</span>
+    <p class="prompt">Tous les membres du foyer doivent participer aux tâches ménagères. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #173</span></p>
+  </div>
+</section>
+<section class="topic" id="p-253">
+  <div class="topic-head">
+    <span class="badge">253</span>
+    <p class="prompt">Le partage des tâches ménagères. Qu'en pensez vous?<span class="orig">· was #11</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-273">
+  <div class="topic-head">
+    <span class="badge">273</span>
+    <p class="prompt">Les tâches ménagères ont-elles une importance dans notre quotidien?<span class="orig">· was #255</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-63">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-213">
+  <div class="topic-head">
+    <span class="badge">213</span>
+    <p class="prompt">À votre avis, les enfants peuvent-ils aider à mieux s’intégrer lorsqu’on arrive dans un pays étranger ? Expliquez pourquoi .<span class="orig">· was #280</span></p>
+  </div>
+</section>
+<section class="topic" id="p-251">
+  <div class="topic-head">
+    <span class="badge">251</span>
+    <p class="prompt">Les enfants s’intègrent facilement dans un pays étranger. Qu’en pensez-vous ?<span class="orig">· was #5</span></p>
+  </div>
+</section>
+<section class="topic" id="p-274">
+  <div class="topic-head">
+    <span class="badge">274</span>
+    <p class="prompt">L’intégration dans un pays étranger est-elle plus facile pour les jeunes que pour les adultes ? Expliquez votre point de vue .<span class="orig">· was #182</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EO_T3-64">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-215">
+  <div class="topic-head">
+    <span class="badge">215</span>
+    <p class="prompt">Aujourd’hui, on peut tout apprendre seuls grâce à Internet. Qu’en pensez-vous ?<span class="orig">· was #140</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-233">
+  <div class="topic-head">
+    <span class="badge">233</span>
+    <p class="prompt">Internet améliore l’éducation des jeunes. Qu’en pensez-vous ?<span class="orig">· was #188</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-218">
+  <div class="topic-head">
+    <span class="badge">218</span>
+    <p class="prompt">Selon vous, doit-on protéger tous les animaux en voie de disparition ? Pourquoi ?<span class="orig">· was #137</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-65">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-219">
+  <div class="topic-head">
+    <span class="badge">219</span>
+    <p class="prompt">Faut-il réduire le temps de travail pour vivre plus pleinement ? Qu’en pensez-vous ?<span class="orig">· was #43</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-289">
+  <div class="topic-head">
+    <span class="badge">289</span>
+    <p class="prompt">Il y a des personnes qui passent presque tout leur temps à travailler. Quel est votre avis ?<span class="orig">· was #291</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-226">
   <div class="topic-head">
     <span class="badge">226</span>
@@ -1428,102 +2337,58 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Est-ce que l’école offre les mêmes chances à tous les élèves ? Partagez votre opinion .<span class="orig">· was #292</span></p>
   </div>
 </section>
+<div class="tcf-group" id="g-EO_T3-66">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-228">
   <div class="topic-head">
     <span class="badge">228</span>
     <p class="prompt">Selon certains, la vie rurale est plus bénéfique pour la santé que la vie urbaine. Quel est votre avis ?<span class="orig">· was #257</span></p>
   </div>
 </section>
-<section class="topic" id="p-229">
-  <div class="topic-head">
-    <span class="badge">229</span>
-    <p class="prompt">Selon certains, des personnes très différentes ne peuvent pas garder une amitié durable. Êtes-vous d’accord ?<span class="orig">· was #295</span></p>
-  </div>
-</section>
-<section class="topic" id="p-230">
-  <div class="topic-head">
-    <span class="badge">230</span>
-    <p class="prompt">Est-il important d’adopter une attitude autoritaire envers ses enfants ? Qu’en pensez-vous ?<span class="orig">· was #145</span></p>
-  </div>
-</section>
-<section class="topic" id="p-231">
-  <div class="topic-head">
-    <span class="badge">231</span>
-    <p class="prompt">Est-il possible de vivre dans un pays sans connaître sa langue ? Quel est votre point de vue ?<span class="orig">· was #17</span></p>
-  </div>
-</section>
-<section class="topic" id="p-232">
-  <div class="topic-head">
-    <span class="badge">232</span>
-    <p class="prompt">À votre avis, faut-il interdire l’usage du téléphone portable à l’école ? Pourquoi ?<span class="orig">· was #52</span></p>
-  </div>
-</section>
-<section class="topic" id="p-233">
-  <div class="topic-head">
-    <span class="badge">233</span>
-    <p class="prompt">Internet améliore l’éducation des jeunes. Qu’en pensez-vous ?<span class="orig">· was #188</span></p>
-  </div>
-</section>
-<section class="topic" id="p-234">
-  <div class="topic-head">
-    <span class="badge">234</span>
-    <p class="prompt">Pensez-vous qu’Internet contribue réellement au bonheur des gens ? Justifiez votre réponse .<span class="orig">· was #86</span></p>
-  </div>
-</section>
-<section class="topic" id="p-235">
-  <div class="topic-head">
-    <span class="badge">235</span>
-    <p class="prompt">De nos jours, certaines personnes décident de ne pas avoir d’enfants. Quel est votre avis sur cette décision ?<span class="orig">· was #115</span></p>
-  </div>
-</section>
-<section class="topic" id="p-236">
-  <div class="topic-head">
-    <span class="badge">236</span>
-    <p class="prompt">Est-il réellement possible de changer ses coutumes alimentaires à l’âge adulte ? Pourquoi ?<span class="orig">· was #61</span></p>
-  </div>
-</section>
-<section class="topic" id="p-237">
-  <div class="topic-head">
-    <span class="badge">237</span>
-    <p class="prompt">La diversité dans les écoles aide-t-elle tous les élèves à mieux s’épanouir ?<span class="orig">· was #214</span></p>
-  </div>
-</section>
-<section class="topic" id="p-238">
-  <div class="topic-head">
-    <span class="badge">238</span>
-    <p class="prompt">À votre avis, quelles raisons peuvent amener quelqu’un à exercer un emploi à l’étranger ?<span class="orig">· was #170</span></p>
-  </div>
-</section>
-<section class="topic" id="p-239">
-  <div class="topic-head">
-    <span class="badge">239</span>
-    <p class="prompt">À votre avis, la famille occupe-t-elle la place la plus importante dans la vie ?<span class="orig">· was #103</span></p>
-  </div>
-</section>
-<section class="topic" id="p-240">
-  <div class="topic-head">
-    <span class="badge">240</span>
-    <p class="prompt">De nos jours, grâce à Internet, les relations à distance peuvent-elles être aussi solides que les relations directes ? Partagez-vous cet avis ?<span class="orig">· was #102</span></p>
-  </div>
-</section>
-<section class="topic" id="p-241">
-  <div class="topic-head">
-    <span class="badge">241</span>
-    <p class="prompt">Pourquoi, selon vous, certaines personnes ne montrent-elles pas d’intérêt pour la politique ?<span class="orig">· was #151</span></p>
-  </div>
-</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-242">
   <div class="topic-head">
     <span class="badge">242</span>
     <p class="prompt">Pensez-vous que vivre en ville provoque toujours du stress ? Êtes-vous d’accord ?<span class="orig">· was #30</span></p>
   </div>
 </section>
-<section class="topic" id="p-243">
+<section class="topic" id="p-264">
   <div class="topic-head">
-    <span class="badge">243</span>
-    <p class="prompt">Selon vous, devrait-on obliger toutes les personnes pouvant travailler depuis chez elles à pratiquer le télétravail ? Pourquoi ?<span class="orig">· was #288</span></p>
+    <span class="badge">264</span>
+    <p class="prompt">Pensez-vous que la vie en ville soit plus stressante que la vie à la campagne ? Qu’en pensez-vous ?<span class="orig">· was #114</span></p>
   </div>
 </section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-236">
+  <div class="topic-head">
+    <span class="badge">236</span>
+    <p class="prompt">Est-il réellement possible de changer ses coutumes alimentaires à l’âge adulte ? Pourquoi ?<span class="orig">· was #61</span></p>
+  </div>
+</section>
+<div class="tcf-group" id="g-EO_T3-67">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-239">
+  <div class="topic-head">
+    <span class="badge">239</span>
+    <p class="prompt">À votre avis, la famille occupe-t-elle la place la plus importante dans la vie ?<span class="orig">· was #103</span></p>
+  </div>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-293">
+  <div class="topic-head">
+    <span class="badge">293</span>
+    <p class="prompt">Les membres de notre famille sont nos meilleurs amis. Êtes-vous d’accord avec cette affirmation ? pourquoi ?<span class="orig">· was #112</span></p>
+  </div>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-244">
   <div class="topic-head">
     <span class="badge">244</span>
@@ -1536,52 +2401,10 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Il n’est pas nécessaire d’avoir des ami(e)s pour être heureux(se). Qu’en pensez-vous ?<span class="orig">· was #16</span></p>
   </div>
 </section>
-<section class="topic" id="p-246">
-  <div class="topic-head">
-    <span class="badge">246</span>
-    <p class="prompt">Le travail des personnes âgées est-il bon pour la société, selon vous ? Expliquez votre réponse .<span class="orig">· was #84</span></p>
-  </div>
-</section>
-<section class="topic" id="p-247">
-  <div class="topic-head">
-    <span class="badge">247</span>
-    <p class="prompt">Est-ce que vous pensez que l’autorité est nécessaire dans l’éducation d’un enfant ? Pourquoi ?<span class="orig">· was #109</span></p>
-  </div>
-</section>
 <section class="topic" id="p-248">
   <div class="topic-head">
     <span class="badge">248</span>
     <p class="prompt">Quand une famille s’installe à l’étranger, est-il préférable de parler aux enfants dans la langue du pays d’accueil ou dans la langue d’origine ? Pourquoi ?<span class="orig">· was #263</span></p>
-  </div>
-</section>
-<section class="topic" id="p-249">
-  <div class="topic-head">
-    <span class="badge">249</span>
-    <p class="prompt">Travailler et étudier en même temps est difficile. Êtes-vous d’accord avec cette affirmation?<span class="orig">· was #24</span></p>
-  </div>
-</section>
-<section class="topic" id="p-250">
-  <div class="topic-head">
-    <span class="badge">250</span>
-    <p class="prompt">On peut connaître les autres cultures sans voyager. Qu’en pensez-vous ?<span class="orig">· was #48</span></p>
-  </div>
-</section>
-<section class="topic" id="p-251">
-  <div class="topic-head">
-    <span class="badge">251</span>
-    <p class="prompt">Les enfants s’intègrent facilement dans un pays étranger. Qu’en pensez-vous ?<span class="orig">· was #5</span></p>
-  </div>
-</section>
-<section class="topic" id="p-252">
-  <div class="topic-head">
-    <span class="badge">252</span>
-    <p class="prompt">Les gens aiment rester toujours jeunes. Qu’en pensez-vous ?<span class="orig">· was #100</span></p>
-  </div>
-</section>
-<section class="topic" id="p-253">
-  <div class="topic-head">
-    <span class="badge">253</span>
-    <p class="prompt">Le partage des tâches ménagères. Qu'en pensez vous?<span class="orig">· was #11</span></p>
   </div>
 </section>
 <section class="topic" id="p-254">
@@ -1590,328 +2413,16 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
     <p class="prompt">Quel rôle jouent les réseaux sociaux dans notre société ?<span class="orig">· was #63</span></p>
   </div>
 </section>
-<section class="topic" id="p-255">
-  <div class="topic-head">
-    <span class="badge">255</span>
-    <p class="prompt">Que pensez-vous du recyclage des déchets ?<span class="orig">· was #10</span></p>
-  </div>
-</section>
-<section class="topic" id="p-256">
-  <div class="topic-head">
-    <span class="badge">256</span>
-    <p class="prompt">Si vous immigrez, est-il important pour vous de bien connaître le pays d’accueil ?<span class="orig">· was #155</span></p>
-  </div>
-</section>
-<section class="topic" id="p-257">
-  <div class="topic-head">
-    <span class="badge">257</span>
-    <p class="prompt">De nos jours, tout le monde veut rester jeune. Qu’en pensez-vous ?<span class="orig">· was #119</span></p>
-  </div>
-</section>
-<section class="topic" id="p-258">
-  <div class="topic-head">
-    <span class="badge">258</span>
-    <p class="prompt">L’apprentissage de la langue du pays dans lequel on vit est-il une nécessité pour mieux s’intégrer ? Partagez votre avis .<span class="orig">· was #240</span></p>
-  </div>
-</section>
-<section class="topic" id="p-259">
-  <div class="topic-head">
-    <span class="badge">259</span>
-    <p class="prompt">Comment le tourisme participe-t-il à l’économie et au développement d’un pays ?<span class="orig">· was #265</span></p>
-  </div>
-</section>
-<section class="topic" id="p-260">
-  <div class="topic-head">
-    <span class="badge">260</span>
-    <p class="prompt">Quelles sont les raisons qui poussent un pays à encourager le développement du tourisme ?<span class="orig">· was #104</span></p>
-  </div>
-</section>
-<section class="topic" id="p-261">
-  <div class="topic-head">
-    <span class="badge">261</span>
-    <p class="prompt">Quand est-il préférable de s’expatrier ? Donnez votre opinion .<span class="orig">· was #208</span></p>
-  </div>
-</section>
-<section class="topic" id="p-262">
-  <div class="topic-head">
-    <span class="badge">262</span>
-    <p class="prompt">Pensez-vous qu’il est acceptable de ne pas vouloir avoir d’enfants ?<span class="orig">· was #132</span></p>
-  </div>
-</section>
-<section class="topic" id="p-263">
-  <div class="topic-head">
-    <span class="badge">263</span>
-    <p class="prompt">Selon vous, peut-on commencer un nouveau métier même à un âge avancé ?<span class="orig">· was #202</span></p>
-  </div>
-</section>
-<section class="topic" id="p-264">
-  <div class="topic-head">
-    <span class="badge">264</span>
-    <p class="prompt">Pensez-vous que la vie en ville soit plus stressante que la vie à la campagne ? Qu’en pensez-vous ?<span class="orig">· was #114</span></p>
-  </div>
-</section>
-<section class="topic" id="p-265">
-  <div class="topic-head">
-    <span class="badge">265</span>
-    <p class="prompt">À votre avis, faut-il étudier longtemps pour gagner un salaire important ?<span class="orig">· was #266</span></p>
-  </div>
-</section>
-<section class="topic" id="p-266">
-  <div class="topic-head">
-    <span class="badge">266</span>
-    <p class="prompt">Avec Internet, on reçoit plus d’informations. Qu’en pensez-vous ?<span class="orig">· was #44</span></p>
-  </div>
-</section>
-<section class="topic" id="p-267">
-  <div class="topic-head">
-    <span class="badge">267</span>
-    <p class="prompt">Aujourd’hui, beaucoup disent qu’on ne peut plus vivre sans la technologie. Quelle est votre opinion ?<span class="orig">· was #303</span></p>
-  </div>
-</section>
-<section class="topic" id="p-268">
-  <div class="topic-head">
-    <span class="badge">268</span>
-    <p class="prompt">Selon vous, l’utilisation des réseaux sociaux fait-elle perdre un temps précieux ? Pourquoi ?<span class="orig">· was #143</span></p>
-  </div>
-</section>
-<section class="topic" id="p-269">
-  <div class="topic-head">
-    <span class="badge">269</span>
-    <p class="prompt">Est-ce l'internet contribue de façon positive ou négative dans la vie des gens ? Qu'en pensez-vous ?<span class="orig">· was #28</span></p>
-  </div>
-</section>
-<section class="topic" id="p-270">
-  <div class="topic-head">
-    <span class="badge">270</span>
-    <p class="prompt">Les vieux ont une vision pessimiste des jeunes. Qu’en pensez-vous ?<span class="orig">· was #111</span></p>
-  </div>
-</section>
-<section class="topic" id="p-271">
-  <div class="topic-head">
-    <span class="badge">271</span>
-    <p class="prompt">Selon vous, que doit faire un jeune pour trouver un emploi ?<span class="orig">· was #120</span></p>
-  </div>
-</section>
-<section class="topic" id="p-272">
-  <div class="topic-head">
-    <span class="badge">272</span>
-    <p class="prompt">Quitter son pays d’origine pour mieux vivre. Pour ou contre?<span class="orig">· was #89</span></p>
-  </div>
-</section>
-<section class="topic" id="p-273">
-  <div class="topic-head">
-    <span class="badge">273</span>
-    <p class="prompt">Les tâches ménagères ont-elles une importance dans notre quotidien?<span class="orig">· was #255</span></p>
-  </div>
-</section>
-<section class="topic" id="p-274">
-  <div class="topic-head">
-    <span class="badge">274</span>
-    <p class="prompt">L’intégration dans un pays étranger est-elle plus facile pour les jeunes que pour les adultes ? Expliquez votre point de vue .<span class="orig">· was #182</span></p>
-  </div>
-</section>
-<section class="topic" id="p-275">
-  <div class="topic-head">
-    <span class="badge">275</span>
-    <p class="prompt">Les entreprises devraient-elles réduire le télétravail pour leurs salariés ? Pourquoi ?<span class="orig">· was #85</span></p>
-  </div>
-</section>
-<section class="topic" id="p-276">
-  <div class="topic-head">
-    <span class="badge">276</span>
-    <p class="prompt">Doit-on apprendre les technologies à l’école dès le plus jeune âge ? Pourquoi ?<span class="orig">· was #250</span></p>
-  </div>
-</section>
-<section class="topic" id="p-277">
-  <div class="topic-head">
-    <span class="badge">277</span>
-    <p class="prompt">Quelles peuvent être les motivations d’une personne pour étudier à l’étranger ?<span class="orig">· was #76</span></p>
-  </div>
-</section>
-<section class="topic" id="p-278">
-  <div class="topic-head">
-    <span class="badge">278</span>
-    <p class="prompt">D’après vous, qui doit aider les personnes en situation difficile : le gouvernement ou les citoyens ? Quel est votre avis ?<span class="orig">· was #256</span></p>
-  </div>
-</section>
-<section class="topic" id="p-279">
-  <div class="topic-head">
-    <span class="badge">279</span>
-    <p class="prompt">Tout le monde peut participer au tri des déchets. Êtes-vous d’accord ?<span class="orig">· was #139</span></p>
-  </div>
-</section>
-<section class="topic" id="p-280">
-  <div class="topic-head">
-    <span class="badge">280</span>
-    <p class="prompt">Les jeux vidéo pour les enfants pour ou contre ? Justifiez votre réponse.<span class="orig">· was #35</span></p>
-  </div>
-</section>
-<section class="topic" id="p-281">
-  <div class="topic-head">
-    <span class="badge">281</span>
-    <p class="prompt">Le tourisme est-il important ? Justifiez votre réponse.<span class="orig">· was #8</span></p>
-  </div>
-</section>
-<section class="topic" id="p-282">
-  <div class="topic-head">
-    <span class="badge">282</span>
-    <p class="prompt">L’immigration est-elle possible à tout âge ?<span class="orig">· was #164</span></p>
-  </div>
-</section>
-<section class="topic" id="p-283">
-  <div class="topic-head">
-    <span class="badge">283</span>
-    <p class="prompt">Que pensez-vous de l’influence de la télévision sur les jeunes aujourd’hui?<span class="orig">· was #153</span></p>
-  </div>
-</section>
-<section class="topic" id="p-284">
-  <div class="topic-head">
-    <span class="badge">284</span>
-    <p class="prompt">Est-il bénéfique de changer plusieurs fois de métier pendant sa carrière ?<span class="orig">· was #81</span></p>
-  </div>
-</section>
-<section class="topic" id="p-285">
-  <div class="topic-head">
-    <span class="badge">285</span>
-    <p class="prompt">Internet rend-il la vie plus facile, selon vous ?<span class="orig">· was #74</span></p>
-  </div>
-</section>
-<section class="topic" id="p-286">
-  <div class="topic-head">
-    <span class="badge">286</span>
-    <p class="prompt">Pensez-vous que maîtriser la langue du pays où l’on vit soit essentiel pour bien s’intégrer ? Pourquoi ?<span class="orig">· was #60</span></p>
-  </div>
-</section>
 <section class="topic" id="p-287">
   <div class="topic-head">
     <span class="badge">287</span>
     <p class="prompt">Commencer un sport après 50 ans est‑il bénéfique ? Qu’en pensez-vous ?<span class="orig">· was #168</span></p>
   </div>
 </section>
-<section class="topic" id="p-288">
-  <div class="topic-head">
-    <span class="badge">288</span>
-    <p class="prompt">Peut-on vivre aujourd’hui sans téléphone portable ? Quel est votre avis ?<span class="orig">· was #157</span></p>
-  </div>
-</section>
-<section class="topic" id="p-289">
-  <div class="topic-head">
-    <span class="badge">289</span>
-    <p class="prompt">Il y a des personnes qui passent presque tout leur temps à travailler. Quel est votre avis ?<span class="orig">· was #291</span></p>
-  </div>
-</section>
-<section class="topic" id="p-290">
-  <div class="topic-head">
-    <span class="badge">290</span>
-    <p class="prompt">Une expérience de vie à l’étranger est toujours positive. Êtes vous d’accord avec cette affirmation ? Pourquoi ?<span class="orig">· was #189</span></p>
-  </div>
-</section>
-<section class="topic" id="p-291">
-  <div class="topic-head">
-    <span class="badge">291</span>
-    <p class="prompt">S’installer dans un nouveau pays est souvent difficile. Êtes-vous d’accord ? Expliquez pourquoi .<span class="orig">· was #39</span></p>
-  </div>
-</section>
-<section class="topic" id="p-292">
-  <div class="topic-head">
-    <span class="badge">292</span>
-    <p class="prompt">Pensez-vous qu’on devrait interdire les jeux d’argent et de hasard ? Pourquoi ?<span class="orig">· was #53</span></p>
-  </div>
-</section>
-<section class="topic" id="p-293">
-  <div class="topic-head">
-    <span class="badge">293</span>
-    <p class="prompt">Les membres de notre famille sont nos meilleurs amis. Êtes-vous d’accord avec cette affirmation ? pourquoi ?<span class="orig">· was #112</span></p>
-  </div>
-</section>
-<section class="topic" id="p-294">
-  <div class="topic-head">
-    <span class="badge">294</span>
-    <p class="prompt">Selon-vous, est-il nécessaire de vivre dans un pays pour connaître sa culture ? Expliquez pourquoi.<span class="orig">· was #90</span></p>
-  </div>
-</section>
-<section class="topic" id="p-295">
-  <div class="topic-head">
-    <span class="badge">295</span>
-    <p class="prompt">Êtes-vous d’accord avec cette affirmation : les adultes portent un regard pessimiste sur les jeunes ? Pourquoi ?<span class="orig">· was #136</span></p>
-  </div>
-</section>
-<section class="topic" id="p-296">
-  <div class="topic-head">
-    <span class="badge">296</span>
-    <p class="prompt">L’expérience est plus importante que les diplômes pour trouver un emploi. Êtes-vous d’accord avec cette affirmation ?<span class="orig">· was #33</span></p>
-  </div>
-</section>
-<section class="topic" id="p-297">
-  <div class="topic-head">
-    <span class="badge">297</span>
-    <p class="prompt">À votre avis, jusqu’à quel âge est-il raisonnable de travailler ? Expliquez .<span class="orig">· was #23</span></p>
-  </div>
-</section>
-<section class="topic" id="p-298">
-  <div class="topic-head">
-    <span class="badge">298</span>
-    <p class="prompt">L'internet est devenu indispensable dans notre vie. Etes-vous d'accord avec cette affirmation ?<span class="orig">· was #22</span></p>
-  </div>
-</section>
-<section class="topic" id="p-299">
-  <div class="topic-head">
-    <span class="badge">299</span>
-    <p class="prompt">Pensez-vous que les jeux vidéo peuvent participer à l’évolution d’un enfant ?<span class="orig">· was #258</span></p>
-  </div>
-</section>
-<section class="topic" id="p-300">
-  <div class="topic-head">
-    <span class="badge">300</span>
-    <p class="prompt">Est-il important d’apprendre à utiliser les nouvelles technologies (Internet, réseaux sociaux, etc.) dès l’enfance ? Pourquoi ?<span class="orig">· was #183</span></p>
-  </div>
-</section>
-<section class="topic" id="p-301">
-  <div class="topic-head">
-    <span class="badge">301</span>
-    <p class="prompt">Faut-il maîtriser la langue du pays où l’on réside ? Pourquoi ?<span class="orig">· was #25</span></p>
-  </div>
-</section>
-<section class="topic" id="p-302">
-  <div class="topic-head">
-    <span class="badge">302</span>
-    <p class="prompt">D’après vous, comment les jeux vidéo influencent-ils les enfants ? Pourquoi ?<span class="orig">· was #69</span></p>
-  </div>
-</section>
-<section class="topic" id="p-303">
-  <div class="topic-head">
-    <span class="badge">303</span>
-    <p class="prompt">Faut-il interdire l'accès à internet aux enfants ? Qu'en pensez-vous ?<span class="orig">· was #13</span></p>
-  </div>
-</section>
-<section class="topic" id="p-304">
-  <div class="topic-head">
-    <span class="badge">304</span>
-    <p class="prompt">Est-il possible d’être ami avec quelqu’un qui a des convictions opposées aux vôtres ?<span class="orig">· was #91</span></p>
-  </div>
-</section>
-<section class="topic" id="p-305">
-  <div class="topic-head">
-    <span class="badge">305</span>
-    <p class="prompt">Les gens regardent de moins en moins la télévision. Etes-vous d’accord avec cette affirmation ?<span class="orig">· was #83</span></p>
-  </div>
-</section>
 <section class="topic" id="p-306">
   <div class="topic-head">
     <span class="badge">306</span>
     <p class="prompt">Les téléphones portables permettent ils d’avoir la bonne information ? Êtes vous d’accord ?<span class="orig">· was #172</span></p>
-  </div>
-</section>
-<section class="topic" id="p-307">
-  <div class="topic-head">
-    <span class="badge">307</span>
-    <p class="prompt">Selon-vous, est-il nécessaire de parler la langue d’un pays avant d’y immigrer ? Expliquez pourquoi.<span class="orig">· was #65</span></p>
-  </div>
-</section>
-<section class="topic" id="p-308">
-  <div class="topic-head">
-    <span class="badge">308</span>
-    <p class="prompt">Les parents devraient-ils permettre à leurs enfants d’être sur les réseaux sociaux ? Êtes-vous d’accord ?<span class="orig">· was #98</span></p>
   </div>
 </section>
 <footer class="page">Site statique · sujets extraits de reussir-tcfcanada.com · aucun tracking.</footer>

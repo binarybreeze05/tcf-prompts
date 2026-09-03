@@ -26,7 +26,21 @@
       .sort(function(a, b){ return a.rank - b.rank; });
     var hasDifficulty = (ranked.length === sections.length);
 
-    var flow = Array.prototype.slice.call(document.querySelectorAll("section.topic"));
+    // Answer-groups: a section may live inside div.tcf-group; the group is the
+    // unit that gets moved by every ordering, positioned by its best member.
+    function unitOf(s){
+      var g = s.parentNode;
+      while (g && g !== document.body){
+        if (g.classList && g.classList.contains("tcf-group")) return g;
+        g = g.parentNode;
+      }
+      return s;
+    }
+    var flow = [];
+    sections.forEach(function(s){
+      var u = unitOf(s);
+      if (flow.indexOf(u) < 0) flow.push(u);
+    });
     if (!flow.length) return;
     var parent = flow[0].parentNode;
     var wrap = document.createElement("div");
@@ -34,6 +48,15 @@
     parent.insertBefore(wrap, flow[0]);
     flow.forEach(function(el){ wrap.appendChild(el); });
     var original = flow.slice();
+    var groups = flow.filter(function(u){ return u.classList.contains("tcf-group"); });
+    var placed = {};
+    function unitKey(u){ return u.id || ("s-" + (u.querySelector(".badge") || {}).textContent); }
+    function placeUnit(s){
+      var u = unitOf(s), k = unitKey(u);
+      if (placed[k]) return false;
+      placed[k] = 1; wrap.appendChild(u); return true;
+    }
+    function beginPlacing(){ placed = {}; }
 
     injectStyle();
     var ui = buildToolbar();
@@ -112,6 +135,23 @@
           chip.querySelector("i").textContent = "sur " + shownSecs.length;
         });
       }
+      groups.forEach(function(g){
+        var secs = g.querySelectorAll("section.topic"), all = secs.length > 0;
+        for (var i = 0; i < secs.length; i++){ if (!secs[i].classList.contains("tcf-is-done")){ all = false; break; } }
+        g.classList.toggle("tcf-group-alldone", all);
+        var cores = g.querySelectorAll(".tcf-core");
+        for (var c = 0; c < cores.length; c++){
+          var cs = cores[c].querySelectorAll("section.topic"), cd = cs.length > 0;
+          for (var j = 0; j < cs.length; j++){ if (!cs[j].classList.contains("tcf-is-done")){ cd = false; break; } }
+          cores[c].classList.toggle("tcf-core-alldone", cd);
+        }
+        var seams = g.querySelectorAll(".tcf-seam");
+        for (var k = 0; k < seams.length; k++){
+          var prev = seams[k].previousElementSibling, next = seams[k].nextElementSibling;
+          seams[k].classList.toggle("tcf-seam-hidden",
+            !!((prev && prev.classList.contains("tcf-core-alldone")) || (next && next.classList.contains("tcf-core-alldone"))));
+        }
+      });
       document.body.classList.toggle("tcf-hide-done", !!state.hideDone);
       ui.hideCb.checked = !!state.hideDone;
       ui.progFill.style.width = total ? Math.round(ndone / total * 100) + "%" : "0%";
@@ -218,7 +258,8 @@
       if (state.methodId === "similarity"){ renderSimilarity(); return; }
       if (state.methodId === "difficulty"){
         sections.forEach(function(s){ s.style.display=""; });
-        ranked.forEach(function(r){ wrap.appendChild(r.el); });
+        beginPlacing();
+        ranked.forEach(function(r){ placeUnit(r.el); });
         ui.desc.textContent = "Séquencé par difficulté croissante · rang #1 en premier. Le numéro d'origine imprimé sur chaque item est son rang de difficulté.";
         ui.summary.textContent = "Ordre de difficulté · " + sections.length + " " + unit;
         return;
@@ -266,10 +307,11 @@
         wrap.appendChild(caps);
       }
 
+      beginPlacing();
       pk.order.forEach(function(o){
         var s = byNum[o.badge];
         if (!s) return;
-        wrap.appendChild(s);
+        placeUnit(s);
         var head = s.querySelector(".topic-head");
         if (head){
           var chip = document.createElement("span");
@@ -327,10 +369,11 @@
       document.body.classList.add("tcf-mode-similarity");
       sections.forEach(function(s){ s.style.display = ""; });
       var total = pk.order.length;
+      beginPlacing();
       pk.order.forEach(function(o, i){
         var s = byNum[o.badge];
         if (!s) return;
-        wrap.appendChild(s);
+        placeUnit(s);
         var head = s.querySelector(".topic-head");
         if (head){
           var chip = document.createElement("span");
@@ -341,7 +384,9 @@
           headAdd(head, chip);
         }
         var nxt = pk.order[i + 1];
-        if (o.link && nxt){
+        var nxtSec = nxt ? byNum[nxt.badge] : null;
+        var nxtNew = nxtSec && unitOf(nxtSec) !== unitOf(s) && !placed[unitKey(unitOf(nxtSec))];
+        if (o.link && nxt && nxtNew){
           var link = document.createElement("div");
           link.className = "tcf-link";
           link.setAttribute("data-a", o.badge);
@@ -460,7 +505,9 @@
       + ".tcf-link span{flex:0 1 auto;max-width:70%;text-align:center;font-size:.74rem;"
       + "line-height:1.45;color:var(--muted,#5b6470);background:#f6f8fb;"
       + "border:1px solid var(--line,#e4e7ec);border-radius:999px;padding:.12rem .7rem}"
-      + ".tcf-mode-similarity #tcf-flow > section.topic{margin:.6rem 0}"
+      + ".tcf-mode-similarity #tcf-flow > section.topic,.tcf-mode-similarity #tcf-flow > .tcf-group{margin:.6rem 0}"
+      + "body.tcf-hide-done .tcf-group-alldone{display:none!important}"
+      + "body.tcf-hide-done .tcf-seam-hidden{display:none}"
 
       + ".topic-head .prompt{flex:1 1 auto}"
       + ".tcf-done{flex:none;display:inline-flex;align-items:center;gap:.32rem;cursor:pointer;"

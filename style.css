@@ -47,3 +47,15 @@ p.doc b{color:#7a6a1f;font-weight:700;text-transform:uppercase;letter-spacing:.0
   font-size:.72rem;display:block;margin-bottom:.3rem}
 footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
   color:var(--muted);font-size:.82rem}
+
+/* tcf-group */
+.tcf-group{border:2px solid #c7d7f7;border-radius:16px;padding:.55rem .6rem .6rem;margin:.8rem 0;background:#f6f9ff}
+.tcf-group-head{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;padding:.15rem .45rem .5rem;font-size:.8rem;color:#344054}
+.tcf-group-tag{background:var(--accent);color:#fff;border-radius:999px;padding:.12rem .6rem;font-weight:700;letter-spacing:.02em;white-space:nowrap}
+.tcf-group-n{font-weight:700;color:var(--ink)}
+.tcf-group-hint{color:var(--muted)}
+.tcf-group .tcf-core>section.topic{margin:.35rem 0;box-shadow:none;border-color:#dbe4f3}
+.tcf-seam{display:flex;align-items:center;gap:.55rem;margin:.45rem .2rem}
+.tcf-seam::before,.tcf-seam::after{content:'';flex:1 1 0;border-top:1px dashed #9db4e3}
+.tcf-seam span{font-size:.74rem;color:#3b5bb0;background:#eef4ff;border:1px dashed #9db4e3;border-radius:999px;padding:.1rem .65rem;white-space:nowrap}
+/* /tcf-group */

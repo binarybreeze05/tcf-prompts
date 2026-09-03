@@ -57,6 +57,17 @@ p.doc b{color:#7a6a1f;font-weight:700;text-transform:uppercase;letter-spacing:.0
   font-size:.72rem;display:block;margin-bottom:.3rem}
 footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
   color:var(--muted);font-size:.82rem}
+/* tcf-group */
+.tcf-group{border:2px solid #c7d7f7;border-radius:16px;padding:.55rem .6rem .6rem;margin:.8rem 0;background:#f6f9ff}
+.tcf-group-head{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;padding:.15rem .45rem .5rem;font-size:.8rem;color:#344054}
+.tcf-group-tag{background:var(--accent);color:#fff;border-radius:999px;padding:.12rem .6rem;font-weight:700;letter-spacing:.02em;white-space:nowrap}
+.tcf-group-n{font-weight:700;color:var(--ink)}
+.tcf-group-hint{color:var(--muted)}
+.tcf-group .tcf-core>section.topic{margin:.35rem 0;box-shadow:none;border-color:#dbe4f3}
+.tcf-seam{display:flex;align-items:center;gap:.55rem;margin:.45rem .2rem}
+.tcf-seam::before,.tcf-seam::after{content:'';flex:1 1 0;border-top:1px dashed #9db4e3}
+.tcf-seam span{font-size:.74rem;color:#3b5bb0;background:#eef4ff;border:1px dashed #9db4e3;border-radius:999px;padding:.1rem .65rem;white-space:nowrap}
+/* /tcf-group */
 </style>
 </head>
 <body>
@@ -64,8 +75,11 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
   <p class="crumb"><a href="index.html">← Toutes les listes</a></p>
   <h1>TCF Écrite · Tâche 3</h1>
   <p class="lead">Réaction argumentée à deux documents contrastés — env. 200–250 mots.</p>
-  <p class="lead"><b>95 sujets uniques</b> après dédoublonnage · L'ordre par défaut est l'<b>ordre de similarité</b> (chaque sujet à côté de son plus proche voisin). Le menu <b>Trier par</b> en haut bascule vers l'<b>ordre de couverture</b> (le plus fort d'abord, avec pourquoi c'est classé là) ou l'<b>ordre de difficulté</b> (rang 1 = plus facile).</p>
+  <p class="lead"><b>95 sujets</b>, dont 69 regroupés en <b>27 blocs</b> (un bloc = une seule réponse à préparer ; les variantes proches y sont séparées par ≈) · L'ordre par défaut est l'<b>ordre de similarité</b> (chaque sujet à côté de son plus proche voisin). Le menu <b>Trier par</b> en haut bascule vers l'<b>ordre de couverture</b> (le plus fort d'abord, avec pourquoi c'est classé là) ou l'<b>ordre de difficulté</b> (rang 1 = plus facile).</p>
 </header>
+<div class="tcf-group" id="g-EE_T3-1">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-1">
   <div class="topic-head">
     <span class="badge">1</span>
@@ -74,6 +88,22 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Avec des taux de pollution alarmantes constatés dans plusieurs endroits dans le monde, plusieurs villes ont réussi leur pari d’interdire la circulation de voitures en zones urbaines. La capitale de la Norvège, Oslo, a récemment opté pour cette solution et s’en félicite estimant que c’est une décision bénéfique pour tout le monde. Après un certain temps, les accidents diminueront, la dépendance au pétrole baissera et la qualité d’air sera meilleure.</p>
 <p class="doc"><b>Document 2</b><br>Beaucoup de villes se lancent dans des projets d’interdiction de voitures en zone urbaine sans mettre en place les outils et les infrastructures nécessaires pour réussir cette transition. Certes, en diminuant les voitures, on aura moins d’embouteillages, de stress et surtout un air beaucoup moins pollué, mais en contrepartie, il faut prévoir entre- autres de gigantesques parkings pour garer les voitures, opter davantage pour le transport en commun (métros et bus) et prévoir des autorisations de circulation pour certains corps de métiers (comme la police, les urgentistes, les livreurs, …)</p>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-48">
+  <div class="topic-head">
+    <span class="badge">48</span>
+    <p class="prompt">La Gratuité Des Transports En Commun : Pour Ou Contre ?<span class="orig">· was #11</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Les transports en commun gratuits, c’est une très bonne idée, cela permet de diminuer le nombre de voitures en ville et d’éviter les bouchons. C’est aussi une bonne mesure pour diminuer la pollution et donc les risques de maladies respiratoires. Dans ma ville, il y a des transports en commun gratuits. On observe que les gens utilisent plus souvent les transports publics depuis que la gratuité est en place. On observe également que cette mesure a profité aux commerçants : les gens reviennent faire leurs achats dans le centre-ville, ils vont moins dans les hypermarchés.</p>
+<p class="doc"><b>Document 2</b><br>L’idée n’est pas bonne. D’une part, cela couterait cher aux villes. Or, il me semble que la ville de Toulouse a d’autres problèmes à régler en priorité. Par exemple, il faudrait d’abord réaménager leurs espaces verts, cela profiterait à tout le monde. D’autre part, il vaudrait mieux réorganiser les transports publics au lieu de les rendre gratuits. Aujourd’hui, les gens préfèrent prendre leur voiture parce que la ville manque de transports publics dans certains quartiers éloignés. Et puis, selon moi, il faut garder les transports publics payants. Les gens respecteront davantage les équipements s’ils participent à leur financement en payant un titre de transport.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-2">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">6 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-2">
   <div class="topic-head">
     <span class="badge">2</span>
@@ -82,6 +112,48 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Fabriquer vos propres produits biologiques à la maison offre un contrôle total sur les ingrédients, garantissant des options plus saines et personnalisées. Cela contribue également à réduire les déchets plastiques grâce à des emballages réutilisables. De plus, vous économiserez de l’argent à long terme et développerez des compétences créatives, favorisant ainsi un mode de vie plus durable.</p>
 <p class="doc"><b>Document 2</b><br>Cependant, la fabrication de produits biologiques à domicile comporte des risques. Les erreurs de formulation peuvent entraîner des produits inefficaces ou irritants. De plus, le temps et les efforts nécessaires pour trouver et préparer les ingrédients peuvent être contraignants. Il y a également un manque de garantie de sécurité et de stabilité des produits faits maison, avec un risque accru de contamination bactérienne si les produits ne sont pas correctement conservés. Enfin, le coût initial élevé pour l’achat d’ingrédients de qualité peut être dissuasif pour certains.</p>
 </section>
+<section class="topic" id="p-70">
+  <div class="topic-head">
+    <span class="badge">70</span>
+    <p class="prompt">Les Produits Faits Maison : Pour Ou Contre ?<span class="orig">· was #27</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Il est aujourd’hui possible de fabriquer soi-même tout type de produits à la maison: des shampooings, des savons, des crèmes, du maquillage mais aussi des produits d’entretien pour faire le ménage. C’est formidable car on peut ainsi contrôler leur composition. Il est préférable de sélectionner des ingrédients et des parfums naturels qui ne contiennent pas d’éléments chimiques. Par ailleurs, la fabrication maison permet de reduire les emballages etadonc les déchets.<br>N’hésitez plus : fabriquez vos propres produits</p>
+<p class="doc"><b>Document 2</b><br>Vous préférez fabriquer vous même votre savon au lieu de l’acheter ? Attention il y a des risques pour la santé si vous ne choisissez pas les bons ingredients ou si les règles d’hygiène ne sont pas respectées. Ainsi, avant de vous lancer, il est nécessaire de bien se renseigner et de suivre les règles strictes de fabrication et de conservation. De plas, méme si ces produits coûtent moins cher et représentent une economie d’argent du quatidien, la fabrication mason prend souvent beaucoup de temps</p>
+</section>
+<section class="topic" id="p-74">
+  <div class="topic-head">
+    <span class="badge">74</span>
+    <p class="prompt">Les produits faits maison : un choix judicieux ou un risque ?<span class="orig">· was #49</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>La fabrication artisanale de produits biologiques à domicile permet un contrôle absolu sur la composition, garantissant des alternatives à la fois plus saines et personnalisées. Elle participe aussi à la réduction des déchets plastiques, notamment grâce à l’utilisation d’emballages réutilisables. Ce choix écologique, en plus d’être économique à long terme, encourage l’acquisition de compétences créatives et soutient un mode de vie durable.</p>
+<p class="doc"><b>Document 2</b><br>Malgré ses avantages, la fabrication de produits bio à domicile présente certains risques. Une mauvaise formulation peut nuire à l’efficacité du produit ou provoquer des irritations. Par ailleurs, le temps et l’effort requis pour trouver les bons ingrédients représentent un véritable défi. De plus, en l’absence de contrôle strict, les produits peuvent être instables ou contaminés. Le coût initial élevé pour se procurer des ingrédients fiables constitue également un frein pour de nombreuses personnes.</p>
+</section>
+<section class="topic" id="p-79">
+  <div class="topic-head">
+    <span class="badge">79</span>
+    <p class="prompt">Produits Maison : Une Alternative Intéressante ou une Contrainte ?<span class="orig">· was #41</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Préparer ses produits biologiques à la maison offre un contrôle total sur leur composition, garantissant des solutions saines et adaptées. Cette pratique permet aussi de limiter l’usage de plastique grâce à des emballages réutilisables. Elle représente une alternative économique et enrichissante qui favorise un mode de vie plus responsable et écologique.</p>
+<p class="doc"><b>Document 2</b><br>La production de produits biologiques maison n’est pas sans inconvénients. Une erreur dans la formulation peut altérer leur efficacité ou provoquer des réactions indésirables. De plus, rassembler et préparer les ingrédients peut être fastidieux. L’absence de certification garantit moins de sécurité et favorise le risque de contamination bactérienne en cas de mauvaise conservation. Enfin, l’investissement de départ pour des ingrédients de qualité peut être un obstacle pour certains.</p>
+</section>
+<section class="topic" id="p-94">
+  <div class="topic-head">
+    <span class="badge">94</span>
+    <p class="prompt">Produits faits maison : avantages et limites<span class="orig">· was #51</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Produire ses propres produits biologiques à domicile permet de maîtriser entièrement les ingrédients utilisés, offrant ainsi des alternatives plus saines et adaptées aux besoins individuels. Cela participe également à la réduction des déchets plastiques grâce à l’utilisation d’emballages réutilisables. De plus, cette démarche permet de réaliser des économies sur le long terme tout en développant des compétences créatives, favorisant un mode de vie plus durable.</p>
+<p class="doc"><b>Document 2</b><br>La fabrication de produits biologiques à domicile présente certains défis. Des erreurs dans la formulation peuvent affecter leur efficacité ou provoquer des irritations. Le temps et les efforts nécessaires pour sélectionner et préparer les ingrédients peuvent également représenter une contrainte. De plus, l’absence de garantie sur la sécurité et la stabilité des produits maison augmente le risque de contamination si les règles de conservation ne sont pas respectées. Enfin, le coût initial des ingrédients de qualité peut constituer un frein pour certains.</p>
+</section>
+<section class="topic" id="p-95">
+  <div class="topic-head">
+    <span class="badge">95</span>
+    <p class="prompt">Les produits faits maison : un choix judicieux ou un risque ?<span class="orig">· was #44</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Faire vos produits biologiques chez vous vous donne un contrôle total sur les ingrédients, offrant ainsi des alternatives plus saines et personnalisées. Vous contribuez à la réduction des déchets plastiques avec des emballages réutilisables, tout en économisant de l’argent sur le long terme et en cultivant des compétences créatives pour un mode de vie plus respectueux de l’environnement.</p>
+<p class="doc"><b>Document 2</b><br>Bien que fabriquer soi-même des produits bio soit une option intéressante, cela comporte des risques. Une mauvaise formulation peut aboutir à des produits inutiles ou irritants pour la peau. Trouver et préparer les bons ingrédients demande aussi du temps et des efforts. De plus, il n’existe aucune certitude quant à la stabilité des produits faits maison, avec des risques de contamination si les produits ne sont pas stockés correctement. Le coût élevé des ingrédients de qualité peut également décourager certains.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-3">
   <div class="topic-head">
     <span class="badge">3</span>
@@ -90,6 +162,9 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Je fais souvent mes voyages avec des compagnies aériennes à bas prix. Les compagnies Low-cost mettent à dispositions des prix inférieurs à ceux proposés par les compagnies aériennes régulières. Cela me coute des fois moins cher que de voyager en voiture ou en train. Aves ces tarifs là, vous en doutez qu’il y a un hic, en effet, vous n’aurez le droit à aucun service à bord (ni aliment, ni boisson). Je dirais donc, que le low-cost n’est surtout pas fait pour les vols long courrier.<br>Martin (26 ans).</p>
 <p class="doc"><b>Document 2</b><br>Récemment, j’ai pris la décision de ne plus voyager avec les compagnies aériennes à bas prix. En effet, j’ai longuement réfléchi afin de prendre ma décision, mais ce choix était évident: des sièges inconfortables, des conditions de travail pénibles et surtout des avions vétustes qui remettent en cause la sécurité ! Dès lors, pour certains voyages, je vais opter pour la voiture ou même le train, ce dernier permet même de découvrir de jolis paysages. Quant aux longs trajets, vaut mieux prendre un vol en compagnie régulière.<br>Robert (29 ans).</p>
 </section>
+<div class="tcf-group" id="g-EE_T3-3">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">4 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-4">
   <div class="topic-head">
     <span class="badge">4</span>
@@ -98,6 +173,38 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Les restaurants rapides se distinguent par leur engagement à proposer une variété de plats équilibrés, respectant strictement les normes d’hygiène. En laissant aux clients la liberté de composer leur propre menu, ces établissements les responsabilisent dans leurs choix alimentaires, tout en satisfaisant leurs préférences gustatives.</p>
 <p class="doc"><b>Document 2</b><br>Les spécialistes affirment que manger régulièrement dans des restaurants de fast-food, qui proposent de la restauration rapide, est dangereux pour la santé. La nourriture servie est souvent la même : frites, hamburgers et boissons sucrées. Ces aliments contiennent une grande quantité de calories, bien trop pour un seul repas. De plus, la plupart des produits dans ces restaurants sont emballés dans du plastique. Par conséquent, manger dans un fast-food augmente la production de déchets plastiques, ce qui est nuisible pour l’environnement.<br>Réussir l'expression écrite<br>Pour partager les sujets de votre session:</p>
 </section>
+<section class="topic" id="p-53">
+  <div class="topic-head">
+    <span class="badge">53</span>
+    <p class="prompt">La restauration rapide<span class="orig">· was #26</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Catherine «Je suis complètement contre les chaînes de fast-food, car on ignore souvent quels ingrédients sont utilisés dans leurs plats. Selon moi, la qualité de la nourriture y est faible. Manger ce type d’aliments peut provoquer des maladies, comme le montre le documentaire américain « Supersize Me ». Certes, les hamburgers, sandwichs et frites sont très pratiques et bon marché. Mais, à mon avis, il est important de faire d’autres choix pour rester en bonne santé.»</p>
+<p class="doc"><b>Document 2</b><br>Bernard «Je soutiens la restauration rapide. Je travaille pour une chaîne célèbre, je pense qu’on peut y trouver des repas équilibrés. Les menus comprennent des légumes, des salades, du pain et de la viande. Chaque client est responsable de ce qu’il mange : choisir plusieurs sandwiches et trop de sauce n’est pas un repas sain. Ces restaurants sont aussi très propres et faciles d’accès pour les familles ou les groupes d’amis.»</p>
+</section>
+<section class="topic" id="p-89">
+  <div class="topic-head">
+    <span class="badge">89</span>
+    <p class="prompt">La Restauration Rapide : Pour Ou Contre ?<span class="orig">· was #15</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Je trouve la restauration rapide très pratique lorsqu’il est pressé. Selon moi, les chaînes de fast-food ont fait des efforts pour proposer des options plus saines. J’apprécie particulièrement la possibilité de commander en ligne et de récupérer sa commande rapidement, ce qui me permet de gérer mon temps efficacement pendant mes journées chargées.</p>
+<p class="doc"><b>Document 2</b><br>J’ai eu une expérience déplaisante avec la restauration rapide. J’ai trouvé que les aliments étaient souvent de qualité médiocre et trop gras. De plus, j’ai été déçue par le manque d’options végétariennes et saines dans la plupart des fast-foods. Pour moi, il vaut mieux prendre le temps de préparer un repas maison sain et équilibré.</p>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-63">
+  <div class="topic-head">
+    <span class="badge">63</span>
+    <p class="prompt">Choix entre manger à l’extérieur ou chez soi<span class="orig">· was #13</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Aïcha, une jeune célibataire de 28 ans, préfère dîner à l’extérieur plutôt que de manger seule à la maison. Elle apprécie la possibilité de sortir à tout moment à Lyon et de partager des repas conviviaux avec ses amis, ce qui est impossible dans son petit appartement. Elle note aussi que peu de gens de sa génération prennent le temps de cuisiner.</p>
+<p class="doc"><b>Document 2</b><br>Laura, une mère de famille de 45 ans, explique que manger au restaurant est souvent trop coûteux pour elle. Bien qu’elle aimerait parfois éviter la cuisine, le budget familial l’empêche. Elle critique également la qualité des plats au restaurant et préfère savoir exactement ce qu’elle mange en préparant les repas chez elle.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-4">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-5">
   <div class="topic-head">
     <span class="badge">5</span>
@@ -106,6 +213,19 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>La télévision est un outil de communication et de divertissement largement répandu dans notre société moderne. Son influence est incontestable, tant sur les individus que sur la culture en général. Elle permet de diffuser des informations, d’offrir des divertissements variés et de favoriser la diffusion de la culture. La télévision est présente dans de nombreux foyers et constitue une source d’information et de divertissement accessibles à tous. Grâce à sa portée et à sa capacité à toucher un large public, la télévision joue un rôle important dans la transmission des connaissances et la sensibilisation aux enjeux sociaux.</p>
 <p class="doc"><b>Document 2</b><br>La télévision peut également présenter certains inconvénients. Les émissions télévisées peuvent parfois véhiculer des stéréotypes, des préjugés et des valeurs discutables. De plus, le temps passé devant la télévision peut réduire le temps consacré à d’autres activités plus enrichissantes, telles que la lecture, les interactions sociales ou la pratique d’un sport. Il est important de faire preuve de discernement et de réguler l’exposition à la télévision, en particulier pour les enfants, afin de préserver un équilibre sain entre les différentes formes d’apprentissage et de divertissement.</p>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-88">
+  <div class="topic-head">
+    <span class="badge">88</span>
+    <p class="prompt">La télévision dans la société : atouts et risques<span class="orig">· was #67</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>La télévision est un moyen de communication et de distraction très présent dans la société actuelle. Son impact est évident sur les personnes et sur la culture en général. Elle permet de transmettre des informations, de proposer différents programmes de divertissement et de diffuser la culture. Présente dans beaucoup de foyers, elle reste une source d’information et de loisirs accessible à tous. Grâce à sa large audience, la télévision joue un rôle essentiel dans le partage des connaissances et la sensibilisation aux questions sociales.</p>
+<p class="doc"><b>Document 2</b><br>La télévision présente aussi certains aspects négatifs. Certains programmes peuvent transmettre des stéréotypes, des idées fausses ou des valeurs discutables. En outre, passer trop de temps devant la télévision peut diminuer le temps consacré à d’autres activités plus utiles, comme la lecture, les échanges sociaux ou le sport. Il est donc nécessaire de faire attention et de limiter le temps passé devant la télévision, surtout pour les enfants, afin de garder un bon équilibre entre apprentissage et loisirs.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-6">
   <div class="topic-head">
     <span class="badge">6</span>
@@ -122,6 +242,9 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Le port de l’uniforme étouffe et écrase la personnalité des garçons. Ils ne peuvent s’habiller comme ils veulent, n’en écrase la peuvent aucune circonstance. De l’autre côté de l’échelle (chez les pros) il y a des gens qui préféraient pour eux-mêmes et leurs enfants, avoir la possibilité de s’exprimer à travers l’habillement, en décidant eux-mêmes ce qu’ils porteront chaque jour. Ainsi, avec un uniforme, les jeunes qui aiment s’exprimer à travers la mode, se démarquer de la foule grâce à un accessoire ou un vêtement particulier, se retrouveront déçus et emprisonnés dans l’uniforme.</p>
 <p class="doc"><b>Document 2</b><br>Le port de l’uniforme développe un sentiment d’appartenance à son établissement, et à la communauté des élèves. Il nourrit chez le jeune le sens du collectif et engendre souvent la fierté d’appartenir à son établissement. De plus, il réduit la discrimination basée sur le style ou sur la classe sociale de l’élève. En effet, l’uniforme permet aux parents d’économiser beaucoup d’argents, ce ne sont pas tous les parents qui peuvent payer à Cleurs enfants de beaux vêtements griffés ou de marques populaires. La mise en place d’un code vestimentaire réduit donc les différences entre les classes sociales.</p>
 </section>
+<div class="tcf-group" id="g-EE_T3-5">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-8">
   <div class="topic-head">
     <span class="badge">8</span>
@@ -130,6 +253,27 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Avec l’avancée technologique et les produits high-tech qui envahissent de plus en plus notre quotidien, nos enfants oublient la lecture et s’intéressent davantage aux jeux vidéo, aux sports, à la musique… Contrairement à nous les adultes, dont beaucoup d’entre-nous ont lu des milliers de pages, la génération actuelle est toujours occupée par les réseaux sociaux et le gaming ou prennent du plaisir à pratiquer du sport qui attirent davantage de jeunes grâce aux stars internationales du football, du tennis, de l’athlétisme… alors avec tout ça, pourquoi devons-nous forcer les enfants à lire un bouquin ? Et comme le dit un proverbe, ‘’ le goût de la lecture ne peut pas s’imposer’’… il faut laisser l’enfant choisir ce qu’il veut lire et surtout ne pas l’obliger à lire quand il n’a pas envie.</p>
 <p class="doc"><b>Document 2</b><br>L’amour de la lecture se transmet de génération en génération bien que, ces dernières années, on ne trouve plus beaucoup de bouquins entre les mains des enfants, laissant la place aux smartphones et aux tablettes. En apprenant à lire régulièrement, l’enfant acquiert le langage plus aisément tout en développant sa capacité d’audition et de concentration. De plus, et pour prendre du plaisir ensemble, les parents peuvent consacrer quotidiennement 10 minutes à leurs enfants pour lire des bouquins ; une activité qui renforcera à coup sûr la complicité parent/enfant.</p>
 </section>
+<section class="topic" id="p-52">
+  <div class="topic-head">
+    <span class="badge">52</span>
+    <p class="prompt">Lecture et enfants : encourager sans forcer<span class="orig">· was #25</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Obliger les enfants à lire n’est pas une bonne solution. Lire est une pratique particulière. Quand un enfant aime le sport, on ne le contraint pas, on essaie de le motiver. Il en va de même pour la lecture, selon Laurence T., pédopsychiatre et experte de l’enfance. Elle affirme que « l’amour de la lecture ne peut pas être imposé ».</p>
+<p class="doc"><b>Document 2</b><br>Lire avec ses enfants est une activité agréable et bénéfique. Elle contribue au développement des enfants, car une lecture régulière leur permet d’apprendre de nouveaux mots. Elle les aide également à mieux écouter et à se familiariser avec les mots écrits. Ce moment est idéal pour partager du plaisir en famille, de manière détendue et ludique. Les parents doivent essayer de lire des histoires à leurs enfants dès leur jeune âge, même après une journée fatigante. Cinq à dix minutes par jour sont suffisantes pour leur donner le goût de la lecture durablement.</p>
+</section>
+<section class="topic" id="p-87">
+  <div class="topic-head">
+    <span class="badge">87</span>
+    <p class="prompt">Lecture Des Enfants.<span class="orig">· was #31</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>La lecture pour les enfants est d’une importance capitale dans leur développement. Elle favorise l’acquisition du langage, stimule leur imagination et leur créativité, et contribue à développer leur concentration et leurs compétences cognitives. La lecture offre également aux enfants une ouverture sur le monde qui les entoure, en leur permettant de découvrir de nouveaux univers, des personnages fascinants et des histoires captivantes. Les livres adaptés à leur âge les accompagnent dans leur apprentissage et les aident à comprendre le monde qui les entoure de manière ludique et éducative.</p>
+<p class="doc"><b>Document 2</b><br>La lecture pour les enfants peut parfois être perçue comme une activité ennuyeuse ou désuète, en concurrence avec les jeux vidéo et les écrans. Cependant, il est essentiel de rappeler les nombreux avantages de la lecture pour leur développement. Les parents et les éducateurs ont un rôle crucial à jouer pour encourager les enfants à lire et à découvrir le plaisir des livres. Il est important de leur proposer des livres adaptés à leur âge et à leurs centres d’intérêt, et de partager des moments de lecture ensemble. De plus, les bibliothèques et les librairies offrent une grande variété de livres pour enfants, facilitant ainsi l’accès à la lecture et encourageant les enfants à développer le goût de la lecture dès leur plus jeune âge.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-6">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-9">
   <div class="topic-head">
     <span class="badge">9</span>
@@ -138,6 +282,16 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Grâce à la livraison en entreprise, les employés bénéficieront d’un gain de temps notable. Il n’est plus question d’aller sortir loin du lieu de travail pour trouver de quoi manger. En complément, l’argent et l’énergie économisée permettent d’être encore plus efficace au travail. Sans pour autant mettre fin à une session importante liée au travail, le repas sera déjà prêt et pourra attendre la fin d’une conférence, d’une réunion ou d’un rendez-vous. Il s’agit d’une véritable solution dédiée aux entreprises ayant une activité intense et qui requiert la présence continue de leurs employés. Et en ce qui concerne les inconvénients ?</p>
 <p class="doc"><b>Document 2</b><br>Cette pratique révèle souvent des inconvénients à cause de sa notoriété montante. Certains jours, il arrive que les responsables de livraisons peuvent être envahis par un grand nombre de livraisons à faire et cela risque de générer des perturbations liées au stress de l’attente. De même pour les employés, une trop longue heure de travail peut causer un état de fatigue si ce dernier ne quittera pas son bureau pour le repas. Dans tous les cas, il est recommandé de toujours marquer des temps de pause lors des durs labeurs.</p>
 </section>
+<section class="topic" id="p-72">
+  <div class="topic-head">
+    <span class="badge">72</span>
+    <p class="prompt">Livraison de repas<span class="orig">· was #3</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Céline, 25 ans : La livraison de repas permet de gagner du temps. Par exemple, quand on travaille, on peut se faire livrer un repas au bureau sans se déplacer. On perd moins de temps pendant la pause déjeuner, on rentre donc plus tôt chez soi. Généralement, cela offre plus de choix : si un de nos collègues veut commander une pizza mais que nous souhaitons manger des sushis, plus de disputes, il suffit de commander des plats dans différents restaurants. L’autre avantage de ce nouveau mode de consommation est qu’il est disponible à toute heure. En effet, on trouve toujours des restaurants qui restent ouverts 24 heures sur 24.</p>
+<p class="doc"><b>Document 2</b><br>Ahmed, 40 ans : La livraison de repas plaît de plus en plus aux consommateurs qui n’ont pas le temps ou l’envie de cuisiner. Toutefois, ce service présente des inconvénients écologiques. Les repas sont souvent livrés en scooter ou en voiture, qui sont des modes de transports polluants. Cette habitude a aussi des conséquences négatives sur la vie sociale. Quand on mange des repas livrés au bureau ou à domicile, on a tendance à rester enfermé et à voir les mêmes personnes. Pourtant, il est important de sortir prendre l’air et, pourquoi pas, de rencontrer d’autres personnes.<br>Réussir l'expression écrite<br>Pour partager les sujets de votre session:</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-10">
   <div class="topic-head">
     <span class="badge">10</span>
@@ -146,6 +300,9 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Apprendre une langue sur Internet, c’est tout à fait possible et les résultats sont souvent très bons ! Contrairement aux cours en présentiel, on peut étudier à n’importe quel moment : les leçons sont accessibles en continu. Cela aide à mieux gérer son emploi du temps. De plus, il n’est plus nécessaire de se déplacer jusqu’à une école de langues. On peut apprendre tranquillement depuis chez soi, depuis son lieu de travail ou même dans un café du quartier. C’est aussi une façon de dépenser moins d’argent.</p>
 <p class="doc"><b>Document 2</b><br>Apprendre une langue sur Internet paraît facile, mais ce n’est pas à la portée de tout le monde. En effet, il faut avoir une bonne connexion et un appareil adapté comme un ordinateur, un téléphone ou une tablette. De plus, il faut être très autonome pour apprendre seul : ce n’est pas simple de travailler chez soi et de rester motivé sans le soutien d’un professeur ou de camarades. Dans ces conditions, on peut vite se décourager et abandonner.</p>
 </section>
+<div class="tcf-group" id="g-EE_T3-7">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-11">
   <div class="topic-head">
     <span class="badge">11</span>
@@ -154,6 +311,16 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>L’accès gratuit aux musées peut engendrer une affluence excessive, altérant ainsi la qualité de la visite. De plus, cela risque de diminuer leurs revenus, compromettant l’entretien des lieux et la conservation des œuvres. Une tarification réduite serait une alternative équilibrée pour favoriser l’accès à la culture tout en assurant le bon fonctionnement des musées.</p>
 <p class="doc"><b>Document 2</b><br>Rendre les musées gratuits est une excellente initiative, car cela permet à tous d’accéder à la culture, quel que soit leur revenu. J’ai eu l’opportunité de visiter plusieurs musées sans frais, ce qui m’a permis d’enrichir mes connaissances sans me préoccuper du coût. À mon avis, la gratuité des musées joue un rôle clé dans l’éducation du public et la diffusion du patrimoine culturel.</p>
 </section>
+<section class="topic" id="p-58">
+  <div class="topic-head">
+    <span class="badge">58</span>
+    <p class="prompt">L'accès gratuit aux musées<span class="orig">· was #93</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>La gratuité fait partie des principes fondamentaux des musées et symbolise le partage culturel. Tous les acteurs du monde culturel s’accordent à dire qu’il faut faciliter l’accès à la culture pour tous. À la différence des théâtres ou des opéras, les musées ont une tradition de gratuité : une fois par mois, l’entrée des musées nationaux est gratuite pour tous. Cette mesure a pour but de faire venir de nouveaux visiteurs, car le musée reste avant tout un lieu d’éducation pour le plus grand nombre.</p>
+<p class="doc"><b>Document 2</b><br>Rendre les musées totalement gratuits est une fausse bonne idée, car cela fait croire que la culture ne nécessite aucun financement. Pourtant, les musées doivent recevoir des fonds pour maintenir et développer leurs collections. Une solution plus adaptée est de proposer des entrées à tarif réduit pour des publics ciblés. Pour que cela fonctionne, il est important d’accompagner ces visiteurs avec des visites ou activités adaptées, comme pour les jeunes ou les personnes à mobilité réduite. Ouvrir les portes n’est pas suffisant : il faut créer une interaction entre le musée et ses visiteurs.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-12">
   <div class="topic-head">
     <span class="badge">12</span>
@@ -170,6 +337,9 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Les vêtements de marques sont très importants pour les enfants et les adolescents. C’est un moyen de s’exprimer et de se rattacher à un groupe social. Cette attirance pour les marques est très présente chez les adolescents qui se cherchent et montrent leurs personnalités. Les enfants aiment également porter des vêtements de marques avec des images des dessins animés qu’ils regardent ou des logos qu’ils apprécient.</p>
 <p class="doc"><b>Document 2</b><br>Les enfants grandissent très vite et les vêtements sont portés pendant une courte période. Ainsi, les vêtements deviennent rapidement trop petits. Mais il y a aussi le fait que les enfants usent assez rapidement les vêtements en jouant à l’extérieur avec les copains, en s’amusant dans l’herbe ou à l’air de jeux. Les habits sont très vite sales ou troués.</p>
 </section>
+<div class="tcf-group" id="g-EE_T3-8">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-14">
   <div class="topic-head">
     <span class="badge">14</span>
@@ -178,6 +348,22 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Jean : Je suis fermement convaincu que l’intégration des nouvelles technologies dans les écoles est cruciale pour préparer les élèves à un avenir numérique. Je pense que l’usage des tablettes et des ordinateurs stimule non seulement l’engagement des élèves mais enrichit également leur expérience éducative en leur offrant un accès facile à une variété de ressources, encourageant ainsi leur créativité et autonomie.</p>
 <p class="doc"><b>Document 2</b><br>Sara : Je suis sceptique quant à l’usage intensif des technologies dans l’enseignement. Je crois que cela peut réduire les interactions humaines essentielles et favoriser une dépendance préoccupante aux écrans. À mon avis, les méthodes d’enseignement traditionnelles et le contact direct entre enseignants et élèves restent indispensables pour un développement équilibré et complet des compétences des jeunes.<br>Réussir l'expression écrite<br>Pour partager les sujets de votre session:</p>
 </section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-80">
+  <div class="topic-head">
+    <span class="badge">80</span>
+    <p class="prompt">Technologie et enfants<span class="orig">· was #81</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Les élèves du primaire ont la possibilité d’utiliser la technologie pour chercher des vidéos liées à leurs leçons étudiés en classe ou pour s’exercer avec des jeux qui développent leurs compétences en mathématiques, en lecture et en saisie au clavier.</p>
+<p class="doc"><b>Document 2</b><br>Aujourd’hui, les technologies poussent les enfants à rester inactifs, ce qui inquiète beaucoup les parents. Cela limite les jeux créatifs, les échanges sociales directes et l’activité physique. Pourquoi ne pas encourager vos enfants à poser leurs appareils en essayant des activités ludiques ?</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-9">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-15">
   <div class="topic-head">
     <span class="badge">15</span>
@@ -185,70 +371,6 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
   </div>
 <p class="doc"><b>Document 1</b><br>Les enfants, jusqu’à l’âge de l’adolescence, jouent d’une manière régulière aux jeux vidéo et à force, ils peuvent développer des pensées négatives et des comportements agressifs. En effet, une étude récente, menée sur des enfants âgés de 9 à 18 ans jouant fréquemment aux jeux vidéo, a révélé que le fait de jouer à des jeux de violence augmente considérablement un comportement agressif. Et selon Diégo Gentil, ce phénomène est inévitable, quel que soit le degré de vigilance des parents !</p>
 <p class="doc"><b>Document 2</b><br>On parle tout le temps des effets négatifs des jeux vidéo, mais ces derniers peuvent également avoir quelques avantages pour le fonctionnement du cerveau et pour la santé d’une manière générale. Si on prend, par exemple, leur apport pour le cerveau, les jeux vidéo permettent d’améliorer plusieurs fonctions cognitives telles que l’amélioration de la concentration, de la réaction et de la capacité d’analyser. Ceci peut paraître évident, dans la mesure où lorsqu’on y joue, on doit toujours trouver des solutions à des situations plus au moins complexes (surtout pour les jeux de stratégie).</p>
-</section>
-<section class="topic" id="p-16">
-  <div class="topic-head">
-    <span class="badge">16</span>
-    <p class="prompt">Le cyclisme urbain<span class="orig">· was #73</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Le vélo évoque instinctivement deux aspects : le sport et les loisirs. Pourtant, il est fréquent d’oublier qu’il constitue avant tout un moyen de déplacement quotidien, tant pour les trajets personnels que professionnels. En milieu urbain, il se révèle non seulement rapide, mais aussi apaisant, offrant une échappatoire au trafic saturé aux heures de pointe. Une solution idéale pour allier activité physique et déplacements utiles, mêlant ainsi efficacité et plaisir.</p>
-<p class="doc"><b>Document 2</b><br>Circuler à vélo en milieu urbain comporte des risques non négligeables, comme en témoignent les accidents routiers recensés chaque année. La concentration élevée de véhicules, les manquements aux règles de circulation et l’insuffisance des infrastructures cyclables créent un environnement dangereux pour les usagers. À ces dangers s’ajoute l’exposition quotidienne aux polluants atmosphériques, tels que le monoxyde de carbone, dont les effets toxiques sur la santé sont avérés. Ainsi, le cyclisme en ville soulève une double problématique : sécuritaire et sanitaire.</p>
-</section>
-<section class="topic" id="p-17">
-  <div class="topic-head">
-    <span class="badge">17</span>
-    <p class="prompt">Vie en colocation entre adultes.<span class="orig">· was #16</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Vivre avec d’autres personnes demande d’avoir une bonne entente et de respecter certaines règles. Il n’est pas toujours possible d’écouter sa musique préférée à volume élevé, d’inviter tous ses amis pour faire la fête ou de laisser de la vaisselle sale dans la cuisine. Chaque individu a des habitudes susceptibles d’irriter les autres. C’est pourquoi il est essentiel d’établir des règles de vie en communauté et de les respecter mutuellement. Il est important de communiquer avec ses colocataires chaque fois qu’un problème survient. L’organisation et la discussion sont les clés d’une colocation réussie ou non.</p>
-<p class="doc"><b>Document 2</b><br>Être adulte et vivre en colocation ? C’est un choix qui permet d’accéder facilement à un logement plus spacieux et économique. Il est vrai que vous n’aurez qu’une chambre pour vous et que vous devrez partager la cuisine, le salon et la salle de bain. Toutefois, une colocation peut inclure une maison avec jardin ou un grand appartement en centre-ville ! De plus, en partageant le loyer et les charges avec vos colocataires, vous réduirez considérablement vos dépenses par rapport à un appartement individuel. Alors que vous n’aurez qu’une chambre pour vous et que vous devrez partager les espaces communs, une colocation offre des opportunités de logements bien plus abordables.</p>
-</section>
-<section class="topic" id="p-18">
-  <div class="topic-head">
-    <span class="badge">18</span>
-    <p class="prompt">Les Objets Connectés : Pour Ou Contre ?<span class="orig">· was #78</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Les objets connectés facilitent notre vie quotidienne. Ce sont des objets ou des équipements pilotés à distance à l’aide d’un téléphone portable ou par Internet, comme le système de chauffage ou la fermeture des portes. De plus, avec une montre ou un bracelet connecté, toutes nos activités peuvent être analysées. Un logiciel va mesurer le nombre de nos pas pour nous inciter à faire davantage d’exercice. Un domaine où l’on comprend mieux leur utilité est celui de la surveillance de la santé. Certains objets agissent comme un carnet de santé, toujours prêts à vous rappeler un rendez-vous chez le médecin ou des médicaments à prendre.</p>
-<p class="doc"><b>Document 2</b><br>Il y aurait 50 milliards d’objets connectés dans le monde : l’alarme, le téléviseur, la caméra de surveillance, les volets, le détecteur de fumée, etc. Face à cette évolution, la question de la sécurité se pose. En effet, un pirate informatique peut prendre le contrôle d’un objet connecté en quelques minutes. Ou encore, un cambrioleur pourrait vérifier grâce aux caméras de surveillance connectées d’une habitation si les occupants sont absents. Il est aussi possible d’entrer dans le système connecté d’une voiture et d’en prendre les commandes à distance.</p>
-</section>
-<section class="topic" id="p-19">
-  <div class="topic-head">
-    <span class="badge">19</span>
-    <p class="prompt">Les animaux de compagnie pour les enfants, pour ou contre ?<span class="orig">· was #2</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Offrir un animal de compagnie à un enfant présente de nombreux avantages, comme le soulignent beaucoup de psychologues. Pour des enfants qui n’ont pas des frères et/ou des sœurs, l’animal est un compagnon qui leur évitera la solitude. Grâce à lui, un enfant prendra confiance en lui et il apprendra vite qu’un animal est un être vivant qui a besoin d’attention et de respect. En sa présence, l’enfant se sentira en sécurité et pourra agir de manière autonome, sans l’aide de ses parents.</p>
-<p class="doc"><b>Document 2</b><br>Beaucoup d’enfants demandent, un jour ou l’autre, un animal à leurs parents, le plus souvent un chien ou un chat. Mais même si vous avez envie de faire plaisir à votre enfant, il vaut mieux réfléchir sérieusement avant d’acheter un animal domestique. L’animal devient un nouveau membre de la famille et représente un engagement sur de nombreuses années. Or, avoir un animal coûte souvent très cher, et c’est une grande responsabilité. On ne peut pas le traiter comme un jouet que l’on met à la poubelle quand l’enfant s’en désintéresse.</p>
-</section>
-<section class="topic" id="p-20">
-  <div class="topic-head">
-    <span class="badge">20</span>
-    <p class="prompt">L’Utilisation Du Plastique, Pour Ou Contre<span class="orig">· was #80</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Franck soutient l’utilisation limitée du plastique, soulignant son importance dans de nombreux secteurs, notamment les secteurs médical et alimentaire. Pour lui, le plastique est vital pour la conservation des aliments et la stérilisation des équipements médicaux. Il prône une utilisation responsable et le recyclage, mais reconnaît que certains usages du plastique sont indispensables pour la société moderne.</p>
-<p class="doc"><b>Document 2</b><br>Amicha s’oppose fermement à l’utilisation du plastique, mettant en avant son impact environnemental dévastateur. Elle soutient que les déchets plastiques polluent les océans et les écosystèmes, causant des dommages irréparables. Amicha milite pour des alternatives écologiques et durables, insistant sur l’urgence de renoncer au plastique pour protéger l’environnement et la santé publique.</p>
-</section>
-<section class="topic" id="p-21">
-  <div class="topic-head">
-    <span class="badge">21</span>
-    <p class="prompt">deux opinions sur les menus sans viande aux cantines scolaires.<span class="orig">· was #37</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>loDe plus en plus d’écoles décident de mettre en place un menu sans viande dans les cantines, au moins deux fois par semaine. Certaines études ont montré que les enfants consomment trop de protéines animales. C’est donc une question de santé : les écoles ont choisi de remplacer la viande par d’autres produits (soja, céréales, légumes), moins gras et utiles à la croissance des enfants. Ces menus sans viandes à la cantine reviennent moins cher aux familles. Cette idée plaît beaucoup aux parents comme aux enfants.</p>
-<p class="doc"><b>Document 2</b><br>La décision de supprimer la viande dans les cantines ne plaît pas à tout le monde. En effet, c’est un produit cher : la cantine est le seul endroit où les enfants de familles en difficulté peuvent manger. Les producteurs locaux de viande sont également mécontents : une partie de leur production est réservée aux cantines, il s’agit donc d’une perte financière. Enfin, beaucoup d’enfants interrogés déclarent tout de même préférer les steaks de bœuf aux steaks de soja qui, selon eux, ont peu de goût.</p>
-</section>
-<section class="topic" id="p-22">
-  <div class="topic-head">
-    <span class="badge">22</span>
-    <p class="prompt">Femmes et hommes au travail<span class="orig">· was #63</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Dans certaines régions, comme le Québec, l’égalité entre les femmes et les hommes est une réalité. Beaucoup de femmes occupent désormais des postes à responsabilité et travaillent dans des domaines traditionnellement masculins, tels que le bâtiment ou la gestion d’entreprise. Avec les lois sur l’égalité et le changement des mentalités, les femmes ont aujourd’hui accès aux mêmes métiers que les hommes, sans subir de discrimination.</p>
-<p class="doc"><b>Document 2</b><br>Même si des efforts sont faits pour atteindre la parité, des inégalités demeurent. Par exemple, certains métiers sont encore très féminisés, comme celui de sage-femme ou d’assistante maternelle. De plus, certaines personnes estiment que les femmes doivent rester à la maison pour s’occuper des enfants plutôt que travailler dans des métiers exigeants ou à responsabilité. Il reste donc beaucoup à faire pour changer les mentalités et garantir les mêmes chances aux femmes et aux hommes.</p>
-</section>
-<section class="topic" id="p-23">
-  <div class="topic-head">
-    <span class="badge">23</span>
-    <p class="prompt">L'art Urbain : Pour Ou Contre ?<span class="orig">· was #61</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Grâce à l’art, la curiosité des citadins est attisée dans l’espace urbain. Que ce soit par une peinture ou un spectacle de rue, l’atmosphère éphémère ainsi créée offre une interaction entre des artistes peu connus et un public hétéroclite, parfois peu habitué à côtoyer cette forme d’art.Les villes d’aujourd’hui n’ont plus la même vocation que celles d’hier. Plus qu’un lieu de résidence, la ville se réinvente, s’enrichit de la diversité de sa population, s’agence différemment et s’ouvre sur le monde. Les espaces verts se créent et les murs se parent de couleurs grâce au street art. Cela débouche sur des lieux où la qualité de vie est privilégiée, tout en respectant la nature et l’environnement.</p>
-<p class="doc"><b>Document 2</b><br>Mais à une plus large échelle, cela n’est pas aussi évident. Les graffitis peuvent être perçus comme une dégradation de la communauté, une pollution visuelle ou une preuve de la rupture sociale.On le considèrent comme du vandalisme qui défigure les biens publics. Le débat sur les avantages et les inconvénients des graffitis fait rage parmi les artistes, les législateurs et les membres de la communauté.</p>
 </section>
 <section class="topic" id="p-24">
   <div class="topic-head">
@@ -258,6 +380,198 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Contrairement à l’idée reçue que les jeux vidéo rendent moins intelligents, de nombreuses études montrent le contraire. Par exemple, les jeux de course améliorent le sens de l’orientation, la mémoire et la précision des mouvements. D’autres recherches indiquent des bénéfices pour la rapidité et la concentration des joueurs. De plus, certains jeux d’entraînement sont spécifiquement conçus pour renforcer la mémoire et la vivacité d’esprit chez les personnes âgées. En somme, les jeux vidéo peuvent avoir des effets positifs sur les capacités cognitives.</p>
 <p class="doc"><b>Document 2</b><br>Les jeux vidéo, qu’ils soient joués sur console ou sur ordinateur, à domicile ou en salle, seul, entre amis ou en ligne, peuvent entraîner une dépendance chez certaines personnes. L’addiction survient lorsque le jeu devient la principale (ou seule) source d’intérêt, au détriment d’autres activités comme les relations sociales, le travail, les études ou les loisirs. Ce phénomène est particulièrement préoccupant durant l’adolescence, une période où l’impact des jeux vidéo peut nuire aux performances scolaires.<br>Réussir l'expression écrite<br>Pour partager les sujets de votre session:</p>
 </section>
+<section class="topic" id="p-82">
+  <div class="topic-head">
+    <span class="badge">82</span>
+    <p class="prompt">Les Jeux Vidéo, Pour Ou Contre ?<span class="orig">· was #17</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Des études ont montré que certaines zones du cerveau de l’adulte peuvent être développées en jouant aux jeux vidéo. Ainsi, il peut être intéressant de jouer aux jeux vidéo, car ils permettent, par exemple, d’améliorer la capacité d’analyse, la capacité à faire des choix et la rapidité de réaction. C’est une bonne nouvelle car la répartition des joueurs par âge montre que 83% des joueurs sont des adultes. Cependant, il convient de rester prudent car certains jeux vidéos ne favorisent pas ce type d’amélioration sur le cerveau.</p>
+<p class="doc"><b>Document 2</b><br>Pendant trois ans, des enfants âgés de 8 à 17 ans ont participé à une étude sur les jeux vidéo. Les résultats de cette étude montrent que les enfants qui jouent beaucoup aux jeux vidéo sont plus violents, plus nerveux et plus stressés que ceux qui ne jouent pas ou peu. Ceux qui jouent beaucoup ont également moins de bons résultats à l’école. Il est donc conseillé aux parents d’être vigilants et de limiter l’usage de ces jeux par leurs enfants.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-16">
+  <div class="topic-head">
+    <span class="badge">16</span>
+    <p class="prompt">Le cyclisme urbain<span class="orig">· was #73</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Le vélo évoque instinctivement deux aspects : le sport et les loisirs. Pourtant, il est fréquent d’oublier qu’il constitue avant tout un moyen de déplacement quotidien, tant pour les trajets personnels que professionnels. En milieu urbain, il se révèle non seulement rapide, mais aussi apaisant, offrant une échappatoire au trafic saturé aux heures de pointe. Une solution idéale pour allier activité physique et déplacements utiles, mêlant ainsi efficacité et plaisir.</p>
+<p class="doc"><b>Document 2</b><br>Circuler à vélo en milieu urbain comporte des risques non négligeables, comme en témoignent les accidents routiers recensés chaque année. La concentration élevée de véhicules, les manquements aux règles de circulation et l’insuffisance des infrastructures cyclables créent un environnement dangereux pour les usagers. À ces dangers s’ajoute l’exposition quotidienne aux polluants atmosphériques, tels que le monoxyde de carbone, dont les effets toxiques sur la santé sont avérés. Ainsi, le cyclisme en ville soulève une double problématique : sécuritaire et sanitaire.</p>
+</section>
+<div class="tcf-group" id="g-EE_T3-10">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-17">
+  <div class="topic-head">
+    <span class="badge">17</span>
+    <p class="prompt">Vie en colocation entre adultes.<span class="orig">· was #16</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Vivre avec d’autres personnes demande d’avoir une bonne entente et de respecter certaines règles. Il n’est pas toujours possible d’écouter sa musique préférée à volume élevé, d’inviter tous ses amis pour faire la fête ou de laisser de la vaisselle sale dans la cuisine. Chaque individu a des habitudes susceptibles d’irriter les autres. C’est pourquoi il est essentiel d’établir des règles de vie en communauté et de les respecter mutuellement. Il est important de communiquer avec ses colocataires chaque fois qu’un problème survient. L’organisation et la discussion sont les clés d’une colocation réussie ou non.</p>
+<p class="doc"><b>Document 2</b><br>Être adulte et vivre en colocation ? C’est un choix qui permet d’accéder facilement à un logement plus spacieux et économique. Il est vrai que vous n’aurez qu’une chambre pour vous et que vous devrez partager la cuisine, le salon et la salle de bain. Toutefois, une colocation peut inclure une maison avec jardin ou un grand appartement en centre-ville ! De plus, en partageant le loyer et les charges avec vos colocataires, vous réduirez considérablement vos dépenses par rapport à un appartement individuel. Alors que vous n’aurez qu’une chambre pour vous et que vous devrez partager les espaces communs, une colocation offre des opportunités de logements bien plus abordables.</p>
+</section>
+<section class="topic" id="p-44">
+  <div class="topic-head">
+    <span class="badge">44</span>
+    <p class="prompt">La colocation : entre avantages et inconvénients<span class="orig">· was #28</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Vivre en colocation peut être une belle expérience humaine. Que ce soit avec un ami ou une personne que l’on apprend à connaître, cela permet de créer de nouveaux liens, de partager des moments agréables en rentrant le soir, comme discuter autour d’un repas ou regarder un film ensemble. C’est aussi un bon moyen de se répartir les tâches ménagères et de bénéficier des compétences de chacun, que ce soit en cuisine ou en bricolage.</p>
+<p class="doc"><b>Document 2</b><br>Vivre en colocation est une expérience bien différente de la vie en famille. Chacun a son propre rythme, sa personnalité et ses priorités, ce qui peut parfois compliquer la cohabitation. Si le courant ne passe pas avec le colocataire, cela peut vite devenir difficile à vivre. Les conflits surviennent souvent à cause du non-respect des tâches partagées ou du manque d’intimité. Le bruit peut aussi poser problème, comme un colocataire qui joue à des jeux vidéo tard dans la nuit.</p>
+</section>
+<section class="topic" id="p-50">
+  <div class="topic-head">
+    <span class="badge">50</span>
+    <p class="prompt">Vivre En Colocation : Pour Ou Contre ?<span class="orig">· was #19</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>La vie en colocation offre de nombreux avantages. Partager un logement avec d’autres personnes permet de réduire les dépenses, que ce soit le loyer, les factures ou les frais généraux. De plus, cela favorise les interactions sociales et les échanges culturels. Vivre avec des colocataires permet de rencontrer des individus de différents horizons, de nouer des amitiés et de partager des expériences enrichissantes.</p>
+<p class="doc"><b>Document 2</b><br>La colocation peut cependant présenter des défis. Les différences de personnalité et de mode de vie entre les colocataires peuvent entraîner des tensions. La gestion des responsabilités et des tâches ménagères peut également être source de conflits. De plus, la colocation peut limiter l’intimité et l’espace personnel. Il est important d’établir une communication ouverte et respectueuse, ainsi que des règles de vie commune, pour favoriser une cohabitation harmonieuse.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-11">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-18">
+  <div class="topic-head">
+    <span class="badge">18</span>
+    <p class="prompt">Les Objets Connectés : Pour Ou Contre ?<span class="orig">· was #78</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Les objets connectés facilitent notre vie quotidienne. Ce sont des objets ou des équipements pilotés à distance à l’aide d’un téléphone portable ou par Internet, comme le système de chauffage ou la fermeture des portes. De plus, avec une montre ou un bracelet connecté, toutes nos activités peuvent être analysées. Un logiciel va mesurer le nombre de nos pas pour nous inciter à faire davantage d’exercice. Un domaine où l’on comprend mieux leur utilité est celui de la surveillance de la santé. Certains objets agissent comme un carnet de santé, toujours prêts à vous rappeler un rendez-vous chez le médecin ou des médicaments à prendre.</p>
+<p class="doc"><b>Document 2</b><br>Il y aurait 50 milliards d’objets connectés dans le monde : l’alarme, le téléviseur, la caméra de surveillance, les volets, le détecteur de fumée, etc. Face à cette évolution, la question de la sécurité se pose. En effet, un pirate informatique peut prendre le contrôle d’un objet connecté en quelques minutes. Ou encore, un cambrioleur pourrait vérifier grâce aux caméras de surveillance connectées d’une habitation si les occupants sont absents. Il est aussi possible d’entrer dans le système connecté d’une voiture et d’en prendre les commandes à distance.</p>
+</section>
+<section class="topic" id="p-91">
+  <div class="topic-head">
+    <span class="badge">91</span>
+    <p class="prompt">Objets Connectés<span class="orig">· was #20</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Les objectés connectés permettent de vérifier à travers un téléphone si un individu est en bonne santé tout en vérifiant ses battements de cœur et le nombre de pas qu’il effectue. Ils facilitent également le travail humain. Plus besoin d’un portier désormais, vous pouvez ouvrir un portail à domicile à l’aide des appareils connectés à votre téléphone portable. Il est également possible de faire surveiller son domicile à distance.</p>
+<p class="doc"><b>Document 2</b><br>Certains affirment que les objets connectés peuvent être à l’origine des cambriolages et même des espionnages. Mais surtout un grand inconvénient contre la vie privée des Hommes.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-12">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-19">
+  <div class="topic-head">
+    <span class="badge">19</span>
+    <p class="prompt">Les animaux de compagnie pour les enfants, pour ou contre ?<span class="orig">· was #2</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Offrir un animal de compagnie à un enfant présente de nombreux avantages, comme le soulignent beaucoup de psychologues. Pour des enfants qui n’ont pas des frères et/ou des sœurs, l’animal est un compagnon qui leur évitera la solitude. Grâce à lui, un enfant prendra confiance en lui et il apprendra vite qu’un animal est un être vivant qui a besoin d’attention et de respect. En sa présence, l’enfant se sentira en sécurité et pourra agir de manière autonome, sans l’aide de ses parents.</p>
+<p class="doc"><b>Document 2</b><br>Beaucoup d’enfants demandent, un jour ou l’autre, un animal à leurs parents, le plus souvent un chien ou un chat. Mais même si vous avez envie de faire plaisir à votre enfant, il vaut mieux réfléchir sérieusement avant d’acheter un animal domestique. L’animal devient un nouveau membre de la famille et représente un engagement sur de nombreuses années. Or, avoir un animal coûte souvent très cher, et c’est une grande responsabilité. On ne peut pas le traiter comme un jouet que l’on met à la poubelle quand l’enfant s’en désintéresse.</p>
+</section>
+<section class="topic" id="p-66">
+  <div class="topic-head">
+    <span class="badge">66</span>
+    <p class="prompt">Animaux De Compagnie.<span class="orig">· was #21</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>La question des animaux de compagnie dans les locations de courte durée suscite souvent des débats. Certains propriétaires sont ouverts à accueillir des animaux, tandis que d’autres les interdisent. Pour les amoureux des animaux, il est crucial de trouver des logements qui acceptent les animaux de compagnie, car ils considèrent leurs compagnons à fourrure comme des membres de leur famille. Ces voyageurs ont besoin de logements où leurs animaux peuvent se sentir à l’aise et bienvenus, avec des espaces extérieurs appropriés pour les promenades et les jeux.</p>
+<p class="doc"><b>Document 2</b><br>La présence d’animaux de compagnie dans les locations de courte durée peut également présenter des défis pour les propriétaires et les autres voyageurs. Certains animaux peuvent être bruyants, causer des dégâts ou provoquer des allergies chez certaines personnes. En raison de ces préoccupations, de nombreux propriétaires préfèrent interdire les animaux de compagnie dans leurs logements. Cela peut limiter les options pour les voyageurs qui souhaitent emmener leurs animaux avec eux. Cependant, il existe également des logements de courte durée spécialement conçus pour les animaux de compagnie, offrant des équipements adaptés tels que des litières, des jouets et des espaces dédiés pour les animaux. Ces logements sont souvent très demandés par les voyageurs qui veulent profiter de leurs vacances en compagnie de leurs animaux bien-aimés.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-13">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-20">
+  <div class="topic-head">
+    <span class="badge">20</span>
+    <p class="prompt">L’Utilisation Du Plastique, Pour Ou Contre<span class="orig">· was #80</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Franck soutient l’utilisation limitée du plastique, soulignant son importance dans de nombreux secteurs, notamment les secteurs médical et alimentaire. Pour lui, le plastique est vital pour la conservation des aliments et la stérilisation des équipements médicaux. Il prône une utilisation responsable et le recyclage, mais reconnaît que certains usages du plastique sont indispensables pour la société moderne.</p>
+<p class="doc"><b>Document 2</b><br>Amicha s’oppose fermement à l’utilisation du plastique, mettant en avant son impact environnemental dévastateur. Elle soutient que les déchets plastiques polluent les océans et les écosystèmes, causant des dommages irréparables. Amicha milite pour des alternatives écologiques et durables, insistant sur l’urgence de renoncer au plastique pour protéger l’environnement et la santé publique.</p>
+</section>
+<section class="topic" id="p-35">
+  <div class="topic-head">
+    <span class="badge">35</span>
+    <p class="prompt">l'utilisation du plastique, pour ou contre<span class="orig">· was #60</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Chaque année, des millions de tonnes de plastiques sont déversées dans les océans, où elles s’accumulent et se fragmentent en petits morceaux. Ces déchets plastiques ont des effets désastreux sur la faune et la flore marines, qui les ingèrent. Les plastiques menacent ainsi la santé des écosystèmes marins, mais aussi la nôtre, car ils peuvent remonter dans la chaîne alimentaire. Il est urgent de réduire notre consommation de plastiques et de les éliminer à la source, avant qu’ils n’atteignent les océans.</p>
+<p class="doc"><b>Document 2</b><br>Le plastique est un matériau indispensable dans le domaine de la santé. Il permet de fabriquer des dispositifs médicaux, tels que des seringues, des cathéters, des prothèses, des implants, des pansements, etc. Ces dispositifs sont souvent jetables, résistants, et adaptés aux besoins des patients. Le plastique contribue ainsi à la prévention des infections, à la réduction des douleurs, à l’amélioration de la qualité de vie, et à la sauvegarde de nombreuses vies. Il est donc un allié de la médecine, qui apporte des solutions innovantes et efficaces.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-14">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-21">
+  <div class="topic-head">
+    <span class="badge">21</span>
+    <p class="prompt">deux opinions sur les menus sans viande aux cantines scolaires.<span class="orig">· was #37</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>loDe plus en plus d’écoles décident de mettre en place un menu sans viande dans les cantines, au moins deux fois par semaine. Certaines études ont montré que les enfants consomment trop de protéines animales. C’est donc une question de santé : les écoles ont choisi de remplacer la viande par d’autres produits (soja, céréales, légumes), moins gras et utiles à la croissance des enfants. Ces menus sans viandes à la cantine reviennent moins cher aux familles. Cette idée plaît beaucoup aux parents comme aux enfants.</p>
+<p class="doc"><b>Document 2</b><br>La décision de supprimer la viande dans les cantines ne plaît pas à tout le monde. En effet, c’est un produit cher : la cantine est le seul endroit où les enfants de familles en difficulté peuvent manger. Les producteurs locaux de viande sont également mécontents : une partie de leur production est réservée aux cantines, il s’agit donc d’une perte financière. Enfin, beaucoup d’enfants interrogés déclarent tout de même préférer les steaks de bœuf aux steaks de soja qui, selon eux, ont peu de goût.</p>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-36">
+  <div class="topic-head">
+    <span class="badge">36</span>
+    <p class="prompt">la consommation de viande : pour ou contre?<span class="orig">· was #90</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Danniel :<br>Je suis contre la consommation de viande en raison de préoccupations éthiques, environnementales et sanitaires. Éthiquement, je crois que tous les animaux ont droit à la vie et à la liberté, et que l’élevage industriel implique souvent des traitements inhumains. Environnementalement, l’élevage d’animaux pour la viande est une source majeure de gaz à effet de serre et nécessite une grande quantité de terres et d’eau, ce qui contribue au changement climatique et à la déforestation.</p>
+<p class="doc"><b>Document 2</b><br>Alain:<br>Je suis d’accord avec la consommation de viande car elle est une source essentielle de protéines, de vitamines B et de minéraux comme le fer et le zinc. Bien que l’on puisse obtenir ces nutriments à partir de sources végétales, ils sont souvent plus accessibles et plus facilement absorbés par le corps lorsqu’ils proviennent de sources animales. De plus, la viande fait partie intégrante de nombreux régimes culturels et traditions culinaires, ce qui ajoute à sa valeur au-delà de la nutrition. Cependant, il est crucial de se procurer de la viande de manière responsable, en soutenant des pratiques d’élevage éthiques et durables.</p>
+</section>
+<section class="topic" id="p-86">
+  <div class="topic-head">
+    <span class="badge">86</span>
+    <p class="prompt">Végétarisme : Un Choix à Réfléchir<span class="orig">· was #77</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Le végétarisme offre plusieurs bénéfices. Il contribue d’abord à une meilleure santé en réduisant les risques de maladies, telles que les problèmes cardiaques, grâce à la consommation de fruits et de légumes. En outre, il joue un rôle dans la protection de l’environnement en réduisant la pollution liée à la production de viande. Enfin, il permet de respecter les animaux, un principe de plus en plus soutenu par les Européens.</p>
+<p class="doc"><b>Document 2</b><br>Le végétarisme ne convient pas à tout le monde. Certaines personnes ont besoin de viande pour obtenir des nutriments essentiels, comme le fer et les protéines. De plus, les habitudes alimentaires traditionnelles en Europe incluent souvent la viande, ce qui rend ce changement difficile. Enfin, adopter un régime végétarien peut demander plus de temps et de connaissances pour équilibrer correctement les repas, ce qui peut ne pas être pratique pour tous.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-15">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-22">
+  <div class="topic-head">
+    <span class="badge">22</span>
+    <p class="prompt">Femmes et hommes au travail<span class="orig">· was #63</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Dans certaines régions, comme le Québec, l’égalité entre les femmes et les hommes est une réalité. Beaucoup de femmes occupent désormais des postes à responsabilité et travaillent dans des domaines traditionnellement masculins, tels que le bâtiment ou la gestion d’entreprise. Avec les lois sur l’égalité et le changement des mentalités, les femmes ont aujourd’hui accès aux mêmes métiers que les hommes, sans subir de discrimination.</p>
+<p class="doc"><b>Document 2</b><br>Même si des efforts sont faits pour atteindre la parité, des inégalités demeurent. Par exemple, certains métiers sont encore très féminisés, comme celui de sage-femme ou d’assistante maternelle. De plus, certaines personnes estiment que les femmes doivent rester à la maison pour s’occuper des enfants plutôt que travailler dans des métiers exigeants ou à responsabilité. Il reste donc beaucoup à faire pour changer les mentalités et garantir les mêmes chances aux femmes et aux hommes.</p>
+</section>
+<section class="topic" id="p-68">
+  <div class="topic-head">
+    <span class="badge">68</span>
+    <p class="prompt">Femmes et hommes : vers l’égalité<span class="orig">· was #92</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>L’égalité entre les hommes et les femmes est indispensable pour construire une société juste. Elle permet aux femmes d’avoir les mêmes chances professionnelles que les hommes et d’obtenir un salaire équitable. Sur le plan social, elle encourage leur participation à la vie politique, économique et culturelle. Cette égalité favorise aussi le respect mutuel et aide à diminuer les discriminations et les préjugés.</p>
+<p class="doc"><b>Document 2</b><br>Malgré les avancées réalisées, certains problèmes restent présents. Les inégalités de salaire et de carrière existent encore dans plusieurs domaines. Les stéréotypes sociaux et culturels influencent toujours les choix professionnels et les attitudes. De plus, certaines femmes ont du mal à équilibrer travail et vie familiale. Enfin, les mesures pour favoriser l’égalité sont parfois insuffisantes ou mal mises en œuvre, ce qui freine les progrès.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-16">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-23">
+  <div class="topic-head">
+    <span class="badge">23</span>
+    <p class="prompt">L'art Urbain : Pour Ou Contre ?<span class="orig">· was #61</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Grâce à l’art, la curiosité des citadins est attisée dans l’espace urbain. Que ce soit par une peinture ou un spectacle de rue, l’atmosphère éphémère ainsi créée offre une interaction entre des artistes peu connus et un public hétéroclite, parfois peu habitué à côtoyer cette forme d’art.Les villes d’aujourd’hui n’ont plus la même vocation que celles d’hier. Plus qu’un lieu de résidence, la ville se réinvente, s’enrichit de la diversité de sa population, s’agence différemment et s’ouvre sur le monde. Les espaces verts se créent et les murs se parent de couleurs grâce au street art. Cela débouche sur des lieux où la qualité de vie est privilégiée, tout en respectant la nature et l’environnement.</p>
+<p class="doc"><b>Document 2</b><br>Mais à une plus large échelle, cela n’est pas aussi évident. Les graffitis peuvent être perçus comme une dégradation de la communauté, une pollution visuelle ou une preuve de la rupture sociale.On le considèrent comme du vandalisme qui défigure les biens publics. Le débat sur les avantages et les inconvénients des graffitis fait rage parmi les artistes, les législateurs et les membres de la communauté.</p>
+</section>
+<section class="topic" id="p-45">
+  <div class="topic-head">
+    <span class="badge">45</span>
+    <p class="prompt">L'art urbain<span class="orig">· was #62</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Dans les grandes villes, il y a de plus en plus de peintures et de dessins sur les murs des maisons, des écoles et même des églises. Cet art urbain permet à la culture d’avoir une place dans l’espace public. Selon certains maires, il est important que les villes aident les artistes en leur proposant des espaces où ils sont autorisés à peindre. De plus, ces graffitis attirent les touristes qui peuvent participer à des visites thématiques sur cet art. Ils peuvent ainsi découvrir des lieux moins connues.</p>
+<p class="doc"><b>Document 2</b><br>Certaines villes dépensent chaque année une somme d’argent importante pour lutter contre les peintures de rue. Ces dessins sur les murs, sur les bancs ou dans les stations de métro sont difficiles à enlever. Il est parfois nécessaire de faire appel à des équipes de nettoyage spécialisées. Pour certains habitants, ces peintures donnent une mauvaise image de leurs quartiers. Elles provoquent aussi la colère des propriétaires des murs qui sont parfois obligés de les nettoyer eux-mêmes. Cependant, malgré les interdictions des mairies et les amendes, les graffitis continuent d’apparaître sur les murs des villes.</p>
+</section>
+<section class="topic" id="p-81">
+  <div class="topic-head">
+    <span class="badge">81</span>
+    <p class="prompt">L’art dans les rues pour ou contre ?<span class="orig">· was #8</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Le graffiti est un art à part entière qu’il faut faire connaître et démocratiser parce qu’il y a beaucoup de préjugés.</p>
+<p class="doc"><b>Document 2</b><br>On ne peut pas tout se permettre. Mettre de la peinture sans autorisation, c’est illégal. Ça vous plairait, qu’on repeigne votre maison ! Alice Les gens qui n’ont jamais tenu une bombe ou un marqueur ne pourront jamais savoir… benjamin.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-25">
   <div class="topic-head">
     <span class="badge">25</span>
@@ -290,6 +604,9 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Les zoos présentent de nombreux avantages, y compris pour les espèces en voie de disparition. Les animaux y sont bien soignés. Les études démontrent que les taux de reproduction ont augmenté grâce aux programmes menés dans les zoos, contribuant ainsi à la sauvegarde de certaines espèces.</p>
 <p class="doc"><b>Document 2</b><br>Les animaux sauvages ne devraient pas être confinés dans des zoos, car cela ne correspond pas à leur habitat naturel. Il décrit les zoos comme des prisons pour les animaux, citant l’exemple d’ours polaires maintenus dans des environnements où la température atteint 15 degrés. Enfin, les animaux nécessitent un environnement naturel et la liberté.</p>
 </section>
+<div class="tcf-group" id="g-EE_T3-17">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-29">
   <div class="topic-head">
     <span class="badge">29</span>
@@ -298,6 +615,16 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>À mon avis, le fait de vivre en ville, cela vous donne la possibilité de vous divertir de plusieurs manières ; comme aller au cinéma, déjeuner dans un restaurant faire du shopping… Tout est à côté, vous n’avez pas besoin de parcourir plusieurs kilomètres pour prendre un taxi ( si le trajet est un peu long) et vous aurez à disposition tout ce dont vous désirez. Même les amoureux des évènements culturels sont servis ; musée, théâtre, opéra… tout y est !</p>
 <p class="doc"><b>Document 2</b><br>Dernièrement, j’ai décidé de quitter la ville pour vivre à la campagne, car j’avais vraiment besoin de me rapprocher de la nature et de profiter du calme. Désormais, au lieu de partir quotidiennement au bar du coin ou au restaurant, j’invite des amis à boire un verre dans la terrasse de ma maison ou j’organise de temps en temps un barbecue dans mon jardin. Un autre détail d’importance m’a encouragé à prendre cette décision ; c’est la disponibilité des logements avec des prix largement inférieurs à ceux proposés en villes. Avec mon budget actuel, j’ai une grande maison avec terrasse et jardin privatif, alors qu’en ville, j’avais le droit à un petit appartement au 5 e étage d’un immeuble.</p>
 </section>
+<section class="topic" id="p-62">
+  <div class="topic-head">
+    <span class="badge">62</span>
+    <p class="prompt">Ville ou campagne : choisir son cadre de vie<span class="orig">· was #52</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Depuis que j’ai déménagé à la campagne, ma vie a complètement changé. Les chants des oiseaux et mon jardin ont remplacé les pharmacies et cinémas de la ville. Je voulais fuir le bruit, la pollution et la foule pour profiter du calme et des espaces verts. Ici, je savoure la tranquillité et de grands espaces sans voisins proches. (Marie, 42 ans)</p>
+<p class="doc"><b>Document 2</b><br>La vie rurale n’est pas adaptée à tous. Les commerces, loisirs et services essentiels comme les écoles ou hôpitaux peuvent se trouver à plusieurs kilomètres. Il est souvent nécessaire d’utiliser la voiture, et Internet n’est pas toujours fiable. La ville, en revanche, facilite les déplacements et procure un confort quotidien supérieur. (Claire, 35 ans)</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-30">
   <div class="topic-head">
     <span class="badge">30</span>
@@ -306,6 +633,9 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Les passionnés de cuisine peuvent préparer d’excellents plats, mais ils ne possèdent pas toujours l’expertise et les techniques des chefs professionnels. Une formation et une expérience en cuisine sont nécessaires pour développer un savoir-faire précis et garantir un niveau de qualité élevé.</p>
 <p class="doc"><b>Document 2</b><br>Certains autodidactes se sont fait un nom grâce aux réseaux sociaux, où ils partagent leurs recettes et leurs astuces culinaires. Certains d’entre eux ont même publié des livres de cuisine et sont devenus des références pour les amateurs souhaitant progresser dans l’art culinaire.</p>
 </section>
+<div class="tcf-group" id="g-EE_T3-18">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">3 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-31">
   <div class="topic-head">
     <span class="badge">31</span>
@@ -314,6 +644,24 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Le supermarché est très pratique ; on y trouve une grande variété de produits, tous à portée de main. Vous pouvez garer votre voiture dans le parking et faire le tour des rayons pour acheter tout ce dont vous avez besoin : fruits, légumes, fromages, viandes, boissons… De plus, les supermarchés offrent plusieurs marques pour un même produit, tout en proposant régulièrement des promotions et des remises.</p>
 <p class="doc"><b>Document 2</b><br>ASSOCIATION POUR LA SAUVEGARDE DES PETITS COMMERCES<br>Le défi « Février sans supermarché » a été créé pour limiter la superpuissance des supermarchés et, par conséquent, permettre aux petits commerces de survivre et de réaliser des chiffres d’affaires plus conséquents. Ce défi consiste à boycotter les supermarchés pendant une durée d’un mois, en faisant toutes ses courses dans les épiceries de quartier. Le client aura tout à gagner : il bénéficiera non seulement de produits frais de meilleure qualité, mais aura également l’opportunité de papoter avec les voisins.</p>
 </section>
+<section class="topic" id="p-85">
+  <div class="topic-head">
+    <span class="badge">85</span>
+    <p class="prompt">Faire ses courses alimentaires chez les producteurs locaux ou au supermarché.<span class="orig">· was #1</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Jean qui vit à la compagne favorise l’achat des produits alimentaires directement à la ferme pour la bonne qualité quitte à payer un peu plus cher.</p>
+<p class="doc"><b>Document 2</b><br>Camille qui vit dans la ville préfère faire ses courses au supermarché pour la variété qu’il propose et pour les prix abordables.</p>
+</section>
+<section class="topic" id="p-93">
+  <div class="topic-head">
+    <span class="badge">93</span>
+    <p class="prompt">Privilégier la ferme ou le supermarché pour ses courses ?<span class="orig">· was #9</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Je réalise mes achats alimentaires à moins de dix kilomètres de chez moi. Habitant à la campagne, je peux acheter directement à la ferme et discuter avec les producteurs. Le prix est parfois plus élevé, mais les produits sont de meilleure qualité et je connais leur origine. Pour moi, il est essentiel de faire confiance aux producteurs locaux et de consommer des produits régionaux.</p>
+<p class="doc"><b>Document 2</b><br>Pour mes courses, je me rends toujours au supermarché, c’est ma préférence. Habitant en centre-ville, c’est plus pratique, surtout avec les enfants. Je peux trouver tous les produits au même endroit et profiter des promotions. Pour moi, l’important est de gagner du temps, de réduire mes dépenses et de faire mes courses près de chez moi. Je préfère garder de l’argent pour des loisirs comme aller au cinéma ou sortir au restaurant.<br>Réussir l'expression écrite<br>Pour partager les sujets de votre session:</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-32">
   <div class="topic-head">
     <span class="badge">32</span>
@@ -322,6 +670,9 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Sophie (28 ans) : « Je fais partie de ceux qui ne parviennent pas à comprendre comment on peut prendre plaisir à tuer des animaux. Je fais aussi partie de ceux qui ne saisissent pas comment on peut prétendre aimer la nature tout en contribuant à sa destruction. »</p>
 <p class="doc"><b>Document 2</b><br>Bernard (Journaliste de la FRM) : « La chasse est pratiquée pour diverses raisons : qu’il s’agisse de se nourrir, de commercer, de gérer la faune, de protéger la propriété, de faire de l’exercice, de se divertir ou de chercher du prestige. »</p>
 </section>
+<div class="tcf-group" id="g-EE_T3-19">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-33">
   <div class="topic-head">
     <span class="badge">33</span>
@@ -330,6 +681,19 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Le travail occupe une place importante dans notre vie : dès l’enfance, on nous demande : « Que veux-tu devenir plus tard ? ». Même s’il peut apporter de la satisfaction, il est souvent source de fatigue et peut donner l’impression d’être coincé dans une routine. Aujourd’hui, beaucoup de personnes constatent un déséquilibre entre leur vie professionnelle et leur vie personnelle. Il devient nécessaire de réfléchir à la place du travail dans notre société. Certains pensent qu’en travaillant moins, on pourrait profiter de davantage de temps libre, être plus heureux et mieux vivre.</p>
 <p class="doc"><b>Document 2</b><br>Le travail fait partie de notre identité sociale. Lorsqu’on rencontre quelqu’un pour la première fois, on demande souvent : « Que faites-vous dans la vie ? », ce qui montre l’importance du travail dans la perception de soi. Selon le spécialiste Jean-Daniel Remond, la vie professionnelle contribue à se construire : elle permet de rencontrer des gens, de créer des réseaux personnels et professionnels, de se sentir utile et même de se faire des amis. Même si certains décident de quitter leur emploi, pour la plupart, travailler est essentiel pour exister. Le travail reste donc crucial pour l’équilibre personnel et collectif.</p>
 </section>
+<section class="topic" id="p-78">
+  <div class="topic-head">
+    <span class="badge">78</span>
+    <p class="prompt">le travail : Favorable ou défavorable ?<span class="orig">· was #86</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Opinion 1 : Stéphane, entrepreneur<br>« Je suis convaincu que le travail est absolument favorable pour l’individu et la société. Le travail permet non seulement d’assurer son propre moyen de subsistance, mais également de contribuer au développement économique de la société. De plus, il favorise l’autonomie et la confiance en soi, encourage le sens des responsabilités et offre une opportunité d’épanouissement personnel et professionnel. Il peut même aider à forger notre identité et notre place dans la société. »</p>
+<p class="doc"><b>Document 2</b><br>Opinion 2 : Laura, sociologue<br>« Le travail, dans sa forme actuelle, peut avoir des aspects défavorables. Dans de nombreux cas, le travail est associé à un stress intense, à des horaires rigides et à un déséquilibre entre la vie professionnelle et la vie privée. Il peut être une source d’épuisement professionnel, surtout lorsque la charge de travail est excessive et que la reconnaissance est faible. De plus, certaines formes de travail peuvent être aliénantes, lorsque les travailleurs ne se sentent pas impliqués ou valorisés dans ce qu’ils font. Il est donc essentiel de repenser nos rapports au travail pour en faire une expérience plus équilibrée et enrichissante. »<br>Réussir l'expression écrite<br>Pour partager les sujets de votre session:</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-20">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-34">
   <div class="topic-head">
     <span class="badge">34</span>
@@ -338,22 +702,16 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Une étude menée par le Centre de recherche sur la parentalité de l’Université de Toronto en juin dernier a révélé que la majorité des parents adoptent des approches plus bienveillantes envers leurs enfants qu’auparavant. Cette étude a examiné un échantillon représentatif de mille familles dans différentes régions du pays et a montré que les parents encouragent une communication ouverte avec leurs enfants et adoptent des approches moins autoritaires.</p>
 <p class="doc"><b>Document 2</b><br>Un article d’opinion paru dans un magazine populaire en mars 2023 présente des témoignages de parents qui ont recours à des méthodes de discipline plus strictes, telles que des privations de liberté, des punitions corporelles et des critiques constantes. Certains parents estiment que ces approches sont nécessaires pour aider leurs enfants à développer leur responsabilité et leur discipline dans un monde de plus en plus compétitif. Cependant, de nombreux experts en éducation considèrent ces méthodes comme inappropriées et préconisent des approches plus positives et coopératives pour guider les enfants vers un comportement approprié.</p>
 </section>
-<section class="topic" id="p-35">
+<section class="topic" id="p-51">
   <div class="topic-head">
-    <span class="badge">35</span>
-    <p class="prompt">l'utilisation du plastique, pour ou contre<span class="orig">· was #60</span></p>
+    <span class="badge">51</span>
+    <p class="prompt">Parents exigeants ou permissifs.<span class="orig">· was #45</span></p>
   </div>
-<p class="doc"><b>Document 1</b><br>Chaque année, des millions de tonnes de plastiques sont déversées dans les océans, où elles s’accumulent et se fragmentent en petits morceaux. Ces déchets plastiques ont des effets désastreux sur la faune et la flore marines, qui les ingèrent. Les plastiques menacent ainsi la santé des écosystèmes marins, mais aussi la nôtre, car ils peuvent remonter dans la chaîne alimentaire. Il est urgent de réduire notre consommation de plastiques et de les éliminer à la source, avant qu’ils n’atteignent les océans.</p>
-<p class="doc"><b>Document 2</b><br>Le plastique est un matériau indispensable dans le domaine de la santé. Il permet de fabriquer des dispositifs médicaux, tels que des seringues, des cathéters, des prothèses, des implants, des pansements, etc. Ces dispositifs sont souvent jetables, résistants, et adaptés aux besoins des patients. Le plastique contribue ainsi à la prévention des infections, à la réduction des douleurs, à l’amélioration de la qualité de vie, et à la sauvegarde de nombreuses vies. Il est donc un allié de la médecine, qui apporte des solutions innovantes et efficaces.</p>
+<p class="doc"><b>Document 1</b><br>J’ai 19 ans et je vis toujours avec mes parents. Même si je suis maintenant majeure et capable de me gérer seule, ils restent très exigeants avec moi. Avant mes 18 ans, je devais être à la maison avant 20 heures et je n’avais pas le droit de passer la nuit chez mes copines. Aujourd’hui, j’ai un peu plus de liberté, mais ma mère reste très inquiète. Elle m’appelle souvent pour savoir où je suis et ne dort pas tant que je ne suis pas rentrée. Mes parents me laissent un peu de liberté, mais j’ai l’impression d’être plus surveillée que les autres jeunes.</p>
+<p class="doc"><b>Document 2</b><br>Certains parents choisissent de ne pas être trop sévères et laissent beaucoup de liberté à leurs enfants. Ils ont peur que trop de règles les rendent tristes ou qu’ils manquent de confiance en eux. Ces parents acceptent donc presque tout ce que leurs enfants demandent. Cela ne cause pas vraiment de problèmes quand ils sont petits, mais plus tard, devenus adultes, ils auront du mal à respecter les règles et à vivre en société.</p>
 </section>
-<section class="topic" id="p-36">
-  <div class="topic-head">
-    <span class="badge">36</span>
-    <p class="prompt">la consommation de viande : pour ou contre?<span class="orig">· was #90</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Danniel :<br>Je suis contre la consommation de viande en raison de préoccupations éthiques, environnementales et sanitaires. Éthiquement, je crois que tous les animaux ont droit à la vie et à la liberté, et que l’élevage industriel implique souvent des traitements inhumains. Environnementalement, l’élevage d’animaux pour la viande est une source majeure de gaz à effet de serre et nécessite une grande quantité de terres et d’eau, ce qui contribue au changement climatique et à la déforestation.</p>
-<p class="doc"><b>Document 2</b><br>Alain:<br>Je suis d’accord avec la consommation de viande car elle est une source essentielle de protéines, de vitamines B et de minéraux comme le fer et le zinc. Bien que l’on puisse obtenir ces nutriments à partir de sources végétales, ils sont souvent plus accessibles et plus facilement absorbés par le corps lorsqu’ils proviennent de sources animales. De plus, la viande fait partie intégrante de nombreux régimes culturels et traditions culinaires, ce qui ajoute à sa valeur au-delà de la nutrition. Cependant, il est crucial de se procurer de la viande de manière responsable, en soutenant des pratiques d’élevage éthiques et durables.</p>
-</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-37">
   <div class="topic-head">
     <span class="badge">37</span>
@@ -362,6 +720,9 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Les raisons qui poussent les parents à choisir la scolarisation à domicile sont multiples. Ce mode d’enseignement permet d’adopter une approche pédagogique plus personnalisée, offrant la possibilité de consacrer davantage de temps aux difficultés spécifiques de l’enfant ou de lui proposer, de temps à autre, des activités éducatives ludiques. Ainsi, l’enfant peut gérer son apprentissage à son propre rythme, approfondir les sujets qui le passionnent et ne pas subir la pression des progrès inégaux de ses camarades. De plus, l’instruction à domicile présente un autre avantage : une évolution différente, caractérisée par l’absence de notes parfois décourageantes, un suivi continu des connaissances et l’élimination du stress lié aux évaluations et aux devoirs.</p>
 <p class="doc"><b>Document 2</b><br>Choisir la scolarisation à domicile constitue un défi important et comporte plusieurs inconvénients à considérer avant de se lancer. En effet, cette approche demande un investissement considérable en temps et une organisation rigoureuse, sans oublier les coûts associés. Les familles doivent assumer l’achat du matériel, des livres, des manuels et financer les sorties éducatives, et il est fréquent que l’un des parents doive interrompre son activité professionnelle. En conséquence, l’école à domicile revient généralement plus cher qu’une éducation dans le secteur public. De plus, l’enfant n’a pas l’opportunité de côtoyer quotidiennement des camarades, ce qui limite ses interactions sociales par rapport à un environnement scolaire classique.</p>
 </section>
+<div class="tcf-group" id="g-EE_T3-21">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-38">
   <div class="topic-head">
     <span class="badge">38</span>
@@ -370,6 +731,19 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>D’après le site síestepourtous.com,<br>une micro-sieste permettrait d’augmenter la productivité et la créativité des travailleurs de 35%, ce qui est un avantage considérable pour l’employé et l’employeur. Aussi, la sieste au travail permettrait d’augmenter la mémoire et donc la concentration. Un salarié r é reposé ne penserait plus à dormir et serait davantage disponible pour ses missions. Grâce à la sieste au bureau, le stress et les risques cardiaques diminueraient</p>
 <p class="doc"><b>Document 2</b><br>Bien que les effets positifs d’une power nap aient été scientifiquement prouvés, il existe encore des personnes qui s’y opposent et y voient des inconvénients. La sieste au travail est assez difficile en onvénients. La sieste au travail est termes de Faisabilité. En effet ce n’est pas dans les moyens de toutes les entreprises de mettre en des lits et des salle dédiées à cette ettre en place pratique. Lorsqu’une entreprise veut mettre en place un temps de repos dans son organisation, elle n’est pas tout à fait libre de fair faire selon son bon vouloir. L’entreprise devra se conformer à certaines règles : la mise à disposition d’un local dédié et de matériel<br>employés lors de la sieste (prévention des situations de harcèlement), l’égalité de traitement entre salariés, l’établissement d’une charte gérant re salariés, etc.</p>
 </section>
+<section class="topic" id="p-77">
+  <div class="topic-head">
+    <span class="badge">77</span>
+    <p class="prompt">La sieste au travail<span class="orig">· was #43</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>La sieste au travail peut avoir de nombreux avantages pour les employés et les entreprises. En permettant aux travailleurs de faire une petite sieste, cela peut aider à augmenter leur productivité et à améliorer leur santé et leur bien-être. Les siestes courtes peuvent aider à améliorer la vigilance et la concentration, réduire les niveaux de stress et améliorer l’humeur. En outre, la pratique de la sieste peut aider à réduire les coûts pour les employeurs en diminuant les coûts liés à la fatigue et aux accidents du travail. Il est donc important pour les entreprises de considérer les avantages potentiels de la sieste au travail et d’envisager d’offrir cette option à leur personnel.</p>
+<p class="doc"><b>Document 2</b><br>Malgré les nombreux avantages de la sieste au travail, il peut être difficile pour toutes les entreprises de mettre en place des lits et des salles dédiées à cette pratique. Cela peut être dû à des contraintes financières ou logistiques, ou encore à des politiques de travail strictes qui ne permettent pas aux employés de faire des siestes pendant les heures de travail. En outre, certains travailleurs peuvent ne pas se sentir à l’aise de faire une sieste au travail, ce qui peut limiter l’adoption de cette pratique. Il est donc important pour les entreprises de considérer les avantages et les limites de la sieste au travail et de trouver des solutions créatives pour permettre à leurs employés de se reposer et de se régénérer pendant la journée de travail.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-22">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-39">
   <div class="topic-head">
     <span class="badge">39</span>
@@ -378,6 +752,16 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Dans l’établissement où j’enseigne à Montréal, les caméras de surveillance sont présentes partout. Leur installation vise à prévenir les comportements violents chez les élèves. Les enseignants, les parents et une grande majorité des élèves soutiennent leur présence, se sentant ainsi plus rassurés concernant la sécurité des enfants, et permettant aux enseignants de travailler dans un environnement plus serein. Cependant, certains élèves estiment que cela empiète sur leur vie privée.</p>
 <p class="doc"><b>Document 2</b><br>Je suis contre l’usage des caméras de surveillance dans les écoles à Montréal. Les exemples d’autres pays ne montrent pas d’efficacité réelle, et les caméras peuvent facilement être contournées. Selon moi, les problèmes disciplinaires devraient être réglés par une meilleure communication entre les enseignants, les administrateurs et les élèves, ainsi qu’une sensibilisation continue au respect des règles. Les caméras ne sont qu’une solution superficielle et ne favorisent pas un climat de confiance ni de coopération au sein de l’établissement.</p>
 </section>
+<section class="topic" id="p-69">
+  <div class="topic-head">
+    <span class="badge">69</span>
+    <p class="prompt">Caméras De Surveillance : Pour Ou Contre ?<span class="orig">· was #35</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>De nos jours, il y a de plus en plus de caméras de surveillance dans les villes. La vidéosurveillance est appréciée par les Français car cela leur donne un sentiment de sécurité. D’après un sondage, 75% d’entre eux sont pour le développement de la vidéosurveillance. Ils seraient d’accord pour être filmés, mais seulement dans l’espace public: la rue, les magasins ou encore les transports. Cependant, ils refusent d’être surveillés par leur employeur. En France, peu de caméras de vidéosurveillance sont installées sur le lieu de travail.</p>
+<p class="doc"><b>Document 2</b><br>Certaines enquêtes montrent que la vidéo surveillance coûte cher et que ses résultats sont insuffisants. D’une part, la présence des caméras est facile à remarquer. Par conséquent, la vidéo surveillance est inutile pour éviter les vols, la consommation de drogue et la violence dans les villes. D’autre part, l’utilisation de vidéo surveillance demande beaucoup de personnel. Une étude allemande montre que sept personnes par caméra sont nécessaires pour analyser les informations.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-40">
   <div class="topic-head">
     <span class="badge">40</span>
@@ -410,22 +794,6 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Opinion 1 : Alexandre, un conseiller d’orientation<br>« Je suis fermement pour le travail des jeunes pendant les vacances. C’est une excellente occasion d’acquérir des compétences pratiques, d’apprendre à travailler en équipe et de découvrir différentes industries. Les jeunes peuvent gagner de l’argent qu’ils peuvent économiser pour l’avenir ou utiliser pour financer des activités ou des loisirs. De plus, le fait d’avoir une expérience de travail sur leur CV peut leur donner un avantage lorsqu’ils postulent pour des emplois ou des stages à l’avenir. Les vacances d’été sont longues et il y a amplement de temps pour se reposer et travailler.</p>
 <p class="doc"><b>Document 2</b><br>Opinion 2 : Élise, une psychologue pour adolescents<br>« Je suis contre l’idée que les jeunes doivent travailler pendant leurs vacances. Les adolescents sont déjà sous une énorme pression pendant l’année scolaire avec les études, les examens et les activités parascolaires. Les vacances doivent être une période pour eux de se détendre, de se décompresser et de poursuivre des intérêts personnels. Les forcer à travailler pourrait contribuer au stress et à l’épuisement. Il est également important pour les jeunes de disposer de temps non structuré pour explorer leur créativité, passer du temps avec leurs amis et leur famille, et tout simplement être des enfants. Le travail peut attendre. »</p>
 </section>
-<section class="topic" id="p-44">
-  <div class="topic-head">
-    <span class="badge">44</span>
-    <p class="prompt">La colocation : entre avantages et inconvénients<span class="orig">· was #28</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Vivre en colocation peut être une belle expérience humaine. Que ce soit avec un ami ou une personne que l’on apprend à connaître, cela permet de créer de nouveaux liens, de partager des moments agréables en rentrant le soir, comme discuter autour d’un repas ou regarder un film ensemble. C’est aussi un bon moyen de se répartir les tâches ménagères et de bénéficier des compétences de chacun, que ce soit en cuisine ou en bricolage.</p>
-<p class="doc"><b>Document 2</b><br>Vivre en colocation est une expérience bien différente de la vie en famille. Chacun a son propre rythme, sa personnalité et ses priorités, ce qui peut parfois compliquer la cohabitation. Si le courant ne passe pas avec le colocataire, cela peut vite devenir difficile à vivre. Les conflits surviennent souvent à cause du non-respect des tâches partagées ou du manque d’intimité. Le bruit peut aussi poser problème, comme un colocataire qui joue à des jeux vidéo tard dans la nuit.</p>
-</section>
-<section class="topic" id="p-45">
-  <div class="topic-head">
-    <span class="badge">45</span>
-    <p class="prompt">L'art urbain<span class="orig">· was #62</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Dans les grandes villes, il y a de plus en plus de peintures et de dessins sur les murs des maisons, des écoles et même des églises. Cet art urbain permet à la culture d’avoir une place dans l’espace public. Selon certains maires, il est important que les villes aident les artistes en leur proposant des espaces où ils sont autorisés à peindre. De plus, ces graffitis attirent les touristes qui peuvent participer à des visites thématiques sur cet art. Ils peuvent ainsi découvrir des lieux moins connues.</p>
-<p class="doc"><b>Document 2</b><br>Certaines villes dépensent chaque année une somme d’argent importante pour lutter contre les peintures de rue. Ces dessins sur les murs, sur les bancs ou dans les stations de métro sont difficiles à enlever. Il est parfois nécessaire de faire appel à des équipes de nettoyage spécialisées. Pour certains habitants, ces peintures donnent une mauvaise image de leurs quartiers. Elles provoquent aussi la colère des propriétaires des murs qui sont parfois obligés de les nettoyer eux-mêmes. Cependant, malgré les interdictions des mairies et les amendes, les graffitis continuent d’apparaître sur les murs des villes.</p>
-</section>
 <section class="topic" id="p-46">
   <div class="topic-head">
     <span class="badge">46</span>
@@ -442,14 +810,9 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Lorsque ma fille a accidentellement vu du contenu inapproprié en ligne, j’ai immédiatement activé le contrôle parental. Cela l’a protégée des dangers en ligne et m’a rassuré en tant que parent. Depuis, elle navigue plus sereinement, et je peux souffler, sachant qu’elle est en sécurité.</p>
 <p class="doc"><b>Document 2</b><br>Mon fils s’est senti étouffé par le contrôle parental que j’avais installé. Il m’a avoué qu’il se sentait méfiant et limité. Au lieu de le protéger, cela a creusé un fossé entre nous. J’ai choisi l’éducation digitale et le dialogue plutôt que la restriction.</p>
 </section>
-<section class="topic" id="p-48">
-  <div class="topic-head">
-    <span class="badge">48</span>
-    <p class="prompt">La Gratuité Des Transports En Commun : Pour Ou Contre ?<span class="orig">· was #11</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Les transports en commun gratuits, c’est une très bonne idée, cela permet de diminuer le nombre de voitures en ville et d’éviter les bouchons. C’est aussi une bonne mesure pour diminuer la pollution et donc les risques de maladies respiratoires. Dans ma ville, il y a des transports en commun gratuits. On observe que les gens utilisent plus souvent les transports publics depuis que la gratuité est en place. On observe également que cette mesure a profité aux commerçants : les gens reviennent faire leurs achats dans le centre-ville, ils vont moins dans les hypermarchés.</p>
-<p class="doc"><b>Document 2</b><br>L’idée n’est pas bonne. D’une part, cela couterait cher aux villes. Or, il me semble que la ville de Toulouse a d’autres problèmes à régler en priorité. Par exemple, il faudrait d’abord réaménager leurs espaces verts, cela profiterait à tout le monde. D’autre part, il vaudrait mieux réorganiser les transports publics au lieu de les rendre gratuits. Aujourd’hui, les gens préfèrent prendre leur voiture parce que la ville manque de transports publics dans certains quartiers éloignés. Et puis, selon moi, il faut garder les transports publics payants. Les gens respecteront davantage les équipements s’ils participent à leur financement en payant un titre de transport.</p>
-</section>
+<div class="tcf-group" id="g-EE_T3-23">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-49">
   <div class="topic-head">
     <span class="badge">49</span>
@@ -458,38 +821,16 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Nelson<br>Je travaille depuis 5 ans dans une grande entreprise technologique. Pour moi, le bien-être au travail rime avec flexibilité. Grâce au télétravail et aux horaires ajustables, je ressens un équilibre entre ma vie professionnelle et personnelle. Cependant, je souligne l’importance d’espaces de détente au bureau pour les moments où je m’y trouve.</p>
 <p class="doc"><b>Document 2</b><br>Fabrice<br>Je suis cadre dans une PME, j’associe bien-être au travail à la reconnaissance. Les retours positifs, un management bienveillant et les formations continues ont un impact profond sur ma motivation. Toutefois, je déplore l’absence d’initiatives pour la santé mentale, suggérant que des ateliers de méditation ou des conseils psychologiques pourraient être bénéfiques.</p>
 </section>
-<section class="topic" id="p-50">
+<section class="topic" id="p-59">
   <div class="topic-head">
-    <span class="badge">50</span>
-    <p class="prompt">Vivre En Colocation : Pour Ou Contre ?<span class="orig">· was #19</span></p>
+    <span class="badge">59</span>
+    <p class="prompt">Le Bien-être au Travail.<span class="orig">· was #54</span></p>
   </div>
-<p class="doc"><b>Document 1</b><br>La vie en colocation offre de nombreux avantages. Partager un logement avec d’autres personnes permet de réduire les dépenses, que ce soit le loyer, les factures ou les frais généraux. De plus, cela favorise les interactions sociales et les échanges culturels. Vivre avec des colocataires permet de rencontrer des individus de différents horizons, de nouer des amitiés et de partager des expériences enrichissantes.</p>
-<p class="doc"><b>Document 2</b><br>La colocation peut cependant présenter des défis. Les différences de personnalité et de mode de vie entre les colocataires peuvent entraîner des tensions. La gestion des responsabilités et des tâches ménagères peut également être source de conflits. De plus, la colocation peut limiter l’intimité et l’espace personnel. Il est important d’établir une communication ouverte et respectueuse, ainsi que des règles de vie commune, pour favoriser une cohabitation harmonieuse.</p>
+<p class="doc"><b>Document 1</b><br>Nous avons installé, dans votre entreprise, des bureaux réglables qui montent et descendent, ceci pour permettre aux employés de choisir la position qui leur convient le mieux pour travailler. Les employés sont satisfaits et disent qu’ils sont plus productifs et plus efficaces lors des négociations au téléphone par exemple. Même le climat social est plus convivial et la communication verbale entre collègues s’est renforcée. « Lorie, responsable ».</p>
+<p class="doc"><b>Document 2</b><br>De nos jours, les entreprises veulent toujours plus de productivité et d’efficacité, et les employés passent plus de temps sur les lieux de travail. Les entreprises cherchent toujours des moyens ou astuces pour convaincre leurs employés de travailler plus et qu’elles pensent à leur santé. Moi, ce qui m’importe c’est de faire mon job sur mon temps de travail réel sans être obligé de faire des rallonges en heures supplémentaires. « Florian, ingénieur ».</p>
 </section>
-<section class="topic" id="p-51">
-  <div class="topic-head">
-    <span class="badge">51</span>
-    <p class="prompt">Parents exigeants ou permissifs.<span class="orig">· was #45</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>J’ai 19 ans et je vis toujours avec mes parents. Même si je suis maintenant majeure et capable de me gérer seule, ils restent très exigeants avec moi. Avant mes 18 ans, je devais être à la maison avant 20 heures et je n’avais pas le droit de passer la nuit chez mes copines. Aujourd’hui, j’ai un peu plus de liberté, mais ma mère reste très inquiète. Elle m’appelle souvent pour savoir où je suis et ne dort pas tant que je ne suis pas rentrée. Mes parents me laissent un peu de liberté, mais j’ai l’impression d’être plus surveillée que les autres jeunes.</p>
-<p class="doc"><b>Document 2</b><br>Certains parents choisissent de ne pas être trop sévères et laissent beaucoup de liberté à leurs enfants. Ils ont peur que trop de règles les rendent tristes ou qu’ils manquent de confiance en eux. Ces parents acceptent donc presque tout ce que leurs enfants demandent. Cela ne cause pas vraiment de problèmes quand ils sont petits, mais plus tard, devenus adultes, ils auront du mal à respecter les règles et à vivre en société.</p>
-</section>
-<section class="topic" id="p-52">
-  <div class="topic-head">
-    <span class="badge">52</span>
-    <p class="prompt">Lecture et enfants : encourager sans forcer<span class="orig">· was #25</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Obliger les enfants à lire n’est pas une bonne solution. Lire est une pratique particulière. Quand un enfant aime le sport, on ne le contraint pas, on essaie de le motiver. Il en va de même pour la lecture, selon Laurence T., pédopsychiatre et experte de l’enfance. Elle affirme que « l’amour de la lecture ne peut pas être imposé ».</p>
-<p class="doc"><b>Document 2</b><br>Lire avec ses enfants est une activité agréable et bénéfique. Elle contribue au développement des enfants, car une lecture régulière leur permet d’apprendre de nouveaux mots. Elle les aide également à mieux écouter et à se familiariser avec les mots écrits. Ce moment est idéal pour partager du plaisir en famille, de manière détendue et ludique. Les parents doivent essayer de lire des histoires à leurs enfants dès leur jeune âge, même après une journée fatigante. Cinq à dix minutes par jour sont suffisantes pour leur donner le goût de la lecture durablement.</p>
-</section>
-<section class="topic" id="p-53">
-  <div class="topic-head">
-    <span class="badge">53</span>
-    <p class="prompt">La restauration rapide<span class="orig">· was #26</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Catherine «Je suis complètement contre les chaînes de fast-food, car on ignore souvent quels ingrédients sont utilisés dans leurs plats. Selon moi, la qualité de la nourriture y est faible. Manger ce type d’aliments peut provoquer des maladies, comme le montre le documentaire américain « Supersize Me ». Certes, les hamburgers, sandwichs et frites sont très pratiques et bon marché. Mais, à mon avis, il est important de faire d’autres choix pour rester en bonne santé.»</p>
-<p class="doc"><b>Document 2</b><br>Bernard «Je soutiens la restauration rapide. Je travaille pour une chaîne célèbre, je pense qu’on peut y trouver des repas équilibrés. Les menus comprennent des légumes, des salades, du pain et de la viande. Chaque client est responsable de ce qu’il mange : choisir plusieurs sandwiches et trop de sauce n’est pas un repas sain. Ces restaurants sont aussi très propres et faciles d’accès pour les familles ou les groupes d’amis.»</p>
-</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-54">
   <div class="topic-head">
     <span class="badge">54</span>
@@ -498,6 +839,9 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Les avantages penser à l’avenir, avoir les vêtements propres être en confort surtout que les argents n’est pas tjrs suffisante, Vivre avec ces parents pendant la période des études permet aux jeunes d’économiser les frais de logement, des plats faits maison et une certaine stabilité psychique, teste les adolescents qui vivent avec leurs parents lui permettent d’économiser son argent pour des projets de vie(il paye pas ni le loyer ni la nourriture) (pour ne pas payer le loyer qui coûte chers, le ménage est fait, les vêtements est propres).. favorise que les jeunes vivent avec leurs parents avec le témoin de deux jeunes, la jeune fille disait que le Loyer est très chère et étudier loin de chez soi revient plus chère, Le deuxième jeune trouve que vivre avec ses parents est plus bénéfique pour lui par exemple: la bouffe est bonne, vêtements toujours propres et y a pas de place pour la solitude.</p>
 <p class="doc"><b>Document 2</b><br>Les inconvénients manque de liberté, Vivre seuls leur permet d’être indépendant, les adolescents qui vivent Avec leurs parents s’ennuient car leurs parents décident à leur place et se sont toujours de pondant des parents […] un avis d’un certain monsieur qui à 25 et il a perdu son job, donc il était dans l’obligation de rentrer vivre avec ces parents, et maintenant il a perdu son espace d’intimitée … contre la vie des jeunes avec leurs parent, un témoignage d’un jeune qui considère revenir chez ces parents c’est avoir revenir en arrières.</p>
 </section>
+<div class="tcf-group" id="g-EE_T3-24">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">5 sujets</span><span class="tcf-group-hint">2 variantes proches séparées par ≈ — même plan, à adapter à la question</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-55">
   <div class="topic-head">
     <span class="badge">55</span>
@@ -506,6 +850,43 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Certaines personnes trouvent la publicité ennuyeuse, mais, à mon avis, elle est indispensable pour le commerce et les entreprises. Grâce à la publicité, on fait connaître un produit ou un service. Et puis, parfois, elles sont drôles ! J’aime bien les écouter quand je suis en voiture. Cela me permet aussi d’être informé des nouveautés et des promotions. Personnellement, j’adore comparer les articles : je peux ainsi faire beaucoup d’économies sur mes achats. Enfin, beaucoup de personnes jouent à des jeux gratuits sur leur téléphone : sans publicité, ces jeux seraient tous payants.<br>Quentin, 28 ans</p>
 <p class="doc"><b>Document 2</b><br>La publicité est présente partout dans notre vie de tous les jours : journaux, radios, télévision, téléphone, Internet… Par exemple, sur certaines chaînes de télévision, les émissions sont coupées par la publicité et c’est agaçant. Puis, recevoir des dizaines de kilos de papier de publicité par an dans la boîte aux lettres, ce n’est pas très respectueux de l’environnement ! Je pense qu’il est nécessaire de faire voter une loi pour réduire les publicités par courrier et à la télévision. Si la publicité était plus discrète, elle serait plus appréciée.<br>Estelle, 35 ans</p>
 </section>
+<section class="topic" id="p-67">
+  <div class="topic-head">
+    <span class="badge">67</span>
+    <p class="prompt">Influence de la publicité sur les enfants : pour ou contre ?<span class="orig">· was #75</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Une étude a révélé que les enfants sont constamment exposés à de nombreuses publicités, que ce soit à la télévision, dans les magazines ou sur Internet, et ce, dans des endroits vulnérables à l’influence publicitaire. Les enfants sont particulièrement ciblés par des publicités pour des produits alimentaires peu sains, des jouets, des jeux vidéo et autres produits, ce qui peut influencer leurs choix de consommation et leurs demandes envers leurs parents.</p>
+<p class="doc"><b>Document 2</b><br>Un article de recherche publié dans une revue scientifique souligne que les enfants ont des capacités cognitives limitées pour comprendre et interpréter les messages publicitaires, et qu’ils sont généralement conscients du caractère persuasif de la publicité. Toutefois, d’autres facteurs tels que l’éducation parentale, les influences sociales et culturelles ont un rôle plus important dans les choix de consommation des enfants que la publicité elle-même.</p>
+</section>
+<section class="topic" id="p-73">
+  <div class="topic-head">
+    <span class="badge">73</span>
+    <p class="prompt">Les publicités alimentaires pour les enfants.<span class="orig">· was #65</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Les publicités d’aliments industriels passent en boucle lors des programmes destinés aux enfants. Par conséquent, ces enfants sont influencés par ces pubs et changent de préférences alimentaires demandant aux parents de leur acheter des produits gras, sucrés et salés tout en refusant de manger sainement. Ces publicités alimentaires déséquilibrent totalement l’assiette de nos enfants et a pour résultats directs totalement de problèmes de santé dés le jeune âge. comme la prise de poids qui mène à l’obésité.</p>
+<p class="doc"><b>Document 2</b><br>Pourquoi c’est choquant que des publicités alimentaires soient diffusés lorsque les enfants regardent leurs programmes préférés? C’est et aux aux parents, et aux parents seuls d’éduquer leurs enfants et de leur apprendre à manger d’une manière saine. On ne peut donc en aucun cas interdire à nos enfants de voir des publicités alimentaires pendant leurs programmes de télévision. Il est donc primordial que les parents interviennent afin que ces publicités n’aient pas d’impacts négatifs sur les habitudes alimentaires de leurs enfants.</p>
+</section>
+<section class="topic" id="p-92">
+  <div class="topic-head">
+    <span class="badge">92</span>
+    <p class="prompt">La publicité alimentaire ciblant les enfants.<span class="orig">· was #58</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>Beaucoup trouvent la publicité agaçante, mais à mon avis, elle est très utile pour les entreprises. Elle sert à présenter un produit ou un service. Parfois, elle est même drôle ! J’aime bien l’écouter quand je conduis. Elle m’aide également à découvrir les nouveautés et les offres spéciales. Pour moi, comparer les articles grâce à la publicité permet de faire de bonnes économies. Enfin, les jeux gratuits sur téléphone dépendent des publicités ; sans elles, ils seraient payants. — Lucien, 28 ans</p>
+<p class="doc"><b>Document 2</b><br>Nous sommes entourés de publicité tous les jours : journaux, radios, télévisions, smartphones, Internet… Par exemple, les émissions télévisées sont souvent coupées par des pubs, ce qui peut être irritant. Recevoir des kilos de publicité chaque année dans la boîte aux lettres n’est pas non plus bon pour l’environnement ! Selon moi, il serait utile de créer une loi pour limiter les publicités à la télévision et par courrier. Des publicités plus discrètes seraient mieux reçues.<br>— Alma, 35 ans<br>Réussir l'expression écrite<br>Pour partager les sujets de votre session:</p>
+</section>
+</div>
+<div class="tcf-seam" aria-hidden="true"><span>≈ variante proche</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-84">
+  <div class="topic-head">
+    <span class="badge">84</span>
+    <p class="prompt">La publicité : utile ou gênante ?<span class="orig">· was #48</span></p>
+  </div>
+<p class="doc"><b>Document 1</b><br>(Elena, 28 ans) Beaucoup de gens trouvent la publicité agaçante, mais pour moi, elle est essentielle au fonctionnement du commerce et des entreprises. Grâce à elle, on découvre de nouveaux produits et services. En plus, certaines publicités sont amusantes ! J’aime les écouter quand je conduis, car elles me tiennent au courant des nouveautés et des offres spéciales. J’aime aussi comparer les produits, ce qui me permet d’économiser de l’argent. Enfin, il faut savoir que sans la publicité, de nombreuses applications ou jeux gratuits sur téléphone deviendraient payants.</p>
+<p class="doc"><b>Document 2</b><br>(Alicia, 35 ans) La publicité fait partie de notre vie quotidienne : dans les journaux, à la radio, à la télévision, sur le téléphone et sur Internet. Par exemple, certaines émissions télévisées sont interrompues par des publicités, ce qui est vraiment agaçant. En plus, recevoir chaque année beaucoup de papiers publicitaires dans la boîte aux lettres, ce n’est pas bon pour l’environnement. À mon avis, il faudrait une loi pour limiter la publicité à la télé et par courrier. Si elle était plus discrète, les gens l’apprécieraient davantage.</p>
+</section>
+</div>
+</div><!-- /tcf-group -->
 <section class="topic" id="p-56">
   <div class="topic-head">
     <span class="badge">56</span>
@@ -522,22 +903,9 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Les achats en ligne ont des avantages comme gagner de temps consommateurs les et de trouvent l’argent. les facilement, disponibilité 24/24, produits provenant de tout le monde etc.</p>
 <p class="doc"><b>Document 2</b><br>Les magazines nous donne la possibilité d’avoir un contact humain et relation avec les vendeurs + possibilité de voir et de toucher ce qu’on veut … les consommateurs favorisent l’achat traditionnel, visiter des magasins le permette d’échanger des achats insatisfaisants et de se se communiquer avec les vendeurs.</p>
 </section>
-<section class="topic" id="p-58">
-  <div class="topic-head">
-    <span class="badge">58</span>
-    <p class="prompt">L'accès gratuit aux musées<span class="orig">· was #93</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>La gratuité fait partie des principes fondamentaux des musées et symbolise le partage culturel. Tous les acteurs du monde culturel s’accordent à dire qu’il faut faciliter l’accès à la culture pour tous. À la différence des théâtres ou des opéras, les musées ont une tradition de gratuité : une fois par mois, l’entrée des musées nationaux est gratuite pour tous. Cette mesure a pour but de faire venir de nouveaux visiteurs, car le musée reste avant tout un lieu d’éducation pour le plus grand nombre.</p>
-<p class="doc"><b>Document 2</b><br>Rendre les musées totalement gratuits est une fausse bonne idée, car cela fait croire que la culture ne nécessite aucun financement. Pourtant, les musées doivent recevoir des fonds pour maintenir et développer leurs collections. Une solution plus adaptée est de proposer des entrées à tarif réduit pour des publics ciblés. Pour que cela fonctionne, il est important d’accompagner ces visiteurs avec des visites ou activités adaptées, comme pour les jeunes ou les personnes à mobilité réduite. Ouvrir les portes n’est pas suffisant : il faut créer une interaction entre le musée et ses visiteurs.</p>
-</section>
-<section class="topic" id="p-59">
-  <div class="topic-head">
-    <span class="badge">59</span>
-    <p class="prompt">Le Bien-être au Travail.<span class="orig">· was #54</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Nous avons installé, dans votre entreprise, des bureaux réglables qui montent et descendent, ceci pour permettre aux employés de choisir la position qui leur convient le mieux pour travailler. Les employés sont satisfaits et disent qu’ils sont plus productifs et plus efficaces lors des négociations au téléphone par exemple. Même le climat social est plus convivial et la communication verbale entre collègues s’est renforcée. « Lorie, responsable ».</p>
-<p class="doc"><b>Document 2</b><br>De nos jours, les entreprises veulent toujours plus de productivité et d’efficacité, et les employés passent plus de temps sur les lieux de travail. Les entreprises cherchent toujours des moyens ou astuces pour convaincre leurs employés de travailler plus et qu’elles pensent à leur santé. Moi, ce qui m’importe c’est de faire mon job sur mon temps de travail réel sans être obligé de faire des rallonges en heures supplémentaires. « Florian, ingénieur ».</p>
-</section>
+<div class="tcf-group" id="g-EE_T3-25">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
 <section class="topic" id="p-60">
   <div class="topic-head">
     <span class="badge">60</span>
@@ -545,118 +913,6 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
   </div>
 <p class="doc"><b>Document 1</b><br>Beaucoup de jeunes sortant de l’université se retrouvent sans emploi. La valeur des diplômes sur le marché du travail pose des questions. Souvent, les recruteurs leur reprochent d’avoir trop étudié et trop peu d’expérience, ou considèrent leur jeunesse comme un frein. Plus de 60 % des diplômés restent sans travail un an après leurs études. Il paraît donc urgent de mieux reconnaître les diplômes et de faciliter l’insertion professionnelle.</p>
 <p class="doc"><b>Document 2</b><br>On parle souvent de dirigeants célèbres qui ont réussi sans suivre de cursus universitaire. Ces exemples peuvent laisser penser qu’il suffit d’être talentueux pour diriger une entreprise. Certains chefs d’entreprise considèrent même que l’université peut freiner la créativité. Selon eux, elle pousse les étudiants à suivre des parcours standards et limite l’innovation. Pour les futurs entrepreneurs, rien ne remplacerait l’expérience pratique et l’autoformation, sans dépendre d’une institution académique.</p>
-</section>
-<section class="topic" id="p-61">
-  <div class="topic-head">
-    <span class="badge">61</span>
-    <p class="prompt">Le voyage seul vs le voyage accompagné.<span class="orig">· was #24</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Voyager en solo, c’est aussi avoir l’opportunité de faire le point, de réfléchir, de se retrouver seul avec soi-même. Sans être sans arrêt sollicité par vos collègues, vos amis ou votre famille, vous pourrez faire le plein de temps pour vous et entamer une importante introspection</p>
-<p class="doc"><b>Document 2</b><br>Tous les voyageurs solos ont déjà rencontré quelques difficultés liées à leur situation. Le premier problème, c’est bien sûr la solitude. Car même si votre route sera semée de rencontres multiples, ces dernières seront généralement éphémères, et le poids moral de cette succession de rencontres et d’adieux peut rapidement devenir un fardeau.</p>
-</section>
-<section class="topic" id="p-62">
-  <div class="topic-head">
-    <span class="badge">62</span>
-    <p class="prompt">Ville ou campagne : choisir son cadre de vie<span class="orig">· was #52</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Depuis que j’ai déménagé à la campagne, ma vie a complètement changé. Les chants des oiseaux et mon jardin ont remplacé les pharmacies et cinémas de la ville. Je voulais fuir le bruit, la pollution et la foule pour profiter du calme et des espaces verts. Ici, je savoure la tranquillité et de grands espaces sans voisins proches. (Marie, 42 ans)</p>
-<p class="doc"><b>Document 2</b><br>La vie rurale n’est pas adaptée à tous. Les commerces, loisirs et services essentiels comme les écoles ou hôpitaux peuvent se trouver à plusieurs kilomètres. Il est souvent nécessaire d’utiliser la voiture, et Internet n’est pas toujours fiable. La ville, en revanche, facilite les déplacements et procure un confort quotidien supérieur. (Claire, 35 ans)</p>
-</section>
-<section class="topic" id="p-63">
-  <div class="topic-head">
-    <span class="badge">63</span>
-    <p class="prompt">Choix entre manger à l’extérieur ou chez soi<span class="orig">· was #13</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Aïcha, une jeune célibataire de 28 ans, préfère dîner à l’extérieur plutôt que de manger seule à la maison. Elle apprécie la possibilité de sortir à tout moment à Lyon et de partager des repas conviviaux avec ses amis, ce qui est impossible dans son petit appartement. Elle note aussi que peu de gens de sa génération prennent le temps de cuisiner.</p>
-<p class="doc"><b>Document 2</b><br>Laura, une mère de famille de 45 ans, explique que manger au restaurant est souvent trop coûteux pour elle. Bien qu’elle aimerait parfois éviter la cuisine, le budget familial l’empêche. Elle critique également la qualité des plats au restaurant et préfère savoir exactement ce qu’elle mange en préparant les repas chez elle.</p>
-</section>
-<section class="topic" id="p-64">
-  <div class="topic-head">
-    <span class="badge">64</span>
-    <p class="prompt">Les Habitudes Alimentaires<span class="orig">· was #79</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>De nos jours, les journées passent très vite car nous sommes tout le temps pris par un rythme de vie effréné : travail, enfants, loisirs… Dès lors, beaucoup d’entre nous préfèrent et favorisent des habitudes alimentaires basées essentiellement sur des repas tout faits à emporter ou à consommer sur place. Prenons l’exemple d’Annette, une jeune femme de 28 ans qui se consacre énormément à son travail et qui aime dîner au restaurant tout en passant de bons moments avec ses amis. Cela lui permet de manger sainement sans avoir à passer des heures dans la cuisine après une rude journée de travail. Ce mode de vie lui convient en tant que célibataire, lui permettant de découvrir de nouveaux restaurants bien notés, de faire de nouvelles connaissances, et d’éviter de longues soirées seule devant sa télévision. Et ceci est vrai même pour les plus jeunes.</p>
-<p class="doc"><b>Document 2</b><br>Les fast-foods et la restauration en général ont conduit beaucoup d’entre nous à adopter de mauvaises habitudes alimentaires, basées sur des plats rapides, déséquilibrés, et riches en calories et en graisses. Heureusement, certaines familles tiennent encore bon et choisissent de manger chez elles tout en faisant des économies. Prenons l’exemple de Jeanne, une femme mariée de 45 ans qui préfère manger à la maison avec son mari et ses cinq enfants. En cuisinant elle-même, elle sait ce qu’elle met dans son assiette tout en préservant son budget. Cette caissière, qui travaille dans une grande surface, préfère réaliser elle-même ses recettes car, non seulement ses moyens financiers sont limités, mais elle prend également un plaisir fou à cuisiner pour sa famille.</p>
-</section>
-<section class="topic" id="p-65">
-  <div class="topic-head">
-    <span class="badge">65</span>
-    <p class="prompt">Maisons de retraite ou maintien à domicile ?<span class="orig">· was #53</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Les maisons de retraite représentent une solution adaptée pour les personnes âgées. Elles y bénéficient de soins appropriés et d’un encadrement professionnel. En plus, elles ont la possibilité de participer à diverses activités qui leur permettent de garder une vie sociale et d’éviter la solitude. Dans certains cas, c’est mieux que de rester seules chez elles. (Sophie, infirmière)</p>
-<p class="doc"><b>Document 2</b><br>Les maisons de retraite peuvent priver les personnes âgées de la présence de leur famille et donner l’impression d’être abandonné. De plus, les conditions de vie ne sont pas toujours satisfaisantes et certains établissements manquent parfois de personnel compétent. Selon moi, l’aide à domicile est une meilleure solution pour vieillir auprès de ses proches. (Jean, retraité)</p>
-</section>
-<section class="topic" id="p-66">
-  <div class="topic-head">
-    <span class="badge">66</span>
-    <p class="prompt">Animaux De Compagnie.<span class="orig">· was #21</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>La question des animaux de compagnie dans les locations de courte durée suscite souvent des débats. Certains propriétaires sont ouverts à accueillir des animaux, tandis que d’autres les interdisent. Pour les amoureux des animaux, il est crucial de trouver des logements qui acceptent les animaux de compagnie, car ils considèrent leurs compagnons à fourrure comme des membres de leur famille. Ces voyageurs ont besoin de logements où leurs animaux peuvent se sentir à l’aise et bienvenus, avec des espaces extérieurs appropriés pour les promenades et les jeux.</p>
-<p class="doc"><b>Document 2</b><br>La présence d’animaux de compagnie dans les locations de courte durée peut également présenter des défis pour les propriétaires et les autres voyageurs. Certains animaux peuvent être bruyants, causer des dégâts ou provoquer des allergies chez certaines personnes. En raison de ces préoccupations, de nombreux propriétaires préfèrent interdire les animaux de compagnie dans leurs logements. Cela peut limiter les options pour les voyageurs qui souhaitent emmener leurs animaux avec eux. Cependant, il existe également des logements de courte durée spécialement conçus pour les animaux de compagnie, offrant des équipements adaptés tels que des litières, des jouets et des espaces dédiés pour les animaux. Ces logements sont souvent très demandés par les voyageurs qui veulent profiter de leurs vacances en compagnie de leurs animaux bien-aimés.</p>
-</section>
-<section class="topic" id="p-67">
-  <div class="topic-head">
-    <span class="badge">67</span>
-    <p class="prompt">Influence de la publicité sur les enfants : pour ou contre ?<span class="orig">· was #75</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Une étude a révélé que les enfants sont constamment exposés à de nombreuses publicités, que ce soit à la télévision, dans les magazines ou sur Internet, et ce, dans des endroits vulnérables à l’influence publicitaire. Les enfants sont particulièrement ciblés par des publicités pour des produits alimentaires peu sains, des jouets, des jeux vidéo et autres produits, ce qui peut influencer leurs choix de consommation et leurs demandes envers leurs parents.</p>
-<p class="doc"><b>Document 2</b><br>Un article de recherche publié dans une revue scientifique souligne que les enfants ont des capacités cognitives limitées pour comprendre et interpréter les messages publicitaires, et qu’ils sont généralement conscients du caractère persuasif de la publicité. Toutefois, d’autres facteurs tels que l’éducation parentale, les influences sociales et culturelles ont un rôle plus important dans les choix de consommation des enfants que la publicité elle-même.</p>
-</section>
-<section class="topic" id="p-68">
-  <div class="topic-head">
-    <span class="badge">68</span>
-    <p class="prompt">Femmes et hommes : vers l’égalité<span class="orig">· was #92</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>L’égalité entre les hommes et les femmes est indispensable pour construire une société juste. Elle permet aux femmes d’avoir les mêmes chances professionnelles que les hommes et d’obtenir un salaire équitable. Sur le plan social, elle encourage leur participation à la vie politique, économique et culturelle. Cette égalité favorise aussi le respect mutuel et aide à diminuer les discriminations et les préjugés.</p>
-<p class="doc"><b>Document 2</b><br>Malgré les avancées réalisées, certains problèmes restent présents. Les inégalités de salaire et de carrière existent encore dans plusieurs domaines. Les stéréotypes sociaux et culturels influencent toujours les choix professionnels et les attitudes. De plus, certaines femmes ont du mal à équilibrer travail et vie familiale. Enfin, les mesures pour favoriser l’égalité sont parfois insuffisantes ou mal mises en œuvre, ce qui freine les progrès.</p>
-</section>
-<section class="topic" id="p-69">
-  <div class="topic-head">
-    <span class="badge">69</span>
-    <p class="prompt">Caméras De Surveillance : Pour Ou Contre ?<span class="orig">· was #35</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>De nos jours, il y a de plus en plus de caméras de surveillance dans les villes. La vidéosurveillance est appréciée par les Français car cela leur donne un sentiment de sécurité. D’après un sondage, 75% d’entre eux sont pour le développement de la vidéosurveillance. Ils seraient d’accord pour être filmés, mais seulement dans l’espace public: la rue, les magasins ou encore les transports. Cependant, ils refusent d’être surveillés par leur employeur. En France, peu de caméras de vidéosurveillance sont installées sur le lieu de travail.</p>
-<p class="doc"><b>Document 2</b><br>Certaines enquêtes montrent que la vidéo surveillance coûte cher et que ses résultats sont insuffisants. D’une part, la présence des caméras est facile à remarquer. Par conséquent, la vidéo surveillance est inutile pour éviter les vols, la consommation de drogue et la violence dans les villes. D’autre part, l’utilisation de vidéo surveillance demande beaucoup de personnel. Une étude allemande montre que sept personnes par caméra sont nécessaires pour analyser les informations.</p>
-</section>
-<section class="topic" id="p-70">
-  <div class="topic-head">
-    <span class="badge">70</span>
-    <p class="prompt">Les Produits Faits Maison : Pour Ou Contre ?<span class="orig">· was #27</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Il est aujourd’hui possible de fabriquer soi-même tout type de produits à la maison: des shampooings, des savons, des crèmes, du maquillage mais aussi des produits d’entretien pour faire le ménage. C’est formidable car on peut ainsi contrôler leur composition. Il est préférable de sélectionner des ingrédients et des parfums naturels qui ne contiennent pas d’éléments chimiques. Par ailleurs, la fabrication maison permet de reduire les emballages etadonc les déchets.<br>N’hésitez plus : fabriquez vos propres produits</p>
-<p class="doc"><b>Document 2</b><br>Vous préférez fabriquer vous même votre savon au lieu de l’acheter ? Attention il y a des risques pour la santé si vous ne choisissez pas les bons ingredients ou si les règles d’hygiène ne sont pas respectées. Ainsi, avant de vous lancer, il est nécessaire de bien se renseigner et de suivre les règles strictes de fabrication et de conservation. De plas, méme si ces produits coûtent moins cher et représentent une economie d’argent du quatidien, la fabrication mason prend souvent beaucoup de temps</p>
-</section>
-<section class="topic" id="p-71">
-  <div class="topic-head">
-    <span class="badge">71</span>
-    <p class="prompt">Location Courte Durée ?<span class="orig">· was #7</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>La location courte durée offre flexibilité et commodité pour les voyageurs. Elle permet de louer un logement pour une période de temps limitée, que ce soit pour des vacances ou un déplacement professionnel. Cela permet aux voyageurs de profiter d’un hébergement confortable avec des équipements adaptés à leurs besoins, tout en évitant les engagements à long terme.</p>
-<p class="doc"><b>Document 2</b><br>La location courte durée peut parfois être coûteuse, en particulier dans les zones touristiques. De plus, la disponibilité peut être limitée, surtout pendant les périodes de forte demande. Il est donc important de planifier et de réserver à l’avance pour obtenir les meilleurs résultats.</p>
-</section>
-<section class="topic" id="p-72">
-  <div class="topic-head">
-    <span class="badge">72</span>
-    <p class="prompt">Livraison de repas<span class="orig">· was #3</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Céline, 25 ans : La livraison de repas permet de gagner du temps. Par exemple, quand on travaille, on peut se faire livrer un repas au bureau sans se déplacer. On perd moins de temps pendant la pause déjeuner, on rentre donc plus tôt chez soi. Généralement, cela offre plus de choix : si un de nos collègues veut commander une pizza mais que nous souhaitons manger des sushis, plus de disputes, il suffit de commander des plats dans différents restaurants. L’autre avantage de ce nouveau mode de consommation est qu’il est disponible à toute heure. En effet, on trouve toujours des restaurants qui restent ouverts 24 heures sur 24.</p>
-<p class="doc"><b>Document 2</b><br>Ahmed, 40 ans : La livraison de repas plaît de plus en plus aux consommateurs qui n’ont pas le temps ou l’envie de cuisiner. Toutefois, ce service présente des inconvénients écologiques. Les repas sont souvent livrés en scooter ou en voiture, qui sont des modes de transports polluants. Cette habitude a aussi des conséquences négatives sur la vie sociale. Quand on mange des repas livrés au bureau ou à domicile, on a tendance à rester enfermé et à voir les mêmes personnes. Pourtant, il est important de sortir prendre l’air et, pourquoi pas, de rencontrer d’autres personnes.<br>Réussir l'expression écrite<br>Pour partager les sujets de votre session:</p>
-</section>
-<section class="topic" id="p-73">
-  <div class="topic-head">
-    <span class="badge">73</span>
-    <p class="prompt">Les publicités alimentaires pour les enfants.<span class="orig">· was #65</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Les publicités d’aliments industriels passent en boucle lors des programmes destinés aux enfants. Par conséquent, ces enfants sont influencés par ces pubs et changent de préférences alimentaires demandant aux parents de leur acheter des produits gras, sucrés et salés tout en refusant de manger sainement. Ces publicités alimentaires déséquilibrent totalement l’assiette de nos enfants et a pour résultats directs totalement de problèmes de santé dés le jeune âge. comme la prise de poids qui mène à l’obésité.</p>
-<p class="doc"><b>Document 2</b><br>Pourquoi c’est choquant que des publicités alimentaires soient diffusés lorsque les enfants regardent leurs programmes préférés? C’est et aux aux parents, et aux parents seuls d’éduquer leurs enfants et de leur apprendre à manger d’une manière saine. On ne peut donc en aucun cas interdire à nos enfants de voir des publicités alimentaires pendant leurs programmes de télévision. Il est donc primordial que les parents interviennent afin que ces publicités n’aient pas d’impacts négatifs sur les habitudes alimentaires de leurs enfants.</p>
-</section>
-<section class="topic" id="p-74">
-  <div class="topic-head">
-    <span class="badge">74</span>
-    <p class="prompt">Les produits faits maison : un choix judicieux ou un risque ?<span class="orig">· was #49</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>La fabrication artisanale de produits biologiques à domicile permet un contrôle absolu sur la composition, garantissant des alternatives à la fois plus saines et personnalisées. Elle participe aussi à la réduction des déchets plastiques, notamment grâce à l’utilisation d’emballages réutilisables. Ce choix écologique, en plus d’être économique à long terme, encourage l’acquisition de compétences créatives et soutient un mode de vie durable.</p>
-<p class="doc"><b>Document 2</b><br>Malgré ses avantages, la fabrication de produits bio à domicile présente certains risques. Une mauvaise formulation peut nuire à l’efficacité du produit ou provoquer des irritations. Par ailleurs, le temps et l’effort requis pour trouver les bons ingrédients représentent un véritable défi. De plus, en l’absence de contrôle strict, les produits peuvent être instables ou contaminés. Le coût initial élevé pour se procurer des ingrédients fiables constitue également un frein pour de nombreuses personnes.</p>
 </section>
 <section class="topic" id="p-75">
   <div class="topic-head">
@@ -666,117 +922,34 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Selon un article publié dans une revue économique, le diplôme joue un rôle crucial dans l’employabilité des jeunes. Une analyse de données du marché du travail a permis de conclure que les jeunes diplômés ont de meilleures perspectives d’emploi, des opportunités de carrière plus intéressantes et des salaires plus élevés que les jeunes sans diplôme.</p>
 <p class="doc"><b>Document 2</b><br>Un rapport publié par un institut de recherche en politique publique suggère que l’expérience professionnelle est plus importante que le diplôme pour l’emploi des jeunes. Des entretiens avec des employeurs et de jeunes travailleurs ont permis de conclure que l’expérience professionnelle réelle est souvent considérée comme un facteur clé dans l’embauche et la progression de carrière des jeunes.</p>
 </section>
-<section class="topic" id="p-76">
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-61">
   <div class="topic-head">
-    <span class="badge">76</span>
-    <p class="prompt">Louer son appartement à des inconnus, est-ce une bonne idée ?<span class="orig">· was #4</span></p>
+    <span class="badge">61</span>
+    <p class="prompt">Le voyage seul vs le voyage accompagné.<span class="orig">· was #24</span></p>
   </div>
-<p class="doc"><b>Document 1</b><br>De plus en plus de gens louent leur logement ou une chambre à des voyageurs, pour gagner un revenu supplémentaire ou pour rencontrer de nouvelles personnes. Ce système, basé sur la confiance, permet aux visiteurs de se loger en payant moins cher que dans un hôtel. De plus, si le propriétaire est d’accord, ils peuvent même utiliser la cuisine et éviter d’aller au restaurant! La personne qui les accueille peut leur servir de guide et les conseiller sur les visites à faire. C’est un échange précieux pour tout le monde!<br>D’après rapidloc.com</p>
-<p class="doc"><b>Document 2</b><br>L’année dernière, j’ai loué mon appartement à un couple de touristes pour leurs vacances d’une semaine à Marseille. C’était une très mauvaise expérience qui m’a fait changer d’avis sur ce mode de location! Ils sont arrivés en retard et j’ai dû les attendre pour leur donner la clé. Ils ont fait beaucoup de bruit et dérangé mes voisins. En plus, ils ont quitté mon appartement sans faire la vaisselle et en laissant leurs déchets. J’ai passé trois heures à nettoyer.<br>Julien, 38 ans</p>
+<p class="doc"><b>Document 1</b><br>Voyager en solo, c’est aussi avoir l’opportunité de faire le point, de réfléchir, de se retrouver seul avec soi-même. Sans être sans arrêt sollicité par vos collègues, vos amis ou votre famille, vous pourrez faire le plein de temps pour vous et entamer une importante introspection</p>
+<p class="doc"><b>Document 2</b><br>Tous les voyageurs solos ont déjà rencontré quelques difficultés liées à leur situation. Le premier problème, c’est bien sûr la solitude. Car même si votre route sera semée de rencontres multiples, ces dernières seront généralement éphémères, et le poids moral de cette succession de rencontres et d’adieux peut rapidement devenir un fardeau.</p>
 </section>
-<section class="topic" id="p-77">
+<section class="topic" id="p-64">
   <div class="topic-head">
-    <span class="badge">77</span>
-    <p class="prompt">La sieste au travail<span class="orig">· was #43</span></p>
+    <span class="badge">64</span>
+    <p class="prompt">Les Habitudes Alimentaires<span class="orig">· was #79</span></p>
   </div>
-<p class="doc"><b>Document 1</b><br>La sieste au travail peut avoir de nombreux avantages pour les employés et les entreprises. En permettant aux travailleurs de faire une petite sieste, cela peut aider à augmenter leur productivité et à améliorer leur santé et leur bien-être. Les siestes courtes peuvent aider à améliorer la vigilance et la concentration, réduire les niveaux de stress et améliorer l’humeur. En outre, la pratique de la sieste peut aider à réduire les coûts pour les employeurs en diminuant les coûts liés à la fatigue et aux accidents du travail. Il est donc important pour les entreprises de considérer les avantages potentiels de la sieste au travail et d’envisager d’offrir cette option à leur personnel.</p>
-<p class="doc"><b>Document 2</b><br>Malgré les nombreux avantages de la sieste au travail, il peut être difficile pour toutes les entreprises de mettre en place des lits et des salles dédiées à cette pratique. Cela peut être dû à des contraintes financières ou logistiques, ou encore à des politiques de travail strictes qui ne permettent pas aux employés de faire des siestes pendant les heures de travail. En outre, certains travailleurs peuvent ne pas se sentir à l’aise de faire une sieste au travail, ce qui peut limiter l’adoption de cette pratique. Il est donc important pour les entreprises de considérer les avantages et les limites de la sieste au travail et de trouver des solutions créatives pour permettre à leurs employés de se reposer et de se régénérer pendant la journée de travail.</p>
+<p class="doc"><b>Document 1</b><br>De nos jours, les journées passent très vite car nous sommes tout le temps pris par un rythme de vie effréné : travail, enfants, loisirs… Dès lors, beaucoup d’entre nous préfèrent et favorisent des habitudes alimentaires basées essentiellement sur des repas tout faits à emporter ou à consommer sur place. Prenons l’exemple d’Annette, une jeune femme de 28 ans qui se consacre énormément à son travail et qui aime dîner au restaurant tout en passant de bons moments avec ses amis. Cela lui permet de manger sainement sans avoir à passer des heures dans la cuisine après une rude journée de travail. Ce mode de vie lui convient en tant que célibataire, lui permettant de découvrir de nouveaux restaurants bien notés, de faire de nouvelles connaissances, et d’éviter de longues soirées seule devant sa télévision. Et ceci est vrai même pour les plus jeunes.</p>
+<p class="doc"><b>Document 2</b><br>Les fast-foods et la restauration en général ont conduit beaucoup d’entre nous à adopter de mauvaises habitudes alimentaires, basées sur des plats rapides, déséquilibrés, et riches en calories et en graisses. Heureusement, certaines familles tiennent encore bon et choisissent de manger chez elles tout en faisant des économies. Prenons l’exemple de Jeanne, une femme mariée de 45 ans qui préfère manger à la maison avec son mari et ses cinq enfants. En cuisinant elle-même, elle sait ce qu’elle met dans son assiette tout en préservant son budget. Cette caissière, qui travaille dans une grande surface, préfère réaliser elle-même ses recettes car, non seulement ses moyens financiers sont limités, mais elle prend également un plaisir fou à cuisiner pour sa famille.</p>
 </section>
-<section class="topic" id="p-78">
+<div class="tcf-group" id="g-EE_T3-26">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-65">
   <div class="topic-head">
-    <span class="badge">78</span>
-    <p class="prompt">le travail : Favorable ou défavorable ?<span class="orig">· was #86</span></p>
+    <span class="badge">65</span>
+    <p class="prompt">Maisons de retraite ou maintien à domicile ?<span class="orig">· was #53</span></p>
   </div>
-<p class="doc"><b>Document 1</b><br>Opinion 1 : Stéphane, entrepreneur<br>« Je suis convaincu que le travail est absolument favorable pour l’individu et la société. Le travail permet non seulement d’assurer son propre moyen de subsistance, mais également de contribuer au développement économique de la société. De plus, il favorise l’autonomie et la confiance en soi, encourage le sens des responsabilités et offre une opportunité d’épanouissement personnel et professionnel. Il peut même aider à forger notre identité et notre place dans la société. »</p>
-<p class="doc"><b>Document 2</b><br>Opinion 2 : Laura, sociologue<br>« Le travail, dans sa forme actuelle, peut avoir des aspects défavorables. Dans de nombreux cas, le travail est associé à un stress intense, à des horaires rigides et à un déséquilibre entre la vie professionnelle et la vie privée. Il peut être une source d’épuisement professionnel, surtout lorsque la charge de travail est excessive et que la reconnaissance est faible. De plus, certaines formes de travail peuvent être aliénantes, lorsque les travailleurs ne se sentent pas impliqués ou valorisés dans ce qu’ils font. Il est donc essentiel de repenser nos rapports au travail pour en faire une expérience plus équilibrée et enrichissante. »<br>Réussir l'expression écrite<br>Pour partager les sujets de votre session:</p>
-</section>
-<section class="topic" id="p-79">
-  <div class="topic-head">
-    <span class="badge">79</span>
-    <p class="prompt">Produits Maison : Une Alternative Intéressante ou une Contrainte ?<span class="orig">· was #41</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Préparer ses produits biologiques à la maison offre un contrôle total sur leur composition, garantissant des solutions saines et adaptées. Cette pratique permet aussi de limiter l’usage de plastique grâce à des emballages réutilisables. Elle représente une alternative économique et enrichissante qui favorise un mode de vie plus responsable et écologique.</p>
-<p class="doc"><b>Document 2</b><br>La production de produits biologiques maison n’est pas sans inconvénients. Une erreur dans la formulation peut altérer leur efficacité ou provoquer des réactions indésirables. De plus, rassembler et préparer les ingrédients peut être fastidieux. L’absence de certification garantit moins de sécurité et favorise le risque de contamination bactérienne en cas de mauvaise conservation. Enfin, l’investissement de départ pour des ingrédients de qualité peut être un obstacle pour certains.</p>
-</section>
-<section class="topic" id="p-80">
-  <div class="topic-head">
-    <span class="badge">80</span>
-    <p class="prompt">Technologie et enfants<span class="orig">· was #81</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Les élèves du primaire ont la possibilité d’utiliser la technologie pour chercher des vidéos liées à leurs leçons étudiés en classe ou pour s’exercer avec des jeux qui développent leurs compétences en mathématiques, en lecture et en saisie au clavier.</p>
-<p class="doc"><b>Document 2</b><br>Aujourd’hui, les technologies poussent les enfants à rester inactifs, ce qui inquiète beaucoup les parents. Cela limite les jeux créatifs, les échanges sociales directes et l’activité physique. Pourquoi ne pas encourager vos enfants à poser leurs appareils en essayant des activités ludiques ?</p>
-</section>
-<section class="topic" id="p-81">
-  <div class="topic-head">
-    <span class="badge">81</span>
-    <p class="prompt">L’art dans les rues pour ou contre ?<span class="orig">· was #8</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Le graffiti est un art à part entière qu’il faut faire connaître et démocratiser parce qu’il y a beaucoup de préjugés.</p>
-<p class="doc"><b>Document 2</b><br>On ne peut pas tout se permettre. Mettre de la peinture sans autorisation, c’est illégal. Ça vous plairait, qu’on repeigne votre maison ! Alice Les gens qui n’ont jamais tenu une bombe ou un marqueur ne pourront jamais savoir… benjamin.</p>
-</section>
-<section class="topic" id="p-82">
-  <div class="topic-head">
-    <span class="badge">82</span>
-    <p class="prompt">Les Jeux Vidéo, Pour Ou Contre ?<span class="orig">· was #17</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Des études ont montré que certaines zones du cerveau de l’adulte peuvent être développées en jouant aux jeux vidéo. Ainsi, il peut être intéressant de jouer aux jeux vidéo, car ils permettent, par exemple, d’améliorer la capacité d’analyse, la capacité à faire des choix et la rapidité de réaction. C’est une bonne nouvelle car la répartition des joueurs par âge montre que 83% des joueurs sont des adultes. Cependant, il convient de rester prudent car certains jeux vidéos ne favorisent pas ce type d’amélioration sur le cerveau.</p>
-<p class="doc"><b>Document 2</b><br>Pendant trois ans, des enfants âgés de 8 à 17 ans ont participé à une étude sur les jeux vidéo. Les résultats de cette étude montrent que les enfants qui jouent beaucoup aux jeux vidéo sont plus violents, plus nerveux et plus stressés que ceux qui ne jouent pas ou peu. Ceux qui jouent beaucoup ont également moins de bons résultats à l’école. Il est donc conseillé aux parents d’être vigilants et de limiter l’usage de ces jeux par leurs enfants.</p>
-</section>
-<section class="topic" id="p-83">
-  <div class="topic-head">
-    <span class="badge">83</span>
-    <p class="prompt">Les Animaux de Compagnie au Travail<span class="orig">· was #6</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Venir au bureau avec son animal de compagnie, c’est à la mode. L’intérêt de cette présence ? C’est simple: diminuer le stress des employés. La présence d’un chien ou d’un chat change l’ambiance générale d’une entreprise : elle réduit les tensions entre collègues, ce qui n’est pas négligeable car chaque année, l’État français dépense entre 2 et 3 milliards d’euros pour soigner les salariés malades du stress. Selon une enquête, un quart des employés pensent aussi que la présence des animaux permet d’être plus motivé au travail.</p>
-<p class="doc"><b>Document 2</b><br>« Dans l’entreprise où je travaille, les employés sont autorisés à venir avec leur animal de compagnie, chat ou chien. Personnellement, cela me dérange. Je ne suis pas très à l’aise avec les animaux, qui peuvent avoir des comportements imprévisibles. D’autre part, je trouve que cela peut poser des problèmes de santé. Que faire si un employé est allergique aux chats ? Sera-t-il obligé de rester enfermé dans son bureau? Et puis c’est aussi une source de distraction. Mes collègues et moi ne serons pas plus productifs grâce à un chien ou un chat ! »</p>
-</section>
-<section class="topic" id="p-84">
-  <div class="topic-head">
-    <span class="badge">84</span>
-    <p class="prompt">La publicité : utile ou gênante ?<span class="orig">· was #48</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>(Elena, 28 ans) Beaucoup de gens trouvent la publicité agaçante, mais pour moi, elle est essentielle au fonctionnement du commerce et des entreprises. Grâce à elle, on découvre de nouveaux produits et services. En plus, certaines publicités sont amusantes ! J’aime les écouter quand je conduis, car elles me tiennent au courant des nouveautés et des offres spéciales. J’aime aussi comparer les produits, ce qui me permet d’économiser de l’argent. Enfin, il faut savoir que sans la publicité, de nombreuses applications ou jeux gratuits sur téléphone deviendraient payants.</p>
-<p class="doc"><b>Document 2</b><br>(Alicia, 35 ans) La publicité fait partie de notre vie quotidienne : dans les journaux, à la radio, à la télévision, sur le téléphone et sur Internet. Par exemple, certaines émissions télévisées sont interrompues par des publicités, ce qui est vraiment agaçant. En plus, recevoir chaque année beaucoup de papiers publicitaires dans la boîte aux lettres, ce n’est pas bon pour l’environnement. À mon avis, il faudrait une loi pour limiter la publicité à la télé et par courrier. Si elle était plus discrète, les gens l’apprécieraient davantage.</p>
-</section>
-<section class="topic" id="p-85">
-  <div class="topic-head">
-    <span class="badge">85</span>
-    <p class="prompt">Faire ses courses alimentaires chez les producteurs locaux ou au supermarché.<span class="orig">· was #1</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Jean qui vit à la compagne favorise l’achat des produits alimentaires directement à la ferme pour la bonne qualité quitte à payer un peu plus cher.</p>
-<p class="doc"><b>Document 2</b><br>Camille qui vit dans la ville préfère faire ses courses au supermarché pour la variété qu’il propose et pour les prix abordables.</p>
-</section>
-<section class="topic" id="p-86">
-  <div class="topic-head">
-    <span class="badge">86</span>
-    <p class="prompt">Végétarisme : Un Choix à Réfléchir<span class="orig">· was #77</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Le végétarisme offre plusieurs bénéfices. Il contribue d’abord à une meilleure santé en réduisant les risques de maladies, telles que les problèmes cardiaques, grâce à la consommation de fruits et de légumes. En outre, il joue un rôle dans la protection de l’environnement en réduisant la pollution liée à la production de viande. Enfin, il permet de respecter les animaux, un principe de plus en plus soutenu par les Européens.</p>
-<p class="doc"><b>Document 2</b><br>Le végétarisme ne convient pas à tout le monde. Certaines personnes ont besoin de viande pour obtenir des nutriments essentiels, comme le fer et les protéines. De plus, les habitudes alimentaires traditionnelles en Europe incluent souvent la viande, ce qui rend ce changement difficile. Enfin, adopter un régime végétarien peut demander plus de temps et de connaissances pour équilibrer correctement les repas, ce qui peut ne pas être pratique pour tous.</p>
-</section>
-<section class="topic" id="p-87">
-  <div class="topic-head">
-    <span class="badge">87</span>
-    <p class="prompt">Lecture Des Enfants.<span class="orig">· was #31</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>La lecture pour les enfants est d’une importance capitale dans leur développement. Elle favorise l’acquisition du langage, stimule leur imagination et leur créativité, et contribue à développer leur concentration et leurs compétences cognitives. La lecture offre également aux enfants une ouverture sur le monde qui les entoure, en leur permettant de découvrir de nouveaux univers, des personnages fascinants et des histoires captivantes. Les livres adaptés à leur âge les accompagnent dans leur apprentissage et les aident à comprendre le monde qui les entoure de manière ludique et éducative.</p>
-<p class="doc"><b>Document 2</b><br>La lecture pour les enfants peut parfois être perçue comme une activité ennuyeuse ou désuète, en concurrence avec les jeux vidéo et les écrans. Cependant, il est essentiel de rappeler les nombreux avantages de la lecture pour leur développement. Les parents et les éducateurs ont un rôle crucial à jouer pour encourager les enfants à lire et à découvrir le plaisir des livres. Il est important de leur proposer des livres adaptés à leur âge et à leurs centres d’intérêt, et de partager des moments de lecture ensemble. De plus, les bibliothèques et les librairies offrent une grande variété de livres pour enfants, facilitant ainsi l’accès à la lecture et encourageant les enfants à développer le goût de la lecture dès leur plus jeune âge.</p>
-</section>
-<section class="topic" id="p-88">
-  <div class="topic-head">
-    <span class="badge">88</span>
-    <p class="prompt">La télévision dans la société : atouts et risques<span class="orig">· was #67</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>La télévision est un moyen de communication et de distraction très présent dans la société actuelle. Son impact est évident sur les personnes et sur la culture en général. Elle permet de transmettre des informations, de proposer différents programmes de divertissement et de diffuser la culture. Présente dans beaucoup de foyers, elle reste une source d’information et de loisirs accessible à tous. Grâce à sa large audience, la télévision joue un rôle essentiel dans le partage des connaissances et la sensibilisation aux questions sociales.</p>
-<p class="doc"><b>Document 2</b><br>La télévision présente aussi certains aspects négatifs. Certains programmes peuvent transmettre des stéréotypes, des idées fausses ou des valeurs discutables. En outre, passer trop de temps devant la télévision peut diminuer le temps consacré à d’autres activités plus utiles, comme la lecture, les échanges sociaux ou le sport. Il est donc nécessaire de faire attention et de limiter le temps passé devant la télévision, surtout pour les enfants, afin de garder un bon équilibre entre apprentissage et loisirs.</p>
-</section>
-<section class="topic" id="p-89">
-  <div class="topic-head">
-    <span class="badge">89</span>
-    <p class="prompt">La Restauration Rapide : Pour Ou Contre ?<span class="orig">· was #15</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Je trouve la restauration rapide très pratique lorsqu’il est pressé. Selon moi, les chaînes de fast-food ont fait des efforts pour proposer des options plus saines. J’apprécie particulièrement la possibilité de commander en ligne et de récupérer sa commande rapidement, ce qui me permet de gérer mon temps efficacement pendant mes journées chargées.</p>
-<p class="doc"><b>Document 2</b><br>J’ai eu une expérience déplaisante avec la restauration rapide. J’ai trouvé que les aliments étaient souvent de qualité médiocre et trop gras. De plus, j’ai été déçue par le manque d’options végétariennes et saines dans la plupart des fast-foods. Pour moi, il vaut mieux prendre le temps de préparer un repas maison sain et équilibré.</p>
+<p class="doc"><b>Document 1</b><br>Les maisons de retraite représentent une solution adaptée pour les personnes âgées. Elles y bénéficient de soins appropriés et d’un encadrement professionnel. En plus, elles ont la possibilité de participer à diverses activités qui leur permettent de garder une vie sociale et d’éviter la solitude. Dans certains cas, c’est mieux que de rester seules chez elles. (Sophie, infirmière)</p>
+<p class="doc"><b>Document 2</b><br>Les maisons de retraite peuvent priver les personnes âgées de la présence de leur famille et donner l’impression d’être abandonné. De plus, les conditions de vie ne sont pas toujours satisfaisantes et certains établissements manquent parfois de personnel compétent. Selon moi, l’aide à domicile est une meilleure solution pour vieillir auprès de ses proches. (Jean, retraité)</p>
 </section>
 <section class="topic" id="p-90">
   <div class="topic-head">
@@ -786,45 +959,36 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 <p class="doc"><b>Document 1</b><br>Je vis dans un pays où les maisons de retraite sont très rares. Ici, lorsqu’une personne âgée ne peut plus vivre seule, elle s’installe chez les plus jeunes, et en général, cela ne crée pas de grands problèmes. Pour nous, il est inhabituel de laisser nos parents ou grands-parents à des inconnus.</p>
 <p class="doc"><b>Document 2</b><br>Les maisons de retraite sont souvent mal perçues, pourtant elles sont une solution efficace pour les personnes âgées. Elles évitent l’isolement puisqu’on y trouve d’autres seniors. Elles proposent aussi des soins médicaux adaptés. De plus, elles sont pratiques et rassurantes pour les familles. Le seul problème est que leur prix reste encore trop élevé pour beaucoup.</p>
 </section>
-<section class="topic" id="p-91">
+</div>
+</div><!-- /tcf-group -->
+<div class="tcf-group" id="g-EE_T3-27">
+<div class="tcf-group-head"><span class="tcf-group-tag">Même réponse</span><span class="tcf-group-n">2 sujets</span><span class="tcf-group-hint">une seule préparation couvre tout le bloc</span></div>
+<div class="tcf-core">
+<section class="topic" id="p-71">
   <div class="topic-head">
-    <span class="badge">91</span>
-    <p class="prompt">Objets Connectés<span class="orig">· was #20</span></p>
+    <span class="badge">71</span>
+    <p class="prompt">Location Courte Durée ?<span class="orig">· was #7</span></p>
   </div>
-<p class="doc"><b>Document 1</b><br>Les objectés connectés permettent de vérifier à travers un téléphone si un individu est en bonne santé tout en vérifiant ses battements de cœur et le nombre de pas qu’il effectue. Ils facilitent également le travail humain. Plus besoin d’un portier désormais, vous pouvez ouvrir un portail à domicile à l’aide des appareils connectés à votre téléphone portable. Il est également possible de faire surveiller son domicile à distance.</p>
-<p class="doc"><b>Document 2</b><br>Certains affirment que les objets connectés peuvent être à l’origine des cambriolages et même des espionnages. Mais surtout un grand inconvénient contre la vie privée des Hommes.</p>
+<p class="doc"><b>Document 1</b><br>La location courte durée offre flexibilité et commodité pour les voyageurs. Elle permet de louer un logement pour une période de temps limitée, que ce soit pour des vacances ou un déplacement professionnel. Cela permet aux voyageurs de profiter d’un hébergement confortable avec des équipements adaptés à leurs besoins, tout en évitant les engagements à long terme.</p>
+<p class="doc"><b>Document 2</b><br>La location courte durée peut parfois être coûteuse, en particulier dans les zones touristiques. De plus, la disponibilité peut être limitée, surtout pendant les périodes de forte demande. Il est donc important de planifier et de réserver à l’avance pour obtenir les meilleurs résultats.</p>
 </section>
-<section class="topic" id="p-92">
+<section class="topic" id="p-76">
   <div class="topic-head">
-    <span class="badge">92</span>
-    <p class="prompt">La publicité alimentaire ciblant les enfants.<span class="orig">· was #58</span></p>
+    <span class="badge">76</span>
+    <p class="prompt">Louer son appartement à des inconnus, est-ce une bonne idée ?<span class="orig">· was #4</span></p>
   </div>
-<p class="doc"><b>Document 1</b><br>Beaucoup trouvent la publicité agaçante, mais à mon avis, elle est très utile pour les entreprises. Elle sert à présenter un produit ou un service. Parfois, elle est même drôle ! J’aime bien l’écouter quand je conduis. Elle m’aide également à découvrir les nouveautés et les offres spéciales. Pour moi, comparer les articles grâce à la publicité permet de faire de bonnes économies. Enfin, les jeux gratuits sur téléphone dépendent des publicités ; sans elles, ils seraient payants. — Lucien, 28 ans</p>
-<p class="doc"><b>Document 2</b><br>Nous sommes entourés de publicité tous les jours : journaux, radios, télévisions, smartphones, Internet… Par exemple, les émissions télévisées sont souvent coupées par des pubs, ce qui peut être irritant. Recevoir des kilos de publicité chaque année dans la boîte aux lettres n’est pas non plus bon pour l’environnement ! Selon moi, il serait utile de créer une loi pour limiter les publicités à la télévision et par courrier. Des publicités plus discrètes seraient mieux reçues.<br>— Alma, 35 ans<br>Réussir l'expression écrite<br>Pour partager les sujets de votre session:</p>
+<p class="doc"><b>Document 1</b><br>De plus en plus de gens louent leur logement ou une chambre à des voyageurs, pour gagner un revenu supplémentaire ou pour rencontrer de nouvelles personnes. Ce système, basé sur la confiance, permet aux visiteurs de se loger en payant moins cher que dans un hôtel. De plus, si le propriétaire est d’accord, ils peuvent même utiliser la cuisine et éviter d’aller au restaurant! La personne qui les accueille peut leur servir de guide et les conseiller sur les visites à faire. C’est un échange précieux pour tout le monde!<br>D’après rapidloc.com</p>
+<p class="doc"><b>Document 2</b><br>L’année dernière, j’ai loué mon appartement à un couple de touristes pour leurs vacances d’une semaine à Marseille. C’était une très mauvaise expérience qui m’a fait changer d’avis sur ce mode de location! Ils sont arrivés en retard et j’ai dû les attendre pour leur donner la clé. Ils ont fait beaucoup de bruit et dérangé mes voisins. En plus, ils ont quitté mon appartement sans faire la vaisselle et en laissant leurs déchets. J’ai passé trois heures à nettoyer.<br>Julien, 38 ans</p>
 </section>
-<section class="topic" id="p-93">
+</div>
+</div><!-- /tcf-group -->
+<section class="topic" id="p-83">
   <div class="topic-head">
-    <span class="badge">93</span>
-    <p class="prompt">Privilégier la ferme ou le supermarché pour ses courses ?<span class="orig">· was #9</span></p>
+    <span class="badge">83</span>
+    <p class="prompt">Les Animaux de Compagnie au Travail<span class="orig">· was #6</span></p>
   </div>
-<p class="doc"><b>Document 1</b><br>Je réalise mes achats alimentaires à moins de dix kilomètres de chez moi. Habitant à la campagne, je peux acheter directement à la ferme et discuter avec les producteurs. Le prix est parfois plus élevé, mais les produits sont de meilleure qualité et je connais leur origine. Pour moi, il est essentiel de faire confiance aux producteurs locaux et de consommer des produits régionaux.</p>
-<p class="doc"><b>Document 2</b><br>Pour mes courses, je me rends toujours au supermarché, c’est ma préférence. Habitant en centre-ville, c’est plus pratique, surtout avec les enfants. Je peux trouver tous les produits au même endroit et profiter des promotions. Pour moi, l’important est de gagner du temps, de réduire mes dépenses et de faire mes courses près de chez moi. Je préfère garder de l’argent pour des loisirs comme aller au cinéma ou sortir au restaurant.<br>Réussir l'expression écrite<br>Pour partager les sujets de votre session:</p>
-</section>
-<section class="topic" id="p-94">
-  <div class="topic-head">
-    <span class="badge">94</span>
-    <p class="prompt">Produits faits maison : avantages et limites<span class="orig">· was #51</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Produire ses propres produits biologiques à domicile permet de maîtriser entièrement les ingrédients utilisés, offrant ainsi des alternatives plus saines et adaptées aux besoins individuels. Cela participe également à la réduction des déchets plastiques grâce à l’utilisation d’emballages réutilisables. De plus, cette démarche permet de réaliser des économies sur le long terme tout en développant des compétences créatives, favorisant un mode de vie plus durable.</p>
-<p class="doc"><b>Document 2</b><br>La fabrication de produits biologiques à domicile présente certains défis. Des erreurs dans la formulation peuvent affecter leur efficacité ou provoquer des irritations. Le temps et les efforts nécessaires pour sélectionner et préparer les ingrédients peuvent également représenter une contrainte. De plus, l’absence de garantie sur la sécurité et la stabilité des produits maison augmente le risque de contamination si les règles de conservation ne sont pas respectées. Enfin, le coût initial des ingrédients de qualité peut constituer un frein pour certains.</p>
-</section>
-<section class="topic" id="p-95">
-  <div class="topic-head">
-    <span class="badge">95</span>
-    <p class="prompt">Les produits faits maison : un choix judicieux ou un risque ?<span class="orig">· was #44</span></p>
-  </div>
-<p class="doc"><b>Document 1</b><br>Faire vos produits biologiques chez vous vous donne un contrôle total sur les ingrédients, offrant ainsi des alternatives plus saines et personnalisées. Vous contribuez à la réduction des déchets plastiques avec des emballages réutilisables, tout en économisant de l’argent sur le long terme et en cultivant des compétences créatives pour un mode de vie plus respectueux de l’environnement.</p>
-<p class="doc"><b>Document 2</b><br>Bien que fabriquer soi-même des produits bio soit une option intéressante, cela comporte des risques. Une mauvaise formulation peut aboutir à des produits inutiles ou irritants pour la peau. Trouver et préparer les bons ingrédients demande aussi du temps et des efforts. De plus, il n’existe aucune certitude quant à la stabilité des produits faits maison, avec des risques de contamination si les produits ne sont pas stockés correctement. Le coût élevé des ingrédients de qualité peut également décourager certains.</p>
+<p class="doc"><b>Document 1</b><br>Venir au bureau avec son animal de compagnie, c’est à la mode. L’intérêt de cette présence ? C’est simple: diminuer le stress des employés. La présence d’un chien ou d’un chat change l’ambiance générale d’une entreprise : elle réduit les tensions entre collègues, ce qui n’est pas négligeable car chaque année, l’État français dépense entre 2 et 3 milliards d’euros pour soigner les salariés malades du stress. Selon une enquête, un quart des employés pensent aussi que la présence des animaux permet d’être plus motivé au travail.</p>
+<p class="doc"><b>Document 2</b><br>« Dans l’entreprise où je travaille, les employés sont autorisés à venir avec leur animal de compagnie, chat ou chien. Personnellement, cela me dérange. Je ne suis pas très à l’aise avec les animaux, qui peuvent avoir des comportements imprévisibles. D’autre part, je trouve que cela peut poser des problèmes de santé. Que faire si un employé est allergique aux chats ? Sera-t-il obligé de rester enfermé dans son bureau? Et puis c’est aussi une source de distraction. Mes collègues et moi ne serons pas plus productifs grâce à un chien ou un chat ! »</p>
 </section>
 <footer class="page">Site statique · sujets extraits de reussir-tcfcanada.com · aucun tracking.</footer>
 <script src="tcf-clusters.js" defer></script>
