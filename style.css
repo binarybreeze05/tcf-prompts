@@ -51,6 +51,7 @@ footer.page{margin-top:2.5rem;border-top:1px solid var(--line);padding-top:1rem;
 /* tcf-group */
 .tcf-group{border:2px solid #c7d7f7;border-radius:16px;padding:.55rem .6rem .6rem;margin:.8rem 0;background:#f6f9ff}
 .tcf-group-head{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;padding:.15rem .45rem .5rem;font-size:.8rem;color:#344054}
+.tcf-group-badge{background:#111827;color:#fff;border-radius:999px;padding:.12rem .7rem;font-weight:800;font-size:.82rem;letter-spacing:.03em;white-space:nowrap}
 .tcf-group-tag{background:var(--accent);color:#fff;border-radius:999px;padding:.12rem .6rem;font-weight:700;letter-spacing:.02em;white-space:nowrap}
 .tcf-group-n{font-weight:700;color:var(--ink)}
 .tcf-group-hint{color:var(--muted)}

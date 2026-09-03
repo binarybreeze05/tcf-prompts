@@ -61,6 +61,14 @@
     injectStyle();
     var ui = buildToolbar();
     parent.insertBefore(ui.bar, wrap);
+    (function(){
+      var inBoxes = 0;
+      groups.forEach(function(g){ inBoxes += g.querySelectorAll("section.topic").length; });
+      var singles = sections.length - inBoxes;
+      ui.boxes.textContent = groups.length
+        ? (groups.length + " blocs + " + singles + " sujets isolés = " + (groups.length + singles) + " réponses à préparer")
+        : "";
+    })();
 
     var state = { methodId: "default", hideDone: false };
 
@@ -135,10 +143,12 @@
           chip.querySelector("i").textContent = "sur " + shownSecs.length;
         });
       }
+      var boxesDone = 0;
       groups.forEach(function(g){
         var secs = g.querySelectorAll("section.topic"), all = secs.length > 0;
         for (var i = 0; i < secs.length; i++){ if (!secs[i].classList.contains("tcf-is-done")){ all = false; break; } }
         g.classList.toggle("tcf-group-alldone", all);
+        if (all) boxesDone++;
         var cores = g.querySelectorAll(".tcf-core");
         for (var c = 0; c < cores.length; c++){
           var cs = cores[c].querySelectorAll("section.topic"), cd = cs.length > 0;
@@ -165,6 +175,12 @@
         b.textContent = left + " restants";
         ui.progText.appendChild(document.createTextNode(ndone + " sur " + total + " faits · "));
         ui.progText.appendChild(b);
+      }
+      if (groups.length){
+        var bd = document.createElement("span");
+        bd.className = "tcf-prog-boxes";
+        bd.textContent = " · " + boxesDone + "/" + groups.length + " blocs faits";
+        ui.progText.appendChild(bd);
       }
       ui.progReset.style.visibility = ndone ? "" : "hidden";
     }
@@ -427,7 +443,8 @@
       lab.setAttribute("for","tcf-select"); sel.id="tcf-select";
       var summary = document.createElement("span"); summary.className="tcf-summary";
       summary.textContent = "Ordre de similarité · " + sections.length + " " + unit;
-      row.appendChild(lab); row.appendChild(sel); row.appendChild(summary);
+      var boxes = document.createElement("span"); boxes.className = "tcf-boxes";
+      row.appendChild(lab); row.appendChild(sel); row.appendChild(summary); row.appendChild(boxes);
 
       var prog = document.createElement("div"); prog.className = "tcf-progress";
       var pbar = document.createElement("span"); pbar.className = "tcf-prog-bar";
@@ -445,7 +462,7 @@
 
       var desc = document.createElement("div"); desc.className="tcf-desc";
       bar.appendChild(row); bar.appendChild(prog); bar.appendChild(desc);
-      return { bar:bar, select:sel, summary:summary, desc:desc,
+      return { bar:bar, select:sel, summary:summary, desc:desc, boxes:boxes,
                progFill:pfill, progText:ptext, progReset:reset, hideCb:hideCb };
     }
 
@@ -460,6 +477,9 @@
       + ".tcf-select{font:inherit;font-size:.9rem;padding:.3rem .5rem;border:1px solid var(--line,#e4e7ec);"
       + "border-radius:8px;background:#fff;color:var(--ink,#1f2328);max-width:100%}"
       + ".tcf-summary{font-size:.83rem;color:var(--muted,#5b6470);margin-left:auto}"
+      + ".tcf-boxes{flex:0 0 100%;font-size:.83rem;color:#111827;font-weight:600;margin-top:.15rem}"
+      + ".tcf-boxes:empty{display:none}"
+      + ".tcf-prog-boxes{margin-left:.35rem;color:#111827}"
       + ".tcf-desc{font-size:.83rem;color:var(--muted,#5b6470);margin:.35rem 0 0}"
       + ".tcf-desc:empty{display:none}"
 
