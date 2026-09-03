@@ -117,6 +117,36 @@
       if (d) head.insertBefore(node, d); else head.appendChild(node);
     }
 
+    // Cross-exam chips: a prompt that shares an answer-box with a TEF item (same
+    // prepared response, task format aside) carries "Aussi au TEF · <section>" —
+    // solid when at least one audit pass called it certain, dashed "≈" when only
+    // arguable. Data ships in tcf-xref.js (loaded before this file); the chip is
+    // permanent so it survives every ordering. Links go to the TEF section page
+    // in this page's language; the tooltip lists the counterpart numbers there.
+    (function(){
+      var X = window.TCF_XREF && setKey ? window.TCF_XREF[setKey] : null;
+      if (!X) return;
+      var fr = true;
+      var SEC = { A:["Oral A","tef-section-a-practice-order"], B:["Oral B","tef-section-b-practice-order"], EA:["Écrit A","ecrite-section-a-practice-order"], EB:["Écrit B","ecrite-section-b-practice-order"] };
+      var base = "https://binarybreeze05.github.io/tef-prompts/";
+      numbered.forEach(function(it){
+        var refs = X[String(it.num)];
+        if (!refs || !refs.length) return;
+        var head = it.el.querySelector(".topic-head");
+        if (!head) return;
+        refs.slice(0, 3).forEach(function(r){
+          var sec = SEC[r.s]; if (!sec) return;
+          var a = document.createElement("a");
+          a.className = "tcf-xref " + (r.t === "c" ? "tcf-xref-c" : "tcf-xref-a");
+          a.href = base + sec[1] + (fr ? "-FR" : "") + ".html";
+          a.target = "_blank"; a.rel = "noopener";
+          a.textContent = (r.t === "c" ? "Aussi au TEF · " : "≈ TEF · ") + sec[0];
+          a.title = "TEF " + sec[0] + " · n° " + r.n.slice(0, 12).join(", ") + (r.n.length > 12 ? ", … (" + r.n.length + " au total)" : "") + (r.t === "c" ? " — même réponse à préparer" : " — proche, réponse à adapter");
+          headAdd(head, a);
+        });
+      });
+    })();
+
     function refreshDone(){
       var total = numbered.length, ndone = 0;
       numbered.forEach(function(it){
@@ -480,6 +510,11 @@
       + ".tcf-boxes{flex:0 0 100%;font-size:.83rem;color:#111827;font-weight:600;margin-top:.15rem}"
       + ".tcf-boxes:empty{display:none}"
       + ".tcf-prog-boxes{margin-left:.35rem;color:#111827}"
+      + ".tcf-xref{flex:none;display:inline-flex;align-items:center;font-size:.72rem;line-height:1.4;"
+      + "border-radius:999px;padding:.1rem .55rem;margin-left:.35rem;text-decoration:none;white-space:nowrap}"
+      + ".tcf-xref-c{background:#f3e8ff;color:#5b21b6;border:1px solid #d8b4fe;font-weight:600}"
+      + ".tcf-xref-a{background:#faf5ff;color:#7c3aed;border:1px dashed #d8b4fe}"
+      + ".tcf-xref:hover{border-color:#7c3aed}"
       + ".tcf-desc{font-size:.83rem;color:var(--muted,#5b6470);margin:.35rem 0 0}"
       + ".tcf-desc:empty{display:none}"
 
