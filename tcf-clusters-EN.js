@@ -135,16 +135,25 @@
         if (!refs || !refs.length) return;
         var head = it.el.querySelector(".topic-head");
         if (!head) return;
+        // One thin row under the prompt, never inside the flex head row (a pill
+        // in that row steals width from the prompt text on narrow screens).
+        var row = document.createElement("div");
+        row.className = "tcf-xref-row";
+        var lab = document.createElement("span");
+        lab.className = "tcf-xref-lab";
+        lab.textContent = "Also in TEF";
+        row.appendChild(lab);
         refs.slice(0, 3).forEach(function(r){
           var sec = SEC[r.s]; if (!sec) return;
           var a = document.createElement("a");
           a.className = "tcf-xref " + (r.t === "c" ? "tcf-xref-c" : "tcf-xref-a");
           a.href = base + sec[1] + (fr ? "-FR" : "") + ".html";
           a.target = "_blank"; a.rel = "noopener";
-          a.textContent = (r.t === "c" ? "Also in TEF · " : "≈ TEF · ") + sec[0];
+          a.textContent = (r.t === "c" ? "" : "≈ ") + sec[0];
           a.title = "TEF " + sec[0] + " · #" + r.n.slice(0, 12).join(", ") + (r.n.length > 12 ? ", … (" + r.n.length + " in all)" : "") + (r.t === "c" ? " — same prepared answer" : " — close, adjust the answer");
-          headAdd(head, a);
+          row.appendChild(a);
         });
+        head.parentNode.insertBefore(row, head.nextSibling);
       });
     })();
 
@@ -511,11 +520,14 @@
       + ".tcf-boxes{flex:0 0 100%;font-size:.83rem;color:#111827;font-weight:600;margin-top:.15rem}"
       + ".tcf-boxes:empty{display:none}"
       + ".tcf-prog-boxes{margin-left:.35rem;color:#111827}"
-      + ".tcf-xref{flex:none;display:inline-flex;align-items:center;font-size:.72rem;line-height:1.4;"
-      + "border-radius:999px;padding:.1rem .55rem;margin-left:.35rem;text-decoration:none;white-space:nowrap}"
+      + ".tcf-xref-row{display:flex;flex-wrap:wrap;align-items:center;gap:.3rem;margin:.1rem 0 .1rem 2.6rem;"
+      + "font-size:.7rem;line-height:1.3}"
+      + ".tcf-xref-lab{color:#6d5a8a;letter-spacing:.02em}"
+      + ".tcf-xref{display:inline-block;border-radius:999px;padding:.02rem .45rem;text-decoration:none;white-space:nowrap}"
       + ".tcf-xref-c{background:#f3e8ff;color:#5b21b6;border:1px solid #d8b4fe;font-weight:600}"
       + ".tcf-xref-a{background:#faf5ff;color:#7c3aed;border:1px dashed #d8b4fe}"
       + ".tcf-xref:hover{border-color:#7c3aed}"
+      + "@media (max-width:520px){.tcf-xref-row{margin-left:0}}"
       + ".tcf-desc{font-size:.83rem;color:var(--muted,#5b6470);margin:.35rem 0 0}"
       + ".tcf-desc:empty{display:none}"
 
