@@ -1460,6 +1460,22 @@ var TCF_COVERAGE = {
     "cum_pool": 100.0,
     "cum_lang": 99.4,
     "floor": ""
+   },
+   {
+    "rank": 86,
+    "badge": 86,
+    "why": "Rank 86 · **new in Sept 2026, Oct 2026** — listed 2× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 87,
+    "badge": 87,
+    "why": "Rank 87 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
    }
   ]
  },
@@ -5232,6 +5248,246 @@ var TCF_COVERAGE = {
     "cum_pool": 100.0,
     "cum_lang": 100.0,
     "floor": ""
+   },
+   {
+    "rank": 367,
+    "badge": 367,
+    "why": "Rank 367 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 368,
+    "badge": 368,
+    "why": "Rank 368 · **new in Sept 2026, Oct 2026** — listed 2× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 369,
+    "badge": 369,
+    "why": "Rank 369 · **new in Sept 2026, Oct 2026** — listed 2× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 370,
+    "badge": 370,
+    "why": "Rank 370 · **new in Sept 2026, Oct 2026** — listed 2× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 371,
+    "badge": 371,
+    "why": "Rank 371 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 372,
+    "badge": 372,
+    "why": "Rank 372 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 373,
+    "badge": 373,
+    "why": "Rank 373 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 374,
+    "badge": 374,
+    "why": "Rank 374 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 375,
+    "badge": 375,
+    "why": "Rank 375 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 376,
+    "badge": 376,
+    "why": "Rank 376 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 377,
+    "badge": 377,
+    "why": "Rank 377 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 378,
+    "badge": 378,
+    "why": "Rank 378 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 379,
+    "badge": 379,
+    "why": "Rank 379 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 380,
+    "badge": 380,
+    "why": "Rank 380 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 381,
+    "badge": 381,
+    "why": "Rank 381 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 382,
+    "badge": 382,
+    "why": "Rank 382 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 383,
+    "badge": 383,
+    "why": "Rank 383 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 384,
+    "badge": 384,
+    "why": "Rank 384 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 385,
+    "badge": 385,
+    "why": "Rank 385 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 386,
+    "badge": 386,
+    "why": "Rank 386 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 387,
+    "badge": 387,
+    "why": "Rank 387 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 388,
+    "badge": 388,
+    "why": "Rank 388 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 389,
+    "badge": 389,
+    "why": "Rank 389 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 390,
+    "badge": 390,
+    "why": "Rank 390 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 391,
+    "badge": 391,
+    "why": "Rank 391 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 392,
+    "badge": 392,
+    "why": "Rank 392 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 393,
+    "badge": 393,
+    "why": "Rank 393 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 394,
+    "badge": 394,
+    "why": "Rank 394 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 395,
+    "badge": 395,
+    "why": "Rank 395 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 396,
+    "badge": 396,
+    "why": "Rank 396 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
    }
   ]
  },
@@ -7739,6 +7995,374 @@ var TCF_COVERAGE = {
     "rank": 308,
     "badge": 308,
     "why": "Rank 308 · **the tail** — same subject as items already covered above; a variant with drifted wording. Skip without losing anything if you're short on time.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 309,
+    "badge": 309,
+    "why": "Rank 309 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 310,
+    "badge": 310,
+    "why": "Rank 310 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 311,
+    "badge": 311,
+    "why": "Rank 311 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 312,
+    "badge": 312,
+    "why": "Rank 312 · **new in Sept 2026, Oct 2026** — listed 2× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 313,
+    "badge": 313,
+    "why": "Rank 313 · **new in Sept 2026, Oct 2026** — listed 2× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 314,
+    "badge": 314,
+    "why": "Rank 314 · **new in Sept 2026, Oct 2026** — listed 2× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 315,
+    "badge": 315,
+    "why": "Rank 315 · **new in Sept 2026, Oct 2026** — listed 2× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 316,
+    "badge": 316,
+    "why": "Rank 316 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 317,
+    "badge": 317,
+    "why": "Rank 317 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 318,
+    "badge": 318,
+    "why": "Rank 318 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 319,
+    "badge": 319,
+    "why": "Rank 319 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 320,
+    "badge": 320,
+    "why": "Rank 320 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 321,
+    "badge": 321,
+    "why": "Rank 321 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 322,
+    "badge": 322,
+    "why": "Rank 322 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 323,
+    "badge": 323,
+    "why": "Rank 323 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 324,
+    "badge": 324,
+    "why": "Rank 324 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 325,
+    "badge": 325,
+    "why": "Rank 325 · **new in Sept 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 326,
+    "badge": 326,
+    "why": "Rank 326 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 327,
+    "badge": 327,
+    "why": "Rank 327 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 328,
+    "badge": 328,
+    "why": "Rank 328 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 329,
+    "badge": 329,
+    "why": "Rank 329 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 330,
+    "badge": 330,
+    "why": "Rank 330 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 331,
+    "badge": 331,
+    "why": "Rank 331 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 332,
+    "badge": 332,
+    "why": "Rank 332 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 333,
+    "badge": 333,
+    "why": "Rank 333 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 334,
+    "badge": 334,
+    "why": "Rank 334 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 335,
+    "badge": 335,
+    "why": "Rank 335 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 336,
+    "badge": 336,
+    "why": "Rank 336 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 337,
+    "badge": 337,
+    "why": "Rank 337 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 338,
+    "badge": 338,
+    "why": "Rank 338 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 339,
+    "badge": 339,
+    "why": "Rank 339 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 340,
+    "badge": 340,
+    "why": "Rank 340 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 341,
+    "badge": 341,
+    "why": "Rank 341 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 342,
+    "badge": 342,
+    "why": "Rank 342 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 343,
+    "badge": 343,
+    "why": "Rank 343 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 344,
+    "badge": 344,
+    "why": "Rank 344 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 345,
+    "badge": 345,
+    "why": "Rank 345 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 346,
+    "badge": 346,
+    "why": "Rank 346 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 347,
+    "badge": 347,
+    "why": "Rank 347 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 348,
+    "badge": 348,
+    "why": "Rank 348 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 349,
+    "badge": 349,
+    "why": "Rank 349 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 350,
+    "badge": 350,
+    "why": "Rank 350 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 351,
+    "badge": 351,
+    "why": "Rank 351 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 352,
+    "badge": 352,
+    "why": "Rank 352 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 353,
+    "badge": 353,
+    "why": "Rank 353 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
+    "cum_pool": 100.0,
+    "cum_lang": 100.0,
+    "floor": ""
+   },
+   {
+    "rank": 354,
+    "badge": 354,
+    "why": "Rank 354 · **new in Oct 2026** — listed 1× so far; not yet weighed for coverage.",
     "cum_pool": 100.0,
     "cum_lang": 100.0,
     "floor": ""
